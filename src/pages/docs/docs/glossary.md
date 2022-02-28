@@ -204,7 +204,7 @@ As of 2021, Flash is no longer supported by Adobe or any major web browsers.
 ---
 
 
->
+> 
 The **advance measure** of a glyph is its _advance width_ or _advance height_, whichever is in the inline axis of the element.
 
 This term is used in the definition of a number of CSS _cssxref("&lt;length&gt;"_) units.
@@ -2044,7 +2044,7 @@ Clickjacking can be prevented by implementing a [Content Security Policy (frame-
 ---
 
 
->
+> 
 A *code point* is a number assigned to represent an abstract character in a system for representing text (such as Unicode). In Unicode, a code point is expressed in the form "U+1234" where "1234" is the assigned number. For example, the character "A" is assigned a code point of U+0041.
 
 Character encoding forms, such as UTF-8 and UTF-16, determine how a Unicode code point should be encoded as a sequence of bytes. Different encoding forms may encode the same code point as different byte sequences: for example, the Cyrillic character "Ф", whose code point is U+0424, is encoded as `0xd0a4` in UTF-8 and as `0x0424` in UTF-16.
@@ -3040,7 +3040,7 @@ let newX = oldX + deltaX;
 ---
 
 
->
+> 
 See [DoS attack](/en-US/docs/Glossary/DOS_attack) for more information.
 
 ---
@@ -3639,8 +3639,7 @@ navigator.connection.effectiveType;
 
 The [HTML](https://html.spec.whatwg.org/multipage/), [SVG](https://www.w3.org/TR/SVG2/), and [MathML](https://www.w3.org/TR/MathML3/) specifications define very precisely what each element can contain. Many combinations have no semantic meaning, for example an _HTMLElement("audio"_) element nested inside an _HTMLElement("hr"_) element.
 
-In HTML, using a closing tag on an empty element is usually invalid. For example, `<input type="text">
-</input>` is invalid HTML.
+In HTML, using a closing tag on an empty element is usually invalid. For example, `<input type="text"></input>` is invalid HTML.
 
 The empty elements in HTML are as follows:
 
@@ -6796,10 +6795,7 @@ _LearnBox({"title":"Learn a new word ..."}_)
 
 <section id="Quick_links">
  <ol>
-  <li>
-<strong>
-<a href="/en-US/docs/Glossary">MDN Web Docs Glossary</a>
-</strong>_ListSubpagesForSidebar("/en-us/docs/Glossary", 1_)</li>
+  <li><strong><a href="/en-US/docs/Glossary">MDN Web Docs Glossary</a></strong>_ListSubpagesForSidebar("/en-us/docs/Glossary", 1_)</li>
  </ol>
 </section>
 
@@ -7116,7 +7112,7 @@ In the Internet Age, the ITU's role of establishing standards for video and audi
 ---
 
 
->
+> 
 ---
 
 
@@ -11903,16 +11899,10 @@ To make speculative loads of linked scripts, style sheets and images successful,
 
 Speculative tree building fails when `document.write()` changes the tree builder state such that the speculative state after the `</script>` tag no longer holds when all the content inserted by `document.write()` has been parsed. However, only unusual uses of `document.write()` cause trouble. Here are the things to avoid:
 
-- Don't write unbalanced trees. `<script>document.write("<div>");</script>` is bad. `<script>document.write("<div>
-</div>");</script>` is OK.
-- Don't write an unfinished token. `<script>document.write("<div>
-</div");</script>` is bad.
+- Don't write unbalanced trees. `<script>document.write("<div>");</script>` is bad. `<script>document.write("<div></div>");</script>` is OK.
+- Don't write an unfinished token. `<script>document.write("<div></div");</script>` is bad.
 - Don't finish your writing with a carriage return. `<script>document.write("Hello World!\r");</script>` is bad. `<script>document.write("Hello World!\n");</script>` is OK.
-- Don't format part of a table. `<table>
-<script>document.write("<tr>
-<td>Hello World!</td>
-</tr>");</script>
-</table>` is bad.
+- Don't format part of a table. `<table><script>document.write("<tr><td>Hello World!</td></tr>");</script></table>` is bad.
 
 ---
 
@@ -12958,7 +12948,7 @@ TOFU is used in the SSH protocol, in [HTTP Public Key Pinning](/en-US/docs/Web/H
 ---
 
 
->
+> 
 **Transferable objects** are objects that own resources that can be _transferred_ from one context to another, ensuring that the resources are only available in one context at a time.
 Following a transfer, the original object is no longer usable; it no longer points to the transferred resource, and any attempt to read or write the object will throw an exception.
 
@@ -13015,7 +13005,7 @@ original[0] = 1;
 console.log(clone[0]);  // 0
 
 // Transferring the Uint8Array would throw an exception as it is not a transferrable object
-// const transferred = structuredClone(original, {transfer: [original]});
+// const transferred = structuredClone(original, {transfer: [original]}); 
 
 // We can transfer Uint8Array.buffer.
 const transferred = structuredClone(original, {transfer: [original.buffer]});
