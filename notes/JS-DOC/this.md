@@ -419,7 +419,7 @@ Just like with regular functions, the value of `this` within methods depends on 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-this-keyword">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-this-keyword">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'The this keyword' in that specification.</span>
@@ -491,6 +491,6 @@ Samsung Internet
 -   [Gentle explanation of 'this' keyword in JavaScript](https://dmitripavlutin.com/gentle-explanation-of-this-in-javascript/)
 -   Getting the global context: [`globalThis`](../global_objects/globalthis)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/this</a>

@@ -290,7 +290,7 @@ array.remove(5);
 array.print();
 console.log('-------------------------------');
 /*
-     ~ final : (master) node 01-array.js 
+     ~ final : (master) node 01-array.js
     const array = new ArrayADT();:  ArrayADT { array: [] }
     -------------------------------
     array.add(1):  undefined
@@ -310,7 +310,7 @@ console.log('-------------------------------');
     -------------------------------
     1 4 2 4
     -------------------------------
-     ~ final : (master) 
+     ~ final : (master)
      */
 ```
 
@@ -548,7 +548,7 @@ hashTable.remove('first');
 hashTable.print(); // => 2 3 5
 console.log('length gives 3:', hashTable.length()); // => 3
 /*
-       ~ js-files : (master) node hash.js 
+       ~ js-files : (master) node hash.js
     2 4 1 3 5
     length gives 5: 5
     search second gives 2: 2

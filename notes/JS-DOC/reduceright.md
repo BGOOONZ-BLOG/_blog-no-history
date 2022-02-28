@@ -24,22 +24,22 @@ See also [`Array.prototype.reduce()`](reduce) for left-to-right.
 
 ### Parameters
 
-`callbackFn`  
+`callbackFn`
 Function to execute on each value in the array, taking four arguments:
 
-`accumulator`  
+`accumulator`
 The value previously returned in the last invocation of the callback, or `initialValue`, if supplied. (See below.)
 
-`currentValue`  
+`currentValue`
 The current element being processed in the array.
 
-`index`<span class="badge inline optional">Optional</span>  
+`index`<span class="badge inline optional">Optional</span>
 The index of the current element being processed in the array.
 
-`array`<span class="badge inline optional">Optional</span>  
+`array`<span class="badge inline optional">Optional</span>
 The array `reduceRight()` was called upon.
 
-`initialValue` <span class="badge inline optional">Optional</span>  
+`initialValue` <span class="badge inline optional">Optional</span>
 Value to use as accumulator to the first call of the `callbackFn`. If no initial value is supplied, the last element in the array will be used and skipped. Calling reduce or reduceRight on an empty array without an initial value creates a `TypeError`.
 
 ### Return value
@@ -425,7 +425,7 @@ See also [Function composition](<https://en.wikipedia.org/wiki/Function_composit
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.reduceright">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.reduceright">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.reduceright</span>

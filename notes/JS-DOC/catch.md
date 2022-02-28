@@ -12,10 +12,10 @@ The `catch()` method returns a [`Promise`](../promise) and deals with rejected c
 
 ### Parameters
 
-`onRejected`  
+`onRejected`
 A [`Function`](../function) called when the `Promise` is rejected. This function has one argument:
 
-`reason`  
+`reason`
 The rejection reason.
 
 The Promise returned by `catch()` is rejected if `onRejected` throws an error or returns a Promise which is itself rejected; otherwise, it is resolved.
@@ -148,7 +148,7 @@ The `catch` method is used for error handling in promise composition. Since it r
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise.prototype.catch">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise.prototype.catch">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise.prototype.catch</span>
@@ -189,6 +189,6 @@ No
 -   [`Promise`](../promise)
 -   [`Promise.prototype.then()`](then)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch</a>

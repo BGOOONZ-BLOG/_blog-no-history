@@ -14,7 +14,7 @@ The `anchor()` method creates a string beginning with an `<a name="...">` start 
 
 ### Parameters
 
-`name`  
+`name`
 A string representing a `name` value to put into the generated `<a name="...">` start tag.
 
 ### Return value
@@ -48,7 +48,7 @@ will output the following HTML:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.anchor">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.anchor">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.anchor</span>
@@ -90,6 +90,6 @@ No
 
 -   [`String.prototype.link()`](link)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/anchor" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/anchor</a>

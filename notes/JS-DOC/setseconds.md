@@ -9,10 +9,10 @@ The `setSeconds()` method sets the seconds for a specified date according to loc
 
 ### Parameters
 
-`secondsValue`  
+`secondsValue`
 An integer between 0 and 59, representing the seconds.
 
-`msValue` <span class="badge inline optional">Optional</span>  
+`msValue` <span class="badge inline optional">Optional</span>
 Optional. A number between 0 and 999, representing the milliseconds.
 
 ### Return value
@@ -43,7 +43,7 @@ If a parameter you specify is outside of the expected range, `setSeconds()` atte
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setseconds">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setseconds">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setseconds</span>

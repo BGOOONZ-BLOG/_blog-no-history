@@ -16,10 +16,10 @@ The `then()` method returns a [`Promise`](../promise). It takes up to two argume
 
 ### Parameters
 
-`onFulfilled` <span class="badge inline optional">Optional</span>  
+`onFulfilled` <span class="badge inline optional">Optional</span>
 A [`Function`](../function) called if the `Promise` is fulfilled. This function has one argument, the `fulfillment value`. If it is not a function, it is internally replaced with an "Identity" function (it returns the received argument).
 
-`onRejected` <span class="badge inline optional">Optional</span>  
+`onRejected` <span class="badge inline optional">Optional</span>
 A [`Function`](../function) called if the `Promise` is rejected. This function has one argument, the `rejection reason`. If it is not a function, it is internally replaced with a "Thrower" function (it throws an error it received as argument).
 
 ### Return value
@@ -255,7 +255,7 @@ Using a [`Function.prototype.bind()`](../function/bind) `Reflect.apply` ([`Refle
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise.prototype.then">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise.prototype.then">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise.prototype.then</span>
@@ -326,6 +326,6 @@ No
 -   [`Promise`](../promise)
 -   [`Promise.prototype.catch()`](catch)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/then</a>

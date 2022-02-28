@@ -61,17 +61,17 @@ See also [Planned changes to shared memory](sharedarraybuffer/planned_changes) w
 
 ## Constructor
 
-[`SharedArrayBuffer()`](sharedarraybuffer/sharedarraybuffer)  
+[`SharedArrayBuffer()`](sharedarraybuffer/sharedarraybuffer)
 Creates a new `SharedArrayBuffer` object.
 
 ## Instance properties
 
-[`SharedArrayBuffer.prototype.byteLength`](sharedarraybuffer/bytelength)  
+[`SharedArrayBuffer.prototype.byteLength`](sharedarraybuffer/bytelength)
 The size, in bytes, of the array. This is established when the array is constructed and cannot be changed. **Read only.**
 
 ## Instance methods
 
-[`SharedArrayBuffer.prototype.slice(begin, end)`](sharedarraybuffer/slice)  
+[`SharedArrayBuffer.prototype.slice(begin, end)`](sharedarraybuffer/slice)
 Returns a new `SharedArrayBuffer` whose contents are a copy of this `SharedArrayBuffer`'s bytes from `begin`, inclusive, up to `end`, exclusive. If either `begin` or `end` is negative, it refers to an index from the end of the array, as opposed to from the beginning.
 
 ## Examples
@@ -106,7 +106,7 @@ Returns a new `SharedArrayBuffer` whose contents are a copy of this `SharedArray
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-sharedarraybuffer-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-sharedarraybuffer-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-sharedarraybuffer-objects</span>

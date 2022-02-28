@@ -8,7 +8,7 @@ The `parseFloat()` function parses an argument (converting it to a string first 
 
 ### Parameters
 
-`string`  
+`string`
 The value to parse. If this argument is not a string, then it is converted to one using the `ToString` abstract operation. Leading [whitespace](https://developer.mozilla.org/en-US/docs/Glossary/Whitespace) in this argument is ignored.
 
 ### Return value
@@ -70,7 +70,7 @@ The following examples both return `900719925474099300`, losing precision as the
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-parsefloat-string">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-parsefloat-string">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'parseFloat' in that specification.</span>

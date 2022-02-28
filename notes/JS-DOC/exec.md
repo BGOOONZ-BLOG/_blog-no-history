@@ -16,7 +16,7 @@ If you are executing a match to find its index position in the string, use [`Str
 
 ### Parameters
 
-`str`  
+`str`
 The string against which to match the regular expression.
 
 ### Return value
@@ -90,7 +90,7 @@ The following table shows the state of `result` after running this script:
 <td>
 <code>indices</code>
 </td>
-<td>An array where each entry represents a substring match. Each substring match itself is an array where the first entry represents its start index and the second entry its end index. 
+<td>An array where each entry represents a substring match. Each substring match itself is an array where the first entry represents its start index and the second entry its end index.
 <br/>
 
 The <code>indices</code> array additionally has a <code>groups</code> property which holds an object of all named capturing groups. The keys are the names of the capturing groups and each value is an array with the first item being the start entry and the second entry being the end index of the capturing group. If the regular expression doesn't contain any capturing groups, <code>groups</code> is <code>undefined</code>.</td>
@@ -275,7 +275,7 @@ This will log a message containing `'hello world!'`.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-regexp.prototype.exec">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-regexp.prototype.exec">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-regexp.prototype.exec</span>
@@ -316,6 +316,6 @@ This will log a message containing `'hello world!'`.
 -   [Regular Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) chapter in the [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 -   [`RegExp`](../regexp)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/exec</a>

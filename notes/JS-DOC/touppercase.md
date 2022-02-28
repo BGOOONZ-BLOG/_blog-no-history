@@ -12,7 +12,7 @@ A new string representing the calling string converted to upper case.
 
 ### Exceptions
 
-[`TypeError`](../typeerror)  
+[`TypeError`](../typeerror)
 When called on [`null`](../null) or [`undefined`](../undefined), for example, `String.prototype.toUpperCase.call(undefined)`.
 
 ## Description
@@ -51,7 +51,7 @@ This method will convert any non-string value to a string, when you set its `thi
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.touppercase">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.touppercase">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.touppercase</span>
@@ -123,6 +123,6 @@ Samsung Internet
 -   [`String.prototype.toLocaleUpperCase()`](tolocaleuppercase)
 -   [`String.prototype.toLowerCase()`](tolowercase)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase</a>

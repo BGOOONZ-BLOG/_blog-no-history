@@ -8,7 +8,7 @@ The `Intl.getCanonicalLocales()` method returns an array containing the canonica
 
 ### Parameters
 
-`locales`  
+`locales`
 A list of [`String`](../string) values for which to get the canonical locale names.
 
 ### Return value
@@ -40,7 +40,7 @@ An array containing the canonical locale names.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl.getcanonicallocales">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl.getcanonicallocales">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl.getcanonicallocales</span>

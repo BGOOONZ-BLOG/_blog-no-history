@@ -8,7 +8,7 @@ The `setTime()` method sets the [`Date`](../date) object to the time represented
 
 ### Parameters
 
-`timeValue`  
+`timeValue`
 An integer representing the number of milliseconds since 1 January 1970, 00:00:00 UTC.
 
 ### Return value
@@ -38,7 +38,7 @@ Use the `setTime()` method to help assign a date and time to another [`Date`](..
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.settime">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.settime">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Date.prototype.setTime' in that specification.</span>

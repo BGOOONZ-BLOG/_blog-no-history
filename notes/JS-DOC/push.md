@@ -10,7 +10,7 @@ The `push()` method adds one or more elements to the end of an array and returns
 
 ### Parameters
 
-`elementN`  
+`elementN`
 The element(s) to add to the end of the array.
 
 ### Return value
@@ -87,7 +87,7 @@ Note that although `obj` is not an array, the method `push` successfully increme
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.push">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.push">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.push</span>

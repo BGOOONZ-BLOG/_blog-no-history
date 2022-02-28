@@ -8,7 +8,7 @@ The `Math.round()` function returns the value of a number rounded to the nearest
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -42,7 +42,7 @@ Because `round()` is a static method of `Math`, you always use it as `Math.round
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.round">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.round">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.round</span>
@@ -118,6 +118,6 @@ Samsung Internet
 -   [`Math.sign()`](sign)
 -   [`Math.trunc()`](trunc)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/round</a>

@@ -48,7 +48,7 @@ The `EPSILON` property has a value of approximately `2.2204460492503130808472633
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.epsilon">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.epsilon">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.epsilon</span>
@@ -88,6 +88,6 @@ No
 
 -   The [`Number`](../number) object it belongs to
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/EPSILON</a>

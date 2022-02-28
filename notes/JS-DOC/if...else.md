@@ -10,13 +10,13 @@ The `if` statement executes a statement if a specified condition is [truthy](htt
        statement2
     }
 
-`condition`  
+`condition`
 An [expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators#expressions) that is considered to be either [truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy) or [falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy).
 
-`statement1`  
+`statement1`
 Statement that is executed if condition is [truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy). Can be any statement, including further nested `if` statements. To execute multiple statements, use a [block](block) statement (`{ ... }`) to group those statements. To execute no statements, use an [empty](empty) statement.
 
-`statement2`  
+`statement2`
 Statement that is executed if `condition` is [falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy) and the `else` clause exists. Can be any statement, including block statements and further nested `if` statements.
 
 ## Description
@@ -105,7 +105,7 @@ If you need to use an assignment in a conditional expression, a common practice 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-if-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-if-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-if-statement</span>
@@ -147,6 +147,6 @@ If you need to use an assignment in a conditional expression, a common practice 
 -   [`switch`](switch)
 -   [Conditional operator](../operators/conditional_operator)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/if...else</a>

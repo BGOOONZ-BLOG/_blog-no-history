@@ -256,7 +256,7 @@ Property definitions that do not use "colon" notation are not prototype mutation
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object-initializer">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object-initializer">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object Initializer' in that specification.</span>
@@ -433,6 +433,6 @@ No
 -   [Method definitions](../functions/method_definitions)
 -   [Lexical grammar](../lexical_grammar)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer</a>

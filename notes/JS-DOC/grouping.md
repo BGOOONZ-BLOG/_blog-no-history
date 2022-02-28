@@ -43,7 +43,7 @@ Overriding multiplication and division first, then addition and subtraction to e
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-grouping-operator">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-grouping-operator">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-grouping-operator</span>
@@ -85,6 +85,6 @@ Overriding multiplication and division first, then addition and subtraction to e
 -   [`delete`](delete)
 -   [`typeof`](typeof)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Grouping</a>

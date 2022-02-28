@@ -16,13 +16,13 @@ As of ES2015, you can also use [arrow functions](../functions/arrow_functions).
 
 ### Parameters
 
-`name` <span class="badge inline optional">Optional</span>  
+`name` <span class="badge inline optional">Optional</span>
 The function name. Can be omitted, in which case the function is _anonymous_. The name is only local to the function body.
 
-`paramN` <span class="badge inline optional">Optional</span>  
+`paramN` <span class="badge inline optional">Optional</span>
 The name of an argument to be passed to the function.
 
-`statements` <span class="badge inline optional">Optional</span>  
+`statements` <span class="badge inline optional">Optional</span>
 The statements which comprise the body of the function.
 
 ## Description
@@ -115,7 +115,7 @@ An anonymous function is created and called:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-function-definitions">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-function-definitions">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-function-definitions</span>
@@ -189,6 +189,6 @@ No
 -   [async function](../statements/async_function)
 -   [async function expression](async_function)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/function</a>

@@ -8,7 +8,7 @@ The `decodeURI()` function decodes a Uniform Resource Identifier (URI) previousl
 
 ### Parameters
 
-`encodedURI`  
+`encodedURI`
 A complete, encoded Uniform Resource Identifier.
 
 ### Return value
@@ -51,7 +51,7 @@ Replaces each escape sequence in the encoded URI with the character that it repr
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-decodeuri-encodeduri">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-decodeuri-encodeduri">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-decodeuri-encodeduri</span>

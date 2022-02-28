@@ -8,7 +8,7 @@ The `Object.getOwnPropertyDescriptors()` method returns all own property descrip
 
 ### Parameters
 
-`obj`  
+`obj`
 The object for which to get all own property descriptors.
 
 ### Return value
@@ -21,22 +21,22 @@ This method permits examination of the precise description of all own properties
 
 A property descriptor is a record with some of the following attributes:
 
-`value`  
+`value`
 The value associated with the property (data descriptors only).
 
-`writable`  
+`writable`
 `true` if and only if the value associated with the property may be changed (data descriptors only).
 
-`get`  
+`get`
 A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter (accessor descriptors only).
 
-`set`  
+`set`
 A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter (accessor descriptors only).
 
-`configurable`  
+`configurable`
 `true` if and only if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.
 
-`enumerable`  
+`enumerable`
 `true` if and only if this property shows up during enumeration of the properties on the corresponding object.
 
 ## Examples
@@ -77,7 +77,7 @@ A typical way of creating a subclass is to define the subclass, set its prototyp
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.getownpropertydescriptors">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object.getownpropertydescriptors">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object.getOwnPropertyDescriptors' in that specification.</span>
@@ -119,6 +119,6 @@ No
 -   [`Object.defineProperty()`](defineproperty)
 -   [Polyfill](https://github.com/tc39/proposal-object-getownpropertydescriptors)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptors" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptors</a>

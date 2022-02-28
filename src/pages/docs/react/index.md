@@ -44,7 +44,7 @@ template: docs
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
    >
 </iframe>
-   
+
 ### For more resources visit:
 
 [bgoonz/React_Notes_V3A JavaScript library for building user interfaces React makes it painless to create interactive UIs. Design simple…github.com](https://github.com/bgoonz/React_Notes_V3)

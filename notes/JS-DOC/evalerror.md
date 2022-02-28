@@ -4,27 +4,27 @@ The `EvalError` object indicates an error regarding the global [`eval()`](eval) 
 
 ## Constructor
 
-[`EvalError()`](evalerror/evalerror)  
+[`EvalError()`](evalerror/evalerror)
 Creates a new `EvalError` object.
 
 ## Instance properties
 
-[`EvalError.prototype.message`](error/message)  
+[`EvalError.prototype.message`](error/message)
 Error message. Although ECMA-262 specifies that [`EvalError`](evalerror) should provide its own `message` property, in [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), it inherits [`Error.prototype.message`](error/message).
 
-[`EvalError.prototype.name`](error/name)  
+[`EvalError.prototype.name`](error/name)
 Error name. Inherited from [`Error`](error).
 
-[`EvalError.prototype.fileName`](error/filename)  
+[`EvalError.prototype.fileName`](error/filename)
 Path to file that raised this error. Inherited from [`Error`](error).
 
-[`EvalError.prototype.lineNumber`](error/linenumber)  
+[`EvalError.prototype.lineNumber`](error/linenumber)
 Line number in file that raised this error. Inherited from [`Error`](error).
 
-[`EvalError.prototype.columnNumber`](error/columnnumber)  
+[`EvalError.prototype.columnNumber`](error/columnnumber)
 Column number in line that raised this error. Inherited from [`Error`](error).
 
-[`EvalError.prototype.stack`](error/stack)  
+[`EvalError.prototype.stack`](error/stack)
 Stack trace. Inherited from [`Error`](error).
 
 ## Examples
@@ -56,7 +56,7 @@ Stack trace. Inherited from [`Error`](error).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-evalerror">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-evalerror">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-native-error-types-used-in-this-standard-evalerror</span>

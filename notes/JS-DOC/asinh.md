@@ -10,7 +10,7 @@ The `Math.asinh()` function returns the hyperbolic arcsine of a number, that is
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -59,7 +59,7 @@ Because `asinh()` is a static method of `Math`, you always use it as `Math.asinh
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.asinh">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.asinh">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.asinh</span>
@@ -103,6 +103,6 @@ No
 -   [`Math.sinh()`](sinh)
 -   [`Math.tanh()`](tanh)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asinh" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/asinh</a>

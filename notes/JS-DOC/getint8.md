@@ -8,7 +8,7 @@ The `getInt8()` method gets a signed 8-bit integer (byte) at the specified byte 
 
 ### Parameters
 
-`byteOffset`  
+`byteOffset`
 The offset, in byte, from the start of the view where to read the data.
 
 ### Return value
@@ -17,7 +17,7 @@ A signed 8-bit integer number.
 
 ### Errors thrown
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 Thrown if the `byteOffset` is set such as it would read beyond the end of the view.
 
 ## Description
@@ -43,7 +43,7 @@ There is no alignment constraint; multi-byte values may be fetched from any offs
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-dataview.prototype.getint8">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-dataview.prototype.getint8">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-dataview.prototype.getint8</span>

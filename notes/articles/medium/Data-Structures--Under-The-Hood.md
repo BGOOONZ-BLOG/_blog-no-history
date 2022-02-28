@@ -16,7 +16,7 @@ Stores things in order. Has quick lookups by index.
 
 ### Linked List
 
-Also stores things in order. Faster insertions and deletions than  
+Also stores things in order. Faster insertions and deletions than
 arrays, but slower lookups (you have to "walk down" the whole list).
 
 !
@@ -27,7 +27,7 @@ Like the line outside a busy restaurant. "First come, first served."
 
 ### Stack
 
-Like a stack of dirty plates in the sink. The first one you take off the  
+Like a stack of dirty plates in the sink. The first one you take off the
 top is the last one you put down.
 
 ### Tree
@@ -36,8 +36,8 @@ Good for storing hierarchies. Each node can have "child" nodes.
 
 ### Binary Search Tree
 
-Everything in the left subtree is smaller than the current node,  
-everything in the right subtree is larger. lookups, but only if the tree  
+Everything in the left subtree is smaller than the current node,
+everything in the right subtree is larger. lookups, but only if the tree
 is balanced!
 
 ### Binary Search Tree
@@ -479,7 +479,7 @@ Disadvantages
 <img src="https://cdn-images-1.medium.com/max/800/0*1ptw-98Yjj1scRX6" class="graf-image" />
 </figure>### Binary Search Tree
 
-A **binary tree** is a **tree** where &lt;==(**_every node has two or fewer children_**)==&gt;.  
+A **binary tree** is a **tree** where &lt;==(**_every node has two or fewer children_**)==&gt;.
 The children are usually called **_left_** and **_right_**.
 
 class BinaryTreeNode(object):
@@ -537,9 +537,9 @@ But we can simplify.
 -   <span id="d63d">We know the number of nodes on the last level is 2^{h-1},</span>
 -   <span id="1c97">So:</span>
 
-**n = 2^{h-1} \* 2–1  
-n = 2^{h-1} \* 2¹ — 1  
-n = 2^{h-1+1}- 1  
+**n = 2^{h-1} \* 2–1
+n = 2^{h-1} \* 2¹ — 1
+n = 2^{h-1+1}- 1
 n = 2^{h} — 1**
 
 So that's how we can go from h to n. What about the other direction?

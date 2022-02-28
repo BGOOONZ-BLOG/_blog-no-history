@@ -8,10 +8,10 @@ The `WebAssembly.instantiateStreaming()` function compiles and instantiates a We
 
 ### Parameters
 
-_source_  
+_source_
 A [`Response`](https://developer.mozilla.org/en-US/docs/Web/API/Response) object or a promise that will fulfill with one, representing the underlying source of a .wasm module you want to stream, compile, and instantiate.
 
-_importObject_ <span class="badge inline optional">Optional</span>  
+_importObject_ <span class="badge inline optional">Optional</span>
 An object containing the values to be imported into the newly-created `Instance`, such as functions or [`WebAssembly.Memory`](memory) objects. There must be one matching property for each declared import of the compiled module or else a `WebAssembly.LinkError` is thrown.
 
 ### Return value
@@ -52,7 +52,7 @@ The `ResultObject`'s instance member is then accessed, and the contained exporte
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/web-api/#dom-webassembly-instantiatestreaming">WebAssembly Web API (WebAssembly Web API) 
+<a href="https://webassembly.github.io/spec/web-api/#dom-webassembly-instantiatestreaming">WebAssembly Web API (WebAssembly Web API)
 <br/>
 
 <span class="small">#dom-webassembly-instantiatestreaming</span>
@@ -94,6 +94,6 @@ No
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiateStreaming" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiateStreaming</a>

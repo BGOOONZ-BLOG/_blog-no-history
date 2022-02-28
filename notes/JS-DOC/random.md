@@ -63,7 +63,7 @@ While the `getRandomInt()` function above is inclusive at the minimum, it's excl
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.random">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-math.random">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Math.random' in that specification.</span>
@@ -133,6 +133,6 @@ Samsung Internet
 
 -   [`window.crypto.getRandomValues()`](https://developer.mozilla.org/en-US/docs/Web/API/Crypto/getRandomValues)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random</a>

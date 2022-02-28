@@ -8,10 +8,10 @@ The `Math.atan2()` function returns the angle in the plane (in radians) between 
 
 ### Parameters
 
-`y`  
+`y`
 The y coordinate of the point.
 
-`x`  
+`x`
 The x coordinate of the point
 
 ### Return value
@@ -58,7 +58,7 @@ Because `atan2()` is a static method of `Math`, you always use it as `Math.atan2
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.atan2">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.atan2">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.atan2</span>
@@ -103,6 +103,6 @@ Because `atan2()` is a static method of `Math`, you always use it as `Math.atan2
 -   [`Math.sin()`](sin)
 -   [`Math.tan()`](tan)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan2</a>

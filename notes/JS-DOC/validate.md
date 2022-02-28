@@ -8,7 +8,7 @@ The `WebAssembly.validate()` function validates a given [typed array](https://de
 
 ### Parameters
 
-`bufferSource`  
+`bufferSource`
 A [typed array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) or [ArrayBuffer](../arraybuffer) containing WebAssembly binary code to be validated.
 
 ### Return value
@@ -44,7 +44,7 @@ The following example (see the validate.html [source code](https://github.com/md
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#dom-webassembly-validate">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#dom-webassembly-validate">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#dom-webassembly-validate</span>
@@ -120,6 +120,6 @@ Disabled in the Firefox 52 Extended Support Release (ESR).
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/validate" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/validate</a>

@@ -9,7 +9,7 @@ The `flat()` method creates a new array with all sub-array elements concatenated
 
 ### Parameters
 
-`depth` <span class="badge inline optional">Optional</span>  
+`depth` <span class="badge inline optional">Optional</span>
 The depth level specifying how deep a nested array structure should be flattened. Defaults to 1.
 
 ### Return value
@@ -128,7 +128,7 @@ The flat method removes empty slots in arrays:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.flat">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.flat">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Array.prototype.flat' in that specification.</span>

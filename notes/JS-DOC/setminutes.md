@@ -10,13 +10,13 @@ The `setMinutes()` method sets the minutes for a specified date according to loc
 
 ### Parameters
 
-`minutesValue`  
+`minutesValue`
 An integer between 0 and 59, representing the minutes.
 
-`secondsValue`  
+`secondsValue`
 Optional. An integer between 0 and 59, representing the seconds. If you specify the `secondsValue` parameter, you must also specify the `minutesValue`.
 
-`msValue`  
+`msValue`
 Optional. A number between 0 and 999, representing the milliseconds. If you specify the `msValue` parameter, you must also specify the `minutesValue` and `secondsValue`.
 
 ### Return value
@@ -47,7 +47,7 @@ If a parameter you specify is outside of the expected range, `setMinutes()` atte
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setminutes">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setminutes">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setminutes</span>

@@ -8,10 +8,10 @@ The `new` lets developers create an instance of a user-defined object type or of
 
 ### Parameters
 
-`constructor`  
+`constructor`
 A class or function that specifies the type of the object instance.
 
-`arguments`  
+`arguments`
 A list of values that the `constructor` will be called with.
 
 ## Description
@@ -137,7 +137,7 @@ Instead of passing a literal string or integer value when creating the new objec
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-new-operator">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-new-operator">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-new-operator</span>
@@ -179,6 +179,6 @@ Instead of passing a literal string or integer value when creating the new objec
 -   [`Reflect.construct()`](../global_objects/reflect/construct)
 -   [`Object`](../global_objects/object)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/new</a>

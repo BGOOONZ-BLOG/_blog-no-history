@@ -13,7 +13,7 @@ The `handler.ownKeys()` method is a trap for [`Reflect.ownKeys()`](../../reflect
 
 The following parameter is passed to the `ownKeys()` method. `this` is bound to the handler.
 
-`target`  
+`target`
 The target object.
 
 ### Return value
@@ -89,7 +89,7 @@ The following code violates an invariant.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-ownpropertykeys">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-ownpropertykeys">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-proxy-object-internal-methods-and-internal-slots-ownpropertykeys</span>
@@ -166,6 +166,6 @@ In Firefox 42, the implementation got updated to reflect the final ES2015 specif
 -   [`Object.getOwnPropertyNames()`](../../object/getownpropertynames)
 -   [`Reflect.ownKeys()`](../../reflect/ownkeys)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/ownKeys" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/ownKeys</a>

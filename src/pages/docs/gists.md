@@ -203,7 +203,7 @@ console.log(isAppleDevice);
 ```js
 /*
  function named intersection(firstArr) that takes in an array and
-returns a function. 
+returns a function.
 When the function returned by intersection is invoked
 passing in an array (secondArr) it returns a new array containing the elements
 common to both firstArr and secondArr.

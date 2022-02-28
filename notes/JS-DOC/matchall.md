@@ -8,7 +8,7 @@ The `matchAll()` method returns an iterator of all results matching a string aga
 
 ### Parameters
 
-`regexp`  
+`regexp`
 A regular expression object.
 
 If a non-`RegExp` object `obj` is passed, it is implicitly converted to a [`RegExp`](../regexp) by using `new RegExp(obj)`.
@@ -103,7 +103,7 @@ Using `matchAll`, you can access capture groups easily:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.matchall">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.matchall">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.matchall</span>
@@ -148,6 +148,6 @@ No
 -   [`RegExp.prototype.exec()`](../regexp/exec)
 -   [`RegExp.prototype.test()`](../regexp/test)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/matchAll" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/matchAll</a>

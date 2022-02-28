@@ -8,7 +8,7 @@ The `Math.trunc()` function returns the integer part of a number by removing any
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -47,7 +47,7 @@ Because `trunc()` is a static method of `Math`, you always use it as `Math.trunc
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.trunc">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.trunc">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.trunc</span>
@@ -122,6 +122,6 @@ No
 -   [`Math.round()`](round)
 -   [`Math.sign()`](sign)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/trunc</a>

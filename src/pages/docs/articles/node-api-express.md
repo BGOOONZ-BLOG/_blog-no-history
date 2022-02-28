@@ -304,7 +304,7 @@ _Click on the following to get the slides presentation -_
 <strong>SQL JOINS on HR Database [27 Exercises]</strong>
 </a>
 </span>
--   <span id="b33e">  
+-   <span id="b33e">
     </span>
 -   <span id="0983">SQL SUBQUERIES</span>
 -   <span id="423b">
@@ -317,7 +317,7 @@ _Click on the following to get the slides presentation -_
 <strong>SQL SUBQUERIES on HR Database [55 Exercises]</strong>
 </a>
 </span>
--   <span id="b63d">  
+-   <span id="b63d">
     </span>
 -   <span id="2c29">
 <a href="https://www.w3resource.com/sql-exercises/union/sql-union.php" class="markup--anchor markup--li-anchor">
@@ -350,7 +350,7 @@ _Click on the following to get the slides presentation -_
 <strong>JOINS on movie Database [24 Exercises]</strong>
 </a>
 </span>
--   <span id="b248">  
+-   <span id="b248">
     </span>
 -   <span id="d5ba">Soccer Database</span>
 -   <span id="a586">
@@ -373,7 +373,7 @@ _Click on the following to get the slides presentation -_
 <strong>JOINS queries on soccer Database [61 Exercises]</strong>
 </a>
 </span>
--   <span id="05ba">  
+-   <span id="05ba">
     </span>
 -   <span id="2b7b">Hospital Database</span>
 -   <span id="788d">
@@ -386,7 +386,7 @@ _Click on the following to get the slides presentation -_
 <strong>BASIC, SUBQUERIES, and JOINS [39 Exercises]</strong>
 </a>
 </span>
--   <span id="228b">  
+-   <span id="228b">
     </span>
 -   <span id="54d4">Employee Database</span>
 -   <span id="c6fb">
@@ -399,7 +399,7 @@ _Click on the following to get the slides presentation -_
 <strong>SUBQUERIES on employee Database [77 Exercises]</strong>
 </a>
 </span>
--   <span id="cb3e">  
+-   <span id="cb3e">
     </span>
 -   <span id="b3da">More to come!</span>
 

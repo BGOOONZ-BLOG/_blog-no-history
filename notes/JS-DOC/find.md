@@ -26,19 +26,19 @@ The `find()` method returns the value of the first element in the provided array
 
 ### Parameters
 
-`callbackFn`  
+`callbackFn`
 Function to execute on each value in the array, taking 3 arguments:
 
-`element`  
+`element`
 The current element in the array.
 
-`index` <span class="badge inline optional">Optional</span>  
+`index` <span class="badge inline optional">Optional</span>
 The index (position) of the current element in the array.
 
-`array` <span class="badge inline optional">Optional</span>  
+`array` <span class="badge inline optional">Optional</span>
 The array that `find` was called on.
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 Object to use as [`this`](../../operators/this) inside `callbackFn`.
 
 ### Return value
@@ -146,7 +146,7 @@ The following examples show that nonexistent and deleted elements _are_ visited,
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.find">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.find">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.find</span>

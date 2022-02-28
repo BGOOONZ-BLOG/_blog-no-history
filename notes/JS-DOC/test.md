@@ -8,7 +8,7 @@ The `test()` method executes a search for a match between a regular expression a
 
 ### Parameters
 
-`str`  
+`str`
 The string against which to match the regular expression.
 
 ### Returns
@@ -86,7 +86,7 @@ The following example demonstrates this behavior:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-regexp.prototype.test">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-regexp.prototype.test">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-regexp.prototype.test</span>
@@ -158,6 +158,6 @@ Samsung Internet
 -   [`RegExp`](../regexp)
 -   [`RegExp.prototype`](../regexp)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test</a>

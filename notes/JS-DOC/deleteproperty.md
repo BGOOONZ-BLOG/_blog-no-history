@@ -13,10 +13,10 @@ The `handler.deleteProperty()` method is a trap for the [`delete`](../../../oper
 
 The following parameters are passed to the `deleteProperty()` method. `this` is bound to the handler.
 
-`target`  
+`target`
 The target object.
 
-`property`  
+`property`
 The name or [`Symbol`](../../symbol) of the property to delete.
 
 ### Return value
@@ -83,7 +83,7 @@ The following code traps the [`delete`](../../../operators/delete) operator.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-delete-p">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-delete-p">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-proxy-object-internal-methods-and-internal-slots-delete-p</span>
@@ -126,6 +126,6 @@ No
 -   [`delete`](../../../operators/delete) operator
 -   [`Reflect.deleteProperty()`](../../reflect/deleteproperty)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/deleteProperty" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/deleteProperty</a>

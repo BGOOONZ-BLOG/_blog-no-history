@@ -10,7 +10,7 @@ $$\\tanh x = \\frac{\\sinh x}{\\cosh x} = \\frac{e^{x} - e^{- x}}{e^{x} + e^{- x
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -49,7 +49,7 @@ This can be emulated with the help of the [`Math.exp()`](exp) function:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.tanh">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.tanh">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.tanh</span>
@@ -123,6 +123,6 @@ No
 -   [`Math.cosh()`](cosh)
 -   [`Math.sinh()`](sinh)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tanh" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/tanh</a>

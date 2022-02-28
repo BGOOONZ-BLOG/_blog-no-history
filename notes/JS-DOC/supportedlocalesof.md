@@ -9,13 +9,13 @@ The `Intl.RelativeTimeFormat.supportedLocalesOf()` method returns an array conta
 
 ### Parameters
 
-`locales`  
+`locales`
 A string with a BCP 47 language tag, or an array of such strings. For the general form of the `locales` argument, see the [Intl](../../intl#locale_identification_and_negotiation) page.
 
-`options` <span class="badge inline optional">Optional</span>  
+`options` <span class="badge inline optional">Optional</span>
 An object that may have the following property:
 
-`localeMatcher`  
+`localeMatcher`
 The locale matching algorithm to use. Possible values are "`lookup`" and "`best fit`"; the default is "`best fit`". For information about this option, see the [Intl](../../intl#locale_negotiation) page.
 
 ### Return value
@@ -48,7 +48,7 @@ Assuming a runtime that supports Indonesian and German but not Balinese in date 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-Intl.RelativeTimeFormat.supportedLocalesOf">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-Intl.RelativeTimeFormat.supportedLocalesOf">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-Intl.RelativeTimeFormat.supportedLocalesOf</span>

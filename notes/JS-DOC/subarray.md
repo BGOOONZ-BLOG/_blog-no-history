@@ -10,10 +10,10 @@ The `subarray()` method returns a new _TypedArray_ on the same [`ArrayBuffer`](.
 
 ### Parameters
 
-`begin` <span class="badge inline optional">Optional</span>  
+`begin` <span class="badge inline optional">Optional</span>
 Element to begin at. The offset is inclusive. The whole array will be included in the new view if this value is not specified.
 
-`end` <span class="badge inline optional">Optional</span>  
+`end` <span class="badge inline optional">Optional</span>
 Element to end at. The offset is exclusive. If not specified, all elements from the one specified by `begin` to the end of the array are included in the new view.
 
 ### Return value
@@ -51,7 +51,7 @@ Also note that this is creating a new view on the existing buffer; changes to th
 <tbody>
 <tr class="odd">
 <td>
-<a href="#">ECMAScript Language Specification (ECMAScript) 
+<a href="#">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-%typedarray%.prototype.subarray</span>
@@ -123,6 +123,6 @@ Samsung Internet
 -   [`TypedArray`](../typedarray)
 -   [`ArrayBuffer`](../arraybuffer)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/subarray" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/subarray</a>

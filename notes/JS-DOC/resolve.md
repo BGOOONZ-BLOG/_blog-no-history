@@ -8,7 +8,7 @@ The `Promise.resolve()` method returns a [`Promise`](../promise) object that is 
 
 ### Parameters
 
-`value`  
+`value`
 Argument to be resolved by this `Promise`. Can also be a `Promise` or a thenable to resolve.
 
 ### Return value
@@ -104,7 +104,7 @@ The inverted order of the logs is due to the fact that the `then` handlers are c
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise.resolve">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise.resolve">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise.resolve</span>
@@ -174,6 +174,6 @@ No
 
 -   [`Promise`](../promise)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve</a>

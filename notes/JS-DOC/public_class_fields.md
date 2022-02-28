@@ -233,7 +233,7 @@ Getters and setters are special methods that bind to a class property and are ca
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/proposal-class-fields/#prod-FieldDefinition">Public and private instance fields proposal (Public and private instance fields proposal) 
+<a href="https://tc39.es/proposal-class-fields/#prod-FieldDefinition">Public and private instance fields proposal (Public and private instance fields proposal)
 <br/>
 
 <span class="small">#prod-FieldDefinition</span>

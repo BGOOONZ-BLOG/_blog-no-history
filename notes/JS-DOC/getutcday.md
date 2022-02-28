@@ -30,7 +30,7 @@ The following example assigns the weekday portion of the current date to the var
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.getutcday">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.getutcday">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.getutcday</span>

@@ -8,10 +8,10 @@ The `let` statement declares a block-scoped local variable, optionally initializ
 
 ### Parameters
 
-`nameN`  
+`nameN`
 The names of the variable or variables to declare. Each must be a legal JavaScript identifier.
 
-` value``N ` <span class="badge inline optional">Optional</span>  
+` value``N ` <span class="badge inline optional">Optional</span>
 For each variable declared, you may optionally specify its initial value to any legal JavaScript expression.
 
 Alternatively, the [Destructuring Assignment](../operators/destructuring_assignment) syntax can also be used to declare variables.
@@ -246,7 +246,7 @@ However, this combination of `var` and `let` declaration below is a [`SyntaxErro
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-let-and-const-declarations">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-let-and-const-declarations">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-let-and-const-declarations</span>
@@ -326,6 +326,6 @@ Support outside of [strict mode](https://developer.mozilla.org/docs/Web/JavaScri
 -   [StackOverflow: What is the Temporal Dead Zone](https://stackoverflow.com/a/33198850/1125029)?
 -   [StackOverflow: What is the difference between using `let` and `var`?](https://stackoverflow.com/questions/762011/whats-the-difference-between-using-let-and-var-to-declare-a-variable)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/let</a>

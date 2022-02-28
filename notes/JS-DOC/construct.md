@@ -9,13 +9,13 @@ The static `Reflect.construct()` method acts like the [`new`](../../operators/ne
 
 ### Parameters
 
-`target`  
+`target`
 The target function to call.
 
-`argumentsList`  
+`argumentsList`
 An array-like object specifying the arguments with which `target` should be called.
 
-`newTarget` <span class="badge inline optional">Optional</span>  
+`newTarget` <span class="badge inline optional">Optional</span>
 The constructor whose prototype should be used. See also the [`new.target`](../../operators/new.target) operator. If `newTarget` is not present, its value defaults to `target`.
 
 ### Return value
@@ -122,7 +122,7 @@ When invoking `Reflect.construct()`, on the other hand, the `new.target` operato
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-reflect.construct">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-reflect.construct">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-reflect.construct</span>
@@ -164,6 +164,6 @@ No
 -   [`new`](../../operators/new)
 -   `new.target`
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/construct" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/construct</a>

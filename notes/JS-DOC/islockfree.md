@@ -8,7 +8,7 @@ The static ` Atomics``.isLockFree() ` method is used to determine whether to use
 
 ### Parameters
 
-`size`  
+`size`
 The size in bytes to check.
 
 ### Return value
@@ -39,7 +39,7 @@ A [`Boolean`](../boolean) indicating whether the operation is lock free.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics.islockfree">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics.islockfree">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics.islockfree</span>

@@ -6,7 +6,7 @@ Basics of Writing Files in Python The common methods to operate with files are o
 
 ### Writing Files Using Python
 
-Basics of Writing Files in Python  
+Basics of Writing Files in Python
 The common methods to operate with files are open() to open a file,
 
 seek() to set the file's current position at the given offset, and

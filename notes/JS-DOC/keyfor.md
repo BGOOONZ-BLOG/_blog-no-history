@@ -8,7 +8,7 @@ The `Symbol.keyFor(sym)` method retrieves a shared symbol key from the global sy
 
 ### Parameters
 
-`sym`  
+`sym`
 Symbol, required. The symbol to find a key for.
 
 ### Return value
@@ -40,7 +40,7 @@ A string representing the key for the given symbol if one is found on the global
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol.keyfor">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-symbol.keyfor">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-symbol.keyfor</span>
@@ -80,6 +80,6 @@ No
 
 -   [`Symbol.for()`](for)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/keyFor" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/keyFor</a>

@@ -10,7 +10,7 @@ The `slice()` method returns a shallow copy of a portion of an array into a new 
 
 ### Parameters
 
-`start` <span class="badge inline optional">Optional</span>  
+`start` <span class="badge inline optional">Optional</span>
 Zero-based index at which to start extraction.
 
 A negative index can be used, indicating an offset from the end of the sequence. `slice(-2)` extracts the last two elements in the sequence.
@@ -19,7 +19,7 @@ If `start` is undefined, `slice` starts from the index `0`.
 
 If `start` is greater than the index range of the sequence, an empty array is returned.
 
-`end` <span class="badge inline optional">Optional</span>  
+`end` <span class="badge inline optional">Optional</span>
 Zero-based index _before_ which to end extraction. `slice` extracts up to but not including `end`. For example, `slice(1,4)` extracts the second element through the fourth element (elements indexed 1, 2, and 3).
 
 A negative index can be used, indicating an offset from the end of the sequence. `slice(2,-1)` extracts the third element through the second-to-last element in the sequence.
@@ -120,7 +120,7 @@ Anyway, it can be simplified using [`bind`](../function/bind).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.slice">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.slice">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.slice</span>

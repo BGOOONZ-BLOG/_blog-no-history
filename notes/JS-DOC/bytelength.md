@@ -24,7 +24,7 @@ The `byteLength` property is an accessor property whose set accessor function is
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-get-sharedarraybuffer.prototype.bytelength">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-get-sharedarraybuffer.prototype.bytelength">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-get-sharedarraybuffer.prototype.bytelength</span>
@@ -98,6 +98,6 @@ Chrome disabled SharedArrayBuffer on January 5, 2018 to help reduce the efficacy
 
 -   [`SharedArrayBuffer`](../sharedarraybuffer)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/byteLength" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/SharedArrayBuffer/byteLength</a>

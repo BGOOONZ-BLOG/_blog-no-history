@@ -49,12 +49,12 @@ The PostgreSQL server can handle multiple concurrent connections from clients. T
 -   <span id="dd69">Contains a Type column that indicates the data type that is being stored.</span>
 -   <span id="c635">Every row is a record in the database.</span>
 
-Creating Database Entities  
+Creating Database Entities
 Log into PSQL
 
     psql
 
-Create a Super User named Berber  
+Create a Super User named Berber
 create user berber with superuser password 'good-cat';
 
 Quit SQL
@@ -79,7 +79,7 @@ Quit and log-in with your normal user
     \q
     psql -U bryan postgres
 
-Normal Users cannot create databases, they can only view, select and insert data.  
+Normal Users cannot create databases, they can only view, select and insert data.
 Log back in as yourself, and drop normal user and super user.
 
     psql (default user is a super)
@@ -98,8 +98,8 @@ Create database for a normal user as your super user.
 
     create database berber_db with owner berber;.
 
-The normal user will have full control over this granted DB.  
-Can't create duplicate usernames.  
+The normal user will have full control over this granted DB.
+Can't create duplicate usernames.
 Get rid of database
 
     drop database
@@ -301,12 +301,12 @@ Here's an example of an `SQL` query that returns a list of all employee names:
 
 The output from our query is as follows:
 
-nameLuke  
-Mike  
-Hannah  
-Geoff  
-Alexis  
-Emma  
+nameLuke
+Mike
+Hannah
+Geoff
+Alexis
+Emma
 Jonah
 
 (7 rows)
@@ -842,7 +842,7 @@ The SELECT query will now show the execution time:
 
 ### 22. Dynamic SQL query in PostgreSQL
 
-<a href="https://www.postgresql.org/docs/9.1/ecpg-dynamic.html" class="markup--anchor markup--p-anchor">Dynamic SQL</a> is used to reduce repetitive tasks when it comes to querying.  
+<a href="https://www.postgresql.org/docs/9.1/ecpg-dynamic.html" class="markup--anchor markup--p-anchor">Dynamic SQL</a> is used to reduce repetitive tasks when it comes to querying.
 Dynamic SQL queries are not cached in memory.
 
     postgres=# do
@@ -980,7 +980,7 @@ The <a href="https://www.postgresql.org/docs/12/functions-conditional.html" clas
 
 ### 29. PostgreSQL recursive query
 
-Recursive queries are used to deal with hierarchical queries or tree-structured data. The structure of a WITH RECURSIVE query is always: a) Non-recursive term  
+Recursive queries are used to deal with hierarchical queries or tree-structured data. The structure of a WITH RECURSIVE query is always: a) Non-recursive term
  b) UNION (or UNION ALL), then a recursive term
 
 where the recursive term includes a reference to the query's output.

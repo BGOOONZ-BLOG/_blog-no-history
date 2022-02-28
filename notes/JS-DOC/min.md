@@ -11,7 +11,7 @@ The static function `Math.min()` returns the lowest-valued number passed into it
 
 ### Parameters
 
-`value1, value2, ...`  
+`value1, value2, ...`
 Zero or more numbers among which the lowest value will be selected and returned.
 
 ### Return value
@@ -62,7 +62,7 @@ may be written as this
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.min">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.min">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.min</span>
@@ -102,6 +102,6 @@ may be written as this
 
 -   [`Math.max()`](max)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/min</a>

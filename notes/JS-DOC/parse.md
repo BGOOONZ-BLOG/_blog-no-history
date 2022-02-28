@@ -16,7 +16,7 @@ Implicit call:
 
 ### Parameters
 
-`dateString`  
+`dateString`
 A string representing [a simplification of the ISO 8601 calendar date extended format](#date_time_string_format). (Other formats may be used, but results are implementation-dependent.)
 
 ### Return value
@@ -137,7 +137,7 @@ Returns `14400000` no matter the local time zone as a time zone GMT (UTC) is pro
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.parse">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.parse">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.parse</span>

@@ -8,13 +8,13 @@ The static `Atomics.sub()` method substracts a given value at a given position i
 
 ### Parameters
 
-`typedArray`  
+`typedArray`
 An integer typed array. One of [`Int8Array`](../int8array), [`Uint8Array`](../uint8array), [`Int16Array`](../int16array), [`Uint16Array`](../uint16array), [`Int32Array`](../int32array), [`Uint32Array`](../uint32array), [`BigInt64Array`](../bigint64array), or [`BigUint64Array`](../biguint64array).
 
-`index`  
+`index`
 The position in the `typedArray` to subtract a `value` from.
 
-`value`  
+`value`
 The number to subtract.
 
 ### Return value
@@ -48,7 +48,7 @@ The old value at the given position (`typedArray[index]`).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics.sub">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics.sub">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics.sub</span>

@@ -189,7 +189,7 @@ If a [`Symbol`](../symbol) is used a function name and the symbol has a descript
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-function-instances-name">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-function-instances-name">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-function-instances-name</span>

@@ -13,7 +13,7 @@ $$\\mathtt{\\operatorname{Math.hypot}(v\_{1},v\_{2},\\ldots,v\_{n})} = \\sqrt{\\
 
 ### Parameters
 
-`value1, value2, ...`  
+`value1, value2, ...`
 Numbers.
 
 ### Return value
@@ -92,7 +92,7 @@ A polyfill that avoids underflows and overflows:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.hypot">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.hypot">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.hypot</span>
@@ -134,6 +134,6 @@ No
 -   [`Math.pow()`](pow)
 -   [`Math.sqrt()`](sqrt)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/hypot</a>

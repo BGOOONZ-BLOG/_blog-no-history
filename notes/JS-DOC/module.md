@@ -4,18 +4,18 @@ A `WebAssembly.Module` object contains stateless WebAssembly code that has alrea
 
 ## Constructor
 
-[`WebAssembly.Module()`](module/module)  
+[`WebAssembly.Module()`](module/module)
 Creates a new `Module` object.
 
 ## Static properties
 
-[`WebAssembly.Module.customSections()`](module/customsections)  
+[`WebAssembly.Module.customSections()`](module/customsections)
 Given a `Module` and string, returns a copy of the contents of all custom sections in the module with the given string name.
 
-[`WebAssembly.Module.exports()`](module/exports)  
+[`WebAssembly.Module.exports()`](module/exports)
 Given a `Module`, returns an array containing descriptions of all the declared exports.
 
-[`WebAssembly.Module.imports()`](module/imports)  
+[`WebAssembly.Module.imports()`](module/imports)
 Given a `Module`, returns an array containing descriptions of all the declared imports.
 
 ## Examples
@@ -61,7 +61,7 @@ In the worker (see `wasm_worker.js`) we define an import object for the module t
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#modules">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#modules">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#modules</span>
@@ -227,6 +227,6 @@ Disabled in the Firefox 52 Extended Support Release (ESR).
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Module</a>

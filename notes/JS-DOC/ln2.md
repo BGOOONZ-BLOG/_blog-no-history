@@ -45,7 +45,7 @@ The following function returns the natural log of 2:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.ln2">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.ln2">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.ln2</span>
@@ -87,6 +87,6 @@ The following function returns the natural log of 2:
 -   [`Math.log()`](log)
 -   [`Math.log2()`](log2)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/LN2" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/LN2</a>

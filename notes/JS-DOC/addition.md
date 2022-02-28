@@ -41,7 +41,7 @@ The addition operator (`+`) produces the sum of numeric operands or string conca
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-addition-operator-plus">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-addition-operator-plus">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Addition operator' in that specification.</span>
@@ -89,6 +89,6 @@ The addition operator (`+`) produces the sum of numeric operands or string conca
 -   [Unary negation operator](unary_negation)
 -   [Unary plus operator](unary_plus)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Addition</a>

@@ -10,17 +10,17 @@ The `copyWithin()` method shallow copies part of an array to another location in
 
 ### Parameters
 
-`target`  
+`target`
 Zero-based index at which to copy the sequence to. If negative, `target` will be counted from the end.
 
 If `target` is at or greater than `arr.length`, nothing will be copied. If `target` is positioned after `start`, the copied sequence will be trimmed to fit `arr.length`.
 
-`start` <span class="badge inline optional">Optional</span>  
+`start` <span class="badge inline optional">Optional</span>
 Zero-based index at which to start copying elements from. If negative, `start` will be counted from the end.
 
 If `start` is omitted, `copyWithin` will copy from index `0`.
 
-`end` <span class="badge inline optional">Optional</span>  
+`end` <span class="badge inline optional">Optional</span>
 Zero-based index at which to end copying elements from. `copyWithin` copies up to but not including `end`. If negative, `end` will be counted from the end.
 
 If `end` is omitted, `copyWithin` will copy until the last index (default to `arr.length`).
@@ -77,7 +77,7 @@ The `copyWithin` method is a mutable method. It does not alter the length of `th
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.copywithin">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.copywithin">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.copywithin</span>

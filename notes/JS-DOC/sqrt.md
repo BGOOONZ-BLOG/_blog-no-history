@@ -10,7 +10,7 @@ $$\\forall x \\geq 0,\\mathtt{Math.sqrt(x)} = \\sqrt{x} = \\text{the\\ unique}\\
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -46,7 +46,7 @@ Because `sqrt()` is a static method of `Math`, you always use it as `Math.sqrt()
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.sqrt">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.sqrt">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.sqrt</span>
@@ -119,6 +119,6 @@ Samsung Internet
 -   [`Math.log()`](log)
 -   [`Math.pow()`](pow)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sqrt</a>

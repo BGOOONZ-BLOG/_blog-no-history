@@ -11,16 +11,16 @@ The static ` Atomics``.wait() ` method verifies that a given position in an [`In
 
 ### Parameters
 
-`typedArray`  
+`typedArray`
 A shared [`Int32Array`](../int32array).
 
-`index`  
+`index`
 The position in the `typedArray` to wait on.
 
-`value`  
+`value`
 The expected value to test.
 
-`timeout` <span class="badge inline optional">Optional</span>  
+`timeout` <span class="badge inline optional">Optional</span>
 Time to wait in milliseconds. [`Infinity`](../infinity), if no time is provided.
 
 ### Return value
@@ -63,7 +63,7 @@ A writing thread stores a new value and notifies the waiting thread once it has 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics.wait">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics.wait">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics.wait</span>

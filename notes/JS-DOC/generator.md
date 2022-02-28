@@ -20,13 +20,13 @@ This object cannot be instantiated directly. Instead, a `Generator` instance can
 
 ## Instance methods
 
-[`Generator.prototype.next()`](generator/next)  
+[`Generator.prototype.next()`](generator/next)
 Returns a value yielded by the [`yield`](../operators/yield) expression.
 
-[`Generator.prototype.return()`](generator/return)  
+[`Generator.prototype.return()`](generator/return)
 Returns the given value and finishes the generator.
 
-[`Generator.prototype.throw()`](generator/throw)  
+[`Generator.prototype.throw()`](generator/throw)
 Throws an error to a generator (also finishes the generator, unless caught from within that generator).
 
 ## Examples
@@ -61,7 +61,7 @@ With a generator function, values are not evaluated until they are needed. There
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-generator-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-generator-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-generator-objects</span>

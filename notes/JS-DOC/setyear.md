@@ -12,7 +12,7 @@ The `setYear()` method sets the year for a specified date according to local tim
 
 ### Parameters
 
-`yearValue`  
+`yearValue`
 An integer.
 
 ### Return value
@@ -46,7 +46,7 @@ The first two lines set the year to 1996. The third sets the year to 2000.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setyear">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setyear">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setyear</span>

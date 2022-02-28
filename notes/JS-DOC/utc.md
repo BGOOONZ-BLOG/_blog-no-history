@@ -12,25 +12,25 @@ The `Date.UTC()` method accepts parameters similar to the [`Date`](../date) cons
     Date.UTC(year, month, day, hour, minute, second)
     Date.UTC(year, month, day, hour, minute, second, millisecond)
 
-`year`  
+`year`
 A full year.
 
-`month` <span class="badge inline optional">Optional</span>  
+`month` <span class="badge inline optional">Optional</span>
 An integer between `0` (January) and `11` (December) representing the month. Since ECMAScript 2017 it defaults to `0` if omitted. _(Up until ECMAScript 2016, `month` was a required parameter. As of ES2017, it no longer is.)_
 
-`day` <span class="badge inline optional">Optional</span>  
+`day` <span class="badge inline optional">Optional</span>
 An integer between `1` and `31` representing the day of the month. If omitted, defaults to `1`.
 
-`hour` <span class="badge inline optional">Optional</span>  
+`hour` <span class="badge inline optional">Optional</span>
 An integer between `0` and `23` representing the hours. If omitted, defaults to `0`.
 
-`minute` <span class="badge inline optional">Optional</span>  
+`minute` <span class="badge inline optional">Optional</span>
 An integer between `0` and `59` representing the minutes. If omitted, defaults to `0`.
 
-`second` <span class="badge inline optional">Optional</span>  
+`second` <span class="badge inline optional">Optional</span>
 An integer between `0` and `59` representing the seconds. If omitted, defaults to `0`.
 
-`millisecond` <span class="badge inline optional">Optional</span>  
+`millisecond` <span class="badge inline optional">Optional</span>
 An integer between `0` and `999` representing the milliseconds. If omitted, defaults to `0`.
 
 ### Return value
@@ -71,7 +71,7 @@ The following statement creates a [`Date`](../date) object with the arguments tr
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.utc">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-date.utc">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Date.UTC' in that specification.</span>

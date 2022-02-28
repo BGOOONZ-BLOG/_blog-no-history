@@ -21,19 +21,19 @@ The `every()` method tests whether all elements in the array pass the test imple
 
 ### Parameters
 
-`callbackFn`  
+`callbackFn`
 A function to test for each element, taking three arguments:
 
-`element`  
+`element`
 The current element being processed in the array.
 
-`index` <span class="badge inline optional">Optional</span>  
+`index` <span class="badge inline optional">Optional</span>
 The index of the current element being processed in the array.
 
-`array` <span class="badge inline optional">Optional</span>  
+`array` <span class="badge inline optional">Optional</span>
 The array `every` was called upon.
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 A value to use as `this` when executing `callbackFn`.
 
 ### Return value
@@ -213,7 +213,7 @@ The following examples tests the behavior of the `every` method when the array i
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.every">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.every">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.every</span>

@@ -10,7 +10,7 @@ The `split()` method divides a [`String`](../string) into an ordered list of sub
 
 ### Parameters
 
-`separator` <span class="badge inline optional">Optional</span>  
+`separator` <span class="badge inline optional">Optional</span>
 The pattern describing where each split should occur. The `separator` can be a simple string or it can be a [regular expression](../regexp).
 
 -   The simplest case is when `separator` is just a single character; this is used to split a delimited string. For example, a string containing tab separated values (TSV) could be parsed by passing a tab character as the separator, like this: `myString.split("\t")`.
@@ -21,7 +21,7 @@ The pattern describing where each split should occur. The `separator` can be a s
 
 **Warning:** When the empty string (`""`) is used as a separator, the string is **not** split by _user-perceived characters_ ([grapheme clusters](https://unicode.org/reports/tr29/#Grapheme_Cluster_Boundaries)) or unicode characters (codepoints), but by UTF-16 codeunits. This destroys [surrogate pairs](https://unicode.org/faq/utf_bom.html#utf16-2). See ["How do you get a string to a character array in JavaScript?” on StackOverflow](https://stackoverflow.com/a/34717402).
 
-`limit` <span class="badge inline optional">Optional</span>  
+`limit` <span class="badge inline optional">Optional</span>
 A non-negative integer specifying a limit on the number of substrings to be included in the array. If provided, splits the string at each occurrence of the specified `separator`, but stops when `limit` entries have been placed in the array. Any leftover text is not included in the array at all.
 
 -   The array may contain fewer entries than `limit` if the end of the string is reached before the limit is reached.
@@ -161,7 +161,7 @@ It doesn't work if the string contains grapheme clusters, even when using a unic
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.split">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.split">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.split</span>
@@ -235,6 +235,6 @@ Samsung Internet
 -   [`Array.prototype.join()`](../array/join)
 -   [Using regular expressions in JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split</a>

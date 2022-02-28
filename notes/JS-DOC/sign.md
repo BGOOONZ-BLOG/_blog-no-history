@@ -8,7 +8,7 @@ The `Math.sign()` function returns either a **positive** or **negative** +/- 1, 
 
 ### Parameters
 
-`x`  
+`x`
 A number. If this argument is not a `number`, it is implicitly converted to one.
 
 ### Return value
@@ -49,7 +49,7 @@ Because `sign()` is a static method of `Math`, you always use it as `Math.sign()
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.sign">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.sign">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.sign</span>
@@ -124,6 +124,6 @@ No
 -   [`Math.round()`](round)
 -   [`Math.trunc()`](trunc)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sign</a>

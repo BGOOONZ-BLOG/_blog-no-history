@@ -9,10 +9,10 @@ The `get` syntax binds an object property to a function that will be called when
 
 ### Parameters
 
-`prop`  
+`prop`
 The name of the property to bind to the given function.
 
-`expression`  
+`expression`
 Starting with ECMAScript 2015, you can also use expressions for a computed property name to bind to the given function.
 
 ## Description
@@ -130,7 +130,7 @@ When using `get` the property will be defined on the instance's prototype, while
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-method-definitions">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-method-definitions">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Method definitions' in that specification.</span>

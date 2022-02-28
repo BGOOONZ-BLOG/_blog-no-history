@@ -24,7 +24,7 @@ This method was standardized in ECMA-262 5<sup>th</sup> edition. Engines which h
 
 ### Reduced time precision
 
-To offer protection against timing attacks and fingerprinting, the precision of `Date.now()` might get rounded depending on browser settings.  
+To offer protection against timing attacks and fingerprinting, the precision of `Date.now()` might get rounded depending on browser settings.
 In Firefox, the `privacy.reduceTimerPrecision` preference is enabled by default and defaults to 20µs in Firefox 59; in 60 it will be 2ms.
 
     // reduced time precision (2ms) in Firefox 60
@@ -54,7 +54,7 @@ In Firefox, you can also enable `privacy.resistFingerprinting`, the precision wi
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.now">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.now">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.now</span>

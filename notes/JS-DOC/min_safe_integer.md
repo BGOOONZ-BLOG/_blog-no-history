@@ -42,7 +42,7 @@ Because `MIN_SAFE_INTEGER` is a static property of [`Number`](../number), you al
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.min_safe_integer">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.min_safe_integer">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.min_safe_integer</span>
@@ -84,6 +84,6 @@ No
 -   [`Number.isSafeInteger()`](issafeinteger)
 -   [`BigInt`](../bigint)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_SAFE_INTEGER</a>

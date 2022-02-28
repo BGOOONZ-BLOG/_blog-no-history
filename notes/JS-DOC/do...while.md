@@ -8,10 +8,10 @@ The `do...while` creates a loop that executes a specified statement until the te
        statement
     while (condition);
 
-`statement`  
+`statement`
 A statement that is executed at least once and is re-executed each time the condition evaluates to true. To execute multiple statements within the loop, use a [block](block) statement (`{ ... }`) to group those statements.
 
-`condition`  
+`condition`
 An expression evaluated after each pass through the loop. If `condition` evaluates to true, the `statement` is re-executed. When `condition` evaluates to false, control passes to the statement following the `do...while`.
 
 ## Examples
@@ -42,7 +42,7 @@ In the following example, the `do...while` loop iterates at least once and reite
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-do-while-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-do-while-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-do-while-statement</span>
@@ -83,6 +83,6 @@ In the following example, the `do...while` loop iterates at least once and reite
 -   [`while`](while)
 -   [`for`](for)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/do...while</a>

@@ -167,26 +167,26 @@ A BigInt value behaves like a Number value in cases where:
 
 ## Constructor
 
-[`BigInt()`](bigint/bigint)  
+[`BigInt()`](bigint/bigint)
 Creates a new BigInt value.
 
 ## Static methods
 
-[`BigInt.asIntN()`](bigint/asintn)  
+[`BigInt.asIntN()`](bigint/asintn)
 Clamps a BigInt value to a signed integer value, and returns that value.
 
-[`BigInt.asUintN()`](bigint/asuintn)  
+[`BigInt.asUintN()`](bigint/asuintn)
 Clamps a BigInt value to an unsigned integer value, and returns that value.
 
 ## Instance methods
 
-[`BigInt.prototype.toLocaleString()`](bigint/tolocalestring)  
+[`BigInt.prototype.toLocaleString()`](bigint/tolocalestring)
 Returns a string with a language-sensitive representation of this BigInt value. Overrides the [`Object.prototype.toLocaleString()`](object/tolocalestring) method.
 
-[`BigInt.prototype.toString()`](bigint/tostring)  
+[`BigInt.prototype.toString()`](bigint/tostring)
 Returns a string representing this BigInt value in the specified radix (base). Overrides the [`Object.prototype.toString()`](object/tostring) method.
 
-[`BigInt.prototype.valueOf()`](bigint/valueof)  
+[`BigInt.prototype.valueOf()`](bigint/valueof)
 Returns this BigInt value. Overrides the [`Object.prototype.valueOf()`](object/valueof) method.
 
 ## Usage recommendations
@@ -255,7 +255,7 @@ Instead of throwing, `JSON.stringify` now produces a string like this:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-bigint-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-bigint-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-bigint-objects</span>

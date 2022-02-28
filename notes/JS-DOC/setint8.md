@@ -8,10 +8,10 @@ The `setInt8()` method stores a signed 8-bit integer (byte) value at the specifi
 
 ### Parameters
 
-`byteOffset`  
+`byteOffset`
 The offset, in byte, from the start of the view where to store the data.
 
-`value`  
+`value`
 The value to set.
 
 ### Return value
@@ -20,7 +20,7 @@ The value to set.
 
 ### Errors thrown
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 Thrown if the `byteOffset` is set such as it would store beyond the end of the view.
 
 ## Examples
@@ -43,7 +43,7 @@ Thrown if the `byteOffset` is set such as it would store beyond the end of the v
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-dataview.prototype.setint8">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-dataview.prototype.setint8">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-dataview.prototype.setint8</span>

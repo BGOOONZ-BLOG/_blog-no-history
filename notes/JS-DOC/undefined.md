@@ -114,7 +114,7 @@ The [`void`](../operators/void) operator is a third alternative.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-undefined">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-undefined">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-undefined</span>

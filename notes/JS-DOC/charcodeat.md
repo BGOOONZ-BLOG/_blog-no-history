@@ -10,7 +10,7 @@ The UTF-16 code unit matches the Unicode code point for code points which can be
 
 ### Parameters
 
-`index`  
+`index`
 An integer greater than or equal to `0` and less than the `length` of the string. If `index` is not a number, it defaults to `0`.
 
 ### Return value
@@ -122,7 +122,7 @@ This version might be used in for loops and the like when it is unknown whether 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.charcodeat">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.charcodeat">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.charcodeat</span>
@@ -165,6 +165,6 @@ This version might be used in for loops and the like when it is unknown whether 
 -   [`String.fromCodePoint()`](fromcodepoint)
 -   [`String.prototype.codePointAt()`](codepointat)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charCodeAt</a>

@@ -8,7 +8,7 @@ The `decodeURIComponent()` function decodes a Uniform Resource Identifier (URI) 
 
 ### Parameters
 
-`encodedURI`  
+`encodedURI`
 An encoded component of a Uniform Resource Identifier.
 
 ### Return value
@@ -62,7 +62,7 @@ decodeURIComponent cannot be used directly to parse query parameters from a URL.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-decodeuricomponent-encodeduricomponent">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-decodeuricomponent-encodeduricomponent">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-decodeuricomponent-encodeduricomponent</span>

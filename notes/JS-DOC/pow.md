@@ -8,10 +8,10 @@ The `Math.pow()` function returns the `base` to the `exponent` power, as in `bas
 
 ### Parameters
 
-`base`  
+`base`
 The base number.
 
-`exponent`  
+`exponent`
 The exponent used to raise the `base`.
 
 ### Return value
@@ -60,7 +60,7 @@ Because `pow()` is a static method of `Math`, use it as `Math.pow()`, rather tha
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.pow">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.pow">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.pow</span>
@@ -134,6 +134,6 @@ Samsung Internet
 -   [`Math.sqrt()`](sqrt)
 -   [Exponentiation operator](../../operators/exponentiation)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow</a>

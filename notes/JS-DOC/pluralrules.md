@@ -10,16 +10,16 @@ The `Intl.PluralRules()` constructor creates [`Intl.PluralRules`](../pluralrules
 
 ### Parameters
 
-`locales` <span class="badge inline optional">Optional</span>  
+`locales` <span class="badge inline optional">Optional</span>
 A string with a BCP 47 language tag, or an array of such strings. For the general form and interpretation of the `locales` argument, see the [Intl](../../intl#locale_identification_and_negotiation) page.
 
-`options` <span class="badge inline optional">Optional</span>  
+`options` <span class="badge inline optional">Optional</span>
 An object with some or all of the following properties:
 
-`localeMatcher`  
+`localeMatcher`
 The locale matching algorithm to use. Possible values are "`lookup`" and "`best fit`"; the default is "`best fit`". For information about this option, see the [Intl](../../intl#locale_negotiation) page.
 
-`type`  
+`type`
 The type to use. Possible values are:
 
 -   "`cardinal`" for cardinal numbers (refering to the quantity of things). This is the default value.
@@ -27,19 +27,19 @@ The type to use. Possible values are:
 
 The following properties fall into two groups: `minimumIntegerDigits`, `minimumFractionDigits`, and `maximumFractionDigits` in one group, `minimumSignificantDigits` and `maximumSignificantDigits` in the other. If at least one property from the second group is defined, then the first group is ignored.
 
-`minimumIntegerDigits`  
+`minimumIntegerDigits`
 The minimum number of integer digits to use. Possible values are from 1 to 21; the default is 1.
 
-`minimumFractionDigits`  
+`minimumFractionDigits`
 The minimum number of fraction digits to use. Possible values are from 0 to 20; the default for plain number and percent formatting is 0; the default for currency formatting is the number of minor unit digits provided by the [ISO 4217 currency code list](https://www.currency-iso.org/en/home/tables/table-a1.html) (2 if the list doesn't provide that information).
 
-`maximumFractionDigits`  
+`maximumFractionDigits`
 The maximum number of fraction digits to use. Possible values are from 0 to 20; the default for plain number formatting is the larger of `minimumFractionDigits` and 3; the default for currency formatting is the larger of `minimumFractionDigits` and the number of minor unit digits provided by the [ISO 4217 currency code list](https://www.currency-iso.org/en/home/tables/table-a1.html) (2 if the list doesn't provide that information); the default for percent formatting is the larger of `minimumFractionDigits` and 0.
 
-`minimumSignificantDigits`  
+`minimumSignificantDigits`
 The minimum number of significant digits to use. Possible values are from 1 to 21; the default is 1.
 
-`maximumSignificantDigits`  
+`maximumSignificantDigits`
 The maximum number of significant digits to use. Possible values are from 1 to 21; the default is 21.
 
 ## Examples
@@ -89,7 +89,7 @@ The results can be customized using the `options` argument, which has one proper
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl-pluralrules-constructor">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl-pluralrules-constructor">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl-pluralrules-constructor</span>

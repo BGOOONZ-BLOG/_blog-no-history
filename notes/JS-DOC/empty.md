@@ -61,7 +61,7 @@ If `three` is `true`, nothing will happen, `four` does not matter, and also the 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-empty-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-empty-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-empty-statement</span>
@@ -101,6 +101,6 @@ If `three` is `true`, nothing will happen, `four` does not matter, and also the 
 
 -   [`Block statement`](block)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/Empty</a>

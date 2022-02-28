@@ -8,7 +8,7 @@ The `Object.getOwnPropertySymbols()` method returns an array of all symbol prope
 
 ### Parameters
 
-`obj`  
+`obj`
 The object whose symbol properties are to be returned.
 
 ### Return value
@@ -49,7 +49,7 @@ As all objects have no own symbol properties initially, `Object.getOwnPropertySy
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.getownpropertysymbols">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.getownpropertysymbols">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.getownpropertysymbols</span>
@@ -90,6 +90,6 @@ No
 -   [`Object.getOwnPropertyNames()`](getownpropertynames)
 -   [`Symbol`](../symbol)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertySymbols" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertySymbols</a>

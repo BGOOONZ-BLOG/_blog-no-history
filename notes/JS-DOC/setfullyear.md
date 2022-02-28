@@ -10,13 +10,13 @@ The `setFullYear()` method sets the full year for a specified date according to 
 
 ### Parameters
 
-`yearValue`  
+`yearValue`
 An integer specifying the numeric value of the year, for example, 1995.
 
-`monthValue`  
+`monthValue`
 Optional. An integer between 0 and 11 representing the months January through December.
 
-`dateValue`  
+`dateValue`
 Optional. An integer between 1 and 31 representing the day of the month. If you specify the `dateValue` parameter, you must also specify the `monthValue`.
 
 ### Return value
@@ -47,7 +47,7 @@ If a parameter you specify is outside of the expected range, `setFullYear()` att
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setfullyear">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setfullyear">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setfullyear</span>

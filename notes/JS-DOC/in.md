@@ -8,10 +8,10 @@ The `in` returns `true` if the specified property is in the specified object or 
 
 ### Parameters
 
-`prop`  
+`prop`
 A string or symbol representing a property name or array index (non-symbols will be coerced to strings).
 
-`object`  
+`object`
 Object to check if it (or its prototype chain) <span class="short_text">contains</span> the property with specified name (`prop`).
 
 ## Examples
@@ -96,7 +96,7 @@ The `in` operator returns `true` for properties in the prototype chain. (If you 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-relational-operators">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-relational-operators">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-relational-operators</span>
@@ -140,6 +140,6 @@ The `in` operator returns `true` for properties in the prototype chain. (If you 
 -   [`Reflect.has()`](../global_objects/reflect/has)
 -   [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/in</a>

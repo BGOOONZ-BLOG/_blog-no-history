@@ -59,7 +59,7 @@ Following example describes how `Symbol.toPrimitive` property can modify the pri
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol.toprimitive">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-symbol.toprimitive">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-symbol.toprimitive</span>
@@ -132,6 +132,6 @@ No
 -   [`Object.prototype.toString()`](../object/tostring)
 -   [`Object.prototype.valueOf()`](../object/valueof)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/toPrimitive</a>

@@ -4,23 +4,23 @@ The `Intl.RelativeTimeFormat` object enables language-sensitive relative time fo
 
 ## Constructor
 
-[`Intl.RelativeTimeFormat()`](relativetimeformat/relativetimeformat)  
+[`Intl.RelativeTimeFormat()`](relativetimeformat/relativetimeformat)
 Creates a new `Intl.RelativeTimeFormat` object.
 
 ## Static methods
 
-[`Intl.RelativeTimeFormat.supportedLocalesOf()`](relativetimeformat/supportedlocalesof)  
+[`Intl.RelativeTimeFormat.supportedLocalesOf()`](relativetimeformat/supportedlocalesof)
 Returns an array containing those of the provided locales that are supported without having to fall back to the runtime's default locale.
 
 ## Instance methods
 
-[`Intl.RelativeTimeFormat.prototype.format()`](relativetimeformat/format)  
+[`Intl.RelativeTimeFormat.prototype.format()`](relativetimeformat/format)
 Formats a `value` and a `unit` according to the locale and formatting options of the given [`Intl.RelativeTimeFormat`](relativetimeformat) object.
 
-[`Intl.RelativeTimeFormat.prototype.formatToParts()`](relativetimeformat/formattoparts)  
+[`Intl.RelativeTimeFormat.prototype.formatToParts()`](relativetimeformat/formattoparts)
 Returns an [`Array`](../array) of objects representing the relative time format in parts that can be used for custom locale-aware formatting.
 
-[`Intl.RelativeTimeFormat.prototype.resolvedOptions()`](relativetimeformat/resolvedoptions)  
+[`Intl.RelativeTimeFormat.prototype.resolvedOptions()`](relativetimeformat/resolvedoptions)
 Returns a new object with properties reflecting the locale and formatting options computed during initialization of the object.
 
 ## Examples
@@ -75,7 +75,7 @@ The following example shows how to create a relative time formatter returning fo
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#relativetimeformat-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#relativetimeformat-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#relativetimeformat-objects</span>

@@ -9,7 +9,7 @@ The `toExponential()` method returns a string representing the [`Number`](../num
 
 ### Parameters
 
-`fractionDigits` <span class="badge inline optional">Optional</span>  
+`fractionDigits` <span class="badge inline optional">Optional</span>
 Optional. An integer specifying the number of digits after the decimal point. Defaults to as many digits as necessary to specify the number.
 
 ### Return value
@@ -18,10 +18,10 @@ A string representing the given [`Number`](../number) object in exponential nota
 
 ### Exceptions
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 If `fractionDigits` is too small or too large. Values between `0` and `100`, inclusive, will not cause a [`RangeError`](../rangeerror).
 
-[`TypeError`](../typeerror)  
+[`TypeError`](../typeerror)
 If this method is invoked on an object that is not a [`Number`](../number).
 
 ## Description
@@ -55,7 +55,7 @@ If a number has more digits than requested by the `fractionDigits` parameter, th
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.prototype.toexponential">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.prototype.toexponential">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.prototype.toexponential</span>
@@ -127,6 +127,6 @@ Samsung Internet
 -   [`Number.prototype.toPrecision()`](toprecision)
 -   [`Number.prototype.toString()`](tostring)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toExponential" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toExponential</a>

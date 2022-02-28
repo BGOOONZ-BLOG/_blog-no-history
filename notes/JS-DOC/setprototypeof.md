@@ -12,10 +12,10 @@ Because this feature is a part of the language, it is still the burden on engine
 
 ### Parameters
 
-`obj`  
+`obj`
 The object which is to have its prototype set.
 
-`prototype`  
+`prototype`
 The object's new prototype (an object or [`null`](../null)).
 
 ### Return value
@@ -172,7 +172,7 @@ Using the older [`Object.prototype.__proto__`](proto) property, we can easily de
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.setprototypeof">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.setprototypeof">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.setprototypeof</span>
@@ -245,6 +245,6 @@ Samsung Internet
 -   [`Object.getPrototypeOf()`](getprototypeof)
 -   [`Object.prototype.__proto__`](proto)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/setPrototypeOf</a>

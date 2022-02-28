@@ -60,13 +60,13 @@ The type of individual arguments can be determined by indexing `arguments`:
 
 ## Properties
 
-[`arguments.callee`](arguments/callee)  
+[`arguments.callee`](arguments/callee)
 Reference to the currently executing function that the arguments belong to. Forbidden in strict mode.
 
-[`arguments.length`](arguments/length)  
+[`arguments.length`](arguments/length)
 The number of arguments that were passed to the function.
 
-[`arguments[@@iterator]`](arguments/@@iterator)  
+[`arguments[@@iterator]`](arguments/@@iterator)
 Returns a new [Array iterator](../global_objects/array/@@iterator) object that contains the values for each index in `arguments`.
 
 ## Examples
@@ -184,7 +184,7 @@ And also:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-arguments-exotic-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-arguments-exotic-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-arguments-exotic-objects</span>

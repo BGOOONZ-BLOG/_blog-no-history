@@ -29,7 +29,7 @@ The `byteOffset` property is an accessor property whose set accessor function is
 <tbody>
 <tr class="odd">
 <td>
-<a href="#">ECMAScript Language Specification (ECMAScript) 
+<a href="#">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-get-%typedarray%.prototype.byteoffset</span>
@@ -70,6 +70,6 @@ The `byteOffset` property is an accessor property whose set accessor function is
 -   [JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
 -   [`TypedArray`](../typedarray)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/byteOffset" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/byteOffset</a>

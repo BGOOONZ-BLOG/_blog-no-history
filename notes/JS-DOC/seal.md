@@ -8,7 +8,7 @@ The `Object.seal()` method seals an object, preventing new properties from being
 
 ### Parameters
 
-`obj`  
+`obj`
 The object which should be sealed.
 
 ### Return value
@@ -101,7 +101,7 @@ In ES5, if the argument to this method is not an object (a primitive), then it w
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.seal">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object.seal">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object.seal' in that specification.</span>
@@ -175,6 +175,6 @@ Samsung Internet
 -   [`Object.freeze()`](freeze)
 -   [`Object.isFrozen()`](isfrozen)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/seal</a>

@@ -21,19 +21,19 @@ The `flatMap()` method returns a new array formed by applying a given callback f
 
 ### Parameters
 
-`callback`  
+`callback`
 Function that produces an element of the new Array, taking three arguments:
 
-`currentValue`  
+`currentValue`
 The current element being processed in the array.
 
-`index`<span class="badge inline optional">Optional</span>  
+`index`<span class="badge inline optional">Optional</span>
 The index of the current element being processed in the array.
 
-`array`<span class="badge inline optional">Optional</span>  
+`array`<span class="badge inline optional">Optional</span>
 The array `map` was called upon.
 
-`thisArg`<span class="badge inline optional">Optional</span>  
+`thisArg`<span class="badge inline optional">Optional</span>
 Value to use as `this` when executing `callback`.
 
 ### Return value
@@ -116,7 +116,7 @@ Notice, the output list length can be different from the input list length.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.flatmap">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.flatmap">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.flatmap</span>

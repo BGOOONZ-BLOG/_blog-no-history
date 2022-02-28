@@ -13,7 +13,7 @@ A web development student's declassified school survival guide.
 <figcaption>Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Christin Hume</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Unsplash</a>
 </figcaption>
 </figure>
-<strong>A list of all of my articles to link to future posts</strong> 
+<strong>A list of all of my articles to link to future posts</strong>
 <br/>
 
 <em>You should probably skip this one… seriously it's just for internal use!</em>
@@ -452,7 +452,7 @@ Here's a repo where I backup my gists… I keep hundreds:
 
 <figure>
 <img src="https://cdn-images-1.medium.com/max/800/0*MS7qI68SZqnkAUj2.png" class="graf-image" />
-</figure>This is the new recorder UI, which lets you click and drag to select an area of your screen.  
+</figure>This is the new recorder UI, which lets you click and drag to select an area of your screen.
 You can also switch to the window and screen modes.
 
 -   <span id="3279">Use the record, pause, discard or stop buttons to control your capture.</span>

@@ -8,7 +8,7 @@ The **comma operator** (`,`) evaluates each of its operands (from left to right)
 
 ### Parameters
 
-`expr1`, `expr2`, `expr3`...  
+`expr1`, `expr2`, `expr3`...
 One or more expressions, the last of which is returned as the value of the compound expression.
 
 ## Usage notes
@@ -59,7 +59,7 @@ Another example that one could make with comma operator is processing before ret
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-comma-operator">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-comma-operator">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-comma-operator</span>
@@ -99,6 +99,6 @@ Another example that one could make with comma operator is processing before ret
 
 -   [`for` loop](../statements/for)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comma_Operator</a>

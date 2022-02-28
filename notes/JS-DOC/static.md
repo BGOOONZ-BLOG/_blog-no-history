@@ -101,7 +101,7 @@ Static members are not directly accessible using the [`this`](../operators/this)
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-class-definitions">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-class-definitions">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Class definitions' in that specification.</span>

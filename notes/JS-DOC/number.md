@@ -30,76 +30,76 @@ When used as a function, `Number(value)` converts a string or other value to the
 
 ## Constructor
 
-[`Number()`](number/number)  
+[`Number()`](number/number)
 Creates a new `Number` value.
 
 ## Static properties
 
-[`Number.EPSILON`](number/epsilon)  
+[`Number.EPSILON`](number/epsilon)
 The smallest interval between two representable numbers.
 
-[`Number.MAX_SAFE_INTEGER`](number/max_safe_integer)  
+[`Number.MAX_SAFE_INTEGER`](number/max_safe_integer)
 The maximum safe integer in JavaScript (`253 - 1`).
 
-[`Number.MAX_VALUE`](number/max_value)  
+[`Number.MAX_VALUE`](number/max_value)
 The largest positive representable number.
 
-[`Number.MIN_SAFE_INTEGER`](number/min_safe_integer)  
+[`Number.MIN_SAFE_INTEGER`](number/min_safe_integer)
 The minimum safe integer in JavaScript (`-(253 - 1)`).
 
-[`Number.MIN_VALUE`](number/min_value)  
+[`Number.MIN_VALUE`](number/min_value)
 The smallest positive representable number—that is, the positive number closest to zero (without actually being zero).
 
-[`Number.NaN`](number/nan)  
+[`Number.NaN`](number/nan)
 Special "**N**ot **a** **N**umber" value.
 
-[`Number.NEGATIVE_INFINITY`](number/negative_infinity)  
+[`Number.NEGATIVE_INFINITY`](number/negative_infinity)
 Special value representing negative infinity. Returned on overflow.
 
-[`Number.POSITIVE_INFINITY`](number/positive_infinity)  
+[`Number.POSITIVE_INFINITY`](number/positive_infinity)
 Special value representing infinity. Returned on overflow.
 
-[`Number.prototype`](number)  
+[`Number.prototype`](number)
 Allows the addition of properties to the `Number` object.
 
 ## Static methods
 
-[`Number.isNaN()`](number/isnan)  
+[`Number.isNaN()`](number/isnan)
 Determine whether the passed value is `NaN`.
 
-[`Number.isFinite()`](number/isfinite)  
+[`Number.isFinite()`](number/isfinite)
 Determine whether the passed value is a finite number.
 
-[`Number.isInteger()`](number/isinteger)  
+[`Number.isInteger()`](number/isinteger)
 Determine whether the passed value is an integer.
 
-[`Number.isSafeInteger()`](number/issafeinteger)  
+[`Number.isSafeInteger()`](number/issafeinteger)
 Determine whether the passed value is a safe integer (number between `-(253 - 1)` and `253 - 1`).
 
-[`Number.parseFloat(string)`](number/parsefloat)  
+[`Number.parseFloat(string)`](number/parsefloat)
 This is the same as the global [`parseFloat()`](parsefloat) function.
 
-[`Number.parseInt(string, [radix])`](number/parseint)  
+[`Number.parseInt(string, [radix])`](number/parseint)
 This is the same as the global [`parseInt()`](parseint) function.
 
 ## Instance methods
 
-[`Number.prototype.toExponential(fractionDigits)`](number/toexponential)  
+[`Number.prototype.toExponential(fractionDigits)`](number/toexponential)
 Returns a string representing the number in exponential notation.
 
-[`Number.prototype.toFixed(digits)`](number/tofixed)  
+[`Number.prototype.toFixed(digits)`](number/tofixed)
 Returns a string representing the number in fixed-point notation.
 
-[`Number.prototype.toLocaleString([locales [, options]])`](number/tolocalestring)  
+[`Number.prototype.toLocaleString([locales [, options]])`](number/tolocalestring)
 Returns a string with a language sensitive representation of this number. Overrides the [`Object.prototype.toLocaleString()`](object/tolocalestring) method.
 
-[`Number.prototype.toPrecision(precision)`](number/toprecision)  
+[`Number.prototype.toPrecision(precision)`](number/toprecision)
 Returns a string representing the number to a specified precision in fixed-point or exponential notation.
 
-[`Number.prototype.toString([radix])`](number/tostring)  
+[`Number.prototype.toString([radix])`](number/tostring)
 Returns a string representing the specified object in the specified radix ("base"). Overrides the [`Object.prototype.toString()`](object/tostring) method.
 
-[`Number.prototype.valueOf()`](number/valueof)  
+[`Number.prototype.valueOf()`](number/valueof)
 Returns the primitive value of the specified object. Overrides the [`Object.prototype.valueOf()`](object/valueof) method.
 
 ## Examples
@@ -163,7 +163,7 @@ This logs `819199440000`.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number-objects</span>

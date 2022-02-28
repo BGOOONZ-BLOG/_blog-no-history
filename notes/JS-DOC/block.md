@@ -16,10 +16,10 @@ A **block statement** (or **compound statement** in other languages) is used to 
       StatementList
     }
 
-`StatementList`  
+`StatementList`
 Statements grouped within the block statement.
 
-`LabelIdentifier`  
+`LabelIdentifier`
 An optional [label](label) for visual identification or as a target for [`break`](break).
 
 ## Description
@@ -79,7 +79,7 @@ In [strict mode](../strict_mode), starting with ES2015, functions inside blocks 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-block">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-block">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-block</span>
@@ -121,6 +121,6 @@ In [strict mode](../strict_mode), starting with ES2015, functions inside blocks 
 -   [`if...else`](if...else)
 -   [`let`](let)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block</a>

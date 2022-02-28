@@ -10,13 +10,13 @@ The static `String.raw()` method is a tag function of [template literals](../../
 
 ### Parameters
 
-`callSite`  
+`callSite`
 Well-formed template call site object, like `{ raw: ['foo', 'bar', 'baz'] }`.
 
-`...substitutions`  
+`...substitutions`
 Contains substitution values.
 
-`templateString`  
+`templateString`
 A [template literal](../../template_literals), optionally with substitutions (`${...}`).
 
 ### Return value
@@ -25,7 +25,7 @@ The raw string form of a given template literal.
 
 ### Exceptions
 
-[`TypeError`](../typeerror)  
+[`TypeError`](../typeerror)
 A [`TypeError`](../typeerror) is thrown if the first argument is not a well-formed object.
 
 ## Description
@@ -82,7 +82,7 @@ In most cases, `String.raw()` is used with template literal. The first syntax me
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.raw">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.raw">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.raw</span>
@@ -154,6 +154,6 @@ No
 -   [`String`](../string)
 -   [Lexical grammar](../../lexical_grammar)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/raw" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/raw</a>

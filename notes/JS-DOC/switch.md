@@ -24,13 +24,13 @@ The `switch` statement evaluates an [expression](https://developer.mozilla.org/e
         [break;]]
     }
 
-`expression`  
+`expression`
 An expression whose result is matched against each `case` clause.
 
-`case valueN` <span class="badge inline optional">Optional</span>  
+`case valueN` <span class="badge inline optional">Optional</span>
 A `case` clause used to match against `expression`. If the `expression` matches the specified `valueN`, the statements inside the `case` clause are executed until either the end of the `switch` statement or a `break`.
 
-`default` <span class="badge inline optional">Optional</span>  
+`default` <span class="badge inline optional">Optional</span>
 A `default` clause; if provided, this clause is executed if the value of `expression` doesn't match any of the `case` clauses.
 
 ## Description
@@ -276,7 +276,7 @@ This code will now output `hello` in the console as it should, without any error
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-switch-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-switch-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-switch-statement</span>
@@ -346,6 +346,6 @@ Samsung Internet
 
 -   [`if...else`](if...else)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/switch</a>

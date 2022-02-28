@@ -10,7 +10,7 @@ The `Math.log10()` function returns the base 10 logarithm of a number, that is
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -54,7 +54,7 @@ This can be emulated with the following function:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.log10">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.log10">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.log10</span>
@@ -98,6 +98,6 @@ No
 -   [`Math.log2()`](log2)
 -   [`Math.pow()`](pow)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log10</a>

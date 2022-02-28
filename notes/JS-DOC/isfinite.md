@@ -8,7 +8,7 @@ The `Number.isFinite()` method determines whether the passed value is a finite n
 
 ### Parameters
 
-`value`  
+`value`
 The value to be tested for finiteness.
 
 ### Return value
@@ -52,7 +52,7 @@ In comparison to the global [`isFinite()`](../isfinite) function, this method do
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.isfinite">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.isfinite">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.isfinite</span>
@@ -93,6 +93,6 @@ No
 -   The [`Number`](../number) object it belongs to.
 -   The global function [`isFinite`](../isfinite).
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/isFinite</a>

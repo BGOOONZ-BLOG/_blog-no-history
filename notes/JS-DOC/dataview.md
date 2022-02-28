@@ -48,80 +48,80 @@ Alternatively, if you need full 64-bit range, you can create a [`BigInt`](bigint
 
 ## Constructor
 
-[`DataView()`](dataview/dataview)  
+[`DataView()`](dataview/dataview)
 Creates a new `DataView` object.
 
 ## Instance properties
 
-[`DataView.prototype.buffer`](dataview/buffer)  
+[`DataView.prototype.buffer`](dataview/buffer)
 The [`ArrayBuffer`](arraybuffer) referenced by this view. Fixed at construction time and thus **read only.**
 
-[`DataView.prototype.byteLength`](dataview/bytelength)  
+[`DataView.prototype.byteLength`](dataview/bytelength)
 The length (in bytes) of this view from the start of its [`ArrayBuffer`](arraybuffer). Fixed at construction time and thus **read only.**
 
-[`DataView.prototype.byteOffset`](dataview/byteoffset)  
+[`DataView.prototype.byteOffset`](dataview/byteoffset)
 The offset (in bytes) of this view from the start of its [`ArrayBuffer`](arraybuffer). Fixed at construction time and thus **read only.**
 
 ## Instance methods
 
-[`DataView.prototype.getInt8()`](dataview/getint8)  
+[`DataView.prototype.getInt8()`](dataview/getint8)
 Gets a signed 8-bit integer (byte) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getUint8()`](dataview/getuint8)  
+[`DataView.prototype.getUint8()`](dataview/getuint8)
 Gets an unsigned 8-bit integer (unsigned byte) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getInt16()`](dataview/getint16)  
+[`DataView.prototype.getInt16()`](dataview/getint16)
 Gets a signed 16-bit integer (short) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getUint16()`](dataview/getuint16)  
+[`DataView.prototype.getUint16()`](dataview/getuint16)
 Gets an unsigned 16-bit integer (unsigned short) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getInt32()`](dataview/getint32)  
+[`DataView.prototype.getInt32()`](dataview/getint32)
 Gets a signed 32-bit integer (long) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getUint32()`](dataview/getuint32)  
+[`DataView.prototype.getUint32()`](dataview/getuint32)
 Gets an unsigned 32-bit integer (unsigned long) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getFloat32()`](dataview/getfloat32)  
+[`DataView.prototype.getFloat32()`](dataview/getfloat32)
 Gets a signed 32-bit float (float) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getFloat64()`](dataview/getfloat64)  
+[`DataView.prototype.getFloat64()`](dataview/getfloat64)
 Gets a signed 64-bit float (double) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getBigInt64()`](dataview/getbigint64)  
+[`DataView.prototype.getBigInt64()`](dataview/getbigint64)
 Gets a signed 64-bit integer (long long) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.getBigUint64()`](dataview/getbiguint64)  
+[`DataView.prototype.getBigUint64()`](dataview/getbiguint64)
 Gets an unsigned 64-bit integer (unsigned long long) at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setInt8()`](dataview/setint8)  
+[`DataView.prototype.setInt8()`](dataview/setint8)
 Stores a signed 8-bit integer (byte) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setUint8()`](dataview/setuint8)  
+[`DataView.prototype.setUint8()`](dataview/setuint8)
 Stores an unsigned 8-bit integer (unsigned byte) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setInt16()`](dataview/setint16)  
+[`DataView.prototype.setInt16()`](dataview/setint16)
 Stores a signed 16-bit integer (short) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setUint16()`](dataview/setuint16)  
+[`DataView.prototype.setUint16()`](dataview/setuint16)
 Stores an unsigned 16-bit integer (unsigned short) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setInt32()`](dataview/setint32)  
+[`DataView.prototype.setInt32()`](dataview/setint32)
 Stores a signed 32-bit integer (long) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setUint32()`](dataview/setuint32)  
+[`DataView.prototype.setUint32()`](dataview/setuint32)
 Stores an unsigned 32-bit integer (unsigned long) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setFloat32()`](dataview/setfloat32)  
+[`DataView.prototype.setFloat32()`](dataview/setfloat32)
 Stores a signed 32-bit float (float) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setFloat64()`](dataview/setfloat64)  
+[`DataView.prototype.setFloat64()`](dataview/setfloat64)
 Stores a signed 64-bit float (double) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setBigInt64()`](dataview/setbigint64)  
+[`DataView.prototype.setBigInt64()`](dataview/setbigint64)
 Stores a signed 64-bit integer (long long) value at the specified byte offset from the start of the view.
 
-[`DataView.prototype.setBigUint64()`](dataview/setbiguint64)  
+[`DataView.prototype.setBigUint64()`](dataview/setbiguint64)
 Stores an unsigned 64-bit integer (unsigned long long) value at the specified byte offset from the start of the view.
 
 ## Examples
@@ -145,7 +145,7 @@ Stores an unsigned 64-bit integer (unsigned long long) value at the specified by
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-dataview-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-dataview-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-dataview-objects</span>

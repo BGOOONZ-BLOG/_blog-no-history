@@ -8,7 +8,7 @@ The `Intl.PluralRules.prototype.select()` method returns a string indicating whi
 
 ### Parameters
 
-`number`  
+`number`
 The number to get a plural rule for.
 
 ### Return value
@@ -49,7 +49,7 @@ This function selects a pluralization category according to the locale and forma
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl.pluralrules.prototype.select">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl.pluralrules.prototype.select">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl.pluralrules.prototype.select</span>

@@ -10,27 +10,27 @@ A `TypeError` may be thrown when:
 
 ## Constructor
 
-[`TypeError()`](typeerror/typeerror)  
+[`TypeError()`](typeerror/typeerror)
 Creates a new `TypeError` object.
 
 ## Instance properties
 
-[`TypeError.prototype.message`](error/message)  
+[`TypeError.prototype.message`](error/message)
 Error message. Although ECMA-262 specifies that [`TypeError`](typeerror) should provide its own `message` property, in [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), it inherits [`Error.prototype.message`](error/message).
 
-[`TypeError.prototype.name`](error/name)  
+[`TypeError.prototype.name`](error/name)
 Error name. Inherited from [`Error`](error).
 
-[`TypeError.prototype.fileName`](error/filename)  
+[`TypeError.prototype.fileName`](error/filename)
 Path to file that raised this error. Inherited from [`Error`](error).
 
-[`TypeError.prototype.lineNumber`](error/linenumber)  
+[`TypeError.prototype.lineNumber`](error/linenumber)
 Line number in file that raised this error. Inherited from [`Error`](error).
 
-[`TypeError.prototype.columnNumber`](error/columnnumber)  
+[`TypeError.prototype.columnNumber`](error/columnnumber)
 Column number in line that raised this error. Inherited from [`Error`](error).
 
-[`TypeError.prototype.stack`](error/stack)  
+[`TypeError.prototype.stack`](error/stack)
 Stack trace. Inherited from [`Error`](error).
 
 ## Examples
@@ -74,7 +74,7 @@ Stack trace. Inherited from [`Error`](error).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-typeerror">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-typeerror">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'TypeError' in that specification.</span>

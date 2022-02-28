@@ -8,7 +8,7 @@ The `Object.getOwnPropertyNames()` method returns an array of all properties (in
 
 ### Parameters
 
-`obj`  
+`obj`
 The object whose enumerable and non-enumerable properties are to be returned.
 
 ### Return value
@@ -115,7 +115,7 @@ This uses the [`Array.prototype.filter()`](../array/filter) function to remove t
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.getownpropertynames">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.getownpropertynames">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.getownpropertynames</span>
@@ -160,6 +160,6 @@ This uses the [`Array.prototype.filter()`](../array/filter) function to remove t
 -   [`Object.keys()`](keys)
 -   [`Array.forEach()`](../array/foreach)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyNames</a>

@@ -14,16 +14,16 @@ The `try...catch` statement marks a block of statements to try and specifies a r
       finally_statements
     }
 
-`try_statements`  
+`try_statements`
 The statements to be executed.
 
-`catch_statements`  
+`catch_statements`
 Statement that is executed if an exception is thrown in the `try`-block.
 
-`exception_var`  
+`exception_var`
 An optional identifier to hold an exception object for the associated `catch`-block.
 
-`finally_statements`  
+`finally_statements`
 Statements that are executed after the `try` statement completes. These statements execute regardless of whether an exception was thrown or caught.
 
 ## Description
@@ -210,7 +210,7 @@ The outer "oops" is not thrown because of the return in the `finally`-block. The
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-try-statement">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-try-statement">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'try statement' in that specification.</span>
@@ -307,6 +307,6 @@ No
 -   [`Error`](../global_objects/error)
 -   [`throw`](throw)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/try...catch</a>

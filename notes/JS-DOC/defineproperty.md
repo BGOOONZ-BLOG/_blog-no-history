@@ -8,13 +8,13 @@ The static method `Object.defineProperty()` defines a new property directly on a
 
 ### Parameters
 
-`obj`  
+`obj`
 The object on which to define the property.
 
-`prop`  
+`prop`
 The name or [`Symbol`](../symbol) of the property to be defined or modified.
 
-`descriptor`  
+`descriptor`
 The descriptor for the property being defined or modified.
 
 ### Return value
@@ -29,32 +29,32 @@ Property descriptors present in objects come in two main flavors: data descripto
 
 Both data and accessor descriptors are objects. They share the following optional keys (please note: the **defaults** mentioned here are in the case of defining properties using `Object.defineProperty()`):
 
-`configurable`  
-`true` if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.  
+`configurable`
+`true` if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.
 `false`
 
-`enumerable`  
-`true` if and only if this property shows up during enumeration of the properties on the corresponding object.  
+`enumerable`
+`true` if and only if this property shows up during enumeration of the properties on the corresponding object.
 `false`
 
 A **data descriptor** also has the following optional keys:
 
-`value`  
-The value associated with the property. Can be any valid JavaScript value (number, object, function, etc).  
+`value`
+The value associated with the property. Can be any valid JavaScript value (number, object, function, etc).
 **Defaults to [`undefined`](../undefined).**
 
-`writable`  
-`true` if the value associated with the property may be changed with an [assignment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators).  
+`writable`
+`true` if the value associated with the property may be changed with an [assignment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators).
 `false`
 
 An **accessor descriptor** also has the following optional keys:
 
-`get`  
-A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter. When the property is accessed, this function is called without arguments and with `this` set to the object through which the property is accessed (this may not be the object on which the property is defined due to inheritance). The return value will be used as the value of the property.  
+`get`
+A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter. When the property is accessed, this function is called without arguments and with `this` set to the object through which the property is accessed (this may not be the object on which the property is defined due to inheritance). The return value will be used as the value of the property.
 **Defaults to [`undefined`](../undefined).**
 
-`set`  
-A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter. When the property is assigned, this function is called with one argument (the value being assigned to the property) and with `this` set to the object through which the property is assigned.  
+`set`
+A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter. When the property is assigned, this function is called with one argument (the value being assigned to the property) and with `this` set to the object through which the property is assigned.
 **Defaults to [`undefined`](../undefined).**
 
 If a descriptor has neither of `value`, `writable`, `get` and `set` keys, it is treated as a data descriptor. If a descriptor has both \[`value` or `writable`\] and \[`get` or `set`\] keys, an exception is thrown.
@@ -412,7 +412,7 @@ Unlike accessor properties, value properties are always set on the object itself
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.defineproperty">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.defineproperty">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.defineproperty</span>
@@ -493,6 +493,6 @@ Chrome 37 (and below) has a [bug](https://bugs.chromium.org/p/v8/issues/detail?i
 -   [`Object.create()`](create)
 -   [`Reflect.defineProperty()`](../reflect/defineproperty)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty</a>

@@ -23,19 +23,19 @@ See also the [`find()`](find) method, which returns the **value** of a found ele
 
 ### Parameters
 
-`callbackFn`  
+`callbackFn`
 Function to execute on each value in the typed array, taking three arguments:
 
-`element`  
+`element`
 The current element being processed in the typed array.
 
-`index`  
+`index`
 The index of the current element being processed in the typed array.
 
-`array`  
+`array`
 The typed array `findIndex()` was called upon.
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 Object to use as `this` when executing `callbackFn`.
 
 ### Return value
@@ -123,7 +123,7 @@ The following example finds the index of an element in the typed array that is a
 <tbody>
 <tr class="odd">
 <td>
-<a href="#">ECMAScript Language Specification (ECMAScript) 
+<a href="#">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-%typedarray%.prototype.findindex</span>
@@ -164,6 +164,6 @@ No
 -   [`TypedArray.prototype.find()`](find)
 -   [`TypedArray.prototype.indexOf()`](indexof)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/findIndex" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/findIndex</a>

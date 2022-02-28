@@ -8,13 +8,13 @@ The `JSON` object contains methods for parsing [JavaScript Object Notation](http
 
 JSON is a syntax for serializing objects, arrays, numbers, strings, booleans, and [`null`](null). It is based upon JavaScript syntax but is distinct from it: some JavaScript is _not_ JSON.
 
-**Objects and Arrays**  
+**Objects and Arrays**
 Property names must be double-quoted strings; [trailing commas](../trailing_commas) are forbidden.
 
-**Numbers**  
+**Numbers**
 Leading zeros are prohibited. A decimal point must be followed by at least one digit. `NaN` and `Infinity` are unsupported.
 
-**Any JSON text is a valid JavaScript expression...**  
+**Any JSON text is a valid JavaScript expression...**
 ...But only in JavaScript engines that have implemented the [proposal to make all JSON text valid ECMA-262](https://github.com/tc39/proposal-json-superset). In engines that haven't implemented the proposal, U+2028 LINE SEPARATOR and U+2029 PARAGRAPH SEPARATOR are allowed in string literals and property keys in JSON; but their use in these features in JavaScript string literals is a [`SyntaxError`](syntaxerror).
 
 Consider this example where [`JSON.parse()`](json/parse) parses the string as JSON and [`Global_Objects/eval`](eval) executes the string as JavaScript:
@@ -81,10 +81,10 @@ Insignificant [whitespace](https://developer.mozilla.org/en-US/docs/Glossary/Whi
 
 ## Static methods
 
-[`JSON.parse(text[, reviver])`](json/parse)  
+[`JSON.parse(text[, reviver])`](json/parse)
 Parse the string `text` as JSON, optionally transform the produced value and its properties, and return the value. Any violations of the JSON syntax, including those pertaining to the differences between JavaScript and JSON, cause a [`SyntaxError`](syntaxerror) to be thrown. The `reviver` option allows for interpreting what the `replacer` has used to stand in for other datatypes.
 
-[`JSON.stringify(value[, replacer[, space]])`](json/stringify)  
+[`JSON.stringify(value[, replacer[, space]])`](json/stringify)
 Return a JSON string corresponding to the specified value, optionally including only certain properties or replacing property values in a user-defined manner. By default, all instances of [`undefined`](undefined) are replaced with [`null`](null), and other unsupported native data types are censored. The `replacer` option allows for specifying other behavior.
 
 ## Examples
@@ -119,7 +119,7 @@ Return a JSON string corresponding to the specified value, optionally including 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-json-object">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-json-object">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-json-object</span>

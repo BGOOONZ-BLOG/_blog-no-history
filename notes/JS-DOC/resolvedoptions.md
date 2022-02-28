@@ -14,38 +14,38 @@ A new object with properties reflecting the locale and number formatting options
 
 The resulting object has the following properties:
 
-`locale`  
+`locale`
 The BCP 47 language tag for the locale actually used. If any Unicode extension values were requested in the input BCP 47 language tag that led to this locale, the key-value pairs that were requested and are supported for this locale are included in `locale`.
 
-`numberingSystem`  
+`numberingSystem`
 The value provided for this properties in the `options` argument, if present, or the value requested using the Unicode extension key "`nu`" or filled in as a default.
 
-`notation`  
+`notation`
 The value provided for this property in the `options` argument, if present, or "`standard`" filled in as a default.
 
-`compactDisplay`  
-The value provided for this property in the `options` argument, or "`short`" filled in as a default.  
+`compactDisplay`
+The value provided for this property in the `options` argument, or "`short`" filled in as a default.
 This property is only present if the `notation` is set to "compact".
 
-`signDisplay`  
+`signDisplay`
 The value provided for this property in the `options` argument, or "`auto`" filled in as a default.
 
-`useGrouping`  
+`useGrouping`
 The values provided for these properties in the `options` argument or filled in as defaults.
 
-`currency`  
-`currencyDisplay`  
+`currency`
+`currencyDisplay`
 The values provided for these properties in the `options` argument or filled in as defaults. These properties are only present if `style` is "`currency`".
 
 Only one of the following two groups of properties is included:
 
-`minimumIntegerDigits`  
-`minimumFractionDigits`  
-`maximumFractionDigits`  
+`minimumIntegerDigits`
+`minimumFractionDigits`
+`maximumFractionDigits`
 The values provided for these properties in the `options` argument or filled in as defaults. These properties are present only if neither `minimumSignificantDigits` nor `maximumSignificantDigits` was provided in the `options` argument.
 
-`minimumSignificantDigits`  
-`maximumSignificantDigits`  
+`minimumSignificantDigits`
+`maximumSignificantDigits`
 The values provided for these properties in the `options` argument or filled in as defaults. These properties are present only if at least one of them was provided in the `options` argument.
 
 ## Examples
@@ -76,7 +76,7 @@ The values provided for these properties in the `options` argument or filled in 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl.numberformat.prototype.resolvedoptions">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl.numberformat.prototype.resolvedoptions">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl.numberformat.prototype.resolvedoptions</span>

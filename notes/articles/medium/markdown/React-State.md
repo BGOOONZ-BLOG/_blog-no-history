@@ -18,7 +18,7 @@ Demystified
 
 **Class Components**
 
--   <span id="3d48">You can write React components using ES2015 Classes:  
+-   <span id="3d48">You can write React components using ES2015 Classes:
     **Function Component**</span>
 
 <a href="https://gist.github.com/bgoonz/8223ee9f84bbc0fe7ad504efb3dc860d" class="markup--anchor markup--p-anchor">https://gist.github.com/bgoonz/8223ee9f84bbc0fe7ad504efb3dc860d</a>
@@ -301,7 +301,7 @@ Demystified
 
 ### Handling Events
 
--   <span id="46a0">To add an event listener to an element, just define a method to handle the event and associate that method with the element event you are listening for.  
+-   <span id="46a0">To add an event listener to an element, just define a method to handle the event and associate that method with the element event you are listening for.
     **Example**</span>
 
 <!-- -->

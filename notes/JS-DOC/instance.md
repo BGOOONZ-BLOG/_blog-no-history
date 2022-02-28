@@ -4,12 +4,12 @@ A `WebAssembly.Instance` object is a stateful, executable instance of a [`WebAss
 
 ## Constructor
 
-[`WebAssembly.Instance()`](instance/instance)  
+[`WebAssembly.Instance()`](instance/instance)
 Creates a new `Instance` object.
 
 ## Instance properties
 
-[`Instance.prototype.exports`](instance/exports)  
+[`Instance.prototype.exports`](instance/exports)
 Returns an object containing as its members all the functions exported from the WebAssembly module instance, to allow them to be accessed and used by JavaScript. Read-only.
 
 ## Examples
@@ -60,7 +60,7 @@ This also demonstrates how the `exports` property is used to access exported fun
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#instances">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#instances">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#instances</span>
@@ -166,6 +166,6 @@ Disabled in the Firefox 52 Extended Support Release (ESR).
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Instance</a>

@@ -4,33 +4,33 @@ The `Intl` object is the namespace for the ECMAScript Internationalization API, 
 
 ## Constructor properties
 
-[`Intl.Collator()`](intl/collator/collator)  
+[`Intl.Collator()`](intl/collator/collator)
 Constructor for collators, which are objects that enable language-sensitive string comparison.
 
-[`Intl.DateTimeFormat()`](intl/datetimeformat/datetimeformat)  
+[`Intl.DateTimeFormat()`](intl/datetimeformat/datetimeformat)
 Constructor for objects that enable language-sensitive date and time formatting.
 
-[`Intl.DisplayNames()`](intl/displaynames/displaynames)  
+[`Intl.DisplayNames()`](intl/displaynames/displaynames)
 Constructor for objects that enable the consistent translation of language, region and script display names.
 
-[`Intl.ListFormat()`](intl/listformat/listformat)  
+[`Intl.ListFormat()`](intl/listformat/listformat)
 Constructor for objects that enable language-sensitive list formatting.
 
-[`Intl.Locale()`](intl/locale/locale)  
+[`Intl.Locale()`](intl/locale/locale)
 Constructor for objects that represents a Unicode locale identifier.
 
-[`Intl.NumberFormat()`](intl/numberformat/numberformat)  
+[`Intl.NumberFormat()`](intl/numberformat/numberformat)
 Constructor for objects that enable language-sensitive number formatting.
 
-[`Intl.PluralRules()`](intl/pluralrules/pluralrules)  
+[`Intl.PluralRules()`](intl/pluralrules/pluralrules)
 Constructor for objects that enable plural-sensitive formatting and language-specific rules for plurals.
 
-[`Intl.RelativeTimeFormat()`](intl/relativetimeformat/relativetimeformat)  
+[`Intl.RelativeTimeFormat()`](intl/relativetimeformat/relativetimeformat)
 Constructor for objects that enable language-sensitive relative time formatting.
 
 ## Static methods
 
-[`Intl.getCanonicalLocales()`](intl/getcanonicallocales)  
+[`Intl.getCanonicalLocales()`](intl/getcanonicallocales)
 Returns canonical locale names.
 
 ## Locale identification and negotiation
@@ -120,7 +120,7 @@ You can use `Intl` to format dates and numbers in a form that's conventional for
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#intl-object">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#intl-object">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#intl-object</span>

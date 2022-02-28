@@ -8,7 +8,7 @@ The `setUTCMilliseconds()` method sets the milliseconds for a specified date acc
 
 ### Parameters
 
-`millisecondsValue`  
+`millisecondsValue`
 A number between 0 and 999, representing the milliseconds.
 
 ### Return value
@@ -37,7 +37,7 @@ If a parameter you specify is outside of the expected range, `setUTCMilliseconds
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setutcmilliseconds">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setutcmilliseconds">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setutcmilliseconds</span>

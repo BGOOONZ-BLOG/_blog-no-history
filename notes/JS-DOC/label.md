@@ -7,10 +7,10 @@ The **labeled statement** can be used with [`break`](break) or [`continue`](cont
     label :
       statement
 
-`label`  
+`label`
 Any JavaScript identifier that is not a reserved word.
 
-`statement`  
+`statement`
 A JavaScript statement. `break` can be used with any labeled statement, and `continue` can be used with looping labeled statements.
 
 ## Description
@@ -149,7 +149,7 @@ In [strict mode](../strict_mode) code, however, this will throw a [`SyntaxError`
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-labelled-statements">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-labelled-statements">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Labelled statement' in that specification.</span>
@@ -190,6 +190,6 @@ In [strict mode](../strict_mode) code, however, this will throw a [`SyntaxError`
 -   [`break`](break)
 -   [`continue`](continue)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/label</a>

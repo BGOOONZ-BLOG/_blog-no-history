@@ -14,7 +14,7 @@ This helps to avoid duplicating code in both the promise's [`then()`](then) and 
 
 ### Parameters
 
-`onFinally`  
+`onFinally`
 A [`Function`](../function) called when the `Promise` is settled.
 
 ### Return value
@@ -62,7 +62,7 @@ The `finally()` method is very similar to calling `.then(onFinally, onFinally)` 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise.prototype.finally">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise.prototype.finally">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise.prototype.finally</span>
@@ -104,6 +104,6 @@ No
 -   [`Promise.prototype.then()`](then)
 -   [`Promise.prototype.catch()`](catch)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/finally</a>

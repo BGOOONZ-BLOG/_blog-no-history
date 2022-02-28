@@ -8,7 +8,7 @@ The `Math.fround()` function returns the nearest [32-bit single precision](https
 
 ### Parameters
 
-`doubleFloat`  
+`doubleFloat`
 A [`Number`](../number). If the parameter is of a different type, it will get converted to a number or to [`NaN`](../nan) if it cannot be converted.
 
 ### Return value
@@ -87,7 +87,7 @@ Supporting older browsers is slower, but also possible:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.fround">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.fround">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.fround</span>
@@ -127,6 +127,6 @@ No
 
 -   [`Math.round()`](round)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/fround" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/fround</a>

@@ -10,13 +10,13 @@ The `fill()` method changes all elements in an array to a static value, from a s
 
 ### Parameters
 
-`value`  
+`value`
 Value to fill the array with. (Note all elements in the array will be this exact value.)
 
-`start` <span class="badge inline optional">Optional</span>  
+`start` <span class="badge inline optional">Optional</span>
 Start index, default `0`.
 
-`end` <span class="badge inline optional">Optional</span>  
+`end` <span class="badge inline optional">Optional</span>
 End index, default `arr.length`.
 
 ### Return value
@@ -123,7 +123,7 @@ This example shows how to create a matrix of all 1, like the _ones()_ function o
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.fill">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.fill">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Array.prototype.fill' in that specification.</span>

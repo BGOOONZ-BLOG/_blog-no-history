@@ -60,7 +60,7 @@ To force the base of an exponentiation expression to be a negative number:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-exp-operator">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-exp-operator">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-exp-operator</span>
@@ -108,6 +108,6 @@ No
 -   [Unary negation operator](unary_negation)
 -   [Unary plus operator](unary_plus)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Exponentiation</a>

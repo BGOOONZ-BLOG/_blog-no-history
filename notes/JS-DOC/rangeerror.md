@@ -14,27 +14,27 @@ This can be encountered when:
 
 ## Constructor
 
-[`RangeError()`](rangeerror/rangeerror)  
+[`RangeError()`](rangeerror/rangeerror)
 Creates a new `RangeError` object.
 
 ## Instance properties
 
-[`RangeError.prototype.message`](error/message)  
+[`RangeError.prototype.message`](error/message)
 Error message. Although ECMA-262 specifies that [`RangeError`](rangeerror) should provide its own `message` property, in [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), it inherits [`Error.prototype.message`](error/message).
 
-[`RangeError.prototype.name`](error/name)  
+[`RangeError.prototype.name`](error/name)
 Error name. Inherited from [`Error`](error).
 
-[`RangeError.prototype.fileName`](error/filename)  
+[`RangeError.prototype.fileName`](error/filename)
 Path to file that raised this error. Inherited from [`Error`](error).
 
-[`RangeError.prototype.lineNumber`](error/linenumber)  
+[`RangeError.prototype.lineNumber`](error/linenumber)
 Line number in file that raised this error. Inherited from [`Error`](error).
 
-[`RangeError.prototype.columnNumber`](error/columnnumber)  
+[`RangeError.prototype.columnNumber`](error/columnnumber)
 Column number in line that raised this error. Inherited from [`Error`](error).
 
-[`RangeError.prototype.stack`](error/stack)  
+[`RangeError.prototype.stack`](error/stack)
 Stack trace. Inherited from [`Error`](error).
 
 ## Examples
@@ -94,7 +94,7 @@ Stack trace. Inherited from [`Error`](error).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-rangeerror">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-rangeerror">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-native-error-types-used-in-this-standard-rangeerror</span>

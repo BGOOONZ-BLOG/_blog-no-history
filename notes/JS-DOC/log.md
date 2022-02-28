@@ -12,7 +12,7 @@ The JavaScript `Math.log()` function is equivalent to _ln(x)_ in mathematics.
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -59,7 +59,7 @@ If you run `getBaseLog(10, 1000)` it returns `2.9999999999999996` due to floatin
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.log">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.log">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.log</span>
@@ -103,6 +103,6 @@ If you run `getBaseLog(10, 1000)` it returns `2.9999999999999996` due to floatin
 -   [`Math.log2()`](log2)
 -   [`Math.pow()`](pow)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/log</a>

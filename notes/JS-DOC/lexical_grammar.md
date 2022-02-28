@@ -605,7 +605,7 @@ Here `++` is not treated as a [postfix operator](https://developer.mozilla.org/e
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-ecmascript-language-lexical-grammar">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-ecmascript-language-lexical-grammar">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Lexical Grammar' in that specification.</span>

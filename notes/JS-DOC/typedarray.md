@@ -242,135 +242,135 @@ Where TypedArray is a constructor for one of the concrete types.
 
 ### Parameters
 
-`length`  
+`length`
 When called with a `length` argument, an internal array buffer is created in memory, of size `length` _multiplied by `BYTES_PER_ELEMENT`_ bytes, containing zeros.
 
-`typedArray`  
+`typedArray`
 When called with a `typedArray` argument, which can be an object of any of the typed array types (such as `Int32Array`), the `typedArray` gets copied into a new typed array. Each value in `typedArray` is converted to the corresponding type of the constructor before being copied into the new array. The length of the new typed array will be same as the length of the `typedArray` argument.
 
-`object`  
+`object`
 When called with an `object` argument, a new typed array is created as if by the `TypedArray.from()` method.
 
-`buffer`, `byteOffset`, `length`  
+`buffer`, `byteOffset`, `length`
 When called with a `buffer`, and optionally a `byteOffset` and a `length` argument, a new typed array view is created that views the specified [`ArrayBuffer`](arraybuffer). The `byteOffset` and `length` parameters specify the memory range that will be exposed by the typed array view. If both are omitted, all of `buffer` is viewed; if only `length` is omitted, the remainder of `buffer` is viewed.
 
 ## Static properties
 
-[`TypedArray.BYTES_PER_ELEMENT`](typedarray/bytes_per_element)  
+[`TypedArray.BYTES_PER_ELEMENT`](typedarray/bytes_per_element)
 Returns a number value of the element size for the different `TypedArray` objects.
 
-[`TypedArray.name`](typedarray/name)  
+[`TypedArray.name`](typedarray/name)
 Returns the string value of the constructor name (e.g, "`Int8Array`").
 
-[`get TypedArray[@@species]`](typedarray/@@species)  
+[`get TypedArray[@@species]`](typedarray/@@species)
 The constructor function used to create derived objects.
 
-[`TypedArray.prototype`](typedarray)  
+[`TypedArray.prototype`](typedarray)
 Prototype for `TypedArray` objects.
 
 ## Static methods
 
-[`TypedArray.from()`](typedarray/from)  
+[`TypedArray.from()`](typedarray/from)
 Creates a new `TypedArray` from an array-like or iterable object. See also [`Array.from()`](array/from).
 
-[`TypedArray.of()`](typedarray/of)  
+[`TypedArray.of()`](typedarray/of)
 Creates a new `TypedArray` with a variable number of arguments. See also [`Array.of()`](array/of).
 
 ## Instance properties
 
-[`TypedArray.prototype.buffer`](typedarray/buffer)  
+[`TypedArray.prototype.buffer`](typedarray/buffer)
 Returns the [`ArrayBuffer`](arraybuffer) referenced by the typed array. Fixed at construction time and thus **read only**.
 
-[`TypedArray.prototype.byteLength`](typedarray/bytelength)  
+[`TypedArray.prototype.byteLength`](typedarray/bytelength)
 Returns the length (in bytes) of the typed array. Fixed at construction time and thus **read only.**
 
-[`TypedArray.prototype.byteOffset`](typedarray/byteoffset)  
+[`TypedArray.prototype.byteOffset`](typedarray/byteoffset)
 Returns the offset (in bytes) of the typed array from the start of its [`ArrayBuffer`](arraybuffer). Fixed at construction time and thus **read only.**
 
-[`TypedArray.prototype.length`](typedarray/length)  
+[`TypedArray.prototype.length`](typedarray/length)
 Returns the number of elements held in the typed array. Fixed at construction time and thus **read only.**
 
 ## Instance methods
 
-[`TypedArray.prototype.at()`](typedarray/at)  
+[`TypedArray.prototype.at()`](typedarray/at)
 Takes an integer value and returns the item at that index. This method allows for negative integers, which count back from the last item.
 
-[`TypedArray.prototype.copyWithin()`](typedarray/copywithin)  
+[`TypedArray.prototype.copyWithin()`](typedarray/copywithin)
 Copies a sequence of array elements within the array. See also [`Array.prototype.copyWithin()`](array/copywithin).
 
-[`TypedArray.prototype.entries()`](typedarray/entries)  
+[`TypedArray.prototype.entries()`](typedarray/entries)
 Returns a new array iterator object that contains the key/value pairs for each index in the array. See also [`Array.prototype.entries()`](array/entries).
 
-[`TypedArray.prototype.every()`](typedarray/every)  
+[`TypedArray.prototype.every()`](typedarray/every)
 Tests whether all elements in the array pass the test provided by a function. See also [`Array.prototype.every()`](array/every).
 
-[`TypedArray.prototype.fill()`](typedarray/fill)  
+[`TypedArray.prototype.fill()`](typedarray/fill)
 Fills all the elements of an array from a start index to an end index with a static value. See also [`Array.prototype.fill()`](array/fill).
 
-[`TypedArray.prototype.filter()`](typedarray/filter)  
+[`TypedArray.prototype.filter()`](typedarray/filter)
 Creates a new array with all of the elements of this array for which the provided filtering function returns `true`. See also [`Array.prototype.filter()`](array/filter).
 
-[`TypedArray.prototype.find()`](typedarray/find)  
+[`TypedArray.prototype.find()`](typedarray/find)
 Returns the found value in the array, if an element in the array satisfies the provided testing function, or `undefined` if not found. See also [`Array.prototype.find()`](array/find).
 
-[`TypedArray.prototype.findIndex()`](typedarray/findindex)  
+[`TypedArray.prototype.findIndex()`](typedarray/findindex)
 Returns the found index in the array, if an element in the array satisfies the provided testing function or `-1` if not found. See also [`Array.prototype.findIndex()`](array/findindex).
 
-[`TypedArray.prototype.forEach()`](typedarray/foreach)  
+[`TypedArray.prototype.forEach()`](typedarray/foreach)
 Calls a function for each element in the array. See also [`Array.prototype.forEach()`](array/foreach).
 
-[`TypedArray.prototype.includes()`](typedarray/includes)  
+[`TypedArray.prototype.includes()`](typedarray/includes)
 Determines whether a typed array includes a certain element, returning `true` or `false` as appropriate. See also [`Array.prototype.includes()`](array/includes).
 
-[`TypedArray.prototype.indexOf()`](typedarray/indexof)  
+[`TypedArray.prototype.indexOf()`](typedarray/indexof)
 Returns the first (least) index of an element within the array equal to the specified value, or `-1` if none is found. See also [`Array.prototype.indexOf()`](array/indexof).
 
-[`TypedArray.prototype.join()`](typedarray/join)  
+[`TypedArray.prototype.join()`](typedarray/join)
 Joins all elements of an array into a string. See also [`Array.prototype.join()`](array/join).
 
-[`TypedArray.prototype.keys()`](typedarray/keys)  
+[`TypedArray.prototype.keys()`](typedarray/keys)
 Returns a new array iterator that contains the keys for each index in the array. See also [`Array.prototype.keys()`](array/keys).
 
-[`TypedArray.prototype.lastIndexOf()`](typedarray/lastindexof)  
+[`TypedArray.prototype.lastIndexOf()`](typedarray/lastindexof)
 Returns the last (greatest) index of an element within the array equal to the specified value, or `-1` if none is found. See also [`Array.prototype.lastIndexOf()`](array/lastindexof).
 
-[`TypedArray.prototype.map()`](typedarray/map)  
+[`TypedArray.prototype.map()`](typedarray/map)
 Creates a new array with the results of calling a provided function on every element in this array. See also [`Array.prototype.map()`](array/map).
 
-[`TypedArray.prototype.reduce()`](typedarray/reduce)  
+[`TypedArray.prototype.reduce()`](typedarray/reduce)
 Apply a function against an accumulator and each value of the array (from left-to-right) as to reduce it to a single value. See also [`Array.prototype.reduce()`](array/reduce).
 
-[`TypedArray.prototype.reduceRight()`](typedarray/reduceright)  
+[`TypedArray.prototype.reduceRight()`](typedarray/reduceright)
 Apply a function against an accumulator and each value of the array (from right-to-left) as to reduce it to a single value. See also [`Array.prototype.reduceRight()`](array/reduceright).
 
-[`TypedArray.prototype.reverse()`](typedarray/reverse)  
+[`TypedArray.prototype.reverse()`](typedarray/reverse)
 Reverses the order of the elements of an array — the first becomes the last, and the last becomes the first. See also [`Array.prototype.reverse()`](array/reverse).
 
-[`TypedArray.prototype.set()`](typedarray/set)  
+[`TypedArray.prototype.set()`](typedarray/set)
 Stores multiple values in the typed array, reading input values from a specified array.
 
-[`TypedArray.prototype.slice()`](typedarray/slice)  
+[`TypedArray.prototype.slice()`](typedarray/slice)
 Extracts a section of an array and returns a new array. See also [`Array.prototype.slice()`](array/slice).
 
-[`TypedArray.prototype.some()`](typedarray/some)  
+[`TypedArray.prototype.some()`](typedarray/some)
 Returns `true` if at least one element in this array satisfies the provided testing function. See also [`Array.prototype.some()`](array/some).
 
-[`TypedArray.prototype.sort()`](typedarray/sort)  
+[`TypedArray.prototype.sort()`](typedarray/sort)
 Sorts the elements of an array in place and returns the array. See also [`Array.prototype.sort()`](array/sort).
 
-[`TypedArray.prototype.subarray()`](typedarray/subarray)  
+[`TypedArray.prototype.subarray()`](typedarray/subarray)
 Returns a new `TypedArray` from the given start and end element index.
 
-[`TypedArray.prototype.values()`](typedarray/values)  
+[`TypedArray.prototype.values()`](typedarray/values)
 Returns a new array iterator object that contains the values for each index in the array. See also [`Array.prototype.values()`](array/values).
 
-[`TypedArray.prototype.toLocaleString()`](typedarray/tolocalestring)  
+[`TypedArray.prototype.toLocaleString()`](typedarray/tolocalestring)
 Returns a localized string representing the array and its elements. See also [`Array.prototype.toLocaleString()`](array/tolocalestring).
 
-[`TypedArray.prototype.toString()`](typedarray/tostring)  
+[`TypedArray.prototype.toString()`](typedarray/tostring)
 Returns a string representing the array and its elements. See also [`Array.prototype.toString()`](array/tostring).
 
-[`TypedArray.prototype[@@iterator]()`](typedarray/@@iterator)  
+[`TypedArray.prototype[@@iterator]()`](typedarray/@@iterator)
 Returns a new array iterator object that contains the values for each index in the array.
 
 ## Examples
@@ -419,7 +419,7 @@ You can reference elements in the array using standard array index syntax (that 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-typedarray-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-typedarray-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-typedarray-objects</span>

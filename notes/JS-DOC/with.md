@@ -9,10 +9,10 @@ The **with statement** extends the scope chain for a statement.
     with (expression)
       statement
 
-`expression`  
+`expression`
 Adds the given expression to the scope chain used when evaluating the statement. The parentheses around the expression are required.
 
-`statement`  
+`statement`
 Any statement. To execute multiple statements, use a [block](block) statement ({ ... }) to group those statements.
 
 ## Description
@@ -75,7 +75,7 @@ The following `with` statement specifies that the [`Math`](../global_objects/mat
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-with-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-with-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-with-statement</span>
@@ -148,6 +148,6 @@ Samsung Internet
 -   [`Symbol.unscopables`](../global_objects/symbol/unscopables)
 -   [`Array.prototype[@@unscopables]`](../global_objects/array/@@unscopables)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/with</a>

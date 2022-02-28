@@ -101,7 +101,7 @@ So far we have learned about 6 different data types:
 
 ### Rest and Spread
 
-**Using the Spread Operator and Rest Parameter Syntax**  
+**Using the Spread Operator and Rest Parameter Syntax**
 **Accepting Arguments**
 
 -   <span id="5f1f">Just keep in mind that function will still run even if it is not passed any arguments.</span>
@@ -128,7 +128,7 @@ So far we have learned about 6 different data types:
 
 ### Destructuring Parameters
 
-We can also destructure **incoming parameters** of a function.  
+We can also destructure **incoming parameters** of a function.
  This is very useful when we're passing objects around to different functions.
 
 ---

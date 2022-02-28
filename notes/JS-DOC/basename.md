@@ -45,7 +45,7 @@ An [`Intl.Locale`](../locale) object represents a parsed local and options for t
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.baseName">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.baseName">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-Intl.Locale.prototype.baseName</span>

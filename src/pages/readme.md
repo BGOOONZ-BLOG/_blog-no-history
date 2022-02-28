@@ -12949,7 +12949,7 @@ Prism.languages.markup.tag.addAttribute(
 
         │   └──  ./plugins/gatsby-remark-page-creator/gatsby-node.js
 
-        │   
+        │
 
         └── ./plugins/gatsby-source-data
 

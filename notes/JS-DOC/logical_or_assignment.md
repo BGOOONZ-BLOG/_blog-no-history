@@ -51,7 +51,7 @@ Note: Pay attention to the value returned by the API you're checking against. If
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-assignment-operators">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-assignment-operators">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-assignment-operators</span>
@@ -96,6 +96,6 @@ No
 -   [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 -   [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR_assignment</a>

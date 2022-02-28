@@ -8,8 +8,8 @@ The `Intl.Collator.prototype.compare()` method compares two strings according to
 
 ### Parameters
 
-`string1`  
-`string2`  
+`string1`
+`string2`
 The strings to compare against each other.
 
 ## Description
@@ -50,7 +50,7 @@ Use the `compare` getter function for finding matching strings in arrays:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl.collator.prototype.compare">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl.collator.prototype.compare">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl.collator.prototype.compare</span>

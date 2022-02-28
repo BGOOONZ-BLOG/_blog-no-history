@@ -12,10 +12,10 @@ The new `locales` and `options` arguments let applications specify the language 
 
 ### Parameters
 
-`compareString`  
+`compareString`
 The string against which the `referenceStr` is compared.
 
-`locales` and `options`  
+`locales` and `options`
 These arguments customize the behavior of the function and let applications specify the language whose formatting conventions should be used. In implementations which ignore the `locales` and `options` arguments, the locale used and the form of the string returned are entirely implementation-dependent.
 
 See the [`Intl.Collator()` constructor](../intl/collator/collator) for details on these parameters and how to use them.
@@ -115,7 +115,7 @@ The results provided by `localeCompare()` can be customized using the `options` 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.localecompare">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.localecompare">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.localecompare</span>
@@ -216,6 +216,6 @@ No
 
 -   [`Intl.Collator`](../intl/collator)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/localeCompare</a>

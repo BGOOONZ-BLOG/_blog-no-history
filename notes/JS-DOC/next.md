@@ -8,7 +8,7 @@ The `next()` method returns an object with two properties `done` and `value`. Yo
 
 ### Parameters
 
-`value`  
+`value`
 The value to send to the generator.
 
 The value will be assigned as a result of a `yield` expression. For example, in `variable = yield expression`, the value passed to the `.next()` function will be assigned to `variable`.
@@ -17,12 +17,12 @@ The value will be assigned as a result of a `yield` expression. For example, in 
 
 An [`Object`](../object) with two properties:
 
-`done` (boolean)  
+`done` (boolean)
 Has the value `true` if the iterator is past the end of the iterated sequence. In this case `value` optionally specifies the _return value_ of the iterator.
 
 Has the value `false` if the iterator was able to produce the next value in the sequence. This is equivalent of not specifying the `done` property altogether.
 
-`value`  
+`value`
 Any JavaScript value returned by the iterator. Can be omitted when `done` is `true`.
 
 ## Examples
@@ -101,7 +101,7 @@ Note that the first call does not log anything, because the generator was not yi
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-generator.prototype.next">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-generator.prototype.next">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-generator.prototype.next</span>

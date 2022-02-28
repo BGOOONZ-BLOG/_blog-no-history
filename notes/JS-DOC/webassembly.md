@@ -14,45 +14,45 @@ The primary uses for the `WebAssembly` object are:
 
 ## Constructor properties
 
-[`WebAssembly.CompileError()`](webassembly/compileerror/compileerror)  
+[`WebAssembly.CompileError()`](webassembly/compileerror/compileerror)
 Indicates an error during WebAssembly decoding or validation.
 
-[`WebAssembly.Global()`](webassembly/global/global)  
+[`WebAssembly.Global()`](webassembly/global/global)
 Represents a global variable instance, accessible from both JavaScript and importable/exportable across one or more [`WebAssembly.Module`](webassembly/module) instances. This allows dynamic linking of multiple modules.
 
-[`WebAssembly.Instance()`](webassembly/instance/instance)  
+[`WebAssembly.Instance()`](webassembly/instance/instance)
 Is a stateful, executable instance of a [WebAssembly.Module](webassembly/module)
 
-[`WebAssembly.LinkError()`](webassembly/linkerror/linkerror)  
+[`WebAssembly.LinkError()`](webassembly/linkerror/linkerror)
 Indicates an error during module instantiation (besides [traps](https://webassembly.org/docs/semantics/#traps) from the start function).
 
-[`WebAssembly.Memory()`](webassembly/memory/memory)  
+[`WebAssembly.Memory()`](webassembly/memory/memory)
 An object whose [`buffer`](webassembly/memory/buffer) property is a resizable [ArrayBuffer](arraybuffer) that holds the raw bytes of memory accessed by a WebAssembly `Instance`.
 
-[`WebAssembly.Module()`](webassembly/module/module)  
+[`WebAssembly.Module()`](webassembly/module/module)
 Contains stateless WebAssembly code that has already been compiled by the browser and can be efficiently [shared with Workers](https://developer.mozilla.org/en-US/docs/Web/API/Worker/postMessage), and instantiated multiple times.
 
-[`WebAssembly.RuntimeError()`](webassembly/runtimeerror/runtimeerror)  
+[`WebAssembly.RuntimeError()`](webassembly/runtimeerror/runtimeerror)
 Error type that is thrown whenever WebAssembly specifies a [trap](https://webassembly.org/docs/semantics/#traps).
 
-[`WebAssembly.Table()`](webassembly/table/table)  
+[`WebAssembly.Table()`](webassembly/table/table)
 An array-like structure representing a WebAssembly Table, which stores function references.
 
 ## Static methods
 
-[`WebAssembly.instantiate()`](webassembly/instantiate)  
+[`WebAssembly.instantiate()`](webassembly/instantiate)
 The primary API for compiling and instantiating WebAssembly code, returning both a `Module` and its first `Instance`.
 
-[`WebAssembly.instantiateStreaming()`](webassembly/instantiatestreaming)  
+[`WebAssembly.instantiateStreaming()`](webassembly/instantiatestreaming)
 Compiles and instantiates a WebAssembly module directly from a streamed underlying source, returning both a `Module` and its first `Instance`.
 
-[`WebAssembly.compile()`](webassembly/compile)  
+[`WebAssembly.compile()`](webassembly/compile)
 Compiles a [`WebAssembly.Module`](webassembly/module) from WebAssembly binary code, leaving instantiation as a separate step.
 
-[`WebAssembly.compileStreaming()`](webassembly/compilestreaming)  
+[`WebAssembly.compileStreaming()`](webassembly/compilestreaming)
 compiles a [`WebAssembly.Module`](webassembly/module) directly from a streamed underlying source, leaving instantiation as a separate step.
 
-[`WebAssembly.validate()`](webassembly/validate)  
+[`WebAssembly.validate()`](webassembly/validate)
 Validates a given typed array of WebAssembly binary code, returning whether the bytes are valid WebAssembly code (`true`) or not (`false`).
 
 ## Examples
@@ -79,7 +79,7 @@ The `ResultObject`'s instance member is then accessed, and the contained exporte
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#webassembly-namespace">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#webassembly-namespace">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#webassembly-namespace</span>

@@ -16,40 +16,40 @@ The `wait()` and `notify()` methods are modeled on Linux futexes ("fast user-spa
 
 ## Static methods
 
-[`Atomics.add()`](atomics/add)  
+[`Atomics.add()`](atomics/add)
 Adds the provided value to the existing value at the specified index of the array. Returns the old value at that index.
 
-[`Atomics.and()`](atomics/and)  
+[`Atomics.and()`](atomics/and)
 Computes a bitwise AND on the value at the specified index of the array with the provided value. Returns the old value at that index.
 
-[`Atomics.compareExchange()`](atomics/compareexchange)  
+[`Atomics.compareExchange()`](atomics/compareexchange)
 Stores a value at the specified index of the array, if it equals a value. Returns the old value.
 
-[`Atomics.exchange()`](atomics/exchange)  
+[`Atomics.exchange()`](atomics/exchange)
 Stores a value at the specified index of the array. Returns the old value.
 
-[`Atomics.isLockFree(size)`](atomics/islockfree)  
+[`Atomics.isLockFree(size)`](atomics/islockfree)
 An optimization primitive that can be used to determine whether to use locks or atomic operations. Returns `true` if an atomic operation on arrays of the given element size will be implemented using a hardware atomic operation (as opposed to a lock). Experts only.
 
-[`Atomics.load()`](atomics/load)  
+[`Atomics.load()`](atomics/load)
 Returns the value at the specified index of the array.
 
-[`Atomics.notify()`](atomics/notify)  
+[`Atomics.notify()`](atomics/notify)
 Notifies agents that are waiting on the specified index of the array. Returns the number of agents that were notified.
 
-[`Atomics.or()`](atomics/or)  
+[`Atomics.or()`](atomics/or)
 Computes a bitwise OR on the value at the specified index of the array with the provided value. Returns the old value at that index.
 
-[`Atomics.store()`](atomics/store)  
+[`Atomics.store()`](atomics/store)
 Stores a value at the specified index of the array. Returns the value.
 
-[`Atomics.sub()`](atomics/sub)  
+[`Atomics.sub()`](atomics/sub)
 Subtracts a value at the specified index of the array. Returns the old value at that index.
 
-[`Atomics.wait()`](atomics/wait)  
+[`Atomics.wait()`](atomics/wait)
 Verifies that the specified index of the array still contains a value and sleeps awaiting or times out. Returns either "`ok`", "`not-equal`", or "`timed-out`". If waiting is not allowed in the calling agent then it throws an [`Error`](error) exception. (Most browsers will not allow `wait()` on the browser's main thread.)
 
-[`Atomics.xor()`](atomics/xor)  
+[`Atomics.xor()`](atomics/xor)
 Computes a bitwise XOR on the value at the specified index of the array with the provided value. Returns the old value at that index.
 
 ## Examples
@@ -119,7 +119,7 @@ A writing thread stores a new value and notifies the waiting thread once it has 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics-object">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics-object">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics-object</span>

@@ -8,40 +8,40 @@ The `Object.defineProperties()` method defines new or modifies existing properti
 
 ### Parameters
 
-`obj`  
+`obj`
 The object on which to define or modify properties.
 
-`props`  
+`props`
 An object whose keys represent the names of properties to be defined or modified and whose values are objects describing those properties. Each value in `props` must be either a data descriptor or an accessor descriptor; it cannot be both (see [`Object.defineProperty()`](defineproperty) for more details).
 
 Data descriptors and accessor descriptors may optionally contain the following keys:
 
-`configurable`  
-`true` if and only if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.  
+`configurable`
+`true` if and only if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.
 `false`
 
-`enumerable`  
-`true` if and only if this property shows up during enumeration of the properties on the corresponding object.  
+`enumerable`
+`true` if and only if this property shows up during enumeration of the properties on the corresponding object.
 `false`
 
 A data descriptor also has the following optional keys:
 
-`value`  
-The value associated with the property. Can be any valid JavaScript value (number, object, function, etc).  
+`value`
+The value associated with the property. Can be any valid JavaScript value (number, object, function, etc).
 **Defaults to [`undefined`](../undefined).**
 
-`writable`  
-`true` if and only if the value associated with the property may be changed with an [assignment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators).  
+`writable`
+`true` if and only if the value associated with the property may be changed with an [assignment operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators#assignment_operators).
 `false`
 
 An accessor descriptor also has the following optional keys:
 
-`get`  
-A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter. The function's return value will be used as the value of the property.  
+`get`
+A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter. The function's return value will be used as the value of the property.
 **Defaults to [`undefined`](../undefined).**
 
-`set`  
-A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter. The function will receive as its only argument the new value being assigned to the property.  
+`set`
+A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter. The function will receive as its only argument the new value being assigned to the property.
 **Defaults to [`undefined`](../undefined).**
 
 If a descriptor has neither of `value`, `writable`, `get` and `set` keys, it is treated as a data descriptor. If a descriptor has both `value` or `writable` and `get` or `set` keys, an exception is thrown.
@@ -143,7 +143,7 @@ Assuming a pristine execution environment with all names and properties referrin
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.defineproperties">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.defineproperties">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.defineproperties</span>
@@ -185,6 +185,6 @@ Assuming a pristine execution environment with all names and properties referrin
 -   [`Object.keys()`](keys)
 -   [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperties</a>

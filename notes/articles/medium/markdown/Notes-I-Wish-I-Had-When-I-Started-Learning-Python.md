@@ -163,7 +163,7 @@ Plus resources for learning data structures and algorithms in python at the bott
     last_name = "Bob"
     print('Your name is {0} {1}'.format(first_name, last_name))  # => Your name is Billy Bob
 
--   <span id="68ab">Shorthand way to use format function is:  
+-   <span id="68ab">Shorthand way to use format function is:
     `print(f'Your name is {first_name} {last_name}')`</span>
 -   <span id="e860">Some useful string methods.</span>
 -   <span id="205c">Note that in JS `join` is used on an Array, in Python it is used on String.</span>
@@ -210,7 +210,7 @@ Plus resources for learning data structures and algorithms in python at the bott
     a = 'seventeen'
     print(a)         # => seventeen
 
--   <span id="a5fe">`NaN` does not exist in Python, but you can 'create' it like so:  
+-   <span id="a5fe">`NaN` does not exist in Python, but you can 'create' it like so:
     `print(float("nan"))`</span>
 -   <span id="8e6f">Python replaces `null` with `none`.</span>
 -   <span id="2ce7">`none` is an object and can be directly assigned to a variable.</span>

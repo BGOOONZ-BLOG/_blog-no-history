@@ -8,7 +8,7 @@ The `search()` method executes a search for a match between a regular expression
 
 ### Parameters
 
-`regexp`  
+`regexp`
 A [regular expression](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions) object.
 
 If a non-RegExp object `regexp` is passed, it is implicitly converted to a [`RegExp`](../regexp) with `new RegExp(regexp)`.
@@ -46,7 +46,7 @@ The following example searches a string with two different regex objects to show
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.search">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.search">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.search</span>
@@ -144,6 +144,6 @@ No
 -   [`String.prototype.match()`](match)
 -   [`RegExp.prototype.exec()`](../regexp/exec)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/search</a>

@@ -8,7 +8,7 @@ The `isNaN()` function determines whether a value is [`NaN`](nan) or not. Becaus
 
 ### Parameters
 
-`value`  
+`value`
 The value to be tested.
 
 ### Return value
@@ -83,7 +83,7 @@ You can use this, for example, to test whether an argument to a function is arit
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-isnan-number">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-isnan-number">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'isNaN' in that specification.</span>

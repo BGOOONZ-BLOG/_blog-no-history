@@ -13,7 +13,7 @@ The `Array.isArray()` method determines whether the passed value is an [`Array`]
 
 ### Parameters
 
-`value`  
+`value`
 The value to be checked.
 
 ### Return value
@@ -76,7 +76,7 @@ When checking for `Array` instance, `Array.isArray` is preferred over `instanceo
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.isarray">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.isarray">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.isarray</span>

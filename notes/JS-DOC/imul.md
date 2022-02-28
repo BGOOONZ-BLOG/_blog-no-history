@@ -8,10 +8,10 @@ The `Math.imul()` function returns the result of the C-like 32-bit multiplicatio
 
 ### Parameters
 
-`a`  
+`a`
 First number.
 
-`b`  
+`b`
 Second number.
 
 ### Return value
@@ -77,7 +77,7 @@ However, the following function is more performant because it is likely that bro
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.imul">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.imul">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.imul</span>
@@ -117,6 +117,6 @@ No
 
 -   [Emscripten](https://en.wikipedia.org/wiki/Emscripten)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/imul</a>

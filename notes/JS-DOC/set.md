@@ -14,50 +14,50 @@ Because each value in the `Set` has to be unique, the value equality will be che
 
 ## Constructor
 
-[`Set()`](set/set)  
+[`Set()`](set/set)
 Creates a new `Set` object.
 
 ## Static properties
 
-[`get Set[@@species]`](set/@@species)  
+[`get Set[@@species]`](set/@@species)
 The constructor function that is used to create derived objects.
 
 ## Instance properties
 
-[`Set.prototype.size`](set/size)  
+[`Set.prototype.size`](set/size)
 Returns the number of values in the `Set` object.
 
 ## Instance methods
 
-[`Set.prototype.add(value)`](set/add)  
+[`Set.prototype.add(value)`](set/add)
 Appends `value` to the `Set` object. Returns the `Set` object with added value.
 
-[`Set.prototype.clear()`](set/clear)  
+[`Set.prototype.clear()`](set/clear)
 Removes all elements from the `Set` object.
 
-[`Set.prototype.delete(value)`](set/delete)  
+[`Set.prototype.delete(value)`](set/delete)
 Removes the element associated to the `value` and returns a boolean asserting whether an element was successfully removed or not. `Set.prototype.has(value)` will return `false` afterwards.
 
-[`Set.prototype.has(value)`](set/has)  
+[`Set.prototype.has(value)`](set/has)
 Returns a boolean asserting whether an element is present with the given value in the `Set` object or not.
 
 ### Iteration methods
 
-[`Set.prototype[@@iterator]()`](set/@@iterator)  
+[`Set.prototype[@@iterator]()`](set/@@iterator)
 Returns a new iterator object that yields the **values** for each element in the `Set` object in insertion order.
 
-[`Set.prototype.keys()`](set/values)  
+[`Set.prototype.keys()`](set/values)
 Returns a new iterator object that yields the values for each element in the `Set` object in insertion order. (For Sets, this is the same as the `values()` method.)
 
-[`Set.prototype.values()`](set/values)  
+[`Set.prototype.values()`](set/values)
 Returns a new iterator object that yields the **values** for each element in the `Set` object in insertion order. (For Sets, this is the same as the `keys()` method.)
 
-[`Set.prototype.entries()`](set/entries)  
+[`Set.prototype.entries()`](set/entries)
 Returns a new iterator object that contains `[value, value]` for each element in the `Set` object, in insertion order.
 
 This is similar to the [`Map`](map) object, so that each entry's _key_ is the same as its _value_ for a `Set`.
 
-[`Set.prototype.forEach(callbackFn[, thisArg])`](set/foreach)  
+[`Set.prototype.forEach(callbackFn[, thisArg])`](set/foreach)
 Calls `callbackFn` once for each value present in the `Set` object, in insertion order. If a `thisArg` parameter is provided, it will be used as the `this` value for each invocation of `callbackFn`.
 
 ## Examples
@@ -252,7 +252,7 @@ Calls `callbackFn` once for each value present in the `Set` object, in insertion
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-set-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-set-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-set-objects</span>

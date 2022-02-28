@@ -59,7 +59,7 @@ In the following example, the variable `smallNumber` is assigned a value that is
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.negative_infinity">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.negative_infinity">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.negative_infinity</span>
@@ -102,6 +102,6 @@ In the following example, the variable `smallNumber` is assigned a value that is
 -   [`Infinity`](../infinity)
 -   [`isFinite()`](../isfinite)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/NEGATIVE_INFINITY</a>

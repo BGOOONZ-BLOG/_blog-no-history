@@ -8,7 +8,7 @@ The static `Reflect.isExtensible()` method determines if an object is extensible
 
 ### Parameters
 
-`target`  
+`target`
 The target object which to check if it is extensible.
 
 ### Return value
@@ -66,7 +66,7 @@ If the `target` argument to this method is not an object (a primitive), then it 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-reflect.isextensible">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-reflect.isextensible">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-reflect.isextensible</span>
@@ -107,6 +107,6 @@ No
 -   [`Reflect`](../reflect)
 -   [`Object.isExtensible()`](../object/isextensible)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/isExtensible" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Reflect/isExtensible</a>

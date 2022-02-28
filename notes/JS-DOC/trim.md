@@ -44,7 +44,7 @@ The following example displays the lowercase string `'foo'`:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.trim">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.trim">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.trim' in that specification.</span>
@@ -115,6 +115,6 @@ Samsung Internet
 -   [`String.prototype.trimStart()`](trimstart)
 -   [`String.prototype.trimEnd()`](trimend)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/Trim</a>

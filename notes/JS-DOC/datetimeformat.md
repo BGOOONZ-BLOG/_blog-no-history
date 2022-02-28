@@ -10,22 +10,22 @@ The `Intl.DateTimeFormat()` constructor creates [`Intl.DateTimeFormat`](../datet
 
 ### Parameters
 
-`locales` <span class="badge inline optional">Optional</span>  
+`locales` <span class="badge inline optional">Optional</span>
 A string with a BCP 47 language tag, or an array of such strings. To use the browser's default locale, pass an empty array. Unicode extension are supported (for example "`en-US-u-ca-buddhist`"). For the general form and interpretation of the `locales` argument, see the [Intl](../../intl#locale_identification_and_negotiation) page. The following Unicode extension keys are allowed:
 
-`nu`  
+`nu`
 Numbering system. Possible values include: "`arab`", "`arabext`", "`bali`", "`beng`", "`deva`", "`fullwide`", "`gujr`", "`guru`", "`hanidec`", "`khmr`", "`knda`", "`laoo`", "`latn`", "`limb`", "`mlym`", "`mong`", "`mymr`", "`orya`", "`tamldec`", "`telu`", "`thai`", "`tibt`".
 
-`ca`  
+`ca`
 Calendar. Possible values include: "`buddhist`", "`chinese`", "`coptic`", "`ethiopia`", "`ethiopic`", "`gregory`", "`hebrew`", "`indian`", "`islamic`", "`iso8601`", "`japanese`", "`persian`", "`roc`".
 
-`hc`  
+`hc`
 Hour cycle. Possible values include: "`h11`", "`h12`", "`h23`", "`h24`".
 
-`options` <span class="badge inline optional">Optional</span>  
+`options` <span class="badge inline optional">Optional</span>
 An object with some or all of the following properties:
 
-`dateStyle`  
+`dateStyle`
 The date formatting style to use when calling `format()`. Possible values include:
 
 -   "`full`"
@@ -35,7 +35,7 @@ The date formatting style to use when calling `format()`. Possible values includ
 
 **Note:** `dateStyle` can be used with `timeStyle`, but not with other options (e.g. `weekday`, `hour`, `month`, etc.).
 
-`timeStyle`  
+`timeStyle`
 The time formatting style to use when calling `format()`. Possible values include:
 
 -   "`full`"
@@ -45,28 +45,28 @@ The time formatting style to use when calling `format()`. Possible values includ
 
 **Note:** `timeStyle` can be used with `dateStyle`, but not with other options (e.g. `weekday`, `hour`, `month`, etc.).
 
-`calendar`  
+`calendar`
 Calendar. Possible values include: "`buddhist`", "`chinese`", " `coptic`", "`ethiopia`", "`ethiopic`", "`gregory`", " `hebrew`", "`indian`", "`islamic`", "`iso8601`", " `japanese`", "`persian`", "`roc`".
 
-`dayPeriod`  
+`dayPeriod`
 The way day periods should be expressed. Possible values include: "`narrow`", "`short`", " `long`".
 
-`numberingSystem`  
+`numberingSystem`
 Numbering System. Possible values include: "`arab`", "`arabext`", " `bali`", "`beng`", "`deva`", "`fullwide`", " `gujr`", "`guru`", "`hanidec`", "`khmr`", " `knda`", "`laoo`", "`latn`", "`limb`", "`mlym`", " `mong`", "`mymr`", "`orya`", "`tamldec`", " `telu`", "`thai`", "`tibt`".
 
-`localeMatcher`  
+`localeMatcher`
 The locale matching algorithm to use. Possible values are "`lookup`" and "`best fit`"; the default is "`best fit`". For information about this option, see the [Intl](../../intl#locale_negotiation) page.
 
-`timeZone`  
+`timeZone`
 The time zone to use. The only value implementations must recognize is "`UTC`"; the default is the runtime's default time zone. Implementations may also recognize the time zone names of the [IANA time zone database](https://www.iana.org/time-zones), such as "`Asia/Shanghai`", "`Asia/Kolkata`", "`America/New_York`".
 
-`hour12`  
+`hour12`
 Whether to use 12-hour time (as opposed to 24-hour time). Possible values are `true` and `false`; the default is locale dependent. This option overrides the `hc` language tag and/or the `hourCycle` option in case both are present.
 
-`hourCycle`  
+`hourCycle`
 The hour cycle to use. Possible values are "`h11`", "`h12`", "`h23`", or "`h24`". This option overrides the `hc` language tag, if both are present, and the `hour12` option takes precedence in case both options have been specified.
 
-`formatMatcher`  
+`formatMatcher`
 The format matching algorithm to use. Possible values are "`basic`" and "`best fit`"; the default is "`best fit`". See the following paragraphs for information about the use of this property.
 
 The following properties describe the date-time components to use in formatted output, and their desired representations. Implementations are required to support at least the following subsets:
@@ -81,27 +81,27 @@ The following properties describe the date-time components to use in formatted o
 
 Implementations may support other subsets, and requests will be negotiated against all available subset-representation combinations to find the best match. Two algorithms are available for this negotiation and selected by the `formatMatcher` property: A [fully specified "`basic`" algorithm](https://www.ecma-international.org/ecma-402/1.0/#BasicFormatMatcher) and an implementation-dependent "`best fit`" algorithm.
 
-`weekday`  
+`weekday`
 The representation of the weekday. Possible values are:
 
 -   "`long`" (e.g., `Thursday`)
 -   "`short`" (e.g., `Thu`)
 -   "`narrow`" (e.g., `T`). Two weekdays may have the same narrow style for some locales (e.g. `Tuesday`'s narrow style is also `T`).
 
-`era`  
+`era`
 The representation of the era. Possible values are:
 
 -   "`long`" (e.g., `Anno Domini`)
 -   "`short`" (e.g., `AD`)
 -   "`narrow`" (e.g., `A`)
 
-`year`  
+`year`
 The representation of the year. Possible values are:
 
 -   "`numeric`" (e.g., `2012`)
 -   "`2-digit`" (e.g., `12`)
 
-`month`  
+`month`
 The representation of the month. Possible values are:
 
 -   "`numeric`" (e.g., `2`)
@@ -110,22 +110,22 @@ The representation of the month. Possible values are:
 -   "`short`" (e.g., `Mar`)
 -   "`narrow`" (e.g., `M`). Two months may have the same narrow style for some locales (e.g. `May`'s narrow style is also `M`).
 
-`day`  
+`day`
 The representation of the day. Possible values are:
 
 -   "`numeric`" (e.g., `1`)
 -   "`2-digit`" (e.g., `01`)
 
-`hour`  
+`hour`
 The representation of the hour. Possible values are "`numeric`", "`2-digit`".
 
-`minute`  
+`minute`
 The representation of the minute. Possible values are "`numeric`", "`2-digit`".
 
-`second`  
+`second`
 The representation of the second. Possible values are "`numeric`", "`2-digit`".
 
-`fractionalSecondDigits`  
+`fractionalSecondDigits`
 The number of digits used to represent fractions of a second (any additional digits are truncated). Possible values are:
 
 -   `0` (Fractional part dropped.)
@@ -133,7 +133,7 @@ The number of digits used to represent fractions of a second (any additional dig
 -   `2` (Fractional part represented as 2 digits. For example, 736 is formatted as `73`.)
 -   `3` (Fractional part represented as 3 digits. For example, 736 is formatted as `736`.)
 
-`timeZoneName`  
+`timeZoneName`
 The representation of the time zone name. Possible values are:
 
 -   "`long`" (e.g., `British Summer Time`)
@@ -183,7 +183,7 @@ In basic use without specifying a locale, `DateTimeFormat` uses the default loca
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl-datetimeformat-constructor">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl-datetimeformat-constructor">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl-datetimeformat-constructor</span>

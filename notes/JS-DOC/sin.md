@@ -8,7 +8,7 @@ The `Math.sin()` function returns the sine of a number.
 
 ### Parameters
 
-`x`  
+`x`
 A number (given in radians).
 
 ### Return value
@@ -41,7 +41,7 @@ Because `sin()` is a static method of `Math`, you always use it as `Math.sin()`,
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.sin">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.sin">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.sin</span>
@@ -116,6 +116,6 @@ Samsung Internet
 -   [`Math.cos()`](cos)
 -   [`Math.tan()`](tan)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sin" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/sin</a>

@@ -8,7 +8,7 @@ The `Intl.DateTimeFormat.prototype.format()` method formats a date according to 
 
 ### Parameters
 
-`date`  
+`date`
 The date to format.
 
 ## Description
@@ -70,7 +70,7 @@ For this reason you cannot expect to be able to compare the results of `format()
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-intl.datetimeformat.prototype.format">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-intl.datetimeformat.prototype.format">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-intl.datetimeformat.prototype.format</span>

@@ -13,10 +13,10 @@ Where `expression` should evaluate to a [property](https://developer.mozilla.org
 
 ### Parameters
 
-`object`  
+`object`
 The name of an object, or an expression evaluating to an object.
 
-`property`  
+`property`
 The property to delete.
 
 ### Return value
@@ -226,7 +226,7 @@ If instead, you want to remove an array element by changing the contents of the 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-delete-operator">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-delete-operator">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-delete-operator</span>
@@ -268,6 +268,6 @@ If instead, you want to remove an array element by changing the contents of the 
 -   [`Reflect.deleteProperty()`](../global_objects/reflect/deleteproperty)
 -   [`Map.prototype.delete()`](../global_objects/map/delete)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/delete</a>

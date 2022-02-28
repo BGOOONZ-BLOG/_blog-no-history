@@ -12,14 +12,14 @@ The `call()` method calls a function with a given `this` value and arguments pro
 
 ### Parameters
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 The value to use as `this` when calling `func`.
 
 **Note:** In certain cases, `thisArg` may not be the actual value seen by the method.
 
 If the method is a function in [non-strict mode](../../strict_mode), [`null`](../null) and [`undefined`](../undefined) will be replaced with the global object, and primitive values will be converted to objects.
 
-`arg1, arg2, ...argN` <span class="badge inline optional">Optional</span>  
+`arg1, arg2, ...argN` <span class="badge inline optional">Optional</span>
 Arguments for the function.
 
 ### Return value
@@ -135,7 +135,7 @@ In the example below, we invoke the `display` function without passing the first
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-function.prototype.call">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-function.prototype.call">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Function.prototype.call' in that specification.</span>

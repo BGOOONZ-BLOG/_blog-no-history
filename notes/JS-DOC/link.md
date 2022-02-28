@@ -12,7 +12,7 @@ The `link()` method creates a string representing the code for an [`<a>`](https:
 
 ### Parameters
 
-`url`  
+`url`
 Any string that specifies the `href` attribute of the `<a>` element; it should be a valid URL (relative or absolute), with any `&` characters escaped as `&amp;`, and any `"` characters escaped as `&quot;`.
 
 ### Return value
@@ -48,7 +48,7 @@ The following example displays the word "MDN" as a hypertext link that returns t
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.link">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.link">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.link' in that specification.</span>
@@ -88,6 +88,6 @@ The following example displays the word "MDN" as a hypertext link that returns t
 
 -   [`String.prototype.anchor()`](anchor)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/link" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/link</a>

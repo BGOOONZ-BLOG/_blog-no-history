@@ -8,7 +8,7 @@ The `Promise.race()` method returns a promise that fulfills or rejects as soon a
 
 ### Parameters
 
-`iterable`  
+`iterable`
 An iterable object, such as an [`Array`](../array). See [iterable](../../iteration_protocols#the_iterable_protocol).
 
 ### Return value
@@ -181,7 +181,7 @@ If the iterable contains one or more non-promise value and/or an already settled
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise.race">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise.race">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise.race</span>
@@ -252,6 +252,6 @@ No
 -   [`Promise`](../promise)
 -   [`Promise.all()`](all)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/race</a>

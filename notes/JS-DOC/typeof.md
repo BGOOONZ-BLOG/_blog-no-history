@@ -11,7 +11,7 @@ The `typeof` operator is followed by its operand:
 
 ### Parameters
 
-`operand`  
+`operand`
 An expression representing the object or [primitive](https://developer.mozilla.org/en-US/docs/Glossary/Primitive) whose type is to be returned.
 
 ## Description
@@ -259,7 +259,7 @@ For checking non-existent variables that would otherwise throw a [`ReferenceErro
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-typeof-operator">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-typeof-operator">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'The typeof Operator' in that specification.</span>
@@ -341,6 +341,6 @@ Some non-standard IE properties return other values ([tc39/ecma262\#1440 (commen
 -   [`instanceof`](instanceof)
 -   [`document.all` willful violation of the standard](https://github.com/tc39/ecma262/issues/668)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/typeof</a>

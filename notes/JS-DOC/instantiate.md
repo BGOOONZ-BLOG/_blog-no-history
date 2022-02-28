@@ -15,10 +15,10 @@ The `WebAssembly.instantiate()` function allows you to compile and instantiate W
 
 #### Parameters
 
-_bufferSource_  
+_bufferSource_
 A [typed array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays) or [`ArrayBuffer`](../arraybuffer) containing the binary code of the .wasm module you want to compile.
 
-_importObject_ <span class="badge inline optional">Optional</span>  
+_importObject_ <span class="badge inline optional">Optional</span>
 An object containing the values to be imported into the newly-created `Instance`, such as functions or [`WebAssembly.Memory`](memory) objects. There must be one matching property for each declared import of the compiled module or else a [`WebAssembly.LinkError`](linkerror) is thrown.
 
 #### Return value
@@ -39,10 +39,10 @@ A `Promise` that resolves to a `ResultObject` which contains two fields:
 
 #### Parameters
 
-_module_  
+_module_
 The [`WebAssembly.Module`](module) object to be instantiated.
 
-_importObject_ <span class="badge inline optional">Optional</span>  
+_importObject_ <span class="badge inline optional">Optional</span>
 An object containing the values to be imported into the newly-created `Instance`, such as functions or [`WebAssembly.Memory`](memory) objects. There must be one matching property for each declared import of `module` or else a [`WebAssembly.LinkError`](linkerror) is thrown.
 
 #### Return value
@@ -121,7 +121,7 @@ In the worker (see `wasm_worker.js`) we define an import object for the module t
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#dom-webassembly-instantiate">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#dom-webassembly-instantiate">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#dom-webassembly-instantiate</span>
@@ -167,6 +167,6 @@ Disabled in the Firefox 52 Extended Support Release (ESR).
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiate" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/instantiate</a>

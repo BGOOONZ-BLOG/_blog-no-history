@@ -9,10 +9,10 @@ The `padStart()` method pads the current string with another string (multiple ti
 
 ### Parameters
 
-`targetLength`  
+`targetLength`
 The length of the resulting string once the current `str` has been padded. If the value is less than `str.length`, then `str` is returned as-is.
 
-`padString` <span class="badge inline optional">Optional</span>  
+`padString` <span class="badge inline optional">Optional</span>
 The string to pad the current `str` with. If `padString` is too long to stay within the `targetLength`, it will be truncated from the end. The default value is "" (`U+0020 'SPACE'`).
 
 ### Return value
@@ -52,7 +52,7 @@ A [`String`](../string) of the specified `targetLength` with `padString` applied
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.padstart">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.padstart">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.padstart</span>
@@ -123,6 +123,6 @@ No
 -   [`String.prototype.padEnd()`](padend)
 -   [A polyfill](https://github.com/behnammodi/polyfill/blob/master/string.polyfill.js)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/padStart</a>

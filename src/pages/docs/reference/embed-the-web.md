@@ -148,8 +148,8 @@ function insertAtCaret(text) {
 
 
 textarea.onkeyup = function(){
-  
-  
+
+
   if(solution.value === 'Show solution') {
     userEntry = textarea.value;
   } else {
@@ -284,10 +284,10 @@ _accurate_ [media type](https://developer.mozilla.org/en-US/docs/Glossary/MIME_t
 
 height and width (in CSS pixels) of the box controlled by the plugin
 
-[`height`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed#attr-height)  
+[`height`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed#attr-height)
 [`width`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/embed#attr-width)
 
-[`height`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object#attr-height)  
+[`height`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object#attr-height)
 [`width`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object#attr-width)
 
 names and values, to feed the plugin as parameters

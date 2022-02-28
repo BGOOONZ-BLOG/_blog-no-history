@@ -41,15 +41,15 @@ Do not use a `Boolean` object in place of a `Boolean` primitive.
 
 ## Constructor
 
-[`Boolean()`](boolean/boolean)  
+[`Boolean()`](boolean/boolean)
 Creates a new `Boolean` object.
 
 ## Instance methods
 
-[`Boolean.prototype.toString()`](boolean/tostring)  
+[`Boolean.prototype.toString()`](boolean/tostring)
 Returns a string of either `true` or `false` depending upon the value of the object. Overrides the [`Object.prototype.toString()`](object/tostring) method.
 
-[`Boolean.prototype.valueOf()`](boolean/valueof)  
+[`Boolean.prototype.valueOf()`](boolean/valueof)
 Returns the primitive value of the [`Boolean`](boolean) object. Overrides the [`Object.prototype.valueOf()`](object/valueof) method.
 
 ## Examples
@@ -82,7 +82,7 @@ Returns the primitive value of the [`Boolean`](boolean) object. Overrides the [`
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-boolean-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-boolean-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-boolean-objects</span>

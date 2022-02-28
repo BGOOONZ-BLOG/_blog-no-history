@@ -8,7 +8,7 @@ The `encodeURIComponent()` function encodes a [URI](https://developer.mozilla.or
 
 ### Parameters
 
-`str`  
+`str`
 String. A component of a URI.
 
 ### Return value
@@ -112,7 +112,7 @@ The following example provides the special encoding required within UTF-8 [`Cont
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-encodeuricomponent-uricomponent">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-encodeuricomponent-uricomponent">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'encodeURIComponent' in that specification.</span>

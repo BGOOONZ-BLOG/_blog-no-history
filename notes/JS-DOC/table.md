@@ -6,23 +6,23 @@ The `WebAssembly.Table()` object is a JavaScript wrapper object — an array-lik
 
 ## Constructor
 
-[`WebAssembly.Table()`](table/table)  
+[`WebAssembly.Table()`](table/table)
 Creates a new `Table` object.
 
 ## Instance properties
 
-[`Table.prototype.length`](table/length)  
+[`Table.prototype.length`](table/length)
 Returns the length of the table, i.e. the number of elements.
 
 ## Instance methods
 
-[`Table.prototype.get()`](table/get)  
+[`Table.prototype.get()`](table/get)
 Accessor function — gets the element stored at a given index.
 
-[`Table.prototype.grow()`](table/grow)  
+[`Table.prototype.grow()`](table/grow)
 Increases the size of the Table instance by a specified number of elements.
 
-[`Table.prototype.set()`](table/set)  
+[`Table.prototype.set()`](table/set)
 Sets an element stored at a given index to a given value.
 
 ## Examples
@@ -68,7 +68,7 @@ This example shows that we're creating and accessing the table from JavaScript, 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://webassembly.github.io/spec/js-api/#tables">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<a href="https://webassembly.github.io/spec/js-api/#tables">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface)
 <br/>
 
 <span class="small">#tables</span>
@@ -294,6 +294,6 @@ Disabled in the Firefox 52 Extended Support Release (ESR).
 -   [WebAssembly concepts](https://developer.mozilla.org/en-US/docs/WebAssembly/Concepts)
 -   [Using the WebAssembly JavaScript API](https://developer.mozilla.org/en-US/docs/WebAssembly/Using_the_JavaScript_API)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Table" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/WebAssembly/Table</a>

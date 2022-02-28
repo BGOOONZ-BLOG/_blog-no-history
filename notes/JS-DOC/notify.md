@@ -2,7 +2,7 @@
 
 The static ` Atomics``.notify() ` method notifies up some agents that are sleeping in the wait queue.
 
-**Note:** This operation works with a shared [`Int32Array`](../int32array) only.  
+**Note:** This operation works with a shared [`Int32Array`](../int32array) only.
 It will return `0` on non-shared `ArrayBuffer` objects.
 
 ## Syntax
@@ -11,13 +11,13 @@ It will return `0` on non-shared `ArrayBuffer` objects.
 
 ### Parameters
 
-`typedArray`  
+`typedArray`
 A shared [`Int32Array`](../int32array).
 
-`index`  
+`index`
 The position in the `typedArray` to wake up on.
 
-`count` <span class="badge inline optional">Optional</span>  
+`count` <span class="badge inline optional">Optional</span>
 The number of sleeping agents to notify. Defaults to [`+Infinity`](../infinity).
 
 ### Return value
@@ -61,7 +61,7 @@ A writing thread stores a new value and notifies the waiting thread once it has 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics.notify">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics.notify">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics.notify</span>

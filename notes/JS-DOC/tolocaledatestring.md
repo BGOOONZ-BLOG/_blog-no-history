@@ -117,7 +117,7 @@ The results provided by `toLocaleDateString()` can be customized using the `opti
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.tolocaledatestring">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.tolocaledatestring">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.tolocaledatestring</span>

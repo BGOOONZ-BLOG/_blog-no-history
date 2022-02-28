@@ -45,7 +45,7 @@ The following code divides two numeric values. If the result is greater than or 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.min_value">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.min_value">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.min_value</span>
@@ -85,6 +85,6 @@ The following code divides two numeric values. If the result is greater than or 
 
 -   [`Number.MAX_VALUE`](max_value)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/MIN_VALUE</a>

@@ -8,7 +8,7 @@ The `Object.fromEntries()` method transforms a list of key-value pairs into an o
 
 ### Parameters
 
-`iterable`  
+`iterable`
 An iterable such as [`Array`](../array) or [`Map`](../map) or other objects implementing the [iterable protocol](../../iteration_protocols#the_iterable_protocol).
 
 ### Return value
@@ -64,7 +64,7 @@ With `Object.fromEntries`, its reverse method [`Object.entries()`](entries), and
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.fromentries">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.fromentries">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.fromentries</span>
@@ -109,6 +109,6 @@ No
 -   [`Map.prototype.keys()`](../map/keys)
 -   [`Map.prototype.values()`](../map/values)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/fromEntries</a>

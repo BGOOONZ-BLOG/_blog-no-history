@@ -8,7 +8,7 @@ The `setMilliseconds()` method sets the milliseconds for a specified date accord
 
 ### Parameters
 
-`millisecondsValue`  
+`millisecondsValue`
 A number between 0 and 999, representing the milliseconds.
 
 ### Return value
@@ -37,7 +37,7 @@ If you specify a number outside the expected range, the date information in the 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setmilliseconds">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setmilliseconds">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setmilliseconds</span>

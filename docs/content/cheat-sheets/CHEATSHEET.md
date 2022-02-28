@@ -848,7 +848,7 @@ process.cwd();
 ---
 
 > Returns the current working directory of the process.
-> ?process.exit([code]);  
+> ?process.exit([code]);
 >  Ends the process with the specified code. If omitted, exit uses the 'success' code 0.
 
 ```js

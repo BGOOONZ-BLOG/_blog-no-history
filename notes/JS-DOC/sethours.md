@@ -11,16 +11,16 @@ The `setHours()` method sets the hours for a specified date according to local t
 
 ### Parameters
 
-`hoursValue`  
+`hoursValue`
 Ideally, an integer between 0 and 23, representing the hour. If a value greater than 23 is provided, the datetime will be incremented by the extra hours.
 
-`minutesValue`  
+`minutesValue`
 Optional. Ideally, an integer between 0 and 59, representing the minutes. If a value greater than 59 is provided, the datetime will be incremented by the extra minutes.
 
-`secondsValue`  
+`secondsValue`
 Optional. Ideally, an integer between 0 and 59, representing the seconds. If a value greater than 59 is provided, the datetime will be incremented by the extra seconds. If you specify the `secondsValue` parameter, you must also specify the `minutesValue`.
 
-`msValue`  
+`msValue`
 Optional. Ideally, a number between 0 and 999, representing the milliseconds. If a value greater than 999 is provided, the datetime will be incremented by the extra milliseconds. If you specify the `msValue` parameter, you must also specify the `minutesValue` and `secondsValue`.
 
 ### Return value
@@ -51,7 +51,7 @@ If a parameter you specify is outside of the expected range, `setHours()` attemp
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.sethours">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.sethours">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.sethours</span>

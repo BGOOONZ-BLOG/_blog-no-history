@@ -51,18 +51,18 @@ The number of objects or their traversal order is immaterial, so a `WeakSet` is 
 
 ## Constructor
 
-[`WeakSet()`](weakset/weakset)  
+[`WeakSet()`](weakset/weakset)
 Creates a new `WeakSet` object.
 
 ## Instance methods
 
-[`WeakSet.prototype.add(value)`](weakset/add)  
+[`WeakSet.prototype.add(value)`](weakset/add)
 Appends `value` to the `WeakSet` object.
 
-[`WeakSet.prototype.delete(value)`](weakset/delete)  
+[`WeakSet.prototype.delete(value)`](weakset/delete)
 Removes `value` from the `WeakSet`. `WeakSet.prototype.has(value)` will return `false` afterwards.
 
-[`WeakSet.prototype.has(value)`](weakset/has)  
+[`WeakSet.prototype.has(value)`](weakset/has)
 Returns a boolean asserting whether `value` is present in the `WeakSet` object or not.
 
 ## Examples
@@ -96,7 +96,7 @@ Note that `foo !== bar`. While they are similar objects, \*they are not **the sa
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-weakset-objects">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-weakset-objects">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'WeakSet' in that specification.</span>

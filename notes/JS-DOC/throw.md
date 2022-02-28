@@ -6,7 +6,7 @@ The `throw` throws a user-defined exception. Execution of the current function w
 
     throw expression;
 
-`expression`  
+`expression`
 The expression to throw.
 
 ## Description
@@ -145,7 +145,7 @@ You can use `throw` to rethrow an exception after you catch it. The following ex
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-throw-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-throw-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-throw-statement</span>
@@ -216,6 +216,6 @@ Samsung Internet
 -   [`try...catch`](try...catch)
 -   [`Error`](../global_objects/error)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/throw</a>

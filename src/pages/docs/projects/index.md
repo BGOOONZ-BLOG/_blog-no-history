@@ -155,7 +155,7 @@ weight: 0
 <br>
 <h1>  Potluck Planner </h1>
 <br>
-<iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://potluck-landing.netlify.app/" height="800px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true" 
+<iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://potluck-landing.netlify.app/" height="800px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"
        frameborder="0" >
 </iframe>
 <br>

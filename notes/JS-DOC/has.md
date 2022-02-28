@@ -13,10 +13,10 @@ The `handler.has()` method is a trap for the [`in`](../../../operators/in) opera
 
 The following parameters are passed to `has()` method. `this` is bound to the handler.
 
-`target`  
+`target`
 The target object.
 
-`prop`  
+`prop`
 The name or [`Symbol`](../../symbol) of the property to check for existence.
 
 ### Return value
@@ -83,7 +83,7 @@ The following code violates an invariant.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-hasproperty-p">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-hasproperty-p">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-proxy-object-internal-methods-and-internal-slots-hasproperty-p</span>
@@ -126,6 +126,6 @@ No
 -   [`in`](../../../operators/in) operator
 -   [`Reflect.has()`](../../reflect/has)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/has" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/has</a>

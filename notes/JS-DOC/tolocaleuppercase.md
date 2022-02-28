@@ -10,7 +10,7 @@ The `toLocaleUpperCase()` method returns the calling string value converted to u
 
 ### Parameters
 
-`locale` <span class="badge inline optional">Optional</span>  
+`locale` <span class="badge inline optional">Optional</span>
 The `locale` parameter indicates the locale to be used to convert to upper case according to any locale-specific case mappings. If multiple locales are given in an [`Array`](../array), the [best available locale](https://tc39.github.io/ecma402/#sec-bestavailablelocale) is used. The default locale is the host environment's current locale.
 
 ### Return value
@@ -26,7 +26,7 @@ A new string representing the calling string converted to upper case, according 
 
 The `toLocaleUpperCase()` method returns the value of the string converted to upper case according to any locale-specific case mappings. `toLocaleUpperCase()` does not affect the value of the string itself. In most cases, this will produce the same result as [`toUpperCase()`](touppercase), but for some locales, such as Turkish, whose case mappings do not follow the default case mappings in Unicode, there may be a different result.
 
-Also notice that conversion is not necessarily a 1:1 character mapping, as some characters might result in two (or even more) characters when transformed to upper-case. Therefore the length of the result string can differ from the input length. This also implies that the conversion is not stable, so i.E. the following can return `false`:  
+Also notice that conversion is not necessarily a 1:1 character mapping, as some characters might result in two (or even more) characters when transformed to upper-case. Therefore the length of the result string can differ from the input length. This also implies that the conversion is not stable, so i.E. the following can return `false`:
 `x.toLocaleLowerCase() === x.toLocaleUpperCase().toLocaleLowerCase()`
 
 ## Examples
@@ -53,7 +53,7 @@ Also notice that conversion is not necessarily a 1:1 character mapping, as some 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.tolocaleuppercase">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.tolocaleuppercase">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.tolocaleuppercase</span>
@@ -160,6 +160,6 @@ Samsung Internet
 -   [`String.prototype.toLowerCase()`](tolowercase)
 -   [`String.prototype.toUpperCase()`](touppercase)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleUpperCase" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toLocaleUpperCase</a>

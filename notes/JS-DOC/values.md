@@ -74,7 +74,7 @@ example:
 <tbody>
 <tr class="odd">
 <td>
-<a href="#">ECMAScript Language Specification (ECMAScript) 
+<a href="#">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-%typedarray%.prototype.values</span>
@@ -148,6 +148,6 @@ No
 -   [`Array.prototype.every()`](../array/every)
 -   [`Array.prototype.some()`](../array/some)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/values" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/values</a>

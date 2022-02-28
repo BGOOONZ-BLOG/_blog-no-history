@@ -68,7 +68,7 @@ template: docs
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://react-calculator2.vercel.app/" height="1000px" style="width: 1300px; scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
 </iframe>
-                                                       
+
 <br>
 <br>
 
@@ -80,14 +80,14 @@ template: docs
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://number-base-converter-react.vercel.app/" height="1000px" style="width: 1300px; scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
 </iframe>
-                                                       
+
 <br>
 <br>
   <h1>  Text Tools </h1>
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://devtools42.netlify.app/" height="1000px" style="width: 1300px; scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
-</iframe>      
-        
+</iframe>
+
 
 <h1>   Paste excel to HTML</h1>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://codepen.io/bgoonz/embed/JjNaPpL?default-tab=result&theme-id=light" height="1000px" style="width: 1300px; scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
@@ -150,16 +150,16 @@ template: docs
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://ds-algo-official.netlify.app/" height="800px" style="width: 100%;" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
 </iframe>
-        
-        
-        
+
+
+
 <br>
 <br>
 <br>
 <h1>                </h1>
 <br>
-        
-        
+
+
  <iframe height="800" style="width: 100%;" scrolling="yes" title="Simple Typing Carousel " src="https://codepen.io/bgoonz/embed/ExZvGoZ?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/bgoonz/pen/ExZvGoZ">
   Simple Typing Carousel </a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)

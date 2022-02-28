@@ -8,10 +8,10 @@ The `Object.getOwnPropertyDescriptor()` method returns an object describing the 
 
 ### Parameters
 
-`obj`  
+`obj`
 The object in which to look for the property.
 
-`prop`  
+`prop`
 The name or [`Symbol`](../symbol) of the property whose description is to be retrieved.
 
 ### Return value
@@ -24,22 +24,22 @@ This method permits examination of the precise description of a property. A prop
 
 A property descriptor is a record with some of the following attributes:
 
-`value`  
+`value`
 The value associated with the property (data descriptors only).
 
-`writable`  
+`writable`
 `true` if and only if the value associated with the property may be changed (data descriptors only).
 
-`get`  
+`get`
 A function which serves as a getter for the property, or [`undefined`](../undefined) if there is no getter (accessor descriptors only).
 
-`set`  
+`set`
 A function which serves as a setter for the property, or [`undefined`](../undefined) if there is no setter (accessor descriptors only).
 
-`configurable`  
+`configurable`
 `true` if and only if the type of this property descriptor may be changed and if the property may be deleted from the corresponding object.
 
-`enumerable`  
+`enumerable`
 `true` if and only if this property shows up during enumeration of the properties on the corresponding object.
 
 ## Examples
@@ -115,7 +115,7 @@ In ES5, if the first argument to this method is not an object (a primitive), the
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.getownpropertydescriptor">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.getownpropertydescriptor">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.getownpropertydescriptor</span>
@@ -160,6 +160,6 @@ In Internet Explorer 8, this was only supported on DOM objects and with some non
 -   [`Object.defineProperty()`](defineproperty)
 -   [`Reflect.getOwnPropertyDescriptor()`](../reflect/getownpropertydescriptor)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/getOwnPropertyDescriptor</a>

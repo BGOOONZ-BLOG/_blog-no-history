@@ -11,16 +11,16 @@ The `setUTCHours()` method sets the hour for a specified date according to unive
 
 ### Parameters
 
-`hoursValue`  
+`hoursValue`
 An integer between 0 and 23, representing the hour.
 
-`minutesValue`  
+`minutesValue`
 Optional. An integer between 0 and 59, representing the minutes.
 
-`secondsValue`  
+`secondsValue`
 Optional. An integer between 0 and 59, representing the seconds. If you specify the `secondsValue` parameter, you must also specify the `minutesValue`.
 
-`msValue`  
+`msValue`
 Optional. A number between 0 and 999, representing the milliseconds. If you specify the `msValue` parameter, you must also specify the `minutesValue` and `secondsValue`.
 
 ### Return value
@@ -51,7 +51,7 @@ If a parameter you specify is outside of the expected range, `setUTCHours()` att
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setutchours">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setutchours">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setutchours</span>

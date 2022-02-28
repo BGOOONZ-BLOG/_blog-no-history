@@ -42,7 +42,7 @@ Sometimes, it is convenient to be able to identify the most likely locale langua
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.maximize">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.maximize">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-Intl.Locale.prototype.maximize</span>

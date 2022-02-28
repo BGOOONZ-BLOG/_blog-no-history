@@ -108,7 +108,7 @@ is always equal to:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#prod-LogicalORExpression">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#prod-LogicalORExpression">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Logical OR expression' in that specification.</span>
@@ -151,6 +151,6 @@ is always equal to:
 -   [Truthy](https://developer.mozilla.org/en-US/docs/Glossary/Truthy)
 -   [Falsy](https://developer.mozilla.org/en-US/docs/Glossary/Falsy)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_OR</a>

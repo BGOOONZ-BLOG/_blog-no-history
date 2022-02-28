@@ -45,7 +45,7 @@ The following function returns e:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.e">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.e">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.e</span>
@@ -87,6 +87,6 @@ The following function returns e:
 -   [`Math.log()`](log)
 -   [`Math.log1p()`](log1p)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/E" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/E</a>

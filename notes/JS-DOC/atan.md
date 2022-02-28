@@ -10,7 +10,7 @@ $$\\mathtt{\\operatorname{Math.atan}(x)} = \\arctan(x) = \\text{the\\ unique}\\;
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -50,7 +50,7 @@ Note that you may want to avoid using **±**`Infinity` for stylistic reasons. In
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.atan">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.atan">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.atan</span>
@@ -95,6 +95,6 @@ Note that you may want to avoid using **±**`Infinity` for stylistic reasons. In
 -   [`Math.sin()`](sin)
 -   [`Math.tan()`](tan)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/atan</a>

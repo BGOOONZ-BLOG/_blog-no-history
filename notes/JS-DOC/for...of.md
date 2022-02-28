@@ -8,10 +8,10 @@ The `for...of` creates a loop iterating over [iterable objects](../iteration_pro
       statement
     }
 
-`variable`  
+`variable`
 On each iteration a value of a different property is assigned to `variable`. `variable` may be declared with `const`, `let`, or `var`.
 
-`iterable`  
+`iterable`
 Object whose iterable properties are iterated.
 
 ## Examples
@@ -368,6 +368,6 @@ No
 
 - [`Object.entries()`](../global_objects/object/entries) – Useful when using `for...of` over an object.
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of>" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of</a>

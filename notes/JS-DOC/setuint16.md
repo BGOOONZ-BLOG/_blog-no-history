@@ -9,13 +9,13 @@ The `setUint16()` method stores an unsigned 16-bit integer (unsigned short) valu
 
 ### Parameters
 
-`byteOffset`  
+`byteOffset`
 The offset, in byte, from the start of the view where to store the data.
 
-`value`  
+`value`
 The value to set.
 
-`littleEndian`  
+`littleEndian`
 <span class="badge inline optional">Optional</span> Indicates whether the 16-bit int is stored in [little- or big-endian](https://developer.mozilla.org/en-US/docs/Glossary/Endianness) format. If `false` or `undefined`, a big-endian value is written.
 
 ### Return value
@@ -24,7 +24,7 @@ The value to set.
 
 ### Errors thrown
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 Thrown if the `byteOffset` is set such as it would store beyond the end of the view.
 
 ## Examples
@@ -47,7 +47,7 @@ Thrown if the `byteOffset` is set such as it would store beyond the end of the v
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-dataview.prototype.setuint16">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-dataview.prototype.setuint16">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-dataview.prototype.setuint16</span>

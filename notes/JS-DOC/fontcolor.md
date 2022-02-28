@@ -14,7 +14,7 @@ The `fontcolor()` method creates a [`<font>`](https://developer.mozilla.org/en-U
 
 ### Parameters
 
-`color`  
+`color`
 A string expressing the color as a hexadecimal RGB triplet or as a string literal. String literals for color names are listed in the [CSS color reference](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value).
 
 ### Return value
@@ -54,7 +54,7 @@ With the [`element.style`](https://developer.mozilla.org/en-US/docs/Web/API/Elem
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.fontcolor">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.fontcolor">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.fontcolor</span>
@@ -94,6 +94,6 @@ With the [`element.style`](https://developer.mozilla.org/en-US/docs/Web/API/Elem
 
 -   [`String.prototype.fontsize()`](fontsize)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fontcolor" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fontcolor</a>

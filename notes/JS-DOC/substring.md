@@ -9,10 +9,10 @@ The `substring()` method returns the part of the `string` between the start and 
 
 ### Parameters
 
-`indexStart`  
+`indexStart`
 The index of the first character to include in the returned substring.
 
-`indexEnd` <span class="badge inline optional">Optional</span>  
+`indexEnd` <span class="badge inline optional">Optional</span>
 The index of the first character to exclude from the returned substring.
 
 ### Return value
@@ -140,7 +140,7 @@ The code above serves as an example for substring operations. If you need to rep
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.substring">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.substring">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.substring' in that specification.</span>
@@ -211,6 +211,6 @@ Samsung Internet
 -   [`String.prototype.substr()`](substr)
 -   [`String.prototype.slice()`](slice)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/substring</a>

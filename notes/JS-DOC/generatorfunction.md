@@ -14,10 +14,10 @@ Note that `GeneratorFunction` is not a global object. It could be obtained by ev
 
 ### Parameters
 
-`arg1, arg2, ... argN`  
+`arg1, arg2, ... argN`
 Names to be used by the function as formal argument names. Each must be a string that corresponds to a valid JavaScript identifier or a list of such strings separated with a comma; for example "`x`", "`theValue`", or "`a,b`".
 
-`functionBody`  
+`functionBody`
 A string containing the JavaScript statements comprising the function definition.
 
 ## Description
@@ -54,7 +54,7 @@ Invoking the `GeneratorFunction` constructor as a function (without using the `n
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-generatorfunction-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-generatorfunction-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-generatorfunction-objects</span>

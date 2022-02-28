@@ -179,7 +179,7 @@ This is a basic introduction for those who feel overwhelmed by the vast microcos
 -   <span id="6dcb">You can change in the devTools Network tab the internet speed to check for values that may be undefined to hangle with defaultProps.</span>
 -   <span id="5608">If we fetch multiple pieces of data, we can render many things by using `map`.</span>
 -   <span id="3ad4">You need to assign a unique key to each of the clues.</span>
--   <span id="8b0d">We need to keep track of them individually so that React can easily refer to a specific one if there is an issue.  
+-   <span id="8b0d">We need to keep track of them individually so that React can easily refer to a specific one if there is an issue.
     `clue => { key:clue.id, ...clue }`</span>
 
 <!-- -->
@@ -259,7 +259,7 @@ This is a basic introduction for those who feel overwhelmed by the vast microcos
 
 **How to use JSX**
 
--   <span id="1e31">We will use `babel` to convert version of modern JS into an older version of JS.  
+-   <span id="1e31">We will use `babel` to convert version of modern JS into an older version of JS.
     **React Create Element**</span>
 
 <!-- -->

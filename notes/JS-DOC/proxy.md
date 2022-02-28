@@ -70,12 +70,12 @@ With the help of the [`Reflect`](reflect) class we can give some accessors the o
 
 ## Constructor
 
-[`Proxy()`](proxy/proxy)  
+[`Proxy()`](proxy/proxy)
 Creates a new `Proxy` object.
 
 ## Static methods
 
-[`Proxy.revocable()`](proxy/revocable)  
+[`Proxy.revocable()`](proxy/revocable)
 Creates a revocable `Proxy` object.
 
 ## Examples
@@ -408,7 +408,7 @@ Now in order to create a complete sample `traps` list, for didactic purposes, we
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-proxy-objects">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-proxy-objects">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Proxy' in that specification.</span>

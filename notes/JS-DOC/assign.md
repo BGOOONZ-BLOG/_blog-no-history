@@ -8,10 +8,10 @@ The `Object.assign()` method copies all [enumerable](propertyisenumerable) [own 
 
 ### Parameters
 
-`target`  
+`target`
 The target object — what to apply the sources' properties to, which is returned after it is modified.
 
-`sources`  
+`sources`
 The source object(s) — objects containing the properties you want to apply.
 
 ### Return value
@@ -232,7 +232,7 @@ The properties are overwritten by other objects that have the same properties la
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.assign">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.assign">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.assign</span>
@@ -274,6 +274,6 @@ No
 -   [Enumerability and ownership of properties](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Enumerability_and_ownership_of_properties)
 -   [Spread in object literals](../../operators/spread_syntax#spread_in_object_literals)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/assign</a>

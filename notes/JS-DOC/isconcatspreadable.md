@@ -74,7 +74,7 @@ For array-like objects, the default is to not spread. `Symbol.isConcatSpreadable
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol.isconcatspreadable">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-symbol.isconcatspreadable">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-symbol.isconcatspreadable</span>
@@ -114,6 +114,6 @@ No
 
 -   [`Array.prototype.concat()`](../array/concat)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/isConcatSpreadable" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/isConcatSpreadable</a>

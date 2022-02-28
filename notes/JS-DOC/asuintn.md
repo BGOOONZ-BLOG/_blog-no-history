@@ -8,10 +8,10 @@ The `BigInt.asUintN` static method clamps a BigInt value to an unsigned integer 
 
 ### Parameters
 
-`bits`  
+`bits`
 The amount of bits available for the integer size.
 
-`bigint`  
+`bigint`
 The BigInt value to clamp to fit into the supplied bits.
 
 ### Returns
@@ -44,7 +44,7 @@ The `BigInt.asUintN()` method can be useful to stay in the range of 64-bit arith
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-bigint.asuintn">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-bigint.asuintn">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-bigint.asuintn</span>

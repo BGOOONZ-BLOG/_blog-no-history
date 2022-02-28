@@ -8,10 +8,10 @@ The `Object.is()` method determines whether two values are [the same value](http
 
 ### Parameters
 
-`value1`  
+`value1`
 The first value to compare.
 
-`value2`  
+`value2`
 The second value to compare.
 
 ### Return value
@@ -97,7 +97,7 @@ This is also _not_ the same as being equal according to the [`===`](https://deve
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.is">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object.is">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object.is' in that specification.</span>
@@ -137,6 +137,6 @@ No
 
 -   [Equality comparisons and sameness](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Equality_comparisons_and_sameness) — a comparison of all three built-in sameness facilities
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/is</a>

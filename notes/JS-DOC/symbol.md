@@ -39,75 +39,75 @@ The method [`Object.getOwnPropertySymbols()`](object/getownpropertysymbols) retu
 
 ## Constructor
 
-[`Symbol()`](symbol/symbol)  
+[`Symbol()`](symbol/symbol)
 Creates a new `Symbol` object. It is incomplete as a constructor because it does not support the syntax "`new Symbol()`".
 
 ## Static properties
 
-[`Symbol.asyncIterator`](symbol/asynciterator)  
+[`Symbol.asyncIterator`](symbol/asynciterator)
 A method that returns the default AsyncIterator for an object. Used by [`for await...of`](../statements/for-await...of).
 
-[`Symbol.hasInstance`](symbol/hasinstance)  
+[`Symbol.hasInstance`](symbol/hasinstance)
 A method determining if a constructor object recognizes an object as its instance. Used by [`instanceof`](../operators/instanceof).
 
-[`Symbol.isConcatSpreadable`](symbol/isconcatspreadable)  
+[`Symbol.isConcatSpreadable`](symbol/isconcatspreadable)
 A Boolean value indicating if an object should be flattened to its array elements. Used by [`Array.prototype.concat()`](array/concat).
 
-[`Symbol.iterator`](symbol/iterator)  
+[`Symbol.iterator`](symbol/iterator)
 A method returning the default iterator for an object. Used by [`for...of`](../statements/for...of).
 
-[`Symbol.match`](symbol/match)  
+[`Symbol.match`](symbol/match)
 A method that matches against a string, also used to determine if an object may be used as a regular expression. Used by [`String.prototype.match()`](string/match).
 
-[`Symbol.matchAll`](symbol/matchall)  
+[`Symbol.matchAll`](symbol/matchall)
 A method that returns an iterator, that yields matches of the regular expression against a string. Used by [`String.prototype.matchAll()`](string/matchall).
 
-[`Symbol.replace`](symbol/replace)  
+[`Symbol.replace`](symbol/replace)
 A method that replaces matched substrings of a string. Used by [`String.prototype.replace()`](string/replace).
 
-[`Symbol.search`](symbol/search)  
+[`Symbol.search`](symbol/search)
 A method that returns the index within a string that matches the regular expression. Used by [`String.prototype.search()`](string/search).
 
-[`Symbol.split`](symbol/split)  
+[`Symbol.split`](symbol/split)
 A method that splits a string at the indices that match a regular expression. Used by [`String.prototype.split()`](string/split).
 
-[`Symbol.species`](symbol/species)  
+[`Symbol.species`](symbol/species)
 A constructor function that is used to create derived objects.
 
-[`Symbol.toPrimitive`](symbol/toprimitive)  
+[`Symbol.toPrimitive`](symbol/toprimitive)
 A method converting an object to a primitive value.
 
-[`Symbol.toStringTag`](symbol/tostringtag)  
+[`Symbol.toStringTag`](symbol/tostringtag)
 A string value used for the default description of an object. Used by [`Object.prototype.toString()`](object/tostring).
 
-[`Symbol.unscopables`](symbol/unscopables)  
+[`Symbol.unscopables`](symbol/unscopables)
 An object value of whose own and inherited property names are excluded from the `with` environment bindings of the associated object.
 
 ## Static methods
 
-[`Symbol.for(key)`](symbol/for)  
+[`Symbol.for(key)`](symbol/for)
 Searches for existing Symbols with the given `key` and returns it if found. Otherwise a new Symbol gets created in the global Symbol registry with `key`.
 
-[`Symbol.keyFor(sym)`](symbol/keyfor)  
+[`Symbol.keyFor(sym)`](symbol/keyfor)
 Retrieves a shared Symbol key from the global Symbol registry for the given Symbol.
 
 ## Instance properties
 
-[`Symbol.prototype.description`](symbol/description)  
+[`Symbol.prototype.description`](symbol/description)
 A read-only string containing the description of the Symbol.
 
 ## Instance methods
 
-[`Symbol.prototype.toSource()`](symbol/tosource)  
+[`Symbol.prototype.toSource()`](symbol/tosource)
 Returns a string containing the source of the Symbol. Overrides the [`Object.prototype.toSource()`](object/tosource) method.
 
-[`Symbol.prototype.toString()`](symbol/tostring)  
+[`Symbol.prototype.toString()`](symbol/tostring)
 Returns a string containing the description of the Symbol. Overrides the [`Object.prototype.toString()`](object/tostring) method.
 
-[`Symbol.prototype.valueOf()`](symbol/valueof)  
+[`Symbol.prototype.valueOf()`](symbol/valueof)
 Returns the Symbol. Overrides the [`Object.prototype.valueOf()`](object/valueof) method.
 
-[`Symbol.prototype[@@toPrimitive]`](symbol/@@toprimitive)  
+[`Symbol.prototype[@@toPrimitive]`](symbol/@@toprimitive)
 Returns the Symbol.
 
 ## Examples
@@ -124,7 +124,7 @@ The [`typeof`](../operators/typeof) operator can help you to identify Symbols.
 
 Some things to note when working with type conversion of Symbols.
 
--   When trying to convert a Symbol to a number, a [`TypeError`](typeerror) will be thrown  
+-   When trying to convert a Symbol to a number, a [`TypeError`](typeerror) will be thrown
     (e.g. `+sym` or `sym | 0`).
 -   When using loose equality, `Object(sym) == sym` returns `true`.
 -   `Symbol("foo") + "bar" `throws a [`TypeError`](typeerror) (can't convert Symbol to string). This prevents you from silently creating a new string property name from a Symbol, for example.
@@ -174,7 +174,7 @@ When a Symbol wrapper object is used as a property key, this object will be coer
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-symbol-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-symbol-objects</span>

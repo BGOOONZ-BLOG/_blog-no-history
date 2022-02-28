@@ -23,21 +23,21 @@ By contrast, native `WeakMap`s hold "weak" references to key objects. As such na
 
 ## Constructor
 
-[`WeakMap()`](weakmap/weakmap)  
+[`WeakMap()`](weakmap/weakmap)
 Creates a new `WeakMap` object.
 
 ## Instance methods
 
-[`WeakMap.prototype.delete(key)`](weakmap/delete)  
+[`WeakMap.prototype.delete(key)`](weakmap/delete)
 Removes any value associated to the `key`. `WeakMap.prototype.has(key)` will return `false` afterwards.
 
-[`WeakMap.prototype.get(key)`](weakmap/get)  
+[`WeakMap.prototype.get(key)`](weakmap/get)
 Returns the value associated to the `key`, or `undefined` if there is none.
 
-[`WeakMap.prototype.has(key)`](weakmap/has)  
+[`WeakMap.prototype.has(key)`](weakmap/has)
 Returns a Boolean asserting whether a value has been associated to the `key` in the `WeakMap` object or not.
 
-[`WeakMap.prototype.set(key, value)`](weakmap/set)  
+[`WeakMap.prototype.set(key, value)`](weakmap/set)
 Sets the `value` for the `key` in the `WeakMap` object. Returns the `WeakMap` object.
 
 ## Examples
@@ -107,7 +107,7 @@ Sets the `value` for the `key` in the `WeakMap` object. Returns the `WeakMap` ob
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-weakmap-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-weakmap-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-weakmap-objects</span>

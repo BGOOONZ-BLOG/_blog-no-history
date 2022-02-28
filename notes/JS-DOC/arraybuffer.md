@@ -8,27 +8,27 @@ The `ArrayBuffer()` constructor creates a new `ArrayBuffer` of the given length 
 
 ## Constructor
 
-[`ArrayBuffer()`](arraybuffer/arraybuffer)  
+[`ArrayBuffer()`](arraybuffer/arraybuffer)
 Creates a new `ArrayBuffer` object.
 
 ## Static properties
 
-[`get ArrayBuffer[@@species]`](arraybuffer/@@species)  
+[`get ArrayBuffer[@@species]`](arraybuffer/@@species)
 The constructor function that is used to create derived objects.
 
 ## Static methods
 
-[`ArrayBuffer.isView(arg)`](arraybuffer/isview)  
+[`ArrayBuffer.isView(arg)`](arraybuffer/isview)
 Returns `true` if `arg` is one of the ArrayBuffer views, such as [typed array objects](typedarray) or a [`DataView`](dataview). Returns `false` otherwise.
 
 ## Instance properties
 
-[`ArrayBuffer.prototype.byteLength`](arraybuffer/bytelength)  
+[`ArrayBuffer.prototype.byteLength`](arraybuffer/bytelength)
 The read-only size, in bytes, of the `ArrayBuffer`. This is established when the array is constructed and cannot be changed.
 
 ## Instance methods
 
-[`ArrayBuffer.prototype.slice()`](arraybuffer/slice)  
+[`ArrayBuffer.prototype.slice()`](arraybuffer/slice)
 Returns a new `ArrayBuffer` whose contents are a copy of this `ArrayBuffer`'s bytes from `begin` (inclusive) up to `end` (exclusive). If either `begin` or `end` is negative, it refers to an index from the end of the array, as opposed to from the beginning.
 
 ## Examples
@@ -51,7 +51,7 @@ In this example, we create a 8-byte buffer with a [`Int32Array`](int32array) vie
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-arraybuffer-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-arraybuffer-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-arraybuffer-objects</span>

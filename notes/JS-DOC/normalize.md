@@ -9,21 +9,21 @@ The `normalize()` method returns the Unicode Normalization Form of the string.
 
 ### Parameters
 
-`form` <span class="badge inline optional">Optional</span>  
+`form` <span class="badge inline optional">Optional</span>
 One of `"NFC"`, `"NFD"`, `"NFKC"`, or `"NFKD"`, specifying the Unicode Normalization Form. If omitted or [`undefined`](../undefined), `"NFC"` is used.
 
 These values have the following meanings:
 
-`"NFC"`  
+`"NFC"`
 Canonical Decomposition, followed by Canonical Composition.
 
-`"NFD"`  
+`"NFD"`
 Canonical Decomposition.
 
-`"NFKC"`  
+`"NFKC"`
 Compatibility Decomposition, followed by Canonical Composition.
 
-`"NFKD"`  
+`"NFKD"`
 Compatibility Decomposition.
 
 ### Return value
@@ -32,7 +32,7 @@ A string containing the Unicode Normalization Form of the given string.
 
 ### Errors thrown
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 A [`RangeError`](../rangeerror) is thrown if `form` isn't one of the values specified above.
 
 ## Description
@@ -178,7 +178,7 @@ As with canonical normalization, you can ask for decomposed or composed compatib
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.normalize">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.normalize">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.normalize</span>
@@ -249,6 +249,6 @@ No
 -   [Unicode Standard Annex \#15, Unicode Normalization Forms](https://www.unicode.org/reports/tr15/)
 -   [Unicode equivalence](https://en.wikipedia.org/wiki/Unicode_equivalence)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/normalize</a>

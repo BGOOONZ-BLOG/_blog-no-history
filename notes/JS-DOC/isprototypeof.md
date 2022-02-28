@@ -10,7 +10,7 @@ The `isPrototypeOf()` method checks if an object exists in another object's prot
 
 ### Parameters
 
-`object`  
+`object`
 The object whose prototype chain will be searched.
 
 ### Return value
@@ -19,7 +19,7 @@ A [`Boolean`](../boolean) indicating whether the calling object lies in the prot
 
 ### Errors thrown
 
-[`TypeError`](../typeerror)  
+[`TypeError`](../typeerror)
 A [`TypeError`](../typeerror) is thrown if `prototypeObj` is undefined or null.
 
 ## Description
@@ -75,7 +75,7 @@ For example, to execute some code that's only safe to run if a `baz` object has 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.prototype.isprototypeof">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.prototype.isprototypeof">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.prototype.isprototypeof</span>
@@ -118,6 +118,6 @@ For example, to execute some code that's only safe to run if a `baz` object has 
 -   [`Object.setPrototypeOf()`](setprototypeof)
 -   [`Object/proto`](proto)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isPrototypeOf" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isPrototypeOf</a>

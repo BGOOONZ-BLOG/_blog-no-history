@@ -8,7 +8,7 @@ The `encodeURI()` function encodes a [URI](https://developer.mozilla.org/en-US/d
 
 ### Parameters
 
-`URI`  
+`URI`
 A complete URI.
 
 ### Return value
@@ -81,7 +81,7 @@ If one wishes to follow the more recent [RFC3986](https://datatracker.ietf.org/d
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-encodeuri-uri">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-encodeuri-uri">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-encodeuri-uri</span>

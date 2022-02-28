@@ -4,27 +4,27 @@ The `URIError` object represents an error when a global URI handling function wa
 
 ## Constructor
 
-[`URIError()`](urierror/urierror)  
+[`URIError()`](urierror/urierror)
 Creates a new `URIError` object.
 
 ## Instance properties
 
-[`URIError.prototype.message`](error/message)  
+[`URIError.prototype.message`](error/message)
 Error message. Although ECMA-262 specifies that [`URIError`](urierror) should provide its own `message` property, in [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), it inherits [`Error.prototype.message`](error/message).
 
-[`URIError.prototype.name`](error/name)  
+[`URIError.prototype.name`](error/name)
 Error name. Inherited from [`Error`](error).
 
-[`URIError.prototype.fileName`](error/filename)  
+[`URIError.prototype.fileName`](error/filename)
 Path to file that raised this error. Inherited from [`Error`](error).
 
-[`URIError.prototype.lineNumber`](error/linenumber)  
+[`URIError.prototype.lineNumber`](error/linenumber)
 Line number in file that raised this error. Inherited from [`Error`](error).
 
-[`URIError.prototype.columnNumber`](error/columnnumber)  
+[`URIError.prototype.columnNumber`](error/columnnumber)
 Column number in line that raised this error. Inherited from [`Error`](error).
 
-[`URIError.prototype.stack`](error/stack)  
+[`URIError.prototype.stack`](error/stack)
 Stack trace. Inherited from [`Error`](error).
 
 ## Examples
@@ -68,7 +68,7 @@ Stack trace. Inherited from [`Error`](error).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-urierror">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-urierror">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-native-error-types-used-in-this-standard-urierror</span>

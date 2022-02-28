@@ -22,7 +22,7 @@ Where `TypedArray` is one of:
 
 ### Parameters
 
-`elementN`  
+`elementN`
 Elements of which to create the typed array.
 
 ### Return value
@@ -56,7 +56,7 @@ Some subtle distinctions between [`Array.of()`](../array/of) and `TypedArray.of(
 <tbody>
 <tr class="odd">
 <td>
-<a href="#">ECMAScript (ECMA-262) 
+<a href="#">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of '%TypedArray%.of' in that specification.</span>
@@ -127,6 +127,6 @@ No
 -   [`TypedArray.from()`](from)
 -   [`Array.of()`](../array/of)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/of" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/of</a>

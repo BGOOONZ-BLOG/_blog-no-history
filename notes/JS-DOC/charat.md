@@ -8,7 +8,7 @@ The [`String`](../string) object's `charAt()` method returns a new string consis
 
 ### Parameters
 
-`index`  
+`index`
 An integer between `0` and `str.length - 1`. If the `index` cannot be converted to the integer or no `index` is provided, the default is `0`, so the first character of `str` is returned.
 
 ### Return value
@@ -199,7 +199,7 @@ While the previous example may be more useful for programs that must support non
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.charat">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.charat">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.charAt' in that specification.</span>
@@ -245,6 +245,6 @@ While the previous example may be more useful for programs that must support non
 -   [`String.fromCodePoint()`](fromcodepoint)
 -   [JavaScript has a Unicode problem – Mathias Bynens](https://mathiasbynens.be/notes/javascript-unicode)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/charAt</a>

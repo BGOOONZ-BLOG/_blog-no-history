@@ -23,12 +23,12 @@ A top-level `App` component returns `<Button />` from its `render()` method.
 
 >What is the relationship between `<Button />` and `this` in that `Button`’s `render()`?
 
-**Answer:** 
+**Answer:**
 
-`<Button>` is a React "element".  
+`<Button>` is a React "element".
 If you log it, you will see a plain object like `{ type: Button, props: {} }`.
 
-The element does not represent anything on the screen at that point.  
+The element does not represent anything on the screen at that point.
 It is a *description* of what `App` wants to be rendered.
 
 At some point, React will look at that description and think: “Hmm, there was no `Button` here but now there should be. So I’ll create a `Button` instance.”
@@ -41,7 +41,7 @@ Let’s recap.
 
 `<Button />` is an element, a description of what should be rendered. `this` inside the `Button` is the actual instance React created based on that description.
 
-`App` can return a different `<Button />` element every time but as long as its key doesn’t change, and it is still a `<Button />` and not a `<Door />`, React will keep using the same instance. 
+`App` can return a different `<Button />` element every time but as long as its key doesn’t change, and it is still a `<Button />` and not a `<Door />`, React will keep using the same instance.
 
 **Question:**
 
@@ -80,7 +80,7 @@ Ultimately, `children` is not a special prop in any way except for JSX sugar syn
 
 >Can the `App` change anything in the `Button` output? What and how?
 
-**Answer:** 
+**Answer:**
 
 There have been a few fun answers in the [quiz comments](https://gist.github.com/gaearon/8fa9fdd2c4197ee0b52894877bf587a4) so I will direct you to them. Indeed, since JavaScript doesn't provide any guarantees, technically you can hijack `Button` before React gets a chance to render it.
 

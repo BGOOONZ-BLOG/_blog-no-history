@@ -8,7 +8,7 @@ The `Math.floor()` function returns the largest integer less than or equal to a 
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -98,7 +98,7 @@ Because `floor()` is a static method of `Math`, you always use it as `Math.floor
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.floor">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.floor">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.floor</span>
@@ -142,6 +142,6 @@ Because `floor()` is a static method of `Math`, you always use it as `Math.floor
 -   [`Math.sign()`](sign)
 -   [`Math.trunc()`](trunc)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/floor</a>

@@ -9,7 +9,7 @@ The `toPrecision()` method returns a string representing the [`Number`](../numbe
 
 ### Parameters
 
-`precision` <span class="badge inline optional">Optional</span>  
+`precision` <span class="badge inline optional">Optional</span>
 An integer specifying the number of significant digits.
 
 ### Return value
@@ -20,7 +20,7 @@ If the `precision` argument is omitted, behaves as [`Number.prototype.toString()
 
 ### Exceptions
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 If `precision` is not between `1` and `100` (inclusive), a [`RangeError`](../rangeerror) is thrown. Implementations are allowed to support larger and smaller values as well. ECMA-262 only requires a precision of up to 21 significant digits.
 
 ## Examples
@@ -55,7 +55,7 @@ If `precision` is not between `1` and `100` (inclusive), a [`RangeError`](../ran
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.prototype.toprecision">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.prototype.toprecision">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.prototype.toprecision</span>
@@ -127,6 +127,6 @@ Samsung Internet
 -   [`Number.prototype.toExponential()`](toexponential)
 -   [`Number.prototype.toString()`](tostring)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toPrecision" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toPrecision</a>

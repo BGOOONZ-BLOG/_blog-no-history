@@ -8,7 +8,7 @@ The `ArrayBuffer.isView()` method determines whether the passed value is one of 
 
 ### Parameters
 
-`value`  
+`value`
 The value to be checked.
 
 ### Return value
@@ -45,7 +45,7 @@ The value to be checked.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-arraybuffer.isview">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-arraybuffer.isview">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-arraybuffer.isview</span>

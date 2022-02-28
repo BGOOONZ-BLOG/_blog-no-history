@@ -21,13 +21,13 @@ The `Array.from()` static method creates a new, shallow-copied `Array` instance 
 
 ### Parameters
 
-`arrayLike`  
+`arrayLike`
 An array-like or iterable object to convert to an array.
 
-`mapFn` <span class="badge inline optional">Optional</span>  
+`mapFn` <span class="badge inline optional">Optional</span>
 Map function to call on every element of the array.
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 Value to use as `this` when executing `mapFn`.
 
 ### Return value
@@ -43,8 +43,8 @@ A new [`Array`](../array) instance.
 
 `Array.from()` has an optional parameter `mapFn`, which allows you to execute a [`map()`](map) function on each element of the array being created.
 
-More clearly, `Array.from(obj, mapFn, thisArg)`  
-has the same result as `Array.from(obj).map(mapFn, thisArg)`,  
+More clearly, `Array.from(obj, mapFn, thisArg)`
+has the same result as `Array.from(obj).map(mapFn, thisArg)`,
 except that it does not create an intermediate array.
 
 **Note:** This is especially important for certain array subclasses, like [typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays), since the intermediate array would necessarily have values truncated to fit into the appropriate type.
@@ -138,7 +138,7 @@ In ES2015, the class syntax allows sub-classing of both built-in and user-define
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.from">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-array.from">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Array.from' in that specification.</span>

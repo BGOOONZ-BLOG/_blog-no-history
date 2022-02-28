@@ -45,7 +45,7 @@ no
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-typedarray.bytes_per_element">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-typedarray.bytes_per_element">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-typedarray.bytes_per_element</span>
@@ -86,6 +86,6 @@ no
 -   [JavaScript typed arrays](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Typed_arrays)
 -   [`TypedArray`](../typedarray)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/BYTES_PER_ELEMENT" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/TypedArray/BYTES_PER_ELEMENT</a>

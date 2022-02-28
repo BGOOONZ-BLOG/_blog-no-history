@@ -10,50 +10,50 @@ Traditionally, the Intl API used strings to represent locales, just as Unicode d
 
 ## Constructor
 
-[`Intl.Locale()`](locale/locale)  
+[`Intl.Locale()`](locale/locale)
 Creates a new `Locale` object.
 
 ## Instance properties
 
-[`Intl.Locale.prototype.baseName`](locale/basename)  
+[`Intl.Locale.prototype.baseName`](locale/basename)
 Returns basic, core information about the `Locale` in the form of a substring of the complete data string.
 
-[`Intl.Locale.prototype.calendar`](locale/calendar)  
+[`Intl.Locale.prototype.calendar`](locale/calendar)
 Returns the part of the `Locale` that indicates the Locale's calendar era.
 
-[`Intl.Locale.prototype.caseFirst`](locale/casefirst)  
+[`Intl.Locale.prototype.caseFirst`](locale/casefirst)
 Returns whether case is taken into account for the locale's collation rules.
 
-[`Intl.Locale.prototype.collation`](locale/collation)  
+[`Intl.Locale.prototype.collation`](locale/collation)
 Returns the collation type for the `Locale`, which is used to order strings according to the locale's rules.
 
-[`Intl.Locale.prototype.hourCycle`](locale/hourcycle)  
+[`Intl.Locale.prototype.hourCycle`](locale/hourcycle)
 Returns the time keeping format convention used by the locale.
 
-[`Intl.Locale.prototype.language`](locale/language)  
+[`Intl.Locale.prototype.language`](locale/language)
 Returns the language associated with the locale.
 
-[`Intl.Locale.prototype.numberingSystem`](locale/numberingsystem)  
+[`Intl.Locale.prototype.numberingSystem`](locale/numberingsystem)
 Returns the numeral system used by the locale.
 
-[`Intl.Locale.prototype.numeric`](locale/numeric)  
+[`Intl.Locale.prototype.numeric`](locale/numeric)
 Returns whether the locale has special collation handling for numeric characters.
 
-[`Intl.Locale.prototype.region`](locale/region)  
+[`Intl.Locale.prototype.region`](locale/region)
 Returns the region of the world (usually a country) associated with the locale.
 
-[`Intl.Locale.prototype.script`](locale/script)  
+[`Intl.Locale.prototype.script`](locale/script)
 Returns the script used for writing the particular language used in the locale.
 
 ## Instance methods
 
-[`Intl.Locale.prototype.maximize()`](locale/maximize)  
+[`Intl.Locale.prototype.maximize()`](locale/maximize)
 Gets the most likely values for the language, script, and region of the locale based on existing values.
 
-[`Intl.Locale.prototype.minimize()`](locale/minimize)  
+[`Intl.Locale.prototype.minimize()`](locale/minimize)
 Gets the most likely values for the language, script, and region of the locale based on existing values.
 
-[`Intl.Locale.prototype.toString()`](locale/tostring)  
+[`Intl.Locale.prototype.toString()`](locale/tostring)
 Returns the Locale's full locale identifier string.
 
 ## Examples
@@ -82,7 +82,7 @@ The constructor also takes an optional configuration object argument, which can 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#locale-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#locale-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#locale-objects</span>

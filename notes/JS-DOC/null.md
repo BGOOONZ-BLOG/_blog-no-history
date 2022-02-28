@@ -44,7 +44,7 @@ When checking for `null` or `undefined`, beware of the [differences between equa
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-null-value">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-null-value">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-null-value</span>

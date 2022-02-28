@@ -12,43 +12,43 @@ Some of these methods are also the same as corresponding methods on [`Object`](o
 
 ## Static methods
 
-[`Reflect.apply(target, thisArgument, argumentsList)`](reflect/apply)  
+[`Reflect.apply(target, thisArgument, argumentsList)`](reflect/apply)
 Calls a `target` function with arguments as specified by the `argumentsList` parameter. See also [`Function.prototype.apply()`](function/apply).
 
-[`Reflect.construct(target, argumentsList[, newTarget])`](reflect/construct)  
+[`Reflect.construct(target, argumentsList[, newTarget])`](reflect/construct)
 The [`new` operator](../operators/new) as a function. Equivalent to calling `new target(...argumentsList)`. Also provides the option to specify a different prototype.
 
-[`Reflect.defineProperty(target, propertyKey, attributes)`](reflect/defineproperty)  
+[`Reflect.defineProperty(target, propertyKey, attributes)`](reflect/defineproperty)
 Similar to [`Object.defineProperty()`](object/defineproperty). Returns a [`Boolean`](boolean) that is `true` if the property was successfully defined.
 
-[`Reflect.deleteProperty(target, propertyKey)`](reflect/deleteproperty)  
+[`Reflect.deleteProperty(target, propertyKey)`](reflect/deleteproperty)
 The [`delete` operator](../operators/delete) as a function. Equivalent to calling `delete target[propertyKey]`.
 
-[`Reflect.get(target, propertyKey[, receiver])`](reflect/get)  
+[`Reflect.get(target, propertyKey[, receiver])`](reflect/get)
 Returns the value of the property. Works like getting a property from an object (`target[propertyKey]`) as a function.
 
-[`Reflect.getOwnPropertyDescriptor(target, propertyKey)`](reflect/getownpropertydescriptor)  
+[`Reflect.getOwnPropertyDescriptor(target, propertyKey)`](reflect/getownpropertydescriptor)
 Similar to [`Object.getOwnPropertyDescriptor()`](object/getownpropertydescriptor). Returns a property descriptor of the given property if it exists on the object, [`undefined`](undefined) otherwise.
 
-[`Reflect.getPrototypeOf(target)`](reflect/getprototypeof)  
+[`Reflect.getPrototypeOf(target)`](reflect/getprototypeof)
 Same as [`Object.getPrototypeOf()`](object/getprototypeof).
 
-[`Reflect.has(target, propertyKey)`](reflect/has)  
+[`Reflect.has(target, propertyKey)`](reflect/has)
 Returns a [`Boolean`](boolean) indicating whether the target has the property. Either as own or inherited. Works like the [`in` operator](../operators/in) as a function.
 
-[`Reflect.isExtensible(target)`](reflect/isextensible)  
+[`Reflect.isExtensible(target)`](reflect/isextensible)
 Same as [`Object.isExtensible()`](object/isextensible). Returns a [`Boolean`](boolean) that is `true` if the target is extensible.
 
-[`Reflect.ownKeys(target)`](reflect/ownkeys)  
+[`Reflect.ownKeys(target)`](reflect/ownkeys)
 Returns an array of the target object's own (not inherited) property keys.
 
-[`Reflect.preventExtensions(target)`](reflect/preventextensions)  
+[`Reflect.preventExtensions(target)`](reflect/preventextensions)
 Similar to [`Object.preventExtensions()`](object/preventextensions). Returns a [`Boolean`](boolean) that is `true` if the update was successful.
 
-[`Reflect.set(target, propertyKey, value[, receiver])`](reflect/set)  
+[`Reflect.set(target, propertyKey, value[, receiver])`](reflect/set)
 A function that assigns values to properties. Returns a [`Boolean`](boolean) that is `true` if the update was successful.
 
-[`Reflect.setPrototypeOf(target, prototype)`](reflect/setprototypeof)  
+[`Reflect.setPrototypeOf(target, prototype)`](reflect/setprototypeof)
 A function that sets the prototype of an object. Returns a [`Boolean`](boolean) that is `true` if the update was successful.
 
 ## Examples
@@ -90,7 +90,7 @@ A function that sets the prototype of an object. Returns a [`Boolean`](boolean) 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-reflect-object">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-reflect-object">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-reflect-object</span>

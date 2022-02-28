@@ -8,7 +8,7 @@ The `repeat()` method constructs and returns a new string which contains the spe
 
 ### Parameters
 
-`count`  
+`count`
 An integer between `0` and [`+Infinity`](../number/positive_infinity), indicating the number of times to repeat the string.
 
 ### Return value
@@ -89,7 +89,7 @@ This method has been added to the ECMAScript 2015 specification and may not be a
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.repeat">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.repeat">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.repeat' in that specification.</span>
@@ -159,6 +159,6 @@ No
 
 -   [`String.prototype.concat()`](concat)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/repeat</a>

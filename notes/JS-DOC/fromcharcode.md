@@ -10,7 +10,7 @@ The static `String.fromCharCode()` method returns a string created from the spec
 
 ### Parameters
 
-`num1, ..., numN`  
+`num1, ..., numN`
 A sequence of numbers that are UTF-16 code units. The range is between `0` and `65535` (`0xFFFF`). Numbers greater than `0xFFFF` are truncated. No validity checks are performed.
 
 ### Return value
@@ -61,7 +61,7 @@ Supplementary characters, in UTF-16, require two code units (i.e. a surrogate pa
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.fromcharcode">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.fromcharcode">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.fromCharCode' in that specification.</span>
@@ -104,6 +104,6 @@ Supplementary characters, in UTF-16, require two code units (i.e. a surrogate pa
 -   [`String.prototype.charCodeAt()`](charcodeat)
 -   [`String.prototype.codePointAt()`](codepointat)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/fromCharCode</a>

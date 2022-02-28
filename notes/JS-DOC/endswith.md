@@ -9,10 +9,10 @@ The `endsWith()` method determines whether a string ends with the characters of 
 
 ### Parameters
 
-`searchString`  
+`searchString`
 The characters to be searched for at the end of `str`.
 
-`length` <span class="badge inline optional">Optional</span>  
+`length` <span class="badge inline optional">Optional</span>
 If provided, it is used as the length of `str`. Defaults to `str.length`.
 
 ### Return value
@@ -57,7 +57,7 @@ This method has been added to the ECMAScript 6 specification and may not be avai
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.endswith">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.endswith">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-string.prototype.endswith</span>
@@ -100,6 +100,6 @@ No
 -   [`String.prototype.indexOf()`](indexof)
 -   [`String.prototype.lastIndexOf()`](lastindexof)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/endsWith</a>

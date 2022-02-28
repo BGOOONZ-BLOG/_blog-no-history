@@ -14,7 +14,7 @@ The `handler.getPrototypeOf()` method is a trap for the `[[GetPrototypeOf]]` int
 
 The following parameter is passed to the `getPrototypeOf()` method. `this` is bound to the handler.
 
-`target`  
+`target`
 The target object.
 
 ### Return value
@@ -102,7 +102,7 @@ If the following invariants are violated, the proxy will throw a [`TypeError`](.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-proxy-object-internal-methods-and-internal-slots-getprototypeof</span>
@@ -145,6 +145,6 @@ No
 -   [`Object.getPrototypeOf()`](../../object/getprototypeof)
 -   [`Reflect.getPrototypeOf()`](../../reflect/getprototypeof)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/getPrototypeOf" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Proxy/Proxy/getPrototypeOf</a>

@@ -9,12 +9,12 @@ The `includes()` method determines whether an array includes a certain value amo
 
 ### Parameters
 
-`searchElement`  
+`searchElement`
 The value to search for.
 
 **Note:** When comparing strings and characters, `includes()` is _case-sensitive_.
 
-`fromIndex` <span class="badge inline optional">Optional</span>  
+`fromIndex` <span class="badge inline optional">Optional</span>
 The position in this array at which to begin searching for `searchElement`.
 
 The first element to be searched is found at `fromIndex` for positive values of `fromIndex`, or at `arr.length + fromIndex` for negative values of `fromIndex` (using the [absolute value](#) of `fromIndex` as the number of elements from the end of the array at which to start the search).
@@ -83,7 +83,7 @@ The example below illustrates `includes()` method called on the function's [argu
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.includes">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.includes">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.includes</span>

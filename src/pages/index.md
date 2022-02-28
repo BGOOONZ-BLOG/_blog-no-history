@@ -223,7 +223,7 @@ sections:
     image_alt: showcase
     image_position: left
     content: >-
-      <iframe src="https://random-static-html-deploys.netlify.app/"   
+      <iframe src="https://random-static-html-deploys.netlify.app/"
       class="block-content" width="100%  width="1200px!important"
 
       height="1000px!important">
@@ -270,7 +270,7 @@ sections:
        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
         encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 </iframe>
-      
+
     actions: []
     type: section_content
     title: Tools Showcase

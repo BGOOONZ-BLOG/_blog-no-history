@@ -16,16 +16,16 @@ The original string is left unchanged.
 
 ### Parameters
 
-`regexp` (pattern)  
+`regexp` (pattern)
 A [`RegExp`](../regexp) object or literal with the global flag. The matches are replaced with `newSubstr` or the value returned by the specified `replacerFunction`. A RegExp without the global ("g") flag will throw a `TypeError`: "replaceAll must be called with a global RegExp".
 
-`substr`  
+`substr`
 A [`String`](../string) that is to be replaced by `newSubstr`. It is treated as a literal string and is _not_ interpreted as a regular expression.
 
-`newSubstr` (replacement)  
+`newSubstr` (replacement)
 The [`String`](../string) that replaces the substring specified by the specified `regexp` or `substr` parameter. A number of special replacement patterns are supported; see the "[Specifying a string as a parameter](#specifying_a_string_as_a_parameter)" section below.
 
-`replacerFunction` (replacement)  
+`replacerFunction` (replacement)
 A function to be invoked to create the new substring to be used to replace the matches to the given `regexp` or `substr`. The arguments supplied to this function are described in the "[Specifying a function as a parameter](#specifying_a_function_as_a_parameter)" section below.
 
 ### Return value
@@ -160,7 +160,7 @@ This will work:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.replaceall">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.replaceall">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.replaceAll' in that specification.</span>
@@ -233,6 +233,6 @@ No
 -   [`RegExp.prototype.exec()`](../regexp/exec)
 -   [`RegExp.prototype.test()`](../regexp/test)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/replaceAll</a>

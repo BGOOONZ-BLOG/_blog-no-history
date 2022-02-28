@@ -8,7 +8,7 @@ The `Object.isSealed()` method determines if an object is sealed.
 
 ### Parameters
 
-`obj`  
+`obj`
 The object which should be checked.
 
 ### Return value
@@ -88,7 +88,7 @@ In ES5, if the argument to this method is not an object (a primitive), then it w
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.issealed">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object.issealed">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object.isSealed' in that specification.</span>
@@ -132,6 +132,6 @@ In ES5, if the argument to this method is not an object (a primitive), then it w
 -   [`Object.freeze()`](freeze)
 -   [`Object.isFrozen()`](isfrozen)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/isSealed</a>

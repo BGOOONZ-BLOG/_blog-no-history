@@ -9,10 +9,10 @@ The `setMonth()` method sets the month for a specified date according to the cur
 
 ### Parameters
 
-`monthValue`  
+`monthValue`
 A zero-based integer representing the month of the year offset from the start of the year. So, 0 represents January, 11 represents December, -1 represents December of the previous year, and 12 represents January of the following year.
 
-`dayValue`  
+`dayValue`
 Optional. An integer from 1 to 31, representing the day of the month.
 
 ### Return value
@@ -50,7 +50,7 @@ The current day of month will have an impact on the behavior of this method. Con
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setmonth">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setmonth">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setmonth</span>

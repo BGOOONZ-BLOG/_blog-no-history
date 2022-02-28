@@ -41,7 +41,7 @@ There are two types of exports:
     export { import1 as name1, import2 as name2, …, nameN } from …;
     export { default, … } from …;
 
-`nameN`  
+`nameN`
 Identifier to be exported (so that it can be imported via [`import`](import) in another script).
 
 ## Description
@@ -216,7 +216,7 @@ This is what it would look like using code snippets:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-exports">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-exports">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-exports</span>
@@ -324,6 +324,6 @@ No
 -   [ES modules: A cartoon deep-dive](https://hacks.mozilla.org/2018/03/es-modules-a-cartoon-deep-dive/), Hacks blog post by Lin Clark
 -   [Axel Rauschmayer's book: "Exploring JS: Modules"](https://exploringjs.com/es6/ch_modules.html)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/export</a>

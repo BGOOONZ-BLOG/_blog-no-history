@@ -21,19 +21,19 @@ The `forEach()` method executes a provided function once for each array element.
 
 ### Parameters
 
-`callbackFn`  
+`callbackFn`
 Function to execute on each element. It accepts between one and three arguments:
 
-`element`  
+`element`
 The current element being processed in the array.
 
-`index` <span class="badge inline optional">Optional</span>  
+`index` <span class="badge inline optional">Optional</span>
 The index of `element` in the array.
 
-`array` <span class="badge inline optional">Optional</span>  
+`array` <span class="badge inline optional">Optional</span>
 The array `forEach()` was called upon.
 
-`thisArg` <span class="badge inline optional">Optional</span>  
+`thisArg` <span class="badge inline optional">Optional</span>
 Value to use as `this` when executing `callbackFn`.
 
 ### Return value
@@ -309,7 +309,7 @@ The following example is only here for learning purpose. If you want to flatten 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.foreach">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.foreach">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.foreach</span>

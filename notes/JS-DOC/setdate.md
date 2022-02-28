@@ -10,7 +10,7 @@ To instead change the day of the month for a given [`Date`](../date) instance ba
 
 ### Parameters
 
-`dayValue`  
+`dayValue`
 An integer representing the day of the month.
 
 ### Return value
@@ -48,7 +48,7 @@ If a negative number is provided for `dayValue`, the date will be set counting b
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setdate">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setdate">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Date.prototype.setDate' in that specification.</span>

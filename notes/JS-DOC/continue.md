@@ -6,7 +6,7 @@ The `continue` terminates execution of the statements in the current iteration o
 
     continue [label];
 
-`label`  
+`label`
 Identifier associated with the label of the statement.
 
 ## Description
@@ -106,7 +106,7 @@ Output:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-continue-statement">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-continue-statement">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Continue statement' in that specification.</span>
@@ -147,6 +147,6 @@ Output:
 -   [`break`](break)
 -   [label](label)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/continue</a>

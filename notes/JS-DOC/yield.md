@@ -6,10 +6,10 @@ The `yield` keyword is used to pause and resume a generator function ([`function
 
     [rv] = yield [expression]
 
-`expression` <span class="badge inline optional">Optional</span>  
+`expression` <span class="badge inline optional">Optional</span>
 Defines the value to return from the generator function via [the iterator protocol](../iteration_protocols#the_iterator_protocol). If omitted, `undefined` is returned instead.
 
-`rv` <span class="badge inline optional">Optional</span>  
+`rv` <span class="badge inline optional">Optional</span>
 Retrieves the optional value passed to the generator's `next()` method to resume its execution.
 
 ## Description
@@ -87,7 +87,7 @@ You can also send a value with next(value) into the generator. 'step' evaluates 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#prod-YieldExpression">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#prod-YieldExpression">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#prod-YieldExpression</span>
@@ -164,6 +164,6 @@ No
 -   [`function* expression`](function*)
 -   [`yield*`](yield*)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/yield</a>

@@ -217,7 +217,7 @@ Note that the escape sequence restriction is only dropped from _tagged_ template
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-template-literals">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-template-literals">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-template-literals</span>

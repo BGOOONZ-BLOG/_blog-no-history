@@ -8,7 +8,7 @@ The `match()` method retrieves the result of matching a _string_ against a [regu
 
 ### Parameters
 
-`regexp`  
+`regexp`
 A regular expression object.
 
 If `regexp` is a non-`RegExp` object, it is implicitly converted to a [`RegExp`](../regexp) by using `new RegExp(regexp)`.
@@ -26,13 +26,13 @@ An [`Array`](../array) whose contents depend on the presence or absence of the g
 
 As explained above, some results contain additional properties as described below.
 
-`groups`  
+`groups`
 An object of named capturing groups whose keys are the names and values are the capturing groups or [`undefined`](../undefined) if no named capturing groups were defined. See [Groups and Ranges](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expressions/Groups_and_Ranges) for more information.
 
-`index`  
+`index`
 The index of the search at which the result was found.
 
-`input`  
+`input`
 A copy of the search string.
 
 ## Description
@@ -129,7 +129,7 @@ If it is a positive number with a positive sign, `RegExp()` will ignore the posi
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-string.prototype.match">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-string.prototype.match">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'String.prototype.match' in that specification.</span>
@@ -172,6 +172,6 @@ If it is a positive number with a positive sign, `RegExp()` will ignore the posi
 -   [`RegExp.prototype.exec()`](../regexp/exec)
 -   [`RegExp.prototype.test()`](../regexp/test)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/match</a>

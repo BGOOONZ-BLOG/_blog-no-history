@@ -33,7 +33,7 @@ The [`Intl.Locale`](locale) constructor has an optional configuration object arg
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.numeric">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.numeric">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#sec-Intl.Locale.prototype.numeric</span>

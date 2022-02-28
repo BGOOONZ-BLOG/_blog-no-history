@@ -10,7 +10,7 @@ The order of the array returned by `Object.entries()` does not depend on how an 
 
 ### Parameters
 
-`obj`  
+`obj`
 The object whose own enumerable string-keyed property `[key, value]` pairs are to be returned.
 
 ### Return value
@@ -106,7 +106,7 @@ Using [Array Destructuring](../../operators/destructuring_assignment#array_destr
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.entries">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-object.entries">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Object.entries' in that specification.</span>
@@ -155,6 +155,6 @@ No
 -   [`Map.prototype.keys()`](../map/keys)
 -   [`Map.prototype.values()`](../map/values)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries</a>

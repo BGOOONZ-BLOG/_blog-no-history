@@ -155,37 +155,37 @@ In the above example, the inner text of the `<iframe>` will be updated only if t
 
 ## Constructor
 
-[`Promise()`](promise/promise)  
+[`Promise()`](promise/promise)
 Creates a new `Promise` object. The constructor is primarily used to wrap functions that do not already support promises.
 
 ## Static methods
 
-[`Promise.all(iterable)`](promise/all)  
+[`Promise.all(iterable)`](promise/all)
 Wait for all promises to be resolved, or for any to be rejected.
 
 If the returned promise resolves, it is resolved with an aggregating array of the values from the resolved promises, in the same order as defined in the iterable of multiple promises.
 
 If it rejects, it is rejected with the reason from the first promise in the iterable that was rejected.
 
-[`Promise.allSettled(iterable)`](promise/allsettled)  
+[`Promise.allSettled(iterable)`](promise/allsettled)
 Wait until all promises have settled (each may resolve or reject).
 
 Returns a Promise that resolves after all of the given promises have either resolved or rejected, with an array of objects that each describe the outcome of each promise.
 
-[`Promise.any(iterable)`](promise/any)  
+[`Promise.any(iterable)`](promise/any)
 Takes an iterable of Promise objects and, as soon as one of the promises in the iterable fulfills, returns a single promise that resolves with the value from that promise.
 
-[`Promise.race(iterable)`](promise/race)  
+[`Promise.race(iterable)`](promise/race)
 Wait until any of the promises is resolved or rejected.
 
 If the returned promise resolves, it is resolved with the value of the first promise in the iterable that resolved.
 
 If it rejects, it is rejected with the reason from the first promise that was rejected.
 
-[`Promise.reject(reason)`](promise/reject)  
+[`Promise.reject(reason)`](promise/reject)
 Returns a new `Promise` object that is rejected with the given reason.
 
-[`Promise.resolve(value)`](promise/resolve)  
+[`Promise.resolve(value)`](promise/resolve)
 Returns a new `Promise` object that is resolved with the given value. If the value is a thenable (i.e. has a `then` method), the returned promise will "follow" that thenable, adopting its eventual state; otherwise, the returned promise will be fulfilled with the value.
 
 Generally, if you don't know if a value is a promise or not, [`Promise.resolve(value)`](promise/resolve) it instead and work with the return value as a promise.
@@ -194,13 +194,13 @@ Generally, if you don't know if a value is a promise or not, [`Promise.resolve(v
 
 See the [Microtask guide](https://developer.mozilla.org/en-US/docs/Web/API/HTML_DOM_API/Microtask_guide) to learn more about how these methods use the Microtask queue and services.
 
-[`Promise.prototype.catch()`](promise/catch)  
+[`Promise.prototype.catch()`](promise/catch)
 Appends a rejection handler callback to the promise, and returns a new promise resolving to the return value of the callback if it is called, or to its original fulfillment value if the promise is instead fulfilled.
 
-[`Promise.prototype.then()`](promise/then)  
+[`Promise.prototype.then()`](promise/then)
 Appends fulfillment and rejection handlers to the promise, and returns a new promise resolving to the return value of the called handler, or to its original settled value if the promise was not handled (i.e. if the relevant handler `onFulfilled` or `onRejected` is not a function).
 
-[`Promise.prototype.finally()`](promise/finally)  
+[`Promise.prototype.finally()`](promise/finally)
 Appends a handler to the promise, and returns a new promise that is resolved when the original promise is resolved. The handler is called when the promise is settled, whether fulfilled or rejected.
 
 ## Examples
@@ -378,7 +378,7 @@ Another simple example using `Promise` and [`XMLHttpRequest`](https://developer.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-promise-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-promise-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-promise-objects</span>

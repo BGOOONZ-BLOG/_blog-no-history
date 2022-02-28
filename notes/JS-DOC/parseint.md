@@ -9,10 +9,10 @@ The `parseInt()` function parses a string argument and returns an integer of the
 
 ### Parameters
 
-`string`  
+`string`
 The value to parse. If this argument is not a string, then it is converted to one using the `ToString` abstract operation. Leading [whitespace](https://developer.mozilla.org/en-US/docs/Glossary/Whitespace) in this argument is ignored.
 
-`radix` <span class="badge inline optional">Optional</span>  
+`radix` <span class="badge inline optional">Optional</span>
 An integer between `2` and `36` that represents the _radix_ (the base in mathematical numeral systems) of the `string`. Be careful—this does **_not_** default to `10`! If the radix value is not of the `Number` type it will be coerced to a `Number`.
 
 **Warning:** The [description below](#description) explains in more detail what happens when `radix` is not provided.
@@ -182,7 +182,7 @@ The radix is coerced to a `Number`:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-parseint-string-radix">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-parseint-string-radix">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-parseint-string-radix</span>

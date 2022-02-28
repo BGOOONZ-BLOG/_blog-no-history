@@ -8,7 +8,7 @@ The `Object.preventExtensions()` method prevents new properties from ever being 
 
 ### Parameters
 
-`obj`  
+`obj`
 The object which should be made non-extensible.
 
 ### Return value
@@ -87,7 +87,7 @@ In ES5, if the argument to this method is not an object (a primitive), then it w
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.preventextensions">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.preventextensions">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.preventextensions</span>
@@ -188,6 +188,6 @@ Samsung Internet
 -   [`Object.isFrozen()`](isfrozen)
 -   [`Reflect.preventExtensions()`](../reflect/preventextensions)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/preventExtensions</a>

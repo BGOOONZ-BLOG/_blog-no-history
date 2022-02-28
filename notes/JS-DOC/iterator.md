@@ -83,7 +83,7 @@ If an iterable's `@@iterator` method does not return an iterator object, then it
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol.iterator">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-symbol.iterator">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Symbol.iterator' in that specification.</span>
@@ -128,6 +128,6 @@ No
 -   [`Map.prototype[@@iterator]()`](../map/@@iterator)
 -   [`Set.prototype[@@iterator]()`](../set/@@iterator)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator</a>

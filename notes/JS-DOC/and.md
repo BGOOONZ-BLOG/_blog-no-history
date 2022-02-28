@@ -8,13 +8,13 @@ The static ` Atomics``.and() ` method computes a bitwise AND with a given value 
 
 ### Parameters
 
-`typedArray`  
+`typedArray`
 An integer typed array. One of [`Int8Array`](../int8array), [`Uint8Array`](../uint8array), [`Int16Array`](../int16array), [`Uint16Array`](../uint16array), [`Int32Array`](../int32array), [`Uint32Array`](../uint32array), [`BigInt64Array`](../bigint64array), or [`BigUint64Array`](../biguint64array).
 
-`index`  
+`index`
 The position in the `typedArray` to compute the bitwise AND.
 
-`value`  
+`value`
 The number to compute the bitwise AND with.
 
 ### Return value
@@ -97,7 +97,7 @@ For example, a bitwise AND of `5 & 1` results in `0001` which is 1 in decimal.
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-atomics.and">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-atomics.and">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-atomics.and</span>

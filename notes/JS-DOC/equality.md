@@ -86,7 +86,7 @@ Note that strings constructed using `new String()` are objects. If you compare o
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-equality-operators">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-equality-operators">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-equality-operators</span>
@@ -128,6 +128,6 @@ Note that strings constructed using `new String()` are objects. If you compare o
 -   [Strict equality operator](strict_equality)
 -   [Strict inequality operator](strict_inequality)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Equality</a>

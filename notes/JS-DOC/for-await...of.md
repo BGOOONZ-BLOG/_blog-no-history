@@ -10,10 +10,10 @@ The `for await...of` creates a loop iterating over async iterable objects as wel
       statement
     }
 
-`variable`  
+`variable`
 On each iteration a value of a different property is assigned to `variable`. `variable` may be declared with `const`, `let`, or `var`.
 
-`iterable`  
+`iterable`
 Object whose iterable properties are to be iterated over.
 
 ## Examples
@@ -210,7 +210,7 @@ To make `finally` blocks of a sync generator to be always called use appropriate
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-for-in-and-for-of-statements">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-for-in-and-for-of-statements">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-for-in-and-for-of-statements</span>
@@ -251,6 +251,6 @@ No
 -   [`Symbol.asyncIterator`](../global_objects/symbol/asynciterator)
 -   [`for...of`](for...of)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for-await...of</a>

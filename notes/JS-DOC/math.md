@@ -14,135 +14,135 @@ This means that different browsers can give a different result. Even the same Ja
 
 ## Static properties
 
-[`Math.E`](math/e)  
+[`Math.E`](math/e)
 Euler's constant and the base of natural logarithms; approximately `2.718`.
 
-[`Math.LN2`](math/ln2)  
+[`Math.LN2`](math/ln2)
 Natural logarithm of `2`; approximately `0.693`.
 
-[`Math.LN10`](math/ln10)  
+[`Math.LN10`](math/ln10)
 Natural logarithm of `10`; approximately `2.303`.
 
-[`Math.LOG2E`](math/log2e)  
+[`Math.LOG2E`](math/log2e)
 Base-2 logarithm of `E`; approximately `1.443`.
 
-[`Math.LOG10E`](math/log10e)  
+[`Math.LOG10E`](math/log10e)
 Base-10 logarithm of `E`; approximately `0.434`.
 
-[`Math.PI`](math/pi)  
+[`Math.PI`](math/pi)
 Ratio of the a circle's circumference to its diameter; approximately `3.14159`.
 
-[`Math.SQRT1_2`](math/sqrt1_2)  
+[`Math.SQRT1_2`](math/sqrt1_2)
 Square root of ½ (or equivalently, <sup>1</sup>/<sub>√2</sub>); approximately `0.707`.
 
-[`Math.SQRT2`](math/sqrt2)  
+[`Math.SQRT2`](math/sqrt2)
 Square root of `2`; approximately `1.414`.
 
 ## Static methods
 
-[`Math.abs(x)`](math/abs)  
+[`Math.abs(x)`](math/abs)
 Returns the absolute value of `x`.
 
-[`Math.acos(x)`](math/acos)  
+[`Math.acos(x)`](math/acos)
 Returns the arccosine of `x`.
 
-[`Math.acosh(x)`](math/acosh)  
+[`Math.acosh(x)`](math/acosh)
 Returns the hyperbolic arccosine of `x`.
 
-[`Math.asin(x)`](math/asin)  
+[`Math.asin(x)`](math/asin)
 Returns the arcsine of `x`.
 
-[`Math.asinh(x)`](math/asinh)  
+[`Math.asinh(x)`](math/asinh)
 Returns the hyperbolic arcsine of a number.
 
-[`Math.atan(x)`](math/atan)  
+[`Math.atan(x)`](math/atan)
 Returns the arctangent of `x`.
 
-[`Math.atanh(x)`](math/atanh)  
+[`Math.atanh(x)`](math/atanh)
 Returns the hyperbolic arctangent of `x`.
 
-[`Math.atan2(y, x)`](math/atan2)  
+[`Math.atan2(y, x)`](math/atan2)
 Returns the arctangent of the quotient of its arguments.
 
-[`Math.cbrt(x)`](math/cbrt)  
+[`Math.cbrt(x)`](math/cbrt)
 Returns the cube root of `x`.
 
-[`Math.ceil(x)`](math/ceil)  
+[`Math.ceil(x)`](math/ceil)
 Returns the smallest integer greater than or equal to `x`.
 
-[`Math.clz32(x)`](math/clz32)  
+[`Math.clz32(x)`](math/clz32)
 Returns the number of leading zero bits of the 32-bit integer `x`.
 
-[`Math.cos(x)`](math/cos)  
+[`Math.cos(x)`](math/cos)
 Returns the cosine of `x`.
 
-[`Math.cosh(x)`](math/cosh)  
+[`Math.cosh(x)`](math/cosh)
 Returns the hyperbolic cosine of `x`.
 
-[`Math.exp(x)`](math/exp)  
+[`Math.exp(x)`](math/exp)
 Returns `Ex`, where `x` is the argument, and `E` is Euler's constant (`2.718`…, the base of the natural logarithm).
 
-[`Math.expm1(x)`](math/expm1)  
+[`Math.expm1(x)`](math/expm1)
 Returns subtracting `1` from `exp(x)`.
 
-[`Math.floor(x)`](math/floor)  
+[`Math.floor(x)`](math/floor)
 Returns the largest integer less than or equal to `x`.
 
-[`Math.fround(x)`](math/fround)  
+[`Math.fround(x)`](math/fround)
 Returns the nearest [single precision](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) float representation of `x`.
 
-[`Math.hypot([x[, y[, …]]])`](math/hypot)  
+[`Math.hypot([x[, y[, …]]])`](math/hypot)
 Returns the square root of the sum of squares of its arguments.
 
-[`Math.imul(x, y)`](math/imul)  
+[`Math.imul(x, y)`](math/imul)
 Returns the result of the 32-bit integer multiplication of `x` and `y`.
 
-[`Math.log(x)`](math/log)  
+[`Math.log(x)`](math/log)
 Returns the natural logarithm (㏒<sub>e</sub>; also, ㏑) of `x`.
 
-[`Math.log1p(x)`](math/log1p)  
+[`Math.log1p(x)`](math/log1p)
 Returns the natural logarithm (㏒<sub>e</sub>; also ㏑) of `1 + x` for the number `x`.
 
-[`Math.log10(x)`](math/log10)  
+[`Math.log10(x)`](math/log10)
 Returns the base-10 logarithm of `x`.
 
-[`Math.log2(x)`](math/log2)  
+[`Math.log2(x)`](math/log2)
 Returns the base-2 logarithm of `x`.
 
-[`Math.max([x[, y[, …]]])`](math/max)  
+[`Math.max([x[, y[, …]]])`](math/max)
 Returns the largest of zero or more numbers.
 
-[`Math.min([x[, y[, …]]])`](math/min)  
+[`Math.min([x[, y[, …]]])`](math/min)
 Returns the smallest of zero or more numbers.
 
-[`Math.pow(x, y)`](math/pow)  
+[`Math.pow(x, y)`](math/pow)
 Returns base `x` to the exponent power `y` (that is, `xy`).
 
-[`Math.random()`](math/random)  
+[`Math.random()`](math/random)
 Returns a pseudo-random number between `0` and `1`.
 
-[`Math.round(x)`](math/round)  
+[`Math.round(x)`](math/round)
 Returns the value of the number `x` rounded to the nearest integer.
 
-[`Math.sign(x)`](math/sign)  
+[`Math.sign(x)`](math/sign)
 Returns the sign of the `x`, indicating whether `x` is positive, negative, or zero.
 
-[`Math.sin(x)`](math/sin)  
+[`Math.sin(x)`](math/sin)
 Returns the sine of `x`.
 
-[`Math.sinh(x)`](math/sinh)  
+[`Math.sinh(x)`](math/sinh)
 Returns the hyperbolic sine of `x`.
 
-[`Math.sqrt(x)`](math/sqrt)  
+[`Math.sqrt(x)`](math/sqrt)
 Returns the positive square root of `x`.
 
-[`Math.tan(x)`](math/tan)  
+[`Math.tan(x)`](math/tan)
 Returns the tangent of `x`.
 
-[`Math.tanh(x)`](math/tanh)  
+[`Math.tanh(x)`](math/tanh)
 Returns the hyperbolic tangent of `x`.
 
-[`Math.trunc(x)`](math/trunc)  
+[`Math.trunc(x)`](math/trunc)
 Returns the integer portion of `x`, removing any fractional digits.
 
 ## Examples
@@ -195,7 +195,7 @@ This can be achieved with a combination of [`Math.random()`](math/random) and [`
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math-object">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-math-object">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Math' in that specification.</span>

@@ -249,9 +249,9 @@ template: docs
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://euangoddard.github.io/clipboard2markdown/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
 </iframe>
-        
-        
-        
+
+
+
 <br>
 <br>
 <h1>   Paste Excel Tabel To Markdown </h1>
@@ -408,16 +408,16 @@ template: docs
 <br>
 <iframe  style="z-index:-1!important; overflow:scroll;resize:both;" class="block-content" src="https://ds-algo-official.netlify.app/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
 </iframe>
-        
-        
-        
+
+
+
 <br>
 <br>
 <br>
 <h1>                </h1>
 <br>
-        
-        
+
+
  <iframe height="800" style="width: 100%;" scrolling="yes" title="Simple Typing Carousel " src="https://codepen.io/bgoonz/embed/ExZvGoZ?default-tab=html%2Cresult" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/bgoonz/pen/ExZvGoZ">
   Simple Typing Carousel </a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
@@ -471,7 +471,7 @@ template: docs
     <br>
     <iframe height="1000px" style="width: 1300px;" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0"  src="//jsfiddle.net/bgoonz/3mpgzkx7/1/embedded/"
       allowfullscreen="allowfullscreen" frameborder="0">
-</iframe> 
+</iframe>
     <br>
     <br>
     <br>
@@ -559,7 +559,7 @@ template: docs
       <br>
       <br>
       <br>
-    
+
         <br>
 <iframe loading="lazy" src="https://portfolio42.netlify.app/"
   style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="hvbrd-sockets (forked)"

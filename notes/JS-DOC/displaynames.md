@@ -4,20 +4,20 @@ The `Intl.DisplayNames` object enables the consistent translation of language, r
 
 ## Constructor
 
-[`Intl.DisplayNames()`](displaynames/displaynames)  
+[`Intl.DisplayNames()`](displaynames/displaynames)
 Creates a new `Intl.DisplayNames` object.
 
 ## Static methods
 
-[`Intl.DisplayNames.supportedLocalesOf()`](displaynames/supportedlocalesof)  
+[`Intl.DisplayNames.supportedLocalesOf()`](displaynames/supportedlocalesof)
 Returns an array containing those of the provided locales that are supported without having to fall back to the runtime's default locale.
 
 ## Instance methods
 
-[`Intl.DisplayNames.prototype.of()`](displaynames/of)  
+[`Intl.DisplayNames.prototype.of()`](displaynames/of)
 This method receives a `code` and returns a string based on the locale and options provided when instantiating `Intl.DisplayNames`.
 
-[`Intl.DisplayNames.prototype.resolvedOptions()`](displaynames/resolvedoptions)  
+[`Intl.DisplayNames.prototype.resolvedOptions()`](displaynames/resolvedoptions)
 Returns a new object with properties reflecting the locale and formatting options computed during initialization of the object.
 
 ## Examples

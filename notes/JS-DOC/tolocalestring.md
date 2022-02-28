@@ -133,7 +133,7 @@ For this reason, you cannot expect to be able to compare the results of `toLocal
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.tolocalestring">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.tolocalestring">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.tolocalestring</span>

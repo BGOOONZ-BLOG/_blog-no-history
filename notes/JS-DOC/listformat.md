@@ -4,20 +4,20 @@ The `Intl.ListFormat` object enables language-sensitive list formatting.
 
 ## Constructor
 
-[`Intl.ListFormat()`](listformat/listformat)  
+[`Intl.ListFormat()`](listformat/listformat)
 Creates a new `Intl.ListFormat` object.
 
 ## Static methods
 
-[`Intl.ListFormat.supportedLocalesOf()`](listformat/supportedlocalesof)  
+[`Intl.ListFormat.supportedLocalesOf()`](listformat/supportedlocalesof)
 Returns an array containing those of the provided locales that are supported without having to fall back to the runtime's default locale.
 
 ## Instance methods
 
-[`Intl.ListFormat.prototype.format()`](listformat/format)  
+[`Intl.ListFormat.prototype.format()`](listformat/format)
 Returns a language-specific formatted string representing the elements of the list.
 
-[`Intl.ListFormat.prototype.formatToParts()`](listformat/formattoparts)  
+[`Intl.ListFormat.prototype.formatToParts()`](listformat/formattoparts)
 Returns an array of objects representing the different components that can be used to format a list of values in a locale-aware fashion.
 
 ## Examples
@@ -65,7 +65,7 @@ The following example shows how to create a List formatter returning formatted p
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma402/#listformat-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<a href="https://tc39.es/ecma402/#listformat-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
 <span class="small">#listformat-objects</span>

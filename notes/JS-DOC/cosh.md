@@ -10,7 +10,7 @@ $$\\mathtt{\\operatorname{Math.cosh(x)}} = \\frac{e^{x} + e^{- x}}{2}$$
 
 ### Parameters
 
-`x`  
+`x`
 A number.
 
 ### Return value
@@ -55,7 +55,7 @@ or using only one call to the [`Math.exp()`](exp) function:
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-math.cosh">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-math.cosh">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-math.cosh</span>
@@ -99,6 +99,6 @@ No
 -   [`Math.sinh()`](sinh)
 -   [`Math.tanh()`](tanh)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/cosh</a>

@@ -9,7 +9,7 @@ The `join()` method creates and returns a new string by concatenating all of the
 
 ### Parameters
 
-`separator` <span class="badge inline optional">Optional</span>  
+`separator` <span class="badge inline optional">Optional</span>
 Specifies a string to separate each pair of adjacent elements of the array. The separator is converted to a string if necessary. If omitted, the array elements are separated with a comma (","). If `separator` is an empty string, all elements are joined without any characters in between them.
 
 ### Return value
@@ -56,7 +56,7 @@ The following example joins array-like object (`arguments`), by calling [`Functi
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.join">ECMAScript (ECMA-262) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.join">ECMAScript (ECMA-262)
 <br/>
 
 <span class="small">The definition of 'Array.prototype.join' in that specification.</span>

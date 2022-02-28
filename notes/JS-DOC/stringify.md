@@ -10,13 +10,13 @@ The `JSON.stringify()` method converts a JavaScript object or value to a JSON st
 
 ### Parameters
 
-`value`  
+`value`
 The value to convert to a JSON string.
 
-`replacer` <span class="badge inline optional">Optional</span>  
+`replacer` <span class="badge inline optional">Optional</span>
 A function that alters the behavior of the stringification process, or an array of [`String`](../string) and [`Number`](../number) that serve as an allowlist for selecting/filtering the properties of the value object to be included in the JSON string. If this value is [`null`](../null) or not provided, all properties of the object are included in the resulting JSON string.
 
-`space` <span class="badge inline optional">Optional</span>  
+`space` <span class="badge inline optional">Optional</span>
 A [`String`](../string) or [`Number`](../number) object that's used to insert white space into the output JSON string for readability purposes.
 
 If this is a `Number`, it indicates the number of space characters to use as white space; this number is capped at 10 (if it is greater, the value is just `10`). Values less than 1 indicate that no space should be used.
@@ -305,7 +305,7 @@ This change should be backwards-compatible as long as you pass the result of `JS
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-json.stringify">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-json.stringify">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-json.stringify</span>
@@ -401,6 +401,6 @@ No
 
 -   [`JSON.parse()`](parse)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify</a>

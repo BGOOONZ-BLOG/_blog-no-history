@@ -7,10 +7,10 @@ The **while statement** creates a loop that executes a specified statement as lo
     while (condition)
       statement
 
-`condition`  
+`condition`
 An expression evaluated before each pass through the loop. If this condition evaluates to true, `statement` is executed. When condition evaluates to false, execution continues with the statement after the `while` loop.
 
-`statement`  
+`statement`
 An optional statement that is executed as long as the condition evaluates to true. To execute multiple statements within the loop, use a [block](block) statement (`{ ... }`) to group those statements.
 
 Note: Use the `break` statement to stop a loop before condition evaluates to true.
@@ -48,7 +48,7 @@ After completing the third pass, the condition `n` &lt; 3 is no longer true, so 
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-while-statement">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-while-statement">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-while-statement</span>
@@ -119,6 +119,6 @@ Samsung Internet
 -   [`do...while`](do...while)
 -   [`for`](for)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while</a>

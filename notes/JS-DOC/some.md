@@ -21,19 +21,19 @@ The `some()` method tests whether at least one element in the array passes the t
 
 ### Parameters
 
-`callback`  
+`callback`
 A function to test for each element, taking three arguments:
 
-`element`  
+`element`
 The current element being processed in the array.
 
-`index`<span class="badge inline optional">Optional</span>  
+`index`<span class="badge inline optional">Optional</span>
 The index of the current element being processed in the array.
 
-`array`<span class="badge inline optional">Optional</span>  
+`array`<span class="badge inline optional">Optional</span>
 The array `some()` was called upon.
 
-`thisArg`<span class="badge inline optional">Optional</span>  
+`thisArg`<span class="badge inline optional">Optional</span>
 A value to use as `this` when executing `callbackFn`.
 
 ### Return value
@@ -165,7 +165,7 @@ To mimic the function of the `includes()` method, this custom function returns `
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-array.prototype.some">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-array.prototype.some">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-array.prototype.some</span>

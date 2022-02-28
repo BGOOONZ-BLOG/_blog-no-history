@@ -34,7 +34,7 @@ The read-only `description` property is a string returning the optional descript
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-symbol.prototype.description">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-symbol.prototype.description">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-symbol.prototype.description</span>
@@ -83,6 +83,6 @@ No support for an undefined description.
 -   [`Symbol.prototype.toString()`](tostring)
 -   Polyfill: <https://npmjs.com/symbol.prototype.description>
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/description" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/description</a>

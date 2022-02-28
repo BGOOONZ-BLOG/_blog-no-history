@@ -10,7 +10,7 @@ To instead change the day of the month for a given [`Date`](../date) instance ba
 
 ### Parameters
 
-`dayValue`  
+`dayValue`
 An integer from 1 to 31, representing the day of the month.
 
 ### Return value
@@ -39,7 +39,7 @@ If a parameter you specify is outside of the expected range, `setUTCDate()` atte
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-date.prototype.setutcdate">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-date.prototype.setutcdate">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-date.prototype.setutcdate</span>

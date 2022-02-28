@@ -8,7 +8,7 @@ The `Object.keys()` method returns an array of a given object's own enumerable p
 
 ### Parameters
 
-`obj`  
+`obj`
 The object of which the enumerable's own properties are to be returned.
 
 ### Return value
@@ -119,7 +119,7 @@ For a simple Browser Polyfill, see [Javascript - Object.keys Browser Compatibili
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-object.keys">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-object.keys">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-object.keys</span>
@@ -164,6 +164,6 @@ For a simple Browser Polyfill, see [Javascript - Object.keys Browser Compatibili
 -   [`Object.values()`](values)
 -   [`Object.entries()`](entries)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/keys</a>

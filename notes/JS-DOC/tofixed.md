@@ -9,7 +9,7 @@ The `toFixed()` method formats a number using fixed-point notation.
 
 ### Parameters
 
-`digits` <span class="badge inline optional">Optional</span>  
+`digits` <span class="badge inline optional">Optional</span>
 The number of digits to appear after the decimal point; this may be a value between `0` and `20`, inclusive, and implementations may optionally support a larger range of values. If this argument is omitted, it is treated as `0`.
 
 ### Return value
@@ -18,10 +18,10 @@ A string representing the given number using fixed-point notation.
 
 ### Exceptions
 
-[`RangeError`](../rangeerror)  
+[`RangeError`](../rangeerror)
 If `digits` is too small or too large. Values between `0` and `100`, inclusive, will not cause a [`RangeError`](../rangeerror). Implementations are allowed to support larger and smaller values as chosen.
 
-[`TypeError`](../typeerror)  
+[`TypeError`](../typeerror)
 If this method is invoked on an object that is not a [`Number`](../number).
 
 ## Description
@@ -58,7 +58,7 @@ If this method is invoked on an object that is not a [`Number`](../number).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-number.prototype.tofixed">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-number.prototype.tofixed">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-number.prototype.tofixed</span>
@@ -130,6 +130,6 @@ Samsung Internet
 -   [`Number.prototype.toPrecision()`](toprecision)
 -   [`Number.prototype.toString()`](tostring)
 
-© 2005–2021 MDN contributors.  
-Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.  
+© 2005–2021 MDN contributors.
+Licensed under the Creative Commons Attribution-ShareAlike License v2.5 or later.
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed" class="_attribution-link">https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number/toFixed</a>

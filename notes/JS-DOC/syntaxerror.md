@@ -4,27 +4,27 @@ The `SyntaxError` object represents an error when trying to interpret syntactica
 
 ## Constructor
 
-[`SyntaxError()`](syntaxerror/syntaxerror)  
+[`SyntaxError()`](syntaxerror/syntaxerror)
 Creates a new `SyntaxError` object.
 
 ## Instance properties
 
-[`SyntaxError.prototype.message`](error/message)  
+[`SyntaxError.prototype.message`](error/message)
 Error message. Although ECMA-262 specifies that [`SyntaxError`](syntaxerror) should provide its own `message` property, in [SpiderMonkey](https://developer.mozilla.org/en-US/docs/Mozilla/Projects/SpiderMonkey), it inherits [`Error.prototype.message`](error/message).
 
-[`SyntaxError.prototype.name`](error/name)  
+[`SyntaxError.prototype.name`](error/name)
 Error name. Inherited from [`Error`](error).
 
-[`SyntaxError.prototype.fileName`](error/filename)  
+[`SyntaxError.prototype.fileName`](error/filename)
 Path to file that raised this error. Inherited from [`Error`](error).
 
-[`SyntaxError.prototype.lineNumber`](error/linenumber)  
+[`SyntaxError.prototype.lineNumber`](error/linenumber)
 Line number in file that raised this error. Inherited from [`Error`](error).
 
-[`SyntaxError.prototype.columnNumber`](error/columnnumber)  
+[`SyntaxError.prototype.columnNumber`](error/columnnumber)
 Column number in line that raised this error. Inherited from [`Error`](error).
 
-[`SyntaxError.prototype.stack`](error/stack)  
+[`SyntaxError.prototype.stack`](error/stack)
 Stack trace. Inherited from [`Error`](error).
 
 ## Examples
@@ -68,7 +68,7 @@ Stack trace. Inherited from [`Error`](error).
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-syntaxerror">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-native-error-types-used-in-this-standard-syntaxerror">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-native-error-types-used-in-this-standard-syntaxerror</span>

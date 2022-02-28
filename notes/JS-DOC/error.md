@@ -10,69 +10,69 @@ Runtime errors result in new `Error` objects being created and thrown.
 
 Besides the generic `Error` constructor, there are other core error constructors in JavaScript. For client-side exceptions, see [Exception handling statements](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Control_flow_and_error_handling#exception_handling_statements).
 
-[`EvalError`](evalerror)  
+[`EvalError`](evalerror)
 Creates an instance representing an error that occurs regarding the global function [`eval()`](eval).
 
-[`RangeError`](rangeerror)  
+[`RangeError`](rangeerror)
 Creates an instance representing an error that occurs when a numeric variable or parameter is outside of its valid range.
 
-[`ReferenceError`](referenceerror)  
+[`ReferenceError`](referenceerror)
 Creates an instance representing an error that occurs when de-referencing an invalid reference.
 
-[`SyntaxError`](syntaxerror)  
+[`SyntaxError`](syntaxerror)
 Creates an instance representing a syntax error.
 
-[`TypeError`](typeerror)  
+[`TypeError`](typeerror)
 Creates an instance representing an error that occurs when a variable or parameter is not of a valid type.
 
-[`URIError`](urierror)  
+[`URIError`](urierror)
 Creates an instance representing an error that occurs when [`encodeURI()`](encodeuri) or [`decodeURI()`](decodeuri) are passed invalid parameters.
 
-[`AggregateError`](aggregateerror)  
+[`AggregateError`](aggregateerror)
 Creates an instance representing several errors wrapped in a single error when multiple errors need to be reported by an operation, for example by [`Promise.any()`](promise/any).
 
-[`InternalError`](internalerror) <span class="icon non-standard" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img"> This API has not been standardized. </span>  
+[`InternalError`](internalerror) <span class="icon non-standard" viewbox="0 0 100 100" xmlns="http://www.w3.org/2000/svg" role="img"> This API has not been standardized. </span>
 Creates an instance representing an error that occurs when an internal error in the JavaScript engine is thrown. E.g. "too much recursion".
 
 ## Constructor
 
-[`Error()`](error/error)  
+[`Error()`](error/error)
 Creates a new `Error` object.
 
 ## Static methods
 
-<span class="page-not-created">`Error.captureStackTrace()`</span>  
+<span class="page-not-created">`Error.captureStackTrace()`</span>
 A non-standard **V8** function that creates the [`stack`](error/stack) property on an Error instance.
 
 ## Instance properties
 
-[`Error.prototype.message`](error/message)  
+[`Error.prototype.message`](error/message)
 Error message.
 
-[`Error.prototype.name`](error/name)  
+[`Error.prototype.name`](error/name)
 Error name.
 
-<span class="page-not-created">`Error.prototype.description`</span>  
+<span class="page-not-created">`Error.prototype.description`</span>
 A non-standard Microsoft property for the error description. Similar to [`message`](error/message).
 
-<span class="page-not-created">`Error.prototype.number`</span>  
+<span class="page-not-created">`Error.prototype.number`</span>
 A non-standard Microsoft property for an error number.
 
-[`Error.prototype.fileName`](error/filename)  
+[`Error.prototype.fileName`](error/filename)
 A non-standard Mozilla property for the path to the file that raised this error.
 
-[`Error.prototype.lineNumber`](error/linenumber)  
+[`Error.prototype.lineNumber`](error/linenumber)
 A non-standard Mozilla property for the line number in the file that raised this error.
 
-[`Error.prototype.columnNumber`](error/columnnumber)  
+[`Error.prototype.columnNumber`](error/columnnumber)
 A non-standard Mozilla property for the column number in the line that raised this error.
 
-[`Error.prototype.stack`](error/stack)  
+[`Error.prototype.stack`](error/stack)
 A non-standard Mozilla property for a stack trace.
 
 ## Instance methods
 
-[`Error.prototype.toString()`](error/tostring)  
+[`Error.prototype.toString()`](error/tostring)
 Returns a string representing the specified object. Overrides the [`Object.prototype.toString()`](object/tostring) method.
 
 ## Examples
@@ -189,7 +189,7 @@ See ["What's a good way to extend Error in JavaScript?"](https://stackoverflow.c
 <tbody>
 <tr class="odd">
 <td>
-<a href="https://tc39.es/ecma262/#sec-error-objects">ECMAScript Language Specification (ECMAScript) 
+<a href="https://tc39.es/ecma262/#sec-error-objects">ECMAScript Language Specification (ECMAScript)
 <br/>
 
 <span class="small">#sec-error-objects</span>
