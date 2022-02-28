@@ -32,7 +32,8 @@ The finished markup should look something like this:
     </li>
     <li>
       <label for="comment">Comment:</label>
-      <textarea name="comment" id="comment" required maxlength="200"></textarea>
+      <textarea name="comment" id="comment" required maxlength="200">
+</textarea>
     </li>
     <li>
       <button>Submit comment</button>

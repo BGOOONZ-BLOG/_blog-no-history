@@ -29,10 +29,24 @@ So e.g.: `9 << 3` translates to: `9 * (2 ** 3) = 9 * (8) = 72`.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-left-shift-operator">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-left-shift-operator">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-left-shift-operator</span></a></td></tr></tbody></table>
+<span class="small">#sec-left-shift-operator</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `Left_shift`
 

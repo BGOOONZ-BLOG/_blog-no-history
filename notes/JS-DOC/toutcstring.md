@@ -16,7 +16,58 @@ A string representing the given date using the UTC time zone.
 
 The value returned by `toUTCString()` is a string in the form `Www, dd Mmm yyyy hh:mm:ss GMT`, Where:
 
-<table><thead><tr class="header"><th>Format String</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><code>Www</code></td><td>Day of week, as three letters (e.g. Sun, Mon, ...)</td></tr><tr class="even"><td><code>dd</code></td><td>Day of month, as two digits with leading zero if required</td></tr><tr class="odd"><td><code>Mmm</code></td><td>Month, as three letters (e.g. Jan, Feb, ...)</td></tr><tr class="even"><td><code>yyyy</code></td><td>Year, as four or more digits with leading zeroes if required</td></tr><tr class="odd"><td><code>hh</code></td><td>Hour, as two digits with leading zero if required</td></tr><tr class="even"><td><code>mm</code></td><td>Minute, as two digits with leading zero if required</td></tr><tr class="odd"><td><code>ss</code></td><td>Seconds, as two digits with leading zero if required</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Format String</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>Www</code>
+</td>
+<td>Day of week, as three letters (e.g. Sun, Mon, ...)</td>
+</tr>
+<tr class="even">
+<td>
+<code>dd</code>
+</td>
+<td>Day of month, as two digits with leading zero if required</td>
+</tr>
+<tr class="odd">
+<td>
+<code>Mmm</code>
+</td>
+<td>Month, as three letters (e.g. Jan, Feb, ...)</td>
+</tr>
+<tr class="even">
+<td>
+<code>yyyy</code>
+</td>
+<td>Year, as four or more digits with leading zeroes if required</td>
+</tr>
+<tr class="odd">
+<td>
+<code>hh</code>
+</td>
+<td>Hour, as two digits with leading zero if required</td>
+</tr>
+<tr class="even">
+<td>
+<code>mm</code>
+</td>
+<td>Minute, as two digits with leading zero if required</td>
+</tr>
+<tr class="odd">
+<td>
+<code>ss</code>
+</td>
+<td>Seconds, as two digits with leading zero if required</td>
+</tr>
+</tbody>
+</table>
 
 Prior to ECMAScript 2018, the format of the return value varied according to the platform. The most common return value was an RFC-1123 formatted date stamp, which is a slightly updated version of RFC-822 date stamps.
 
@@ -29,10 +80,24 @@ Prior to ECMAScript 2018, the format of the return value varied according to the
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-date.prototype.toutcstring">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-date.prototype.toutcstring">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-date.prototype.toutcstring</span></a></td></tr></tbody></table>
+<span class="small">#sec-date.prototype.toutcstring</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

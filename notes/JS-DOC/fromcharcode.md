@@ -25,7 +25,8 @@ Because `fromCharCode()` is a static method of [`String`](../string), you always
 
 ### Returning supplementary characters
 
-In UTF-16, the most common characters can be represented by a single 16-bit value (i.e. a code unit). However, this set of characters, known as the Base Multilingual Plane (BMP), is only <sup>1</sup>/<sub>17</sub><sup>th</sup> of the total addressable Unicode code points. The remaining code points, in the range of `65536` (`0x010000`) to `1114111` (`0x10FFFF`) are known as supplementary characters. In UTF-16, supplementary characters are represented by two 16-bit code units, known as surrogates, that were reserved for this purpose. A valid combination of two surrogates used to represent a supplementary character is known as a surrogate pair.
+In UTF-16, the most common characters can be represented by a single 16-bit value (i.e. a code unit). However, this set of characters, known as the Base Multilingual Plane (BMP), is only <sup>1</sup>/<sub>17</sub>
+<sup>th</sup> of the total addressable Unicode code points. The remaining code points, in the range of `65536` (`0x010000`) to `1114111` (`0x10FFFF`) are known as supplementary characters. In UTF-16, supplementary characters are represented by two 16-bit code units, known as surrogates, that were reserved for this purpose. A valid combination of two surrogates used to represent a supplementary character is known as a surrogate pair.
 
 Because `fromCharCode()` only works with 16-bit values (same as the `\u` escape sequence), a surrogate pair is required in order to return a supplementary character. For example, both `String.fromCharCode(0xD83C, 0xDF03)` and `\uD83C\uDF03` return code point `U+1F303` "Night with Stars".
 
@@ -51,10 +52,24 @@ Supplementary characters, in UTF-16, require two code units (i.e. a surrogate pa
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.fromcharcode">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-string.fromcharcode">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'String.fromCharCode' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'String.fromCharCode' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `fromCharCode`
 

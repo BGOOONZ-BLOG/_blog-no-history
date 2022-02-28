@@ -40,13 +40,33 @@ The `toLocaleLowerCase()` method returns the value of the string converted to lo
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.tolocalelowercase">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-string.prototype.tolocalelowercase">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-string.prototype.tolocalelowercase</span></a></td></tr><tr class="even"><td><a href="https://tc39.es/ecma402/#sup-string.prototype.tolocalelowercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
+<span class="small">#sec-string.prototype.tolocalelowercase</span>
+</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://tc39.es/ecma402/#sup-string.prototype.tolocalelowercase">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
-<span class="small">#sup-string.prototype.tolocalelowercase</span></a></td></tr></tbody></table>
+<span class="small">#sup-string.prototype.tolocalelowercase</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

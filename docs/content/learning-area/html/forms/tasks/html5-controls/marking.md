@@ -60,7 +60,8 @@ The finished markup should look something like this:
     <li>
       <label for="max-invite">Select maximum number of invitations</label>
       <input type="range" id="max-invite" name="max-invite" min="1" max="30" value="10">
-      <output class="invite-output" for="max-invite"></output>
+      <output class="invite-output" for="max-invite">
+</output>
     </li>
     <li>
       <button>Submit</button>

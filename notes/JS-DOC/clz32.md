@@ -134,10 +134,24 @@ The following polyfill is the most efficient.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-math.clz32">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-math.clz32">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-math.clz32</span></a></td></tr></tbody></table>
+<span class="small">#sec-math.clz32</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `clz32`
 

@@ -700,7 +700,9 @@ Plain Old JS Object Lesson Concepts
 
 ### Plain Old JS Object Lesson Concepts
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*bEuahctJRS_qCQgV.jpg" class="graf-image" /></figure>-   <span id="d911">Label variables as either Primitive vs. Reference</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*bEuahctJRS_qCQgV.jpg" class="graf-image" />
+</figure>-   <span id="d911">Label variables as either Primitive vs. Reference</span>
 -   <span id="42a0">primitives: strings, booleans, numbers, null and undefined</span>
 -   <span id="4423">primitives are immutable</span>
 -   <span id="fd1a">refereces: objects (including arrays)</span>
@@ -1579,7 +1581,9 @@ In this example, we use a fat arrow style function. Note that when we declare a 
 
 ### The Complete JavaScript Reference Guide
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*In5wB-29T0Ud_zs3.jpg" class="graf-image" /></figure>### How to learn effectively
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*In5wB-29T0Ud_zs3.jpg" class="graf-image" />
+</figure>### How to learn effectively
 
 **Learning**: The acquisition of skills and the ability to apply them in the future.
 

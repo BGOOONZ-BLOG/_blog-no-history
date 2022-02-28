@@ -45,7 +45,8 @@ sections:
           https://levelup.gitconnected.com/python-study-guide-for-a-native-javascript-developer-5cfdf3d2bdfb
         image: images/smiling-maple.png
       - content: |
-          <div id="search"></div> <div id="search" />
+          <div id="search">
+</div> <div id="search" />
         actions:
           - label: Learn More
             url: /docs/tools
@@ -241,17 +242,20 @@ sections:
       height="1000px!important"
         src="https://web-dev-utility-tools-bgoonz.netlify.app/"
        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
       <iframe class="block-content" width="100%  width="1200px!important"
       height="1000px!important"
         src="https://cheatsheets-42.netlify.app/"
        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
       <iframe class="block-content" width="100%  width="1200px!important"
       height="1000px!important"
         src="https://bgoonz.github.io/fb-and-twitter-api-embeds/"
        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
     actions: []
     type: section_content
     image: images/cool annimation.gif
@@ -264,7 +268,8 @@ sections:
       height="1000px!important"
         src="https://bgoonz.github.io/fb-and-twitter-api-embeds/"
        frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-        encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+</iframe>
       
     actions: []
     type: section_content

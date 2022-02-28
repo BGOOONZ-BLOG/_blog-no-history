@@ -96,10 +96,24 @@ is always equal to:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-LogicalANDExpression">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#prod-LogicalANDExpression">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#prod-LogicalANDExpression</span></a></td></tr></tbody></table>
+<span class="small">#prod-LogicalANDExpression</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `Logical_AND`
 

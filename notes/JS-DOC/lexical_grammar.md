@@ -6,13 +6,109 @@ This page describes JavaScript's lexical grammar. The source text of ECMAScript 
 
 Control characters have no visual representation but are used to control the interpretation of the text.
 
-<table><caption>Unicode format-control characters</caption><thead><tr class="header"><th>Code point</th><th>Name</th><th>Abbreviation</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><code>U+200C</code></td><td>Zero width non-joiner</td><td>&lt;ZWNJ&gt;</td><td>Placed between characters to prevent being connected into ligatures in certain languages (<a href="https://en.wikipedia.org/wiki/Zero-width_non-joiner">Wikipedia</a>).</td></tr><tr class="even"><td><code>U+200D</code></td><td>Zero width joiner</td><td>&lt;ZWJ&gt;</td><td>Placed between characters that would not normally be connected in order to cause the characters to be rendered using their connected form in certain languages (<a href="https://en.wikipedia.org/wiki/Zero-width_joiner">Wikipedia</a>).</td></tr><tr class="odd"><td><code>U+FEFF</code></td><td>Byte order mark</td><td>&lt;BOM&gt;</td><td>Used at the start of the script to mark it as Unicode and the text's byte order (<a href="https://en.wikipedia.org/wiki/Byte_order_mark">Wikipedia</a>).</td></tr></tbody></table>
+<table>
+<caption>Unicode format-control characters</caption>
+<thead>
+<tr class="header">
+<th>Code point</th>
+<th>Name</th>
+<th>Abbreviation</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>U+200C</code>
+</td>
+<td>Zero width non-joiner</td>
+<td>&lt;ZWNJ&gt;</td>
+<td>Placed between characters to prevent being connected into ligatures in certain languages (<a href="https://en.wikipedia.org/wiki/Zero-width_non-joiner">Wikipedia</a>).</td>
+</tr>
+<tr class="even">
+<td>
+<code>U+200D</code>
+</td>
+<td>Zero width joiner</td>
+<td>&lt;ZWJ&gt;</td>
+<td>Placed between characters that would not normally be connected in order to cause the characters to be rendered using their connected form in certain languages (<a href="https://en.wikipedia.org/wiki/Zero-width_joiner">Wikipedia</a>).</td>
+</tr>
+<tr class="odd">
+<td>
+<code>U+FEFF</code>
+</td>
+<td>Byte order mark</td>
+<td>&lt;BOM&gt;</td>
+<td>Used at the start of the script to mark it as Unicode and the text's byte order (<a href="https://en.wikipedia.org/wiki/Byte_order_mark">Wikipedia</a>).</td>
+</tr>
+</tbody>
+</table>
 
 ## White space
 
 [White space](https://developer.mozilla.org/en-US/docs/Glossary/Whitespace) characters improve the readability of source text and separate tokens from each other. These characters are usually unnecessary for the functionality of the code. [Minification tools](https://en.wikipedia.org/wiki/Minification_%28programming%29) are often used to remove whitespace in order to reduce the amount of data that needs to be transferred.
 
-<table><caption>White space characters</caption><thead><tr class="header"><th>Code point</th><th>Name</th><th>Abbreviation</th><th>Description</th><th>Escape sequence</th></tr></thead><tbody><tr class="odd"><td>U+0009</td><td>Character tabulation</td><td>&lt;HT&gt;</td><td>Horizontal tabulation</td><td>\t</td></tr><tr class="even"><td>U+000B</td><td>Line tabulation</td><td>&lt;VT&gt;</td><td>Vertical tabulation</td><td>\v</td></tr><tr class="odd"><td>U+000C</td><td>Form feed</td><td>&lt;FF&gt;</td><td>Page breaking control character (<a href="https://en.wikipedia.org/wiki/Page_break#Form_feed">Wikipedia</a>).</td><td>\f</td></tr><tr class="even"><td>U+0020</td><td>Space</td><td>&lt;SP&gt;</td><td>Normal space</td><td></td></tr><tr class="odd"><td>U+00A0</td><td>No-break space</td><td>&lt;NBSP&gt;</td><td>Normal space, but no point at which a line may break</td><td></td></tr><tr class="even"><td>Others</td><td>Other Unicode space characters</td><td>&lt;USP&gt;</td><td><a href="https://en.wikipedia.org/wiki/Space_%28punctuation%29#Spaces_in_Unicode">Spaces in Unicode on Wikipedia</a></td><td></td></tr></tbody></table>
+<table>
+<caption>White space characters</caption>
+<thead>
+<tr class="header">
+<th>Code point</th>
+<th>Name</th>
+<th>Abbreviation</th>
+<th>Description</th>
+<th>Escape sequence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>U+0009</td>
+<td>Character tabulation</td>
+<td>&lt;HT&gt;</td>
+<td>Horizontal tabulation</td>
+<td>\t</td>
+</tr>
+<tr class="even">
+<td>U+000B</td>
+<td>Line tabulation</td>
+<td>&lt;VT&gt;</td>
+<td>Vertical tabulation</td>
+<td>\v</td>
+</tr>
+<tr class="odd">
+<td>U+000C</td>
+<td>Form feed</td>
+<td>&lt;FF&gt;</td>
+<td>Page breaking control character (<a href="https://en.wikipedia.org/wiki/Page_break#Form_feed">Wikipedia</a>).</td>
+<td>\f</td>
+</tr>
+<tr class="even">
+<td>U+0020</td>
+<td>Space</td>
+<td>&lt;SP&gt;</td>
+<td>Normal space</td>
+<td>
+</td>
+</tr>
+<tr class="odd">
+<td>U+00A0</td>
+<td>No-break space</td>
+<td>&lt;NBSP&gt;</td>
+<td>Normal space, but no point at which a line may break</td>
+<td>
+</td>
+</tr>
+<tr class="even">
+<td>Others</td>
+<td>Other Unicode space characters</td>
+<td>&lt;USP&gt;</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/Space_%28punctuation%29#Spaces_in_Unicode">Spaces in Unicode on Wikipedia</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Line terminators
 
@@ -20,7 +116,54 @@ In addition to [white space](https://developer.mozilla.org/en-US/docs/Glossary/W
 
 Only the following Unicode code points are treated as line terminators in ECMAScript, other line breaking characters are treated as white space (for example, Next Line, NEL, U+0085 is considered as white space).
 
-<table><caption>Line terminator characters</caption><thead><tr class="header"><th>Code point</th><th>Name</th><th>Abbreviation</th><th>Description</th><th>Escape sequence</th></tr></thead><tbody><tr class="odd"><td>U+000A</td><td>Line Feed</td><td>&lt;LF&gt;</td><td>New line character in UNIX systems.</td><td>\n</td></tr><tr class="even"><td>U+000D</td><td>Carriage Return</td><td>&lt;CR&gt;</td><td>New line character in Commodore and early Mac systems.</td><td>\r</td></tr><tr class="odd"><td>U+2028</td><td>Line Separator</td><td>&lt;LS&gt;</td><td><a href="https://en.wikipedia.org/wiki/Newline">Wikipedia</a></td><td></td></tr><tr class="even"><td>U+2029</td><td>Paragraph Separator</td><td>&lt;PS&gt;</td><td><a href="https://en.wikipedia.org/wiki/Newline">Wikipedia</a></td><td></td></tr></tbody></table>
+<table>
+<caption>Line terminator characters</caption>
+<thead>
+<tr class="header">
+<th>Code point</th>
+<th>Name</th>
+<th>Abbreviation</th>
+<th>Description</th>
+<th>Escape sequence</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>U+000A</td>
+<td>Line Feed</td>
+<td>&lt;LF&gt;</td>
+<td>New line character in UNIX systems.</td>
+<td>\n</td>
+</tr>
+<tr class="even">
+<td>U+000D</td>
+<td>Carriage Return</td>
+<td>&lt;CR&gt;</td>
+<td>New line character in Commodore and early Mac systems.</td>
+<td>\r</td>
+</tr>
+<tr class="odd">
+<td>U+2028</td>
+<td>Line Separator</td>
+<td>&lt;LS&gt;</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/Newline">Wikipedia</a>
+</td>
+<td>
+</td>
+</tr>
+<tr class="even">
+<td>U+2029</td>
+<td>Paragraph Separator</td>
+<td>&lt;PS&gt;</td>
+<td>
+<a href="https://en.wikipedia.org/wiki/Newline">Wikipedia</a>
+</td>
+<td>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Comments
 
@@ -453,10 +596,24 @@ Here `++` is not treated as a [postfix operator](https://developer.mozilla.org/e
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-ecmascript-language-lexical-grammar">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-ecmascript-language-lexical-grammar">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'Lexical Grammar' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'Lexical Grammar' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `array_literals`
 

@@ -23,6 +23,7 @@ list.addEventListener('click', (e) => {
     console.log(e.target);
     // Output: <li class="item">Walk your dog</li>
     console.log(e.currentTarget);
-    // Output: <ul class="todo-list"></ul>
+    // Output: <ul class="todo-list">
+</ul>
 });
 ```

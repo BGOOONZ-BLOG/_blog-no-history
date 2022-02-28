@@ -96,10 +96,24 @@ If you need to use an assignment in a conditional expression, a common practice 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-if-statement">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-if-statement">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-if-statement</span></a></td></tr></tbody></table>
+<span class="small">#sec-if-statement</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `if...else`
 

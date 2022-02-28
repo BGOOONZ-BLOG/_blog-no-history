@@ -8,7 +8,9 @@ In database jargon, PostgreSQL uses a client/server model. A PostgreSQL session 
 
 #### In database jargon, PostgreSQL uses a client/server model. A PostgreSQL session consists of the following cooperating processes (programs):
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*zo9j6MVAbEaxG8Be.gif" class="graf-image" /></figure>-   <span id="d5d8">A server process, which manages the database files, accepts connections to the database from client applications, and performs database actions on behalf of the clients. The database server program is called `postgres`.</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*zo9j6MVAbEaxG8Be.gif" class="graf-image" />
+</figure>-   <span id="d5d8">A server process, which manages the database files, accepts connections to the database from client applications, and performs database actions on behalf of the clients. The database server program is called `postgres`.</span>
 -   <span id="91d1">The user's client (frontend) application that wants to perform database operations. Client applications can be very diverse in nature: a client could be a text-oriented tool, a graphical application, a web server that accesses the database to display web pages, or a specialized database maintenance tool. Some client applications are supplied with the PostgreSQL distribution; most are developed by users.</span>
 
 As is typical of client/server applications, the client and the server can be on different hosts. In that case they communicate over a TCP/IP network connection. You should keep this in mind, because the files that can be accessed on a client machine might not be accessible (or might only be accessible using a different file name) on the database server machine.
@@ -164,17 +166,23 @@ SQL is used with Relational Database Management Systems, or RDBMS. These are dat
 
 ### Here's a guide on how to get setup with PSQL:
 
-<a href="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089"><strong>PostgreSQL Setup For Windows &amp; WSL/Ubuntu</strong>
+<a href="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089">
+<strong>PostgreSQL Setup For Windows &amp; WSL/Ubuntu</strong>
 <br/>
 
-<em>If you follow this guide to a tee… you will install PostgreSQL itself on your Windows installation. Then, you will…</em><a href="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>If you follow this guide to a tee… you will install PostgreSQL itself on your Windows installation. Then, you will…</em>
+<a href="https://bryanguner.medium.com/postgresql-setup-for-windows-wsl-ubuntu-801672ab7089" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Here's a Cheatsheet I made:
 
-<a href="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31"><strong>Postgresql Cheat Sheet</strong>
+<a href="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31">
+<strong>Postgresql Cheat Sheet</strong>
 <br/>
 
-<em>PostgreSQL commands</em>medium.com</a><a href="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>PostgreSQL commands</em>medium.com</a>
+<a href="https://medium.com/codex/postgresql-cheat-sheet-718b813d3e31" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ---
 
@@ -230,7 +238,18 @@ _The SQL ALTER TABLE statement adds, changes, or removes a column in a table. Th
 
 You may decide that you need to make a change to an SQL table. For instance, you may want to rename a column or add a new column to the table. These changes are all possible with the SQL ALTER TABLE command.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*s5UbiqN0qkySgA_a5bcXOw.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/1*ZDx9fNK6yfyLkv_JmPMD8A.jpeg" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/1*K7Ch-fS6Wr5Lps5g0-oGVQ.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/1*VVOVwGNPaiDVe79DzI9H9Q.png" class="graf-image" /></figure>### SQL ALTER TABLE
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*s5UbiqN0qkySgA_a5bcXOw.png" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*ZDx9fNK6yfyLkv_JmPMD8A.jpeg" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*K7Ch-fS6Wr5Lps5g0-oGVQ.png" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*VVOVwGNPaiDVe79DzI9H9Q.png" class="graf-image" />
+</figure>### SQL ALTER TABLE
 
 The ALTER TABLE command allows you to change an existing table by:
 
@@ -294,7 +313,9 @@ Jonah
 
 If you want to retrieve information from multiple columns, you can so do by separating the column names with a comma. If you want to get data from every column, you can use an asterisk (`*`) instead, which represents every column in a table.
 
-<a href="https://careerkarma.com/blog/sql-outer-join/" class="markup--anchor markup--p-anchor"><strong>» MORE: SQL Outer Join</strong></a>
+<a href="https://careerkarma.com/blog/sql-outer-join/" class="markup--anchor markup--p-anchor">
+<strong>» MORE: SQL Outer Join</strong>
+</a>
 
 ### SQL Union
 
@@ -1367,15 +1388,21 @@ Identifying null values in 'age' column:
 
 ### Sources:
 
-1.  <span id="0c44">) <a href="https://careerkarma.com/blog/sql-deep-dives/" class="markup--anchor markup--li-anchor">https://careerkarma.com/blog/sql-deep-dives/</a></span>
-2.  <span id="b85e"><a href="https://www.postgresql.org/docs/13/app-psql.html" class="markup--anchor markup--li-anchor">https://www.postgresql.org/docs/13/app-psql.html</a></span>
+1.  <span id="0c44">) <a href="https://careerkarma.com/blog/sql-deep-dives/" class="markup--anchor markup--li-anchor">https://careerkarma.com/blog/sql-deep-dives/</a>
+</span>
+2.  <span id="b85e">
+<a href="https://www.postgresql.org/docs/13/app-psql.html" class="markup--anchor markup--li-anchor">https://www.postgresql.org/docs/13/app-psql.html</a>
+</span>
 
 Learn More:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a>
+<a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Further Examples / Readings:
 

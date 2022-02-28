@@ -18,7 +18,8 @@ The `import.meta` object is created by the ECMAScript implementation, with a [`n
 
 Given a module `my-module.js`
 
-    <script type="module" src="my-module.js"></script>
+    <script type="module" src="my-module.js">
+</script>
 
 you can access meta information about the module using the `import.meta` object.
 
@@ -53,13 +54,33 @@ Such file-specific argument passing may be complementary to that used in the app
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-ImportMeta">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#prod-ImportMeta">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#prod-ImportMeta</span></a></td></tr><tr class="even"><td><a href="https://html.spec.whatwg.org/multipage/webappapis.html#hostgetimportmetaproperties">HTML Standard (HTML)
+<span class="small">#prod-ImportMeta</span>
+</a>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://html.spec.whatwg.org/multipage/webappapis.html#hostgetimportmetaproperties">HTML Standard (HTML)
 <br/>
 
-<span class="small">#hostgetimportmetaproperties</span></a></td></tr></tbody></table>
+<span class="small">#hostgetimportmetaproperties</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `import.meta`
 

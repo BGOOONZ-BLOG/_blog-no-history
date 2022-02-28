@@ -65,10 +65,24 @@ For array-like objects, the default is to not spread. `Symbol.isConcatSpreadable
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-symbol.isconcatspreadable">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-symbol.isconcatspreadable">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-symbol.isconcatspreadable</span></a></td></tr></tbody></table>
+<span class="small">#sec-symbol.isconcatspreadable</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `isConcatSpreadable`
 

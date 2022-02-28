@@ -101,7 +101,8 @@ To better picture this, we can take a closer look at how the realm might be an i
 To illustrate this a bit further we can take a look at how an `<iframe>` embedded in a document communicates with its host. Since all web APIs are aware of the incumbent settings object, the following will work in all browsers:
 
     <!DOCTYPE html>
-    <iframe></iframe> <!-- we have a realm here -->
+    <iframe>
+</iframe> <!-- we have a realm here -->
     <script> // we have a realm here as well
       const bound = frames[0].postMessage.bind(
         frames[0], "some data", "*");
@@ -115,7 +116,8 @@ To illustrate this a bit further we can take a look at how an `<iframe>` embedde
 The same concept applies to promises. If we modify the above example a little bit, we get this:
 
     <!DOCTYPE html>
-    <iframe></iframe> <!-- we have a realm here -->
+    <iframe>
+</iframe> <!-- we have a realm here -->
     <script> // we have a realm here as well
       const bound = frames[0].postMessage.bind(
         frames[0], "some data", "*");
@@ -130,7 +132,8 @@ If we change this so that the `<iframe>` in the document is listening to post me
 
     <!-- y.html -->
     <!DOCTYPE html>
-    <iframe src="x.html"></iframe>
+    <iframe src="x.html">
+</iframe>
     <script>
       const bound = frames[0].postMessage.bind(frames[0], "some data", "*");
       Promise.resolve(undefined).then(bound);
@@ -313,7 +316,8 @@ By clicking the button several times in a short amount of time, you'll even see 
 #### HTML
 
     <button id="make-promise">Make a promise!</button>
-    <div id="log"></div>
+    <div id="log">
+</div>
 
 #### JavaScript
 
@@ -365,10 +369,24 @@ Another simple example using `Promise` and [`XMLHttpRequest`](https://developer.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-promise-objects">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-promise-objects">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-promise-objects</span></a></td></tr></tbody></table>
+<span class="small">#sec-promise-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

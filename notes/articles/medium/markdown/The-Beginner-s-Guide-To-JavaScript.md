@@ -8,7 +8,9 @@ Part 1
 
 #### Part 1
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*Cg0j-L4ZHN7_5g2In-K-Ew.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*Cg0j-L4ZHN7_5g2In-K-Ew.png" class="graf-image" />
+</figure>
 
 ### How to learn effectively
 
@@ -38,17 +40,23 @@ Part 1
 
 #### Here's a REPL to practice with:
 
-<a href="https://replit.com/@bgoonz/lambda-prep#README.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://replit.com/@bgoonz/lambda-prep#README.html"><strong>lambda-prep</strong>
+<a href="https://replit.com/@bgoonz/lambda-prep#README.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://replit.com/@bgoonz/lambda-prep#README.html">
+<strong>lambda-prep</strong>
 <br/>
 
-<em>pre-course-work</em>replit.com</a><a href="https://replit.com/@bgoonz/lambda-prep#README.html" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>pre-course-work</em>replit.com</a>
+<a href="https://replit.com/@bgoonz/lambda-prep#README.html" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ---
 
-<a href="https://lambda-prep.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://lambda-prep.netlify.app/"><strong>INTRO@JSWEB</strong>
+<a href="https://lambda-prep.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://lambda-prep.netlify.app/">
+<strong>INTRO@JSWEB</strong>
 <br/>
 
-<em>Resource-sharing-hub</em>lambda-prep.netlify.app</a><a href="https://lambda-prep.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
+<em>Resource-sharing-hub</em>lambda-prep.netlify.app</a>
+<a href="https://lambda-prep.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock">
+</a>
 
 ---
 
@@ -131,7 +139,9 @@ The **boolean** data type is the simplest data type since there are only two val
 -   <span id="bdba">`console.log(!true); // => false console.log(!!false); // => false`</span>
 -   <span id="cc27">**&&** (and) **Truth Table**</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*Aw4iCm7-FQ7znEcBVH3FTw.png" class="graf-image" /></figure>-   <span id="a087">**Logical Order of Operations** : JS will evaluate !, then &&, then ||.</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*Aw4iCm7-FQ7znEcBVH3FTw.png" class="graf-image" />
+</figure>-   <span id="a087">**Logical Order of Operations** : JS will evaluate !, then &&, then ||.</span>
 -   <span id="295f">**De Morgan's Law** : Common mistake in boolean logic is incorrectly distributing ! across parentheses.</span>
 -   <span id="7400">`!(A || B) === !A && !B; !(A && B) === !A || !B;`</span>
 -   <span id="26c2">In summary, to correctly distribute ! across parentheses we must also flip the operation within.</span>
@@ -222,22 +232,35 @@ A function is a procedure of code that will run when called. Functions are used 
 
 <em>You should probably skip this one… seriously it's just for internal use!</em>
 
-<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong>
+<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz">
+<strong>bgoonz's gists</strong>
 <br/>
 
-<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a><a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a>
+<a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong>
+<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz">
+<strong>bgoonz — Overview</strong>
 <br/>
 
-<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a>
+<a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/"><strong>Web-Dev-Resource-Hub</strong>
+<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/">
+<strong>Web-Dev-Resource-Hub</strong>
 <br/>
 
-<em>Edit description</em>web-dev-resource-hub.netlify.app</a><a href="https://web-dev-resource-hub.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
+<em>Edit description</em>web-dev-resource-hub.netlify.app</a>
+<a href="https://web-dev-resource-hub.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock">
+</a>
 
-_More content at_ <a href="https://plainenglish.io/" class="markup--anchor markup--p-anchor"><strong><em>plainenglish.io</em></strong></a>
+_More content at_ <a href="https://plainenglish.io/" class="markup--anchor markup--p-anchor">
+<strong>
+<em>plainenglish.io</em>
+</strong>
+</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [April 4, 2021](https://medium.com/p/e222d166b6e1).
 

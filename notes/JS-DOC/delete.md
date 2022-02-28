@@ -217,10 +217,24 @@ If instead, you want to remove an array element by changing the contents of the 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-delete-operator">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-delete-operator">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-delete-operator</span></a></td></tr></tbody></table>
+<span class="small">#sec-delete-operator</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `delete`
 

@@ -12,7 +12,8 @@ template: docs
 
 ## Git Reference
 
-<iframe src="https://bgoonz.github.io/GIT_GUIDE_Bgoonz/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
+<iframe src="https://bgoonz.github.io/GIT_GUIDE_Bgoonz/" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
+</iframe>
 
 <br>
 <hr>

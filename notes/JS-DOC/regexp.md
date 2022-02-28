@@ -203,10 +203,24 @@ The [Unicode property escapes](https://developer.mozilla.org/en-US/docs/Web/Java
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-regexp-regular-expression-objects">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-regexp-regular-expression-objects">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-regexp-regular-expression-objects</span></a></td></tr></tbody></table>
+<span class="small">#sec-regexp-regular-expression-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

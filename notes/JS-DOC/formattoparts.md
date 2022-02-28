@@ -199,10 +199,24 @@ And `formatToParts`:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma402/#sec-Intl.DateTimeFormat.prototype.formatToParts">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma402/#sec-Intl.DateTimeFormat.prototype.formatToParts">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
 <br/>
 
-<span class="small">#sec-Intl.DateTimeFormat.prototype.formatToParts</span></a></td></tr></tbody></table>
+<span class="small">#sec-Intl.DateTimeFormat.prototype.formatToParts</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `formatToParts`
 

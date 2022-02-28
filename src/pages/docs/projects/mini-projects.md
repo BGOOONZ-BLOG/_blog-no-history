@@ -46,7 +46,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -63,7 +64,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -80,7 +82,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -97,7 +100,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -114,7 +118,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -131,7 +136,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -148,7 +154,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -165,7 +172,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -182,7 +190,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -199,7 +208,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -216,7 +226,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -233,7 +244,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -250,7 +262,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -267,7 +280,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -284,7 +298,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -301,7 +316,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -318,7 +334,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -335,7 +352,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -352,7 +370,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -369,7 +388,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -386,7 +406,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -403,7 +424,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -420,7 +442,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -437,7 +460,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -454,7 +478,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -471,7 +496,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -488,7 +514,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -505,7 +532,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -522,7 +550,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -539,7 +568,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -556,7 +586,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -573,7 +604,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -590,7 +622,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -607,7 +640,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -624,7 +658,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -641,7 +676,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -658,7 +694,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -675,7 +712,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -692,7 +730,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -709,7 +748,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -726,7 +766,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -743,7 +784,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -760,7 +802,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -777,7 +820,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -794,7 +838,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -811,7 +856,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -828,7 +874,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -845,7 +892,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -862,7 +910,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -879,7 +928,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -896,7 +946,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -913,7 +964,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -930,7 +982,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -947,7 +1000,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -964,7 +1018,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -981,7 +1036,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -998,7 +1054,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1015,7 +1072,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1032,7 +1090,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1049,7 +1108,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1066,7 +1126,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1083,7 +1144,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1100,7 +1162,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1117,7 +1180,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1134,7 +1198,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1151,7 +1216,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1168,7 +1234,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1185,7 +1252,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1202,7 +1270,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1219,7 +1288,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1236,7 +1306,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1253,7 +1324,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1270,7 +1342,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1287,7 +1360,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1304,7 +1378,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1321,7 +1396,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1338,7 +1414,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1355,7 +1432,8 @@ weight: 0
   loading="lazy"
   allowtransparency="true"
   allowfullscreen="true"
-></iframe>
+>
+</iframe>
  <br>
  <br>
 <hr>
@@ -1439,7 +1517,8 @@ on <a href="https://codepen.io">CodePen</a>.
 <br>
 <br>
 <iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0"  src="//jsfiddle.net/bgoonz/j4xt839d/embedded/result/"
-allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+allowfullscreen="allowfullscreen" frameborder="0">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1449,7 +1528,8 @@ allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 <br>
 <br>
 <iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0"  src="//jsfiddle.net/bgoonz/76osauer/1/embedded/result/"
-allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+allowfullscreen="allowfullscreen" frameborder="0">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1459,7 +1539,8 @@ allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 <br>
 <br>
 <iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0"  src="//jsfiddle.net/bgoonz/vtz7820m/embedded/result/dark/"
-allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+allowfullscreen="allowfullscreen" frameborder="0">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1468,14 +1549,16 @@ allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 <br>
 <br>
 <br>
-<iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" ></iframe>
+<iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0" >
+</iframe>
  <br>
  <br>
 <hr>
  <br>
  <br>
 src="//jsfiddle.net/bgoonz/1dye9uws/2/embedded/js,html,css,result/dark/" allowfullscreen="allowfullscreen"
-frameborder="0"></iframe>
+frameborder="0">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1485,7 +1568,8 @@ frameborder="0"></iframe>
 <br>
 <br>
 <iframe height="300" style="width: 90%;" height="1000px" width="1400px" scrolling="yes" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true"  frameborder="0"  src="//jsfiddle.net/bgoonz/3mpgzkx7/1/embedded/"
-allowfullscreen="allowfullscreen" frameborder="0"></iframe>
+allowfullscreen="allowfullscreen" frameborder="0">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1496,7 +1580,8 @@ allowfullscreen="allowfullscreen" frameborder="0"></iframe>
 <br>
 <iframe loading="lazy" src="https://codepen.io/bgoonz/embed/zYwJQaw?default-tab=html%2Cresult"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="hvbrd-sockets (forked)"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1508,7 +1593,8 @@ sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-ori
 <br>
 <iframe loading="lazy" src="https://codesandbox.io/embed/bigo-3wqy4?fontsize=14&hidenavigation=1&theme=dark"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="hvbrd-sockets (forked)"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1521,7 +1607,8 @@ sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-ori
 <iframe loading="lazy"
 src="https://codesandbox.io/embed/hvbrd-sockets-forked-vsi2o?fontsize=14&hidenavigation=1&theme=dark"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="hvbrd-sockets (forked)"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1532,7 +1619,8 @@ sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-ori
 <br>
 <iframe loading="lazy" src="https://codesandbox.io/embed/summer-surf-p6dei?fontsize=14&hidenavigation=1&theme=dark"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="summer-surf-p6dei"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1548,7 +1636,8 @@ sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-ori
 <iframe loading="lazy"
 src="https://codesandbox.io/embed/sharp-feistel-x8bvv?fontsize=14&hidenavigation=1&theme=dark"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="sharp-feistel-x8bvv"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1618,7 +1707,8 @@ C Guner
 <iframe loading="lazy" height="575" style="width: 90%;" scrolling="no" title="Video Background 1"
 src="https://codesandbox.io/embed/bgoonzblog20-oo3x5?fontsize=14&hidenavigation=1&theme=dark"
 style="width:90%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="bgoonzblog2.0"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -1935,7 +2025,8 @@ data-pen-title="Simple Responsive Form">
     Simple Responsive Form</a> by Bryan Guner (<a href="https://codepen.io/chriscoyier">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js">
+</script>
 <!-------------------------------------------------------------------------------------->
 <br>
 <br>
@@ -2007,7 +2098,8 @@ See the Pen <a href='https://codepen.io/bgoonz/pen/qBRmGqw'>Light Javascript Tab
 <iframe loading="lazy"
 src="https://codesandbox.io/embed/cold-firefly-si5u1?fontsize=14&hidenavigation=1&theme=dark"
 style="width:95%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="cold-firefly-si5u1"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>
@@ -2020,7 +2112,8 @@ sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-ori
 <iframe loading="lazy"
 src="https://codesandbox.io/embed/determined-star-57xlk?fontsize=14&hidenavigation=1&theme=dark"
 style="width:95%; height:575px; border:0; border-radius: 4px; overflow:hidden;" title="determined-star-57xlk"
-sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"></iframe>
+sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts">
+</iframe>
  <br>
  <br>
 <hr>

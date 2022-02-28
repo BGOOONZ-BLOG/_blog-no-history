@@ -32,10 +32,24 @@ You cannot change this property directly. It is read-only.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-get-regexp.prototype.unicode">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-get-regexp.prototype.unicode">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-get-regexp.prototype.unicode</span></a></td></tr></tbody></table>
+<span class="small">#sec-get-regexp.prototype.unicode</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

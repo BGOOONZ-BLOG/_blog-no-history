@@ -50,7 +50,8 @@ Child items are created using `>`
 ```html
 <ul>
     <li>
-        <p></p>
+        <p>
+</p>
     </li>
 </ul>
 ```
@@ -63,8 +64,10 @@ Sibling items are created using `+`
 
 ```html
 <html>
-    <head></head>
-    <body></body>
+    <head>
+</head>
+    <body>
+</body>
 </html>
 ```
 
@@ -76,11 +79,16 @@ Items can be multiplied by `*`
 
 ```html
 <ul>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>
+</li>
+    <li>
+</li>
+    <li>
+</li>
+    <li>
+</li>
+    <li>
+</li>
 </ul>
 ```
 
@@ -93,18 +101,28 @@ Items can be grouped together using `()`
 ```html
 <table>
     <tr>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
-        <th></th>
+        <th>
+</th>
+        <th>
+</th>
+        <th>
+</th>
+        <th>
+</th>
+        <th>
+</th>
     </tr>
     <tr>
-        <t></t>
-        <t></t>
-        <t></t>
-        <t></t>
-        <t></t>
+        <t>
+</t>
+        <t>
+</t>
+        <t>
+</t>
+        <t>
+</t>
+        <t>
+</t>
     </tr>
 </table>
 ```
@@ -116,13 +134,15 @@ Class and Id in Emmet can be done using `.` and `#`
 `div.heading`
 
 ```html
-<div class="heading"></div>
+<div class="heading">
+</div>
 ```
 
 `div#heading`
 
 ```html
-<div id="heading"></div>
+<div id="heading">
+</div>
 ```
 
 ID and Class can also be combined together
@@ -130,7 +150,8 @@ ID and Class can also be combined together
 `div#heading.center`
 
 ```html
-<div id="heading" class="center"></div>
+<div id="heading" class="center">
+</div>
 ```
 
 ### Adding Content inside tags
@@ -153,7 +174,8 @@ Attributes can be added using `[]`
 `a[href=https://?google.com data-toggle=something target=_blank]`
 
 ```HTML
-<a href="https://?google.com" data-toggle="something" target="_blank"></a>
+<a href="https://?google.com" data-toggle="something" target="_blank">
+</a>
 ```
 
 ### Numbering
@@ -209,7 +231,8 @@ To start the numbering from specific number, use this way
 `form:post`
 
 ```HTML
-<form action="" method="post"></form>
+<form action="" method="post">
+</form>
 ```
 
 `link:css`
@@ -225,9 +248,15 @@ To start the numbering from specific number, use this way
 ```HTML
 <div class="navbar">
   <ul>
-    <li><a href="#">Item 3</a></li>
-    <li><a href="#">Item 2</a></li>
-    <li><a href="#">Item 1</a></li>
+    <li>
+<a href="#">Item 3</a>
+</li>
+    <li>
+<a href="#">Item 2</a>
+</li>
+    <li>
+<a href="#">Item 1</a>
+</li>
   </ul>
 </div>
 ```

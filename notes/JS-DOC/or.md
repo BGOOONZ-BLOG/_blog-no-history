@@ -30,7 +30,43 @@ The old value at the given position (`typedArray[index]`).
 
 The bitwise OR operation yields 1, if either `a` or `b` are 1. The truth table for the OR operation is:
 
-<table><thead><tr class="header"><th><code>a</code></th><th><code>b</code></th><th><code>a | b</code></th></tr></thead><tbody><tr class="odd"><td>0</td><td>0</td><td>0</td></tr><tr class="even"><td>0</td><td>1</td><td>1</td></tr><tr class="odd"><td>1</td><td>0</td><td>1</td></tr><tr class="even"><td>1</td><td>1</td><td>1</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>
+<code>a</code>
+</th>
+<th>
+<code>b</code>
+</th>
+<th>
+<code>a | b</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>1</td>
+<td>1</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>0</td>
+<td>1</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
 For example, a bitwise OR of `5 | 1` results in `0101` which is 5 in decimal.
 
@@ -52,10 +88,24 @@ For example, a bitwise OR of `5 | 1` results in `0101` which is 5 in decimal.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-atomics.or">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-atomics.or">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-atomics.or</span></a></td></tr></tbody></table>
+<span class="small">#sec-atomics.or</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

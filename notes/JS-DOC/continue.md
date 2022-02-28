@@ -97,10 +97,24 @@ Output:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-continue-statement">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-continue-statement">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'Continue statement' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'Continue statement' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `continue`
 

@@ -21,7 +21,8 @@ The overall mark awarded is out of 40. Work out their final mark, and then divid
 
 <dl>
 <dt>"Give the page a site-wide <code>font-size</code> of 10px" (1 mark)</dt>
-<dd><code>font-size: 10px;</code> should be applied to the <code>&lt;html&gt;</code> element.</dd>
+<dd>
+<code>font-size: 10px;</code> should be applied to the <code>&lt;html&gt;</code> element.</dd>
 <dt>"Give your headings and other element types appropriate font-sizes defined using a suitable relative unit." (3 marks)</dt>
 <dd>Award between 0 and 2 marks for the sizing, depending on how well thought out it looks. Also award one mark if a sensible relative unit such as em or rem is used.</dd>
 <dt>"Give your body text a suitable <code>line-height</code>." (1 mark)</dt>

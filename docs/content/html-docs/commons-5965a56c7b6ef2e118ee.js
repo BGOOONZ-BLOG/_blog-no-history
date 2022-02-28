@@ -2366,8 +2366,12 @@
                                 null != i && i !== t && ((r = !0), (t = i));
                             }
                             return n
-                                ? '<pre><code class="' + this.options.langPrefix + l(n, !0) + '">' + (r ? t : l(t, !0)) + '</code></pre>\n'
-                                : '<pre><code>' + (r ? t : l(t, !0)) + '</code></pre>';
+                                ? '<pre>
+<code class="' + this.options.langPrefix + l(n, !0) + '">' + (r ? t : l(t, !0)) + '</code>
+</pre>\n'
+                                : '<pre>
+<code>' + (r ? t : l(t, !0)) + '</code>
+</pre>';
                         }),
                         (a.prototype.blockquote = function (t) {
                             return '<blockquote>\n' + t + '</blockquote>\n';
@@ -2647,7 +2651,8 @@
                                 return e && (e = b({}, x.defaults, e)), c.parse(n.lex(t, e), e);
                             } catch (f) {
                                 if (((f.message += '\nPlease report this to https://github.com/markedjs/marked.'), (e || x.defaults).silent))
-                                    return '<p>An error occurred:</p><pre>' + l(f.message + '', !0) + '</pre>';
+                                    return '<p>An error occurred:</p>
+<pre>' + l(f.message + '', !0) + '</pre>';
                                 throw f;
                             }
                     }

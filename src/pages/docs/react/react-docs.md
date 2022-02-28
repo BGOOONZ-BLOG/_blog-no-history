@@ -185,13 +185,15 @@ function getGreeting(user) {
 You may use quotes to specify string literals as attributes:
 
 ```js
-const element = <div tabIndex="0"></div>;
+const element = <div tabIndex="0">
+</div>;
 ```
 
 You may also use curly braces to embed a JavaScript expression in an attribute:
 
 ```js
-const element = <img src={user.avatarUrl}></img>;
+const element = <img src={user.avatarUrl}>
+</img>;
 ```
 
 Don't put quotes around curly braces when embedding a JavaScript expression in an attribute. You should either use quotes (for string values) or curly braces (for expressions), but not both in the same attribute.
@@ -279,7 +281,8 @@ Unlike browser DOM elements, React elements are plain objects, and are cheap to 
 Let's say there is a `<div>` somewhere in your HTML file:
 
 ```js
-<div id="root"></div>
+<div id="root">
+</div>
 ```
 
 We call this a "root" DOM node because everything inside it will be managed by React DOM.
@@ -1092,7 +1095,8 @@ The problem with this syntax is that a different callback is created each time t
 
 Inside a loop, it is common to want to pass an extra parameter to an event handler. For example, if `id` is the row ID, either of the following would work:
 
-`<button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button><button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>`
+`<button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button>
+<button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>`
 
 The above two lines are equivalent, and use [arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) and `[Function.prototype.bind](<https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_objects/Function/bind>)` respectively.
 
@@ -1689,7 +1693,12 @@ Notice that `this.state.value` is initialized in the constructor, so that the te
 
 In HTML, `<select>` creates a drop-down list. For example, this HTML creates a drop-down list of flavors:
 
-`<select><option value="grapefruit">Grapefruit</option><option value="lime">Lime</option><option selected value="coconut">Coconut</option><option value="mango">Mango</option></select>`
+`<select>
+<option value="grapefruit">Grapefruit</option>
+<option value="lime">Lime</option>
+<option selected value="coconut">Coconut</option>
+<option value="mango">Mango</option>
+</select>`
 
 Note that the Coconut option is initially selected, because of the `selected` attribute. React, instead of using this `selected` attribute, uses a `value` attribute on the root `select` tag. This is more convenient in a controlled component because you only need to update it in one place. For example:
 

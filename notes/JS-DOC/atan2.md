@@ -49,10 +49,24 @@ Because `atan2()` is a static method of `Math`, you always use it as `Math.atan2
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-math.atan2">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-math.atan2">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-math.atan2</span></a></td></tr></tbody></table>
+<span class="small">#sec-math.atan2</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `atan2`
 

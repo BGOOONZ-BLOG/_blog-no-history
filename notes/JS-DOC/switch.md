@@ -165,7 +165,58 @@ This is an example of a multiple-operation sequential `case` clause, where, depe
 
 The output from this example:
 
-<table><thead><tr class="header"><th>Value</th><th>Log text</th></tr></thead><tbody><tr class="odd"><td><code>foo</code> is <code>NaN</code> or not <code>1</code>, <code>2</code>, <code>3</code>, <code>4</code>, <code>5</code>, or <code>0</code></td><td>Please pick a number from 0 to 5!</td></tr><tr class="even"><td><code>0</code></td><td>Output: So What Is Your Name?</td></tr><tr class="odd"><td><code>1</code></td><td>Output: What Is Your Name?</td></tr><tr class="even"><td><code>2</code></td><td>Output: Your Name?</td></tr><tr class="odd"><td><code>3</code></td><td>Output: Name?</td></tr><tr class="even"><td><code>4</code></td><td>Output: ?</td></tr><tr class="odd"><td><code>5</code></td><td>Output: !</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Value</th>
+<th>Log text</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>foo</code> is <code>NaN</code> or not <code>1</code>, <code>2</code>, <code>3</code>, <code>4</code>, <code>5</code>, or <code>0</code>
+</td>
+<td>Please pick a number from 0 to 5!</td>
+</tr>
+<tr class="even">
+<td>
+<code>0</code>
+</td>
+<td>Output: So What Is Your Name?</td>
+</tr>
+<tr class="odd">
+<td>
+<code>1</code>
+</td>
+<td>Output: What Is Your Name?</td>
+</tr>
+<tr class="even">
+<td>
+<code>2</code>
+</td>
+<td>Output: Your Name?</td>
+</tr>
+<tr class="odd">
+<td>
+<code>3</code>
+</td>
+<td>Output: Name?</td>
+</tr>
+<tr class="even">
+<td>
+<code>4</code>
+</td>
+<td>Output: ?</td>
+</tr>
+<tr class="odd">
+<td>
+<code>5</code>
+</td>
+<td>Output: !</td>
+</tr>
+</tbody>
+</table>
 
 ### Block-scope variables within `switch` statements
 
@@ -216,10 +267,24 @@ This code will now output `hello` in the console as it should, without any error
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-switch-statement">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-switch-statement">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-switch-statement</span></a></td></tr></tbody></table>
+<span class="small">#sec-switch-statement</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

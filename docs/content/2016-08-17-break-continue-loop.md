@@ -80,5 +80,7 @@ Also there is `.every`, which can be used. We have to return the opposite boolea
 ##### Playground
 
 <div>
-  <a class="jsbin-embed" href="http://jsbin.com/jopeji/embed?js,console">JS Bin on jsbin.com</a><script src="http://static.jsbin.com/js/embed.min.js?3.39.11"></script>
+  <a class="jsbin-embed" href="http://jsbin.com/jopeji/embed?js,console">JS Bin on jsbin.com</a>
+<script src="http://static.jsbin.com/js/embed.min.js?3.39.11">
+</script>
 </div>

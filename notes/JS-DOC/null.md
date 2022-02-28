@@ -35,10 +35,24 @@ When checking for `null` or `undefined`, beware of the [differences between equa
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-null-value">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-null-value">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-null-value</span></a></td></tr></tbody></table>
+<span class="small">#sec-null-value</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

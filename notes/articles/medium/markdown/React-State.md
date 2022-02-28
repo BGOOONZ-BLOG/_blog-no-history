@@ -12,7 +12,9 @@ Demystified
 
 <a href="https://gist.github.com/bgoonz/216025f38eed1dd451df356e4085fa5a" class="markup--anchor markup--p-anchor">https://gist.github.com/bgoonz/216025f38eed1dd451df356e4085fa5a</a>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*IzkDVQXDDiVofRlH.gif" class="graf-image" /></figure>### React Class Components
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*IzkDVQXDDiVofRlH.gif" class="graf-image" />
+</figure>### React Class Components
 
 **Class Components**
 
@@ -452,7 +454,10 @@ Demystified
 -   <span id="7319">Includes the use of stopPropagation() and preventDefault();</span>
 -   <span id="1d15">Attributes of the Synthetic Event Object:</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*OVA083oP8HKuRPyA-Ebpig.png" alt="Attributesboolean bubblesboolean cancelableDOMEventTarget currentTargetboolean defaultPreventednumber eventPhaseboolean isTrustedDOMEvent nativeEventvoid preventDefault()boolean isDefaultPrevented()void stopPropagation()boolean isPropagationStopped()void persist()DOMEventTarget targetnumber timeStampstring type" class="graf-image" /><figcaption>Attributesboolean bubblesboolean cancelableDOMEventTarget currentTargetboolean defaultPreventednumber eventPhaseboolean isTrustedDOMEvent nativeEventvoid preventDefault()boolean isDefaultPrevented()void stopPropagation()boolean isPropagationStopped()void persist()DOMEventTarget targetnumber timeStampstring type</figcaption></figure>-   <span id="42b5">`nativeEvent` : property defined in a synthetic event object that gives you access to the underlying native browser event (rarely used!)</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*OVA083oP8HKuRPyA-Ebpig.png" alt="Attributesboolean bubblesboolean cancelableDOMEventTarget currentTargetboolean defaultPreventednumber eventPhaseboolean isTrustedDOMEvent nativeEventvoid preventDefault()boolean isDefaultPrevented()void stopPropagation()boolean isPropagationStopped()void persist()DOMEventTarget targetnumber timeStampstring type" class="graf-image" />
+<figcaption>Attributesboolean bubblesboolean cancelableDOMEventTarget currentTargetboolean defaultPreventednumber eventPhaseboolean isTrustedDOMEvent nativeEventvoid preventDefault()boolean isDefaultPrevented()void stopPropagation()boolean isPropagationStopped()void persist()DOMEventTarget targetnumber timeStampstring type</figcaption>
+</figure>-   <span id="42b5">`nativeEvent` : property defined in a synthetic event object that gives you access to the underlying native browser event (rarely used!)</span>
 
 ### Forms in React
 
@@ -504,7 +509,9 @@ _Exercise being done in a separate file_
 
 ### Component Lifecycle
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*6kzLSSpEJ8ypPSCM.png" class="graf-image" /></figure>-   <span id="6e9c">Component Lifecycle is simply a way of describing the key moments in the lifetime of a component.</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*6kzLSSpEJ8ypPSCM.png" class="graf-image" />
+</figure>-   <span id="6e9c">Component Lifecycle is simply a way of describing the key moments in the lifetime of a component.</span>
 
 1.  <span id="5e9c">Loading (Mounting)</span>
 2.  <span id="6930">Updating</span>

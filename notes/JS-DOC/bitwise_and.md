@@ -19,7 +19,37 @@ The operator is applied to each pair of bits, and the result is constructed bitw
 
 The truth table for the AND operation is:
 
-<table><thead><tr class="header"><th>a</th><th>b</th><th>a AND b</th></tr></thead><tbody><tr class="odd"><td>0</td><td>0</td><td>0</td></tr><tr class="even"><td>0</td><td>1</td><td>0</td></tr><tr class="odd"><td>1</td><td>0</td><td>0</td></tr><tr class="even"><td>1</td><td>1</td><td>1</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>a</th>
+<th>b</th>
+<th>a AND b</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
     .    9 (base 10) = 00000000000000000000000000001001 (base 2)
         14 (base 10) = 00000000000000000000000000001110 (base 2)
@@ -38,10 +68,24 @@ Bitwise ANDing any number `x` with `0` yields `0`.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-BitwiseANDExpression">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#prod-BitwiseANDExpression">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#prod-BitwiseANDExpression</span></a></td></tr></tbody></table>
+<span class="small">#prod-BitwiseANDExpression</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `Bitwise_AND`
 

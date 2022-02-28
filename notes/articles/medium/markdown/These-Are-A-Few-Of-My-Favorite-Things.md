@@ -8,19 +8,29 @@ A web development student's declassified school survival guide.
 
 #### A web development student's declassified school survival guide.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Eqy-CWnqZ9WhcXxF" alt="Photo by Christin Hume on Unsplash" class="graf-image" /><figcaption>Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Christin Hume</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Unsplash</a></figcaption></figure><strong>A list of all of my articles to link to future posts</strong> 
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Eqy-CWnqZ9WhcXxF" alt="Photo by Christin Hume on Unsplash" class="graf-image" />
+<figcaption>Photo by <a href="https://unsplash.com/@christinhumephoto?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Christin Hume</a> on <a href="https://unsplash.com?utm_source=medium&amp;utm_medium=referral" class="markup--anchor markup--figure-anchor">Unsplash</a>
+</figcaption>
+</figure>
+<strong>A list of all of my articles to link to future posts</strong> 
 <br/>
 
 <em>You should probably skip this one… seriously it's just for internal use!</em>
 
 Also here's an even better list by someone I don't know but would be doing you a disservice by failing to include… **There's very little overlap so you should probably read both :**
 
-<a href="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c"><strong>25 Free Resources to Learn Web Development</strong>
+<a href="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c">
+<strong>25 Free Resources to Learn Web Development</strong>
 <br/>
 
-<em>Start where you are, use what you have, and do what you can.</em>medium.com</a><a href="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Start where you are, use what you have, and do what you can.</em>medium.com</a>
+<a href="https://medium.com/swlh/25-free-resources-to-learn-web-development-dd9b7479e06c" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<figure><img src="https://cdn-images-1.medium.com/max/600/0*dfyNFX1AFX9E3Z6R" class="graf-image" /></figure>### Disclaimer: This guide roughly goes in reverse order of awesomeness… i.e. you have to scroll to get to the coolest content… sorry not sorry
+<figure>
+<img src="https://cdn-images-1.medium.com/max/600/0*dfyNFX1AFX9E3Z6R" class="graf-image" />
+</figure>### Disclaimer: This guide roughly goes in reverse order of awesomeness… i.e. you have to scroll to get to the coolest content… sorry not sorry
 
 ---
 
@@ -28,7 +38,12 @@ Also here's an even better list by someone I don't know but would be doing you a
 
 ### 12.)Bit.Dev:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*-bAeyLeg08WTkGPg.gif" class="graf-image" /></figure><a href="https://bit.dev/" class="markup--anchor markup--p-anchor"><strong>Bit.dev</strong></a> **the world's best and only component marketplace solution provided as a service**. It's enterprise-grade in every way and provides all features out of the box. Bit empowers organizations with a "Lego-box" where all developers can push, discover, and reuse every component.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*-bAeyLeg08WTkGPg.gif" class="graf-image" />
+</figure>
+<a href="https://bit.dev/" class="markup--anchor markup--p-anchor">
+<strong>Bit.dev</strong>
+</a> **the world's best and only component marketplace solution provided as a service**. It's enterprise-grade in every way and provides all features out of the box. Bit empowers organizations with a "Lego-box" where all developers can push, discover, and reuse every component.
 
 This means much faster development, less time and effort spent re-inventing the wheel, and 100% focus on innovation.
 
@@ -52,21 +67,28 @@ Here are 4 use-cases for gaining a fast yet meaningful impact with Bit. These re
 3.  <span id="2ed7">**Design Systems (Distribution & Adoption)**</span>
 4.  <span id="5b75">**Rapid App Development and Delivery**</span>
 
-To learn more about how Bit can help unlock these benefits for you just <a href="https://bit.dev/contact-sales" class="markup--anchor markup--p-anchor"><strong>drop a ping to our experts</strong></a> and we'd be happy to share our experience.
+To learn more about how Bit can help unlock these benefits for you just <a href="https://bit.dev/contact-sales" class="markup--anchor markup--p-anchor">
+<strong>drop a ping to our experts</strong>
+</a> and we'd be happy to share our experience.
 
 ### 11.)Dillinger:
 
-<a href="https://dillinger.io/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://dillinger.io/"><strong>Online Markdown Editor - Dillinger, the Last Markdown Editor ever.</strong>
+<a href="https://dillinger.io/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://dillinger.io/">
+<strong>Online Markdown Editor - Dillinger, the Last Markdown Editor ever.</strong>
 <br/>
 
-<em>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive…</em>dillinger.io</a><a href="https://dillinger.io/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
+<em>Dillinger is an online cloud based HTML5 filled Markdown Editor. Sync with Dropbox, Github, Google Drive or OneDrive…</em>dillinger.io</a>
+<a href="https://dillinger.io/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock">
+</a>
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible, AngularJS-powered HTML5 Markdown editor.
 
 -   <span id="5668">Type some Markdown on the left</span>
 -   <span id="5601">See HTML in the right</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*Tq_ZHXaHBjelpXA4ZY5Ciw.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*Tq_ZHXaHBjelpXA4ZY5Ciw.png" class="graf-image" />
+</figure>
 
 ### Features
 
@@ -118,7 +140,9 @@ Just by virtue of saving a public Pen, you're also making it public to the world
 
 ### 2.) Free Code Camp:
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*GcLsRU-PNXX-bGt6_Z5vPw.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*GcLsRU-PNXX-bGt6_Z5vPw.png" class="graf-image" />
+</figure>
 
 More than 40,000 people have gotten developer jobs after completing this — including at big companies like Google and Microsoft. If you are new to programming, we recommend you start at the beginning and earn these certifications in order. To earn each certification, build its 5 required projects and get all their tests to pass. You can add these certifications to your résumé or LinkedIn. But more important than the certifications is the practice you get along the way. If you feel overwhelmed, that is normal. Programming is hard. Practice is the key. Practice, practice, practice. And this curriculum will give you thousands of hours of hands-on programming practice.
 
@@ -130,16 +154,27 @@ And if you want to learn more math and computer science theory, we also have tho
 
 CloudConvert is a German-based conversion site that was launched in 2012. Today, it's one of the most popular format converters, boasting of over 10,000 customers and at least four files per second.
 
-<a href="https://cloudconvert.com/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://cloudconvert.com/"><strong>CloudConvert</strong>
+<a href="https://cloudconvert.com/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://cloudconvert.com/">
+<strong>CloudConvert</strong>
 <br/>
 
-<em>CloudConvert is your Swiss army knife for file conversions. We support nearly all audio, video, document, ebook…</em>cloudconvert.com</a><a href="https://cloudconvert.com/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>CloudConvert is your Swiss army knife for file conversions. We support nearly all audio, video, document, ebook…</em>cloudconvert.com</a>
+<a href="https://cloudconvert.com/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 Just upload the file you want to convert and CloudConvert gives you a list of file types it can convert it to. It can then send that file directly to your Dropbox or Google Drive account. It's a pretty simple process and if you don't need to convert between file types very often, CloudConvert's handy to keep around.
 
-<figure><img src="https://cdn-images-1.medium.com/max/600/1*Md8ThdTUmUpuRZRcL6cVng.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/600/1*UP75fygqLTTki4jhZgfPaQ.png" alt="Lot's of features" class="graf-image" /><figcaption>Lot's of features</figcaption></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/600/1*Md8ThdTUmUpuRZRcL6cVng.png" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/600/1*UP75fygqLTTki4jhZgfPaQ.png" alt="Lot's of features" class="graf-image" />
+<figcaption>Lot's of features</figcaption>
+</figure>
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*Znr4SJvKJCut1gUoKNf_zg.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*Znr4SJvKJCut1gUoKNf_zg.png" class="graf-image" />
+</figure>
 
 <a href="https://cloudconvert.com/" class="markup--anchor markup--p-anchor">CloudConvert</a> transforms a file from one format into another. It recognizes files in more than <a href="https://cloudconvert.com/formats" class="markup--anchor markup--p-anchor">200 different formats</a>, and connects with Box, Dropbox, Google Drive, and OneDrive. This makes CloudConvert an essential web utility for anyone who uses a Chromebook.
 
@@ -159,57 +194,131 @@ An included <a href="https://en.wikipedia.org/wiki/CiteProc" class="markup--anch
 
 Pandoc's most thoroughly supported file format is an extended version of <a href="https://en.wikipedia.org/wiki/Markdown" class="markup--anchor markup--p-anchor" title="Markdown">Markdown</a> but it can also read many other forms of:
 
--   <span id="5806"><a href="https://en.wikipedia.org/wiki/Creole_%28markup%29" class="markup--anchor markup--li-anchor" title="Creole (markup)">Creole</a></span>
--   <span id="750e"><a href="https://en.wikipedia.org/wiki/DocBook" class="markup--anchor markup--li-anchor" title="DocBook">DocBook</a></span>
--   <span id="9987"><a href="https://en.wikipedia.org/wiki/EPUB" class="markup--anchor markup--li-anchor" title="EPUB">EPUB</a></span>
--   <span id="ec90"><a href="https://en.wikipedia.org/wiki/FictionBook" class="markup--anchor markup--li-anchor" title="FictionBook">FictionBook</a> (FB2)</span>
--   <span id="d4a7"><a href="https://en.wikipedia.org/wiki/Haddock_%28software%29" class="markup--anchor markup--li-anchor" title="Haddock (software)">Haddock</a></span>
--   <span id="2038"><a href="https://en.wikipedia.org/wiki/HTML" class="markup--anchor markup--li-anchor" title="HTML">HTML</a></span>
--   <span id="ff7d"><a href="https://en.wikipedia.org/wiki/Jira_%28software%29" class="markup--anchor markup--li-anchor" title="Jira (software)">Jira</a> wiki markup</span>
--   <span id="434e"><a href="https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite" class="markup--anchor markup--li-anchor" title="Journal Article Tag Suite">Journal Article Tag Suite</a> (JATS)</span>
--   <span id="697b"><a href="https://en.wikipedia.org/wiki/JSON" class="markup--anchor markup--li-anchor" title="JSON">JSON</a></span>
--   <span id="325a"><a href="https://en.wikipedia.org/wiki/LaTeX" class="markup--anchor markup--li-anchor" title="LaTeX">LaTeX</a></span>
--   <span id="2b35"><a href="https://en.wikipedia.org/wiki/Lightweight_markup_language" class="markup--anchor markup--li-anchor" title="Lightweight markup language">Lightweight markup language</a></span>
--   <span id="562e"><a href="https://en.wikipedia.org/wiki/Man_page" class="markup--anchor markup--li-anchor" title="Man page">man</a></span>
--   <span id="5637"><a href="https://en.wikipedia.org/wiki/Markdown" class="markup--anchor markup--li-anchor" title="Markdown">Markdown</a>: Strict, <a href="https://en.wikipedia.org/wiki/CommonMark" class="markup--anchor markup--li-anchor" title="CommonMark">CommonMark</a>, <a href="https://en.wikipedia.org/wiki/GitHub_Flavored_Markdown" class="markup--anchor markup--li-anchor" title="GitHub Flavored Markdown">GitHub Flavored Markdown</a> (GFM), <a href="https://en.wikipedia.org/wiki/MultiMarkdown" class="markup--anchor markup--li-anchor" title="MultiMarkdown">MultiMarkdown</a> (MMD) and <a href="https://en.wikipedia.org/wiki/Markdown_Extra" class="markup--anchor markup--li-anchor" title="Markdown Extra">Markdown Extra</a> (PHP Extra) variants</span>
--   <span id="5927"><a href="https://en.wikipedia.org/wiki/OpenDocument" class="markup--anchor markup--li-anchor" title="OpenDocument">OpenDocument</a> (ODT)</span>
--   <span id="12c4"><a href="https://en.wikipedia.org/wiki/OPML" class="markup--anchor markup--li-anchor" title="OPML">OPML</a></span>
--   <span id="7be1"><a href="https://en.wikipedia.org/wiki/Office_Open_XML" class="markup--anchor markup--li-anchor" title="Office Open XML">Office Open XML</a>: <a href="https://en.wikipedia.org/wiki/Microsoft_Word" class="markup--anchor markup--li-anchor" title="Microsoft Word">Microsoft Word</a> variant</span>
--   <span id="ff30"><a href="https://en.wikipedia.org/wiki/Org-mode" class="markup--anchor markup--li-anchor" title="Org-mode">Org-mode</a></span>
--   <span id="e789"><a href="https://en.wikipedia.org/wiki/ReStructuredText" class="markup--anchor markup--li-anchor" title="ReStructuredText">reStructuredText</a></span>
--   <span id="6573"><a href="https://en.wikipedia.org/wiki/Textile_%28markup_language%29" class="markup--anchor markup--li-anchor" title="Textile (markup language)">Textile</a></span>
--   <span id="467b"><a href="https://en.wikipedia.org/wiki/Txt2tags" class="markup--anchor markup--li-anchor" title="Txt2tags">txt2tags</a> (t2t)</span>
--   <span id="6b28"><a href="https://en.wikipedia.org/wiki/Wiki_markup" class="markup--anchor markup--li-anchor" title="Wiki markup">Wiki markup</a>: <a href="https://en.wikipedia.org/wiki/MediaWiki" class="markup--anchor markup--li-anchor" title="MediaWiki">MediaWiki</a>, Muse, <a href="https://en.wikipedia.org/wiki/TikiWiki" class="markup--anchor markup--li-anchor" title="TikiWiki">TikiWiki</a>, <a href="https://en.wikipedia.org/wiki/TWiki" class="markup--anchor markup--li-anchor" title="TWiki">TWiki</a> and <a href="https://en.wikipedia.org/wiki/Vimwiki" class="markup--anchor markup--li-anchor" title="Vimwiki">Vimwiki</a> variants</span>
+-   <span id="5806">
+<a href="https://en.wikipedia.org/wiki/Creole_%28markup%29" class="markup--anchor markup--li-anchor" title="Creole (markup)">Creole</a>
+</span>
+-   <span id="750e">
+<a href="https://en.wikipedia.org/wiki/DocBook" class="markup--anchor markup--li-anchor" title="DocBook">DocBook</a>
+</span>
+-   <span id="9987">
+<a href="https://en.wikipedia.org/wiki/EPUB" class="markup--anchor markup--li-anchor" title="EPUB">EPUB</a>
+</span>
+-   <span id="ec90">
+<a href="https://en.wikipedia.org/wiki/FictionBook" class="markup--anchor markup--li-anchor" title="FictionBook">FictionBook</a> (FB2)</span>
+-   <span id="d4a7">
+<a href="https://en.wikipedia.org/wiki/Haddock_%28software%29" class="markup--anchor markup--li-anchor" title="Haddock (software)">Haddock</a>
+</span>
+-   <span id="2038">
+<a href="https://en.wikipedia.org/wiki/HTML" class="markup--anchor markup--li-anchor" title="HTML">HTML</a>
+</span>
+-   <span id="ff7d">
+<a href="https://en.wikipedia.org/wiki/Jira_%28software%29" class="markup--anchor markup--li-anchor" title="Jira (software)">Jira</a> wiki markup</span>
+-   <span id="434e">
+<a href="https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite" class="markup--anchor markup--li-anchor" title="Journal Article Tag Suite">Journal Article Tag Suite</a> (JATS)</span>
+-   <span id="697b">
+<a href="https://en.wikipedia.org/wiki/JSON" class="markup--anchor markup--li-anchor" title="JSON">JSON</a>
+</span>
+-   <span id="325a">
+<a href="https://en.wikipedia.org/wiki/LaTeX" class="markup--anchor markup--li-anchor" title="LaTeX">LaTeX</a>
+</span>
+-   <span id="2b35">
+<a href="https://en.wikipedia.org/wiki/Lightweight_markup_language" class="markup--anchor markup--li-anchor" title="Lightweight markup language">Lightweight markup language</a>
+</span>
+-   <span id="562e">
+<a href="https://en.wikipedia.org/wiki/Man_page" class="markup--anchor markup--li-anchor" title="Man page">man</a>
+</span>
+-   <span id="5637">
+<a href="https://en.wikipedia.org/wiki/Markdown" class="markup--anchor markup--li-anchor" title="Markdown">Markdown</a>: Strict, <a href="https://en.wikipedia.org/wiki/CommonMark" class="markup--anchor markup--li-anchor" title="CommonMark">CommonMark</a>, <a href="https://en.wikipedia.org/wiki/GitHub_Flavored_Markdown" class="markup--anchor markup--li-anchor" title="GitHub Flavored Markdown">GitHub Flavored Markdown</a> (GFM), <a href="https://en.wikipedia.org/wiki/MultiMarkdown" class="markup--anchor markup--li-anchor" title="MultiMarkdown">MultiMarkdown</a> (MMD) and <a href="https://en.wikipedia.org/wiki/Markdown_Extra" class="markup--anchor markup--li-anchor" title="Markdown Extra">Markdown Extra</a> (PHP Extra) variants</span>
+-   <span id="5927">
+<a href="https://en.wikipedia.org/wiki/OpenDocument" class="markup--anchor markup--li-anchor" title="OpenDocument">OpenDocument</a> (ODT)</span>
+-   <span id="12c4">
+<a href="https://en.wikipedia.org/wiki/OPML" class="markup--anchor markup--li-anchor" title="OPML">OPML</a>
+</span>
+-   <span id="7be1">
+<a href="https://en.wikipedia.org/wiki/Office_Open_XML" class="markup--anchor markup--li-anchor" title="Office Open XML">Office Open XML</a>: <a href="https://en.wikipedia.org/wiki/Microsoft_Word" class="markup--anchor markup--li-anchor" title="Microsoft Word">Microsoft Word</a> variant</span>
+-   <span id="ff30">
+<a href="https://en.wikipedia.org/wiki/Org-mode" class="markup--anchor markup--li-anchor" title="Org-mode">Org-mode</a>
+</span>
+-   <span id="e789">
+<a href="https://en.wikipedia.org/wiki/ReStructuredText" class="markup--anchor markup--li-anchor" title="ReStructuredText">reStructuredText</a>
+</span>
+-   <span id="6573">
+<a href="https://en.wikipedia.org/wiki/Textile_%28markup_language%29" class="markup--anchor markup--li-anchor" title="Textile (markup language)">Textile</a>
+</span>
+-   <span id="467b">
+<a href="https://en.wikipedia.org/wiki/Txt2tags" class="markup--anchor markup--li-anchor" title="Txt2tags">txt2tags</a> (t2t)</span>
+-   <span id="6b28">
+<a href="https://en.wikipedia.org/wiki/Wiki_markup" class="markup--anchor markup--li-anchor" title="Wiki markup">Wiki markup</a>: <a href="https://en.wikipedia.org/wiki/MediaWiki" class="markup--anchor markup--li-anchor" title="MediaWiki">MediaWiki</a>, Muse, <a href="https://en.wikipedia.org/wiki/TikiWiki" class="markup--anchor markup--li-anchor" title="TikiWiki">TikiWiki</a>, <a href="https://en.wikipedia.org/wiki/TWiki" class="markup--anchor markup--li-anchor" title="TWiki">TWiki</a> and <a href="https://en.wikipedia.org/wiki/Vimwiki" class="markup--anchor markup--li-anchor" title="Vimwiki">Vimwiki</a> variants</span>
 
 It can create files in the following formats, which are not necessarily the same as the input formats:
 
--   <span id="fc30"><a href="https://en.wikipedia.org/wiki/AsciiDoc" class="markup--anchor markup--li-anchor" title="AsciiDoc">AsciiDoc</a></span>
--   <span id="22fa"><a href="https://en.wikipedia.org/wiki/ConTeXt" class="markup--anchor markup--li-anchor" title="ConTeXt">ConTeXt</a></span>
--   <span id="6eb6"><a href="https://en.wikipedia.org/wiki/DocBook" class="markup--anchor markup--li-anchor" title="DocBook">DocBook</a>: Versions 4 and 5</span>
--   <span id="8ed0"><a href="https://en.wikipedia.org/wiki/EPUB" class="markup--anchor markup--li-anchor" title="EPUB">EPUB</a>: Versions 2 and 3</span>
--   <span id="8a05"><a href="https://en.wikipedia.org/wiki/FictionBook" class="markup--anchor markup--li-anchor" title="FictionBook">FictionBook</a> (FB2)</span>
--   <span id="424c"><a href="https://en.wikipedia.org/wiki/Haddock_%28software%29" class="markup--anchor markup--li-anchor" title="Haddock (software)">Haddock</a></span>
--   <span id="ee90"><a href="https://en.wikipedia.org/wiki/HTML" class="markup--anchor markup--li-anchor" title="HTML">HTML</a>: HTML4 and <a href="https://en.wikipedia.org/wiki/HTML5" class="markup--anchor markup--li-anchor" title="HTML5">HTML5</a> variants, respectively compliant with XHTML 1.0 Transitional and XHTML Strict</span>
--   <span id="c903"><a href="https://en.wikipedia.org/wiki/InDesign" class="markup--anchor markup--li-anchor" title="InDesign">InDesign</a> ICML</span>
--   <span id="3103"><a href="https://en.wikipedia.org/wiki/Jira_%28software%29" class="markup--anchor markup--li-anchor" title="Jira (software)">Jira</a> wiki markup</span>
--   <span id="8660"><a href="https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite" class="markup--anchor markup--li-anchor" title="Journal Article Tag Suite">Journal Article Tag Suite</a> (JATS)</span>
--   <span id="1bcd"><a href="https://en.wikipedia.org/wiki/JSON" class="markup--anchor markup--li-anchor" title="JSON">JSON</a></span>
--   <span id="f173"><a href="https://en.wikipedia.org/wiki/LaTeX" class="markup--anchor markup--li-anchor" title="LaTeX">LaTeX</a></span>
--   <span id="d196"><a href="https://en.wikipedia.org/wiki/Man_page" class="markup--anchor markup--li-anchor" title="Man page">man</a></span>
--   <span id="6b89"><a href="https://en.wikipedia.org/wiki/Markdown" class="markup--anchor markup--li-anchor" title="Markdown">Markdown</a>: Strict, <a href="https://en.wikipedia.org/wiki/CommonMark" class="markup--anchor markup--li-anchor" title="CommonMark">CommonMark</a>, <a href="https://en.wikipedia.org/wiki/GitHub_Flavored_Markdown" class="markup--anchor markup--li-anchor" title="GitHub Flavored Markdown">GitHub Flavored Markdown</a> (GFM), <a href="https://en.wikipedia.org/wiki/MultiMarkdown" class="markup--anchor markup--li-anchor" title="MultiMarkdown">MultiMarkdown</a> (MMD) and <a href="https://en.wikipedia.org/wiki/Markdown_Extra" class="markup--anchor markup--li-anchor" title="Markdown Extra">Markdown Extra</a> (PHP Extra) variants</span>
--   <span id="d1bc"><a href="https://en.wikipedia.org/wiki/OpenDocument" class="markup--anchor markup--li-anchor" title="OpenDocument">OpenDocument</a> (ODT/ODF)</span>
--   <span id="65c5"><a href="https://en.wikipedia.org/wiki/OPML" class="markup--anchor markup--li-anchor" title="OPML">OPML</a></span>
--   <span id="d1da"><a href="https://en.wikipedia.org/wiki/Office_Open_XML" class="markup--anchor markup--li-anchor" title="Office Open XML">Office Open XML</a>: <a href="https://en.wikipedia.org/wiki/Microsoft_Word" class="markup--anchor markup--li-anchor" title="Microsoft Word">Microsoft Word</a> and <a href="https://en.wikipedia.org/wiki/Microsoft_PowerPoint" class="markup--anchor markup--li-anchor" title="Microsoft PowerPoint">Microsoft PowerPoint</a> variants</span>
--   <span id="3c11"><a href="https://en.wikipedia.org/wiki/Org-mode" class="markup--anchor markup--li-anchor" title="Org-mode">Org-mode</a></span>
--   <span id="41a0"><a href="https://en.wikipedia.org/wiki/PDF" class="markup--anchor markup--li-anchor" title="PDF">PDF</a> (needs a third-party add-on like <a href="https://en.wikipedia.org/wiki/ConTeXt" class="markup--anchor markup--li-anchor" title="ConTeXt">ConTeXt</a>, `pdfroff`, `wkhtmltopdf`, `weasyprint` or `prince`)</span>
--   <span id="a8cb"><a href="https://en.wikipedia.org/wiki/Plain_text" class="markup--anchor markup--li-anchor" title="Plain text">Plain text</a></span>
--   <span id="7b87"><a href="https://en.wikipedia.org/wiki/ReStructuredText" class="markup--anchor markup--li-anchor" title="ReStructuredText">reStructuredText</a></span>
--   <span id="b50f"><a href="https://en.wikipedia.org/wiki/Rich_Text_Format" class="markup--anchor markup--li-anchor" title="Rich Text Format">Rich Text Format</a> (RTF)</span>
--   <span id="fcff"><a href="https://en.wikipedia.org/wiki/Text_Encoding_Initiative" class="markup--anchor markup--li-anchor" title="Text Encoding Initiative">TEI</a></span>
--   <span id="8466"><a href="https://en.wikipedia.org/wiki/Texinfo" class="markup--anchor markup--li-anchor" title="Texinfo">Texinfo</a></span>
--   <span id="5fff"><a href="https://en.wikipedia.org/wiki/Textile_%28markup_language%29" class="markup--anchor markup--li-anchor" title="Textile (markup language)">Textile</a></span>
--   <span id="34a9"><a href="https://en.wikipedia.org/wiki/Web-based_slideshow" class="markup--anchor markup--li-anchor" title="Web-based slideshow">Web-based slideshows</a>: LaTeX Beamer, Slideous, Slidy, DZSlides, reveal.js and S5 variants</span>
--   <span id="1cbf"><a href="https://en.wikipedia.org/wiki/Wiki_markup" class="markup--anchor markup--li-anchor" title="Wiki markup">Wiki markup</a>: <a href="https://en.wikipedia.org/wiki/DokuWiki" class="markup--anchor markup--li-anchor" title="DokuWiki">DokuWiki</a>, <a href="https://en.wikipedia.org/wiki/MediaWiki" class="markup--anchor markup--li-anchor" title="Document converter">MediaWiki</a>, <a href="https://en.wikipedia.org/wiki/Adobe_Muse" class="markup--anchor markup--li-anchor" title="Adobe Muse">Muse</a>, <a href="https://en.wikipedia.org/wiki/TikiWiki" class="markup--anchor markup--li-anchor" title="TikiWiki">TikiWiki</a>, <a href="https://en.wikipedia.org/wiki/TWiki" class="markup--anchor markup--li-anchor" title="TWiki">TWiki</a> and <a href="https://en.wikipedia.org/wiki/Vimwiki" class="markup--anchor markup--li-anchor">Vimwiki</a> variants</span>
+-   <span id="fc30">
+<a href="https://en.wikipedia.org/wiki/AsciiDoc" class="markup--anchor markup--li-anchor" title="AsciiDoc">AsciiDoc</a>
+</span>
+-   <span id="22fa">
+<a href="https://en.wikipedia.org/wiki/ConTeXt" class="markup--anchor markup--li-anchor" title="ConTeXt">ConTeXt</a>
+</span>
+-   <span id="6eb6">
+<a href="https://en.wikipedia.org/wiki/DocBook" class="markup--anchor markup--li-anchor" title="DocBook">DocBook</a>: Versions 4 and 5</span>
+-   <span id="8ed0">
+<a href="https://en.wikipedia.org/wiki/EPUB" class="markup--anchor markup--li-anchor" title="EPUB">EPUB</a>: Versions 2 and 3</span>
+-   <span id="8a05">
+<a href="https://en.wikipedia.org/wiki/FictionBook" class="markup--anchor markup--li-anchor" title="FictionBook">FictionBook</a> (FB2)</span>
+-   <span id="424c">
+<a href="https://en.wikipedia.org/wiki/Haddock_%28software%29" class="markup--anchor markup--li-anchor" title="Haddock (software)">Haddock</a>
+</span>
+-   <span id="ee90">
+<a href="https://en.wikipedia.org/wiki/HTML" class="markup--anchor markup--li-anchor" title="HTML">HTML</a>: HTML4 and <a href="https://en.wikipedia.org/wiki/HTML5" class="markup--anchor markup--li-anchor" title="HTML5">HTML5</a> variants, respectively compliant with XHTML 1.0 Transitional and XHTML Strict</span>
+-   <span id="c903">
+<a href="https://en.wikipedia.org/wiki/InDesign" class="markup--anchor markup--li-anchor" title="InDesign">InDesign</a> ICML</span>
+-   <span id="3103">
+<a href="https://en.wikipedia.org/wiki/Jira_%28software%29" class="markup--anchor markup--li-anchor" title="Jira (software)">Jira</a> wiki markup</span>
+-   <span id="8660">
+<a href="https://en.wikipedia.org/wiki/Journal_Article_Tag_Suite" class="markup--anchor markup--li-anchor" title="Journal Article Tag Suite">Journal Article Tag Suite</a> (JATS)</span>
+-   <span id="1bcd">
+<a href="https://en.wikipedia.org/wiki/JSON" class="markup--anchor markup--li-anchor" title="JSON">JSON</a>
+</span>
+-   <span id="f173">
+<a href="https://en.wikipedia.org/wiki/LaTeX" class="markup--anchor markup--li-anchor" title="LaTeX">LaTeX</a>
+</span>
+-   <span id="d196">
+<a href="https://en.wikipedia.org/wiki/Man_page" class="markup--anchor markup--li-anchor" title="Man page">man</a>
+</span>
+-   <span id="6b89">
+<a href="https://en.wikipedia.org/wiki/Markdown" class="markup--anchor markup--li-anchor" title="Markdown">Markdown</a>: Strict, <a href="https://en.wikipedia.org/wiki/CommonMark" class="markup--anchor markup--li-anchor" title="CommonMark">CommonMark</a>, <a href="https://en.wikipedia.org/wiki/GitHub_Flavored_Markdown" class="markup--anchor markup--li-anchor" title="GitHub Flavored Markdown">GitHub Flavored Markdown</a> (GFM), <a href="https://en.wikipedia.org/wiki/MultiMarkdown" class="markup--anchor markup--li-anchor" title="MultiMarkdown">MultiMarkdown</a> (MMD) and <a href="https://en.wikipedia.org/wiki/Markdown_Extra" class="markup--anchor markup--li-anchor" title="Markdown Extra">Markdown Extra</a> (PHP Extra) variants</span>
+-   <span id="d1bc">
+<a href="https://en.wikipedia.org/wiki/OpenDocument" class="markup--anchor markup--li-anchor" title="OpenDocument">OpenDocument</a> (ODT/ODF)</span>
+-   <span id="65c5">
+<a href="https://en.wikipedia.org/wiki/OPML" class="markup--anchor markup--li-anchor" title="OPML">OPML</a>
+</span>
+-   <span id="d1da">
+<a href="https://en.wikipedia.org/wiki/Office_Open_XML" class="markup--anchor markup--li-anchor" title="Office Open XML">Office Open XML</a>: <a href="https://en.wikipedia.org/wiki/Microsoft_Word" class="markup--anchor markup--li-anchor" title="Microsoft Word">Microsoft Word</a> and <a href="https://en.wikipedia.org/wiki/Microsoft_PowerPoint" class="markup--anchor markup--li-anchor" title="Microsoft PowerPoint">Microsoft PowerPoint</a> variants</span>
+-   <span id="3c11">
+<a href="https://en.wikipedia.org/wiki/Org-mode" class="markup--anchor markup--li-anchor" title="Org-mode">Org-mode</a>
+</span>
+-   <span id="41a0">
+<a href="https://en.wikipedia.org/wiki/PDF" class="markup--anchor markup--li-anchor" title="PDF">PDF</a> (needs a third-party add-on like <a href="https://en.wikipedia.org/wiki/ConTeXt" class="markup--anchor markup--li-anchor" title="ConTeXt">ConTeXt</a>, `pdfroff`, `wkhtmltopdf`, `weasyprint` or `prince`)</span>
+-   <span id="a8cb">
+<a href="https://en.wikipedia.org/wiki/Plain_text" class="markup--anchor markup--li-anchor" title="Plain text">Plain text</a>
+</span>
+-   <span id="7b87">
+<a href="https://en.wikipedia.org/wiki/ReStructuredText" class="markup--anchor markup--li-anchor" title="ReStructuredText">reStructuredText</a>
+</span>
+-   <span id="b50f">
+<a href="https://en.wikipedia.org/wiki/Rich_Text_Format" class="markup--anchor markup--li-anchor" title="Rich Text Format">Rich Text Format</a> (RTF)</span>
+-   <span id="fcff">
+<a href="https://en.wikipedia.org/wiki/Text_Encoding_Initiative" class="markup--anchor markup--li-anchor" title="Text Encoding Initiative">TEI</a>
+</span>
+-   <span id="8466">
+<a href="https://en.wikipedia.org/wiki/Texinfo" class="markup--anchor markup--li-anchor" title="Texinfo">Texinfo</a>
+</span>
+-   <span id="5fff">
+<a href="https://en.wikipedia.org/wiki/Textile_%28markup_language%29" class="markup--anchor markup--li-anchor" title="Textile (markup language)">Textile</a>
+</span>
+-   <span id="34a9">
+<a href="https://en.wikipedia.org/wiki/Web-based_slideshow" class="markup--anchor markup--li-anchor" title="Web-based slideshow">Web-based slideshows</a>: LaTeX Beamer, Slideous, Slidy, DZSlides, reveal.js and S5 variants</span>
+-   <span id="1cbf">
+<a href="https://en.wikipedia.org/wiki/Wiki_markup" class="markup--anchor markup--li-anchor" title="Wiki markup">Wiki markup</a>: <a href="https://en.wikipedia.org/wiki/DokuWiki" class="markup--anchor markup--li-anchor" title="DokuWiki">DokuWiki</a>, <a href="https://en.wikipedia.org/wiki/MediaWiki" class="markup--anchor markup--li-anchor" title="Document converter">MediaWiki</a>, <a href="https://en.wikipedia.org/wiki/Adobe_Muse" class="markup--anchor markup--li-anchor" title="Adobe Muse">Muse</a>, <a href="https://en.wikipedia.org/wiki/TikiWiki" class="markup--anchor markup--li-anchor" title="TikiWiki">TikiWiki</a>, <a href="https://en.wikipedia.org/wiki/TWiki" class="markup--anchor markup--li-anchor" title="TWiki">TWiki</a> and <a href="https://en.wikipedia.org/wiki/Vimwiki" class="markup--anchor markup--li-anchor">Vimwiki</a> variants</span>
 
 ---
 
@@ -231,12 +340,17 @@ Dirhtml creates HTML files from a directory list using the GUI or command line, 
 
 Dirhtml is not installable, just unzip and run dirhtml.exe.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*mS1VExsEeK5jYwHPFWA-aQ.png" class="graf-image" /></figure>Problems, questions? Email the author: <a href="mailto:dirhtml@enware.info" class="markup--anchor markup--p-anchor">dirhtml@enware.info</a>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*mS1VExsEeK5jYwHPFWA-aQ.png" class="graf-image" />
+</figure>Problems, questions? Email the author: <a href="mailto:dirhtml@enware.info" class="markup--anchor markup--p-anchor">dirhtml@enware.info</a>
 
-<a href="https://dirhtml.en.uptodown.com/windows" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://dirhtml.en.uptodown.com/windows"><strong>Dirhtml (Windows)</strong>
+<a href="https://dirhtml.en.uptodown.com/windows" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://dirhtml.en.uptodown.com/windows">
+<strong>Dirhtml (Windows)</strong>
 <br/>
 
-<em>Dirhtml is a lite application that creates HTML files listing the content of a certain folder with links to each file…</em>dirhtml.en.uptodown.com</a><a href="https://dirhtml.en.uptodown.com/windows" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Dirhtml is a lite application that creates HTML files listing the content of a certain folder with links to each file…</em>dirhtml.en.uptodown.com</a>
+<a href="https://dirhtml.en.uptodown.com/windows" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 Dirhtml is a lite application that creates HTML files listing the content of a certain folder with links to each file automatically,
 
@@ -248,23 +362,31 @@ Dirhtml is a good choice if you are planning to create a directory of your files
 
 It's how I create site navigation as it appears here:
 
-<a href="https://lambda-resources.netlify.app/directory.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://lambda-resources.netlify.app/directory.html"><strong>Site Navigation</strong>
+<a href="https://lambda-resources.netlify.app/directory.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://lambda-resources.netlify.app/directory.html">
+<strong>Site Navigation</strong>
 <br/>
 
-<em>Edit description</em>lambda-resources.netlify.app</a><a href="https://lambda-resources.netlify.app/directory.html" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
+<em>Edit description</em>lambda-resources.netlify.app</a>
+<a href="https://lambda-resources.netlify.app/directory.html" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock">
+</a>
 
 This enables me to take a folder full of my notes … no matter the file extension and rapidly turn the contents of that folder into a static documentation site… not to mention that having (potentially) thousands of nonbroken hyperlinks between pages in your website will help boost your SEO rating.
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*uTU2LjT81NAVDZDskAvKzw.gif" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*uTU2LjT81NAVDZDskAvKzw.gif" class="graf-image" />
+</figure>
 
 ---
 
 ### 5.) **Google Colaboratory**
 
-<a href="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk"><strong>Google Colaboratory</strong>
+<a href="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk">
+<strong>Google Colaboratory</strong>
 <br/>
 
-<em>Edit description</em>colab.research.google.com</a><a href="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Edit description</em>colab.research.google.com</a>
+<a href="https://colab.research.google.com/github/bgoonz/Jupyter-Notebooks/blob/master/02-Web-Scraping-Exercise-Solutions.ipynb#scrollTo=3dvl7SQ6C8wk" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### The Basics
 
@@ -286,28 +408,37 @@ Users who are interested in more reliable access to better resources may be inte
 
 <a href="https://jupyter.org/" class="markup--anchor markup--p-anchor">Jupyter</a> is the open-source project on which Colab is based. Colab allows you to use and share Jupyter notebooks with others without having to download, install, or run anything.
 
-<a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://colab.research.google.com/notebooks/basic_features_overview.ipynb"><strong>Google Colaboratory</strong>
+<a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://colab.research.google.com/notebooks/basic_features_overview.ipynb">
+<strong>Google Colaboratory</strong>
 <br/>
 
-<em>Edit description</em>colab.research.google.com</a><a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Edit description</em>colab.research.google.com</a>
+<a href="https://colab.research.google.com/notebooks/basic_features_overview.ipynb" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### 6.) Github Gists:
 
 Here's a repo where I backup my gists… I keep hundreds:
 
-<a href="https://github.com/bgoonz/my-gists" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz/my-gists"><strong>bgoonz/my-gists</strong>
+<a href="https://github.com/bgoonz/my-gists" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz/my-gists">
+<strong>bgoonz/my-gists</strong>
 <br/>
 
-<em>Contribute to bgoonz/my-gists development by creating an account on GitHub.</em>github.com</a><a href="https://github.com/bgoonz/my-gists" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Contribute to bgoonz/my-gists development by creating an account on GitHub.</em>github.com</a>
+<a href="https://github.com/bgoonz/my-gists" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ---
 
 ### 7.) Screen To Gif:
 
-<a href="https://github.com/NickeManarin/ScreenToGif/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/NickeManarin/ScreenToGif/"><strong>NickeManarin/ScreenToGif</strong>
+<a href="https://github.com/NickeManarin/ScreenToGif/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/NickeManarin/ScreenToGif/">
+<strong>NickeManarin/ScreenToGif</strong>
 <br/>
 
-<em>This tool allows you to record a selected area of your screen, live feed from your webcam or live drawings from a…</em>github.com</a><a href="https://github.com/NickeManarin/ScreenToGif/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>This tool allows you to record a selected area of your screen, live feed from your webcam or live drawings from a…</em>github.com</a>
+<a href="https://github.com/NickeManarin/ScreenToGif/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 #### Recorders
 
@@ -315,9 +446,13 @@ Here's a repo where I backup my gists… I keep hundreds:
 
 <a href="https://www.screentogif.com/features#screen" class="markup--anchor markup--p-anchor">#</a>Screen
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*1qxcmFlgYZqH3BoC.png" class="graf-image" /></figure>This is the default screen recorder UI. You simply move this window on top of the content that you want to record.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*1qxcmFlgYZqH3BoC.png" class="graf-image" />
+</figure>This is the default screen recorder UI. You simply move this window on top of the content that you want to record.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*MS7qI68SZqnkAUj2.png" class="graf-image" /></figure>This is the new recorder UI, which lets you click and drag to select an area of your screen.  
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*MS7qI68SZqnkAUj2.png" class="graf-image" />
+</figure>This is the new recorder UI, which lets you click and drag to select an area of your screen.  
 You can also switch to the window and screen modes.
 
 -   <span id="3279">Use the record, pause, discard or stop buttons to control your capture.</span>
@@ -333,7 +468,9 @@ You can also switch to the window and screen modes.
 
 <a href="https://www.screentogif.com/features#webcam" class="markup--anchor markup--p-anchor">#</a>Webcam
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*ChaBErI6-wOi-H7D.png" class="graf-image" /></figure>This is the webcam recorder.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*ChaBErI6-wOi-H7D.png" class="graf-image" />
+</figure>This is the webcam recorder.
 
 -   <span id="dad2">Use the record, pause, discard or stop buttons to control your capture.</span>
 -   <span id="29da">Select the maximum FPS of the capture.</span>
@@ -343,7 +480,9 @@ You can also switch to the window and screen modes.
 
 <a href="https://www.screentogif.com/features#sketchboard" class="markup--anchor markup--p-anchor">#</a>Sketch board
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*jRY7wVZR7yDX4eIR.png" class="graf-image" /></figure>The board recorder lets you capture your drawings automatically as you draw them.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*jRY7wVZR7yDX4eIR.png" class="graf-image" />
+</figure>The board recorder lets you capture your drawings automatically as you draw them.
 
 -   <span id="724c">Enable the auto-capture or press Ctrl to toggle (_pauses_ or _captures_ it, depending if the auto-capture is enabled or disabled).</span>
 -   <span id="6441">Select the maximum FPS of the capture.</span>
@@ -353,7 +492,9 @@ You can also switch to the window and screen modes.
 
 ### <a href="https://www.screentogif.com/features#editor" class="markup--anchor markup--h3-anchor">#</a>Editor
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*KqCN274SVcfsT1rg.gif" class="graf-image" /></figure>This is the editor, where you can edit your recordings and export it to gif, apng, video, project, images and psd.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*KqCN274SVcfsT1rg.gif" class="graf-image" />
+</figure>This is the editor, where you can edit your recordings and export it to gif, apng, video, project, images and psd.
 
 -   <span id="1ff8">File</span>
 -   <span id="682f">Start a new recording or open a media (videos or images) or project file.</span>
@@ -408,7 +549,9 @@ I am currently building myself a new blog site… I sometimes develop it locally
 
 <a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--p-anchor">https://bgoonz-blog.netlify.app/</a>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*vewSClaL-mtlJ1VPU77ZqQ.jpeg" class="graf-image" /></figure>Stackbit takes all the tools you'd need for a site's stack (theme, static site generator, CMS, and deployment) and quickly bundles them together for you. It offers options in each category, so you can mix and match the tools in your stack that best suit your needs.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*vewSClaL-mtlJ1VPU77ZqQ.jpeg" class="graf-image" />
+</figure>Stackbit takes all the tools you'd need for a site's stack (theme, static site generator, CMS, and deployment) and quickly bundles them together for you. It offers options in each category, so you can mix and match the tools in your stack that best suit your needs.
 
 At this point, you may be thinking, Ok, but "fast" is a relative term in this space… how "fast" are we really talking here?
 
@@ -422,7 +565,9 @@ The preview of your site in Stackbit is generated by the development server of y
 
 Stackbit runs the following steps to show you the preview of your site:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*5Og44-53zIrpl--Srr25wQ.png" class="graf-image" /></figure>1.  <span id="feea">It clones your site's repository</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*5Og44-53zIrpl--Srr25wQ.png" class="graf-image" />
+</figure>1.  <span id="feea">It clones your site's repository</span>
 2.  <span id="ac5f">It checks-out the `preview` branch</span>
 3.  <span id="ce6a">It installs your site dependencies depending on your static site generator (e.g., `npm install` for Node based SSGs such as Gatsby and Next.js, and `bundle install` for Jekyll)</span>
 4.  <span id="42fa">It runs your static site generator's development server (e.g.: `gatsby develop` for Gatsby, and `bundle exec jekyll serve` for Jekyll).</span>
@@ -434,7 +579,9 @@ If your site uses <a href="https://gohugo.io/" class="markup--anchor markup--p-a
 
 You can see the logs of how Stackbit pulls your repository, installs dependencies, and runs your SSG's development server by clicking on the "Logs" button in the "Advanced Tools" bottom bar:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Ak-yJ2z4qySTXyvk.png" class="graf-image" /></figure>### Preview Updates
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Ak-yJ2z4qySTXyvk.png" class="graf-image" />
+</figure>### Preview Updates
 
 Because the preview is served by the SSG development server, any changes to site's content and code are immediately reflected in the preview.
 
@@ -454,7 +601,10 @@ First things first, Windows Search can't find a thing. For anyone used to Mac OS
 
 Just watch how quickly it finds files by name in a 20GB folder!
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*oRsNzqiiqqaZCEXxmfgCKg.gif" class="graf-image" /></figure><a href="https://www.mythicsoft.com/agentransack/" class="markup--anchor markup--p-anchor" title="Product page for FileLocator Lite">FileLocator Lite</a> is free for personal and commercial use, although commercial use requires a per-user registration after a month.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*oRsNzqiiqqaZCEXxmfgCKg.gif" class="graf-image" />
+</figure>
+<a href="https://www.mythicsoft.com/agentransack/" class="markup--anchor markup--p-anchor" title="Product page for FileLocator Lite">FileLocator Lite</a> is free for personal and commercial use, although commercial use requires a per-user registration after a month.
 
 The user interface and experience is as good as it gets in an advanced program aimed at experienced users. The Pro version adds more controllers, but they can all be safely ignored unless you need something specific. The main program window opens up with three main input fields: search by file name or file contents, and where to look for the file.
 
@@ -466,10 +616,13 @@ In the search result section, you can not only see a list of files that match yo
 
 -   <span id="24ae">Source:</span>
 
-<a href="https://www.ctrl.blog/entry/review-filelocator.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.ctrl.blog/entry/review-filelocator.html"><strong>FileLocator Lite and Pro review</strong>
+<a href="https://www.ctrl.blog/entry/review-filelocator.html" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.ctrl.blog/entry/review-filelocator.html">
+<strong>FileLocator Lite and Pro review</strong>
 <br/>
 
-<em>Find "everything" with Lite Finding even more and do it faster with Pro Windows and tabs management, and keyboard…</em>www.ctrl.blog</a><a href="https://www.ctrl.blog/entry/review-filelocator.html" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Find "everything" with Lite Finding even more and do it faster with Pro Windows and tabs management, and keyboard…</em>www.ctrl.blog</a>
+<a href="https://www.ctrl.blog/entry/review-filelocator.html" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ---
 
@@ -479,12 +632,17 @@ In the search result section, you can not only see a list of files that match yo
 
 The best note taking app ever:
 
-<a href="https://www.notion.so/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.notion.so/"><strong>Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.</strong>
+<a href="https://www.notion.so/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.notion.so/">
+<strong>Notion - The all-in-one workspace for your notes, tasks, wikis, and databases.</strong>
 <br/>
 
-<em>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.</em>www.notion.so</a><a href="https://www.notion.so/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>A new tool that blends your everyday work apps into one. It's the all-in-one workspace for you and your team.</em>www.notion.so</a>
+<a href="https://www.notion.so/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/1*G_bpCx8Yq7r126TW2m2LeQ.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/1*G_bpCx8Yq7r126TW2m2LeQ.png" class="graf-image" />
+</figure>
 
 ---
 
@@ -492,43 +650,63 @@ The best note taking app ever:
 
 Turn your tribal knowledge into easy-to-find answers.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*9JshGw_-PYqBgR8v.png" class="graf-image" /></figure>Replaces
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*9JshGw_-PYqBgR8v.png" class="graf-image" />
+</figure>Replaces
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*mtnwrrjjAjMeJBMj.png" class="graf-image" /></figure>### Projects & tasks
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*mtnwrrjjAjMeJBMj.png" class="graf-image" />
+</figure>### Projects & tasks
 
 Kanban boards, tables, lists, and more. Customize any workflow.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*YPEZ1KxoWELQMgQB.png" class="graf-image" /></figure>Replaces
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*YPEZ1KxoWELQMgQB.png" class="graf-image" />
+</figure>Replaces
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*IzZ9PX3tbYpxTret.png" class="graf-image" /></figure>### Notes & docs
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*IzZ9PX3tbYpxTret.png" class="graf-image" />
+</figure>### Notes & docs
 
 Systems that keep notes organized. Add any type of content.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*JPygD4J1hN7xDapF.png" class="graf-image" /></figure>Replaces
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*JPygD4J1hN7xDapF.png" class="graf-image" />
+</figure>Replaces
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Py87Kt8JyWW_dNyr.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Py87Kt8JyWW_dNyr.png" class="graf-image" />
+</figure>
 
 ---
 
 ### Gitbook:
 
-<a href="https://www.gitbook.com/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.gitbook.com/"><strong>GitBook - Where software teams break knowledge silos.</strong>
+<a href="https://www.gitbook.com/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://www.gitbook.com/">
+<strong>GitBook - Where software teams break knowledge silos.</strong>
 <br/>
 
-<em>Centralize your knowledge and collaborate with your team in a single, organized workspace for increased efficiency…</em>www.gitbook.com</a><a href="https://www.gitbook.com/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Centralize your knowledge and collaborate with your team in a single, organized workspace for increased efficiency…</em>www.gitbook.com</a>
+<a href="https://www.gitbook.com/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 GitBook started as a simple open source tool designed to let developers quickly publish content from a git repo. We've changed a bunch since then, but fundamentally we've stayed true to the vision of empowering software teams to document and distribute their knowledge.
 
 Not only does this tool allow you to seamlessly create documentation and notes in perfect synchrony with the git repo of your choice .. you can also import/export html, markdown and pdf documents and the cherry on top… it turns your notes into a beautiful website…. 11/10 would recommend.
 
-<a href="https://bryan-guner.gitbook.io/lambda-website" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryan-guner.gitbook.io/lambda-website"><strong>Closure-and-Scope</strong>
+<a href="https://bryan-guner.gitbook.io/lambda-website" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryan-guner.gitbook.io/lambda-website">
+<strong>Closure-and-Scope</strong>
 <br/>
 
-<em>Variables are used to store information to be referenced and manipulated in a computer program. A variable's sole…</em>bryan-guner.gitbook.io</a><a href="https://bryan-guner.gitbook.io/lambda-website" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Variables are used to store information to be referenced and manipulated in a computer program. A variable's sole…</em>bryan-guner.gitbook.io</a>
+<a href="https://bryan-guner.gitbook.io/lambda-website" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 If you're familiar with facebook's opensource docusaurous … this is a lot like that if it were way better and much easier… Also for no extra cost to you… they don't spy on you… sell your data or help influence foreign/domestic elections. …
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*Go8UXl1siB12VL9il0ninw.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*Go8UXl1siB12VL9il0ninw.png" class="graf-image" />
+</figure>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [May 28, 2021](https://medium.com/p/82e8b6e61879).
 

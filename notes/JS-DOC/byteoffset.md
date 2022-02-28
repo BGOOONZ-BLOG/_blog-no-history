@@ -20,10 +20,24 @@ The `byteOffset` property is an accessor property whose set accessor function is
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="#">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="#">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-get-%typedarray%.prototype.byteoffset</span></a></td></tr></tbody></table>
+<span class="small">#sec-get-%typedarray%.prototype.byteoffset</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `byteOffset`
 

@@ -34,7 +34,12 @@ A**utomated Tests** are known as **Specs**, they:
 -   <span id="9d42">Ask yourself, "What is the public interface of the module or class I'm writing?"</span>
 -   <span id="bddd">When in doubt, make sure that you at least have the most important and/or complex parts of that interface working as intended.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*-u18Iz0pA_e0pX2p" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/0*Moc1ywM-IYBKtL1l.png" class="graf-image" /></figure>*The Testing Pyramid*
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*-u18Iz0pA_e0pX2p" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Moc1ywM-IYBKtL1l.png" class="graf-image" />
+</figure>*The Testing Pyramid*
 
 ### Unit Tests : The smallest unit of testing.
 

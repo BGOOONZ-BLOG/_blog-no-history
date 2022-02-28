@@ -34,17 +34,23 @@ The overall mark awarded is out of 35. Work out their final mark, and then divid
 <dt>"Now it's time to put the right selector on the right rule set!" (4 marks)</dt>
 <dd>The correct pairing are as follows (1 mark for each):
   <ul>
-    <li><code>.card article img</code> goes with the fourth ruleset.</li>
-    <li><code>.card footer</code> goes with the third ruleset.</li>
-    <li><code>.card header</code> goes with the second ruleset.</li>
-    <li><code>.card</code> goes with the first ruleset.</li>
+    <li>
+<code>.card article img</code> goes with the fourth ruleset.</li>
+    <li>
+<code>.card footer</code> goes with the third ruleset.</li>
+    <li>
+<code>.card header</code> goes with the second ruleset.</li>
+    <li>
+<code>.card</code> goes with the first ruleset.</li>
   </ul>
 </dd>
 <dt>"Beware! There are two errors in the provided rulesets." (2 marks)</dt>
 <dd>The errors are as follows (one mark for fixing each one):
   <ul>
-    <li><code>background-colour</code> in the first ruleset: colour > color.</li>
-    <li><code>max-height: 100%</code> in the fourth rule needs a semi-colon at the end of it.</li>
+    <li>
+<code>background-colour</code> in the first ruleset: colour > color.</li>
+    <li>
+<code>max-height: 100%</code> in the fourth rule needs a semi-colon at the end of it.</li>
   </ul>
 </dd>
 </dl>

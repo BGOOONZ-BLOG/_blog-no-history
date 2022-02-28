@@ -47,10 +47,24 @@ Some subtle distinctions between [`Array.of()`](../array/of) and `TypedArray.of(
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="#">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="#">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of '%TypedArray%.of' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of '%TypedArray%.of' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

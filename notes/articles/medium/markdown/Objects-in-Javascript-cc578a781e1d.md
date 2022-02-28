@@ -8,7 +8,9 @@ Codepen with examples for you to practice with below!
 
 #### Codepen with examples for you to practice with below!
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*F_xu5P1BJ300C3OixplWNA.png" class="graf-image" /></figure>### The Object Type
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*F_xu5P1BJ300C3OixplWNA.png" class="graf-image" />
+</figure>### The Object Type
 
 The `object` is a data structure that stores other data, similar to how an array stores elements.
 
@@ -168,7 +170,9 @@ We can also destructure **incoming parameters** of a function.
 -   <span id="b567">Every object has a prototype object from which it inherits properties</span>
 -   <span id="943e">_Object.prototype_ comes standard with Javascript and is almost like a 'root parent'</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*1MKtZt0a5gREie59" class="graf-image" /></figure>-   <span id="2293">The `Object.create` method is now available in ES5 (but the method is in the book if required for older versions)</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*1MKtZt0a5gREie59" class="graf-image" />
+</figure>-   <span id="2293">The `Object.create` method is now available in ES5 (but the method is in the book if required for older versions)</span>
 -   <span id="5001">If an object does not have a property you ask it for, it will keep looking up the prototype chain until it finds it</span>
 -   <span id="abaf">If the property *does note exist* anywhere in the chain, it will return *undefined*</span>
 -   <span id="03eb">A new property is *immediately visible* to all of the objects below it in the chain once created</span>
@@ -231,20 +235,29 @@ More details in <a href="https://github.com/Lambda-April/Unsorted-Notes/blob/mai
 
 <em>You should probably skip this one… seriously it's just for internal use!</em>
 
-<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong>
+<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz">
+<strong>bgoonz's gists</strong>
 <br/>
 
-<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a><a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a>
+<a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong>
+<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz">
+<strong>bgoonz — Overview</strong>
 <br/>
 
-<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a>
+<a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/"><strong>Web-Dev-Resource-Hub</strong>
+<a href="https://web-dev-resource-hub.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://web-dev-resource-hub.netlify.app/">
+<strong>Web-Dev-Resource-Hub</strong>
 <br/>
 
-<em>Edit description</em>web-dev-resource-hub.netlify.app</a><a href="https://web-dev-resource-hub.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock"></a>
+<em>Edit description</em>web-dev-resource-hub.netlify.app</a>
+<a href="https://web-dev-resource-hub.netlify.app/" class="js-mixtapeImage mixtapeImage mixtapeImage--empty u-ignoreBlock">
+</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [April 15, 2021](https://medium.com/p/cc578a781e1d).
 

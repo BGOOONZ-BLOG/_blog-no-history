@@ -40,7 +40,48 @@ This method does not change the calling [`String`](../string) object. It returns
 
 The replacement string can include the following special replacement patterns:
 
-<table><thead><tr class="header"><th>Pattern</th><th>Inserts</th></tr></thead><tbody><tr class="odd"><td><code>$$</code></td><td>Inserts a <code>"$"</code>.</td></tr><tr class="even"><td><code>$&amp;</code></td><td>Inserts the matched substring.</td></tr><tr class="odd"><td><code>$`</code></td><td>Inserts the portion of the string that precedes the matched substring.</td></tr><tr class="even"><td><code>$'</code></td><td>Inserts the portion of the string that follows the matched substring.</td></tr><tr class="odd"><td><code>$n</code></td><td>Where <code>n</code> is a positive integer less than 100, inserts the <code>n</code>th parenthesized submatch string, provided the first argument was a <a href="../regexp"><code>RegExp</code></a> object. Note that this is <code>1</code>-indexed.</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Pattern</th>
+<th>Inserts</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>$$</code>
+</td>
+<td>Inserts a <code>"$"</code>.</td>
+</tr>
+<tr class="even">
+<td>
+<code>$&amp;</code>
+</td>
+<td>Inserts the matched substring.</td>
+</tr>
+<tr class="odd">
+<td>
+<code>$`</code>
+</td>
+<td>Inserts the portion of the string that precedes the matched substring.</td>
+</tr>
+<tr class="even">
+<td>
+<code>$'</code>
+</td>
+<td>Inserts the portion of the string that follows the matched substring.</td>
+</tr>
+<tr class="odd">
+<td>
+<code>$n</code>
+</td>
+<td>Where <code>n</code> is a positive integer less than 100, inserts the <code>n</code>th parenthesized submatch string, provided the first argument was a <a href="../regexp">
+<code>RegExp</code>
+</a> object. Note that this is <code>1</code>-indexed.</td>
+</tr>
+</tbody>
+</table>
 
 ### Specifying a function as a parameter
 
@@ -50,7 +91,42 @@ Note that if the first argument of an `replaceAll()` invocation is a [`RegExp`](
 
 The arguments to the function are as follows:
 
-<table><thead><tr class="header"><th>Possible name</th><th>Supplied value</th></tr></thead><tbody><tr class="odd"><td><code>match</code></td><td>The matched substring. (Corresponds to <code>$&amp;</code> above.)</td></tr><tr class="even"><td><code>p1, p2, ...</code></td><td>The nth string found by a parenthesized capture group, provided the first argument to <code>replaceAll()</code> was a <a href="../regexp"><code>RegExp</code></a> object. (Corresponds to <code>$1</code>, <code>$2</code>, etc. above.) For example, if <code>/(\a+)(\b+)/</code>, was given, <code>p1</code> is the match for <code>\a+</code>, and <code>p2</code> for <code>\b+</code>.</td></tr><tr class="odd"><td><code>offset</code></td><td>The offset of the matched substring within the whole string being examined. (For example, if the whole string was <code>'abcd'</code>, and the matched substring was <code>'bc'</code>, then this argument will be <code>1</code>.)</td></tr><tr class="even"><td><code>string</code></td><td>The whole string being examined.</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Possible name</th>
+<th>Supplied value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>match</code>
+</td>
+<td>The matched substring. (Corresponds to <code>$&amp;</code> above.)</td>
+</tr>
+<tr class="even">
+<td>
+<code>p1, p2, ...</code>
+</td>
+<td>The nth string found by a parenthesized capture group, provided the first argument to <code>replaceAll()</code> was a <a href="../regexp">
+<code>RegExp</code>
+</a> object. (Corresponds to <code>$1</code>, <code>$2</code>, etc. above.) For example, if <code>/(\a+)(\b+)/</code>, was given, <code>p1</code> is the match for <code>\a+</code>, and <code>p2</code> for <code>\b+</code>.</td>
+</tr>
+<tr class="odd">
+<td>
+<code>offset</code>
+</td>
+<td>The offset of the matched substring within the whole string being examined. (For example, if the whole string was <code>'abcd'</code>, and the matched substring was <code>'bc'</code>, then this argument will be <code>1</code>.)</td>
+</tr>
+<tr class="even">
+<td>
+<code>string</code>
+</td>
+<td>The whole string being examined.</td>
+</tr>
+</tbody>
+</table>
 
 (The exact number of arguments depends on whether the first argument is a [`RegExp`](../regexp) object—and, if so, how many parenthesized submatches it specifies.)
 
@@ -75,10 +151,24 @@ This will work:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-string.prototype.replaceall">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-string.prototype.replaceall">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'String.prototype.replaceAll' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'String.prototype.replaceAll' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

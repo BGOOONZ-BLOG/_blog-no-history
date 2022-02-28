@@ -12,7 +12,218 @@ When creating an instance of a `TypedArray` (e.g. `Int8Array`), an array buffer 
 
 ### TypedArray objects
 
-<table><thead><tr class="header"><th>Type</th><th>Value Range</th><th>Size in bytes</th><th>Description</th><th>Web IDL type</th><th>Equivalent C type</th></tr></thead><tbody><tr class="odd"><td><a href="int8array"><code>Int8Array</code></a></td><td><code>-128</code> to <code>127</code></td><td>1</td><td>8-bit two's complement signed integer</td><td><code>byte</code></td><td><code>int8_t</code></td></tr><tr class="even"><td><a href="uint8array"><code>Uint8Array</code></a></td><td><code>0</code> to <code>255</code></td><td>1</td><td>8-bit unsigned integer</td><td><code>octet</code></td><td><code>uint8_t</code></td></tr><tr class="odd"><td><a href="uint8clampedarray"><code>Uint8ClampedArray</code></a></td><td><code>0</code> to <code>255</code></td><td>1</td><td>8-bit unsigned integer (clamped)</td><td><code>octet</code></td><td><code>uint8_t</code></td></tr><tr class="even"><td><a href="int16array"><code>Int16Array</code></a></td><td><code>-32768</code> to <code>32767</code></td><td>2</td><td>16-bit two's complement signed integer</td><td><code>short</code></td><td><code>int16_t</code></td></tr><tr class="odd"><td><a href="uint16array"><code>Uint16Array</code></a></td><td><code>0</code> to <code>65535</code></td><td>2</td><td>16-bit unsigned integer</td><td><code>unsigned short</code></td><td><code>uint16_t</code></td></tr><tr class="even"><td><a href="int32array"><code>Int32Array</code></a></td><td><code>-2147483648</code> to <code>2147483647</code></td><td>4</td><td>32-bit two's complement signed integer</td><td><code>long</code></td><td><code>int32_t</code></td></tr><tr class="odd"><td><a href="uint32array"><code>Uint32Array</code></a></td><td><code>0</code> to <code>4294967295</code></td><td>4</td><td>32-bit unsigned integer</td><td><code>unsigned long</code></td><td><code>uint32_t</code></td></tr><tr class="even"><td><a href="float32array"><code>Float32Array</code></a></td><td><code>1.2</code>×<code>10-38</code> to <code>3.4</code>×<code>1038</code></td><td>4</td><td>32-bit IEEE floating point number (7 significant digits e.g., <code>1.234567</code>)</td><td><code>unrestricted float</code></td><td><code>float</code></td></tr><tr class="odd"><td><a href="float64array"><code>Float64Array</code></a></td><td><code>5.0</code>×<code>10-324</code> to <code>1.8</code>×<code>10308</code></td><td>8</td><td>64-bit IEEE floating point number (16 significant digits e.g., <code>1.23456789012345</code>)</td><td><code>unrestricted double</code></td><td><code>double</code></td></tr><tr class="even"><td><a href="bigint64array"><code>BigInt64Array</code></a></td><td><code>-263</code> to <code>263-1</code></td><td>8</td><td>64-bit two's complement signed integer</td><td><code>bigint</code></td><td><code>int64_t (signed long long)</code></td></tr><tr class="odd"><td><a href="biguint64array"><code>BigUint64Array</code></a></td><td><code>0</code> to <code>264-1</code></td><td>8</td><td>64-bit unsigned integer</td><td><code>bigint</code></td><td><code>uint64_t (unsigned long long)</code></td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Value Range</th>
+<th>Size in bytes</th>
+<th>Description</th>
+<th>Web IDL type</th>
+<th>Equivalent C type</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="int8array">
+<code>Int8Array</code>
+</a>
+</td>
+<td>
+<code>-128</code> to <code>127</code>
+</td>
+<td>1</td>
+<td>8-bit two's complement signed integer</td>
+<td>
+<code>byte</code>
+</td>
+<td>
+<code>int8_t</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="uint8array">
+<code>Uint8Array</code>
+</a>
+</td>
+<td>
+<code>0</code> to <code>255</code>
+</td>
+<td>1</td>
+<td>8-bit unsigned integer</td>
+<td>
+<code>octet</code>
+</td>
+<td>
+<code>uint8_t</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="uint8clampedarray">
+<code>Uint8ClampedArray</code>
+</a>
+</td>
+<td>
+<code>0</code> to <code>255</code>
+</td>
+<td>1</td>
+<td>8-bit unsigned integer (clamped)</td>
+<td>
+<code>octet</code>
+</td>
+<td>
+<code>uint8_t</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="int16array">
+<code>Int16Array</code>
+</a>
+</td>
+<td>
+<code>-32768</code> to <code>32767</code>
+</td>
+<td>2</td>
+<td>16-bit two's complement signed integer</td>
+<td>
+<code>short</code>
+</td>
+<td>
+<code>int16_t</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="uint16array">
+<code>Uint16Array</code>
+</a>
+</td>
+<td>
+<code>0</code> to <code>65535</code>
+</td>
+<td>2</td>
+<td>16-bit unsigned integer</td>
+<td>
+<code>unsigned short</code>
+</td>
+<td>
+<code>uint16_t</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="int32array">
+<code>Int32Array</code>
+</a>
+</td>
+<td>
+<code>-2147483648</code> to <code>2147483647</code>
+</td>
+<td>4</td>
+<td>32-bit two's complement signed integer</td>
+<td>
+<code>long</code>
+</td>
+<td>
+<code>int32_t</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="uint32array">
+<code>Uint32Array</code>
+</a>
+</td>
+<td>
+<code>0</code> to <code>4294967295</code>
+</td>
+<td>4</td>
+<td>32-bit unsigned integer</td>
+<td>
+<code>unsigned long</code>
+</td>
+<td>
+<code>uint32_t</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="float32array">
+<code>Float32Array</code>
+</a>
+</td>
+<td>
+<code>1.2</code>×<code>10-38</code> to <code>3.4</code>×<code>1038</code>
+</td>
+<td>4</td>
+<td>32-bit IEEE floating point number (7 significant digits e.g., <code>1.234567</code>)</td>
+<td>
+<code>unrestricted float</code>
+</td>
+<td>
+<code>float</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="float64array">
+<code>Float64Array</code>
+</a>
+</td>
+<td>
+<code>5.0</code>×<code>10-324</code> to <code>1.8</code>×<code>10308</code>
+</td>
+<td>8</td>
+<td>64-bit IEEE floating point number (16 significant digits e.g., <code>1.23456789012345</code>)</td>
+<td>
+<code>unrestricted double</code>
+</td>
+<td>
+<code>double</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="bigint64array">
+<code>BigInt64Array</code>
+</a>
+</td>
+<td>
+<code>-263</code> to <code>263-1</code>
+</td>
+<td>8</td>
+<td>64-bit two's complement signed integer</td>
+<td>
+<code>bigint</code>
+</td>
+<td>
+<code>int64_t (signed long long)</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="biguint64array">
+<code>BigUint64Array</code>
+</a>
+</td>
+<td>
+<code>0</code> to <code>264-1</code>
+</td>
+<td>8</td>
+<td>64-bit unsigned integer</td>
+<td>
+<code>bigint</code>
+</td>
+<td>
+<code>uint64_t (unsigned long long)</code>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Constructor
 
@@ -199,10 +410,24 @@ You can reference elements in the array using standard array index syntax (that 
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-typedarray-objects">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-typedarray-objects">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-typedarray-objects</span></a></td></tr></tbody></table>
+<span class="small">#sec-typedarray-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

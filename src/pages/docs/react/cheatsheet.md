@@ -17,19 +17,22 @@ template: docs
      title="lucid-pateu-ln8ex"
      allow="accelerometer; ambient-light-sensor; camera; encrypted-media; geolocation; gyroscope; hid; microphone; midi; payment; usb; vr; xr-spatial-tracking"
      sandbox="allow-forms allow-modals allow-popups allow-presentation allow-same-origin allow-scripts"
-   ></iframe>
+   >
+</iframe>
 
 ## React Cheat Sheet
 
 React:
 
--   `<script src="https://unpkg.com/react@15/dist/react.js"></script>`
+-   `<script src="https://unpkg.com/react@15/dist/react.js">
+</script>`
 -   `$ npm install react --save`
 -   `$ bower install react --save`
 
 React DOM:
 
--   `<script src="https://unpkg.com/react-dom@15/dist/react-dom.js"></script>`
+-   `<script src="https://unpkg.com/react-dom@15/dist/react-dom.js">
+</script>`
 -   `$ npm install react-dom`
 -   `$ bower install react-dom --save`
 
@@ -162,7 +165,8 @@ React.Children.only(children)
 React.Children.toArray(children)
 
 // The React.Fragment component lets you return multiple elements in a render() method without creating an additional DOM element
-// You can also use it with the shorthand <></> syntax.
+// You can also use it with the shorthand <>
+</> syntax.
 React.Fragment
 
 

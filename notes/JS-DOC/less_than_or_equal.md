@@ -59,10 +59,24 @@ The operands are compared using the [Abstract Relational Comparison](https://tc3
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-relational-operators">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-relational-operators">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'Relational operators' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'Relational operators' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `Less_than_or_equal`
 

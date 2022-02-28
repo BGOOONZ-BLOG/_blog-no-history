@@ -52,10 +52,24 @@ There are currently no built-in JavaScript objects that have the `[Symbol.asyncI
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-symbol.asynciterator">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-symbol.asynciterator">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-symbol.asynciterator</span></a></td></tr></tbody></table>
+<span class="small">#sec-symbol.asynciterator</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `asyncIterator`
 

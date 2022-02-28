@@ -124,7 +124,8 @@ export default class Footer extends React.Component {
                                                 frameborder="0"
                                                 id="social-embed"
                                                 width="100%!important"
-                                            ></iframe>
+                                            >
+</iframe>
                                         } */}
                                     </td>
                                 </tr>

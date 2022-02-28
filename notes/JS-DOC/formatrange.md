@@ -47,10 +47,24 @@ This method receives two [`Date`](../../date)s and formats the date range in the
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma402/#sec-intl.datetimeformat.prototype.formatRange">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma402/#sec-intl.datetimeformat.prototype.formatRange">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
 <br/>
 
-<span class="small">#sec-intl.datetimeformat.prototype.formatRange</span></a></td></tr></tbody></table>
+<span class="small">#sec-intl.datetimeformat.prototype.formatRange</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `formatRange`
 

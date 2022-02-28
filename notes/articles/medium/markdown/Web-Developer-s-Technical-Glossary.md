@@ -8,7 +8,9 @@ This will be a running list as I make updates!
 
 This will be a running list as I make updates!
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Cnf7R_30Pu8Wur3b.jpg" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Cnf7R_30Pu8Wur3b.jpg" class="graf-image" />
+</figure>
 
 ---
 
@@ -1207,7 +1209,9 @@ A popular file compression format. Files that are compressed with the ZIP format
 
 ### CDN
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*7kT2S7lsQbsJUk7Q.png" class="graf-image" /></figure>Content Delivery Network
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*7kT2S7lsQbsJUk7Q.png" class="graf-image" />
+</figure>Content Delivery Network
 
 This is typically a paid service you can use to get great performance for your app. Many CDNs act as caching proxies to your origin server; some require you to upload your assets to them. They give you a URL for each resource in your app. This URL will resolve differently for folks depending on where they're browsing.
 
@@ -1231,14 +1235,20 @@ ES stands for ECMAScript, which is the specification that JavaScript is based on
 
 Most browsers support at least ES5, and some even have ES6 (also known as ES2015) support. You can check each browser's support (including yours) here:
 
--   <span id="280c"><a href="http://kangax.github.io/compat-table/es5/" class="markup--anchor markup--li-anchor" title="http://kangax.github.io/compat-table/es5/">ES5 support</a></span>
--   <span id="f676"><a href="http://kangax.github.io/compat-table/es6/" class="markup--anchor markup--li-anchor" title="http://kangax.github.io/compat-table/es6/">ES6 support</a></span>
+-   <span id="280c">
+<a href="http://kangax.github.io/compat-table/es5/" class="markup--anchor markup--li-anchor" title="http://kangax.github.io/compat-table/es5/">ES5 support</a>
+</span>
+-   <span id="f676">
+<a href="http://kangax.github.io/compat-table/es6/" class="markup--anchor markup--li-anchor" title="http://kangax.github.io/compat-table/es6/">ES6 support</a>
+</span>
 
 <a href="https://en.wikipedia.org/wiki/ECMAScript" class="markup--anchor markup--p-anchor" title="https://en.wikipedia.org/wiki/ECMAScript">ECMAScript</a>
 
 ### LESS, Sass
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*Zgup2nchwl-taGZMniA46w.png" class="graf-image" /></figure>Both LESS and Sass are types of CSS preprocessor markup intended to give you much more control over your CSS. During the build process, the LESS or Sass resources compile down to vanilla CSS (which can be executed in a browser).
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*Zgup2nchwl-taGZMniA46w.png" class="graf-image" />
+</figure>Both LESS and Sass are types of CSS preprocessor markup intended to give you much more control over your CSS. During the build process, the LESS or Sass resources compile down to vanilla CSS (which can be executed in a browser).
 
 <a href="https://gist.github.com/chriseppstein/674726" class="markup--anchor markup--p-anchor" title="https://gist.github.com/chriseppstein/674726">Sass/Less Comparison</a>
 
@@ -1258,8 +1268,12 @@ Asynchronous calls typically return a promise (or deferred). This is an object w
 
 Ember makes use of these in places like the model hook for a route. Until the promise resolves, Ember is able to put the route into a "loading" state.
 
--   <span id="a026"><a href="https://promisesaplus.com/" class="markup--anchor markup--li-anchor" title="https://promisesaplus.com/">An open standard for sound, interoperable JavaScript promises</a></span>
--   <span id="f0eb"><a href="http://emberjs.com/guides/routing/asynchronous-routing/#toc_a-word-on-promises" class="markup--anchor markup--li-anchor" title="http://emberjs.com/guides/routing/asynchronous-routing/#toc_a-word-on-promises">emberjs.com — A word on promises</a></span>
+-   <span id="a026">
+<a href="https://promisesaplus.com/" class="markup--anchor markup--li-anchor" title="https://promisesaplus.com/">An open standard for sound, interoperable JavaScript promises</a>
+</span>
+-   <span id="f0eb">
+<a href="http://emberjs.com/guides/routing/asynchronous-routing/#toc_a-word-on-promises" class="markup--anchor markup--li-anchor" title="http://emberjs.com/guides/routing/asynchronous-routing/#toc_a-word-on-promises">emberjs.com — A word on promises</a>
+</span>
 
 ### SSR
 
@@ -1281,8 +1295,12 @@ Not to be confused with Virtual DOM. Shadow DOM is still a work in progress, but
 
 Creating a re-usable "widget" or control might be a good use-case for this. Browsers implement some of their controls using their own version of a shadow DOM.
 
--   <span id="0bcb"><a href="http://www.w3.org/TR/shadow-dom/" class="markup--anchor markup--li-anchor" title="http://www.w3.org/TR/shadow-dom/">W3C Working Draft</a></span>
--   <span id="df28"><a href="http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/" class="markup--anchor markup--li-anchor" title="http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/">What the Heck is Shadow DOM?</a></span>
+-   <span id="0bcb">
+<a href="http://www.w3.org/TR/shadow-dom/" class="markup--anchor markup--li-anchor" title="http://www.w3.org/TR/shadow-dom/">W3C Working Draft</a>
+</span>
+-   <span id="df28">
+<a href="http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/" class="markup--anchor markup--li-anchor" title="http://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/">What the Heck is Shadow DOM?</a>
+</span>
 
 ### Virtual DOM
 
@@ -1344,7 +1362,9 @@ the domain from which the first resource was served. E.g. uploading images using
 different domains using Amazon S3. For more about origin policies see  
 'Same-origin Policy'.
 
-<a href="https://en.wikipedia.org/wiki/JavaScript_syntax#Destructuring_assignment" class="markup--anchor markup--p-anchor"><strong>Destructuring Assignment</strong></a> -  
+<a href="https://en.wikipedia.org/wiki/JavaScript_syntax#Destructuring_assignment" class="markup--anchor markup--p-anchor">
+<strong>Destructuring Assignment</strong>
+</a> -  
 the ability to unpack and assign variables when there are multiple parameters.
 
 A way to simply assign the variables and then swap their values.
@@ -1376,7 +1396,9 @@ System (DNS)**.
 names (and other internet resources). The directory stores already registered  
 domain names along with their corresponding IP addresses.
 
-<a href="https://en.wikipedia.org/wiki/Hexadecimal" class="markup--anchor markup--p-anchor"><strong>Hexadecimal</strong></a> — Uses 16 different symbols. "0"-"9" to represent the values 0 to 9 and "A"-"F" ("a"-"f" is acceptable too) to represent the values 10 to 15. It's common to use  
+<a href="https://en.wikipedia.org/wiki/Hexadecimal" class="markup--anchor markup--p-anchor">
+<strong>Hexadecimal</strong>
+</a> — Uses 16 different symbols. "0"-"9" to represent the values 0 to 9 and "A"-"F" ("a"-"f" is acceptable too) to represent the values 10 to 15. It's common to use  
 hexadecimals when working in CSS to assign colors to your elements.
 
 The hexadecimal for dwyl's logo color is \#4bc0a9 (teal).  
@@ -1463,7 +1485,9 @@ they'll also work in older browsers that don't support the new features. Unlike
 native apps, they don't have to be updated/listed in the app store although it  
 is possible to list them in the app store when this is desired.
 
-<a href="https://www.softwaretestingmaterial.com/regression-testing/" class="markup--anchor markup--p-anchor"><strong>Regression Testing</strong></a> -  
+<a href="https://www.softwaretestingmaterial.com/regression-testing/" class="markup--anchor markup--p-anchor">
+<strong>Regression Testing</strong>
+</a> -  
 the re-running of existing tests to ensure that new changes/fixes have not  
 broken any existing functionality. We should perform regression testing any time  
 we modify an application, automated testing is a convenient way to achieve this.
@@ -1534,7 +1558,8 @@ communication begins.
 
 Sources:
 
-1.  <span id="8d0d">) <a href="https://www.techopedia.com/definition/10339/three-way-handshake" class="markup--anchor markup--li-anchor">https://www.techopedia.com</a></span>
+1.  <span id="8d0d">) <a href="https://www.techopedia.com/definition/10339/three-way-handshake" class="markup--anchor markup--li-anchor">https://www.techopedia.com</a>
+</span>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [July 14, 2021](https://medium.com/p/2066beae5e96).
 

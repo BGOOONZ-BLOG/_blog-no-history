@@ -22,49 +22,131 @@ with the expected result that `a` and `b` get the value 5. This is because the a
 
 As another example, the unique exponentiation operator has right-associativity, whereas other arithmetic operators have left-associativity. It is interesting to note that, the order of evaluation is always left-to-right irregardless of associativity and precedence.
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td>Code</td><td>Output</td></tr><tr class="even"><td><pre data-language="js"><code>function echo(name, num) {
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Code</td>
+<td>Output</td>
+</tr>
+<tr class="even">
+<td>
+<pre data-language="js">
+<code>function echo(name, num) {
     console.log(&quot;Evaluating the &quot; + name + &quot; side&quot;);
     return num;
 }
 // Notice the division operator (/)
-console.log(echo(&quot;left&quot;, 6) / echo(&quot;right&quot;, 2));</code></pre></td><td><pre data-language="plain"><code>Evaluating the left side
+console.log(echo(&quot;left&quot;, 6) / echo(&quot;right&quot;, 2));</code>
+</pre>
+</td>
+<td>
+<pre data-language="plain">
+<code>Evaluating the left side
 Evaluating the right side
-3</code></pre></td></tr><tr class="odd"><td><pre data-language="js"><code>function echo(name, num) {
+3</code>
+</pre>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<pre data-language="js">
+<code>function echo(name, num) {
     console.log(&quot;Evaluating the &quot; + name + &quot; side&quot;);
     return num;
 }
 // Notice the exponentiation operator (**)
-console.log(echo(&quot;left&quot;, 2) ** echo(&quot;right&quot;, 3));</code></pre></td><td><pre data-language="plain"><code>Evaluating the left side
+console.log(echo(&quot;left&quot;, 2) ** echo(&quot;right&quot;, 3));</code>
+</pre>
+</td>
+<td>
+<pre data-language="plain">
+<code>Evaluating the left side
 Evaluating the right side
-8</code></pre></td></tr></tbody></table>
+8</code>
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
 
 The difference in associativity comes into play when there are multiple operators of the same precedence. With only one operator or operators of different precedences, associativity doesn't affect the output, as seen in the example above. In the example below, observe how associativity affects the output when multiple of the same operator are used.
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><tbody><tr class="odd"><td>Code</td><td>Output</td></tr><tr class="even"><td><pre data-language="js"><code>function echo(name, num) {
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td>Code</td>
+<td>Output</td>
+</tr>
+<tr class="even">
+<td>
+<pre data-language="js">
+<code>function echo(name, num) {
     console.log(&quot;Evaluating the &quot; + name + &quot; side&quot;);
     return num;
 }
 // Notice the division operator (/)
-console.log(echo(&quot;left&quot;, 6) / echo(&quot;middle&quot;, 2) / echo(&quot;right&quot;, 3));</code></pre></td><td><pre data-language="plain"><code>Evaluating the left side
+console.log(echo(&quot;left&quot;, 6) / echo(&quot;middle&quot;, 2) / echo(&quot;right&quot;, 3));</code>
+</pre>
+</td>
+<td>
+<pre data-language="plain">
+<code>Evaluating the left side
 Evaluating the middle side
 Evaluating the right side
-1</code></pre></td></tr><tr class="odd"><td><pre data-language="js"><code>function echo(name, num) {
+1</code>
+</pre>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<pre data-language="js">
+<code>function echo(name, num) {
     console.log(&quot;Evaluating the &quot; + name + &quot; side&quot;);
     return num;
 }
 // Notice the exponentiation operator (**)
-console.log(echo(&quot;left&quot;, 2) ** echo(&quot;middle&quot;, 3) ** echo(&quot;right&quot;, 2));</code></pre></td><td><pre data-language="plain"><code>Evaluating the left side
+console.log(echo(&quot;left&quot;, 2) ** echo(&quot;middle&quot;, 3) ** echo(&quot;right&quot;, 2));</code>
+</pre>
+</td>
+<td>
+<pre data-language="plain">
+<code>Evaluating the left side
 Evaluating the middle side
 Evaluating the right side
-512</code></pre></td></tr><tr class="even"><td><pre data-language="js"><code>function echo(name, num) {
+512</code>
+</pre>
+</td>
+</tr>
+<tr class="even">
+<td>
+<pre data-language="js">
+<code>function echo(name, num) {
     console.log(&quot;Evaluating the &quot; + name + &quot; side&quot;);
     return num;
 }
 // Notice the parentheses around the left and middle exponentiation
-console.log((echo(&quot;left&quot;, 2) ** echo(&quot;middle&quot;, 3)) ** echo(&quot;right&quot;, 2));</code></pre></td><td><pre data-language="plain"><code>Evaluating the left side
+console.log((echo(&quot;left&quot;, 2) ** echo(&quot;middle&quot;, 3)) ** echo(&quot;right&quot;, 2));</code>
+</pre>
+</td>
+<td>
+<pre data-language="plain">
+<code>Evaluating the left side
 Evaluating the middle side
 Evaluating the right side
-64</code></pre></td></tr></tbody></table>
+64</code>
+</pre>
+</td>
+</tr>
+</tbody>
+</table>
 
 Looking at the code snippets above, `6 / 3 / 2` is the same as `(6 / 3) / 2` because division is left-associative. Exponentiation, on the other hand, is right-associative, so `2 ** 3 ** 2` is the same as `2 ** (3 ** 2)`. Thus, doing `(2 ** 3) ** 2` changes the order and results in the 64 seen in the table above.
 

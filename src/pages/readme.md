@@ -1356,7 +1356,9 @@ bryan@LAPTOP-9LGJ3JGS:/c/MY-WEB-DEV/BLOG____2.0/BLOG_2.0/src$
 
 <details>
 
-  <summary><h1>Click to see React Components (src folder)!</h1></summary>
+  <summary>
+<h1>Click to see React Components (src folder)!</h1>
+</summary>
 
 <details>
 
@@ -1882,7 +1884,8 @@ export default class Header extends React.Component {
 
                         </div>
 
-                        <div id="search" className="inner"></div>
+                        <div id="search" className="inner">
+</div>
 
                         {_.get(this.props, 'pageContext.site.siteMetadata.header.has_nav', null) && (
 
@@ -1984,7 +1987,8 @@ export default class Header extends React.Component {
 
                 </div>
 
-                <div id="search" className="inner"></div>
+                <div id="search" className="inner">
+</div>
 
                 <div>
 
@@ -2022,7 +2026,8 @@ export default class Header extends React.Component {
 
                         >
 
-                            <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z"></path>
+                            <path d="M0,0 L115,115 L130,115 L142,142 L250,250 L250,0 Z">
+</path>
 
                             <path
 
@@ -2034,7 +2039,8 @@ export default class Header extends React.Component {
 
                                 style={{ transformOrigin: '130px 106px' }}
 
-                            ></path>
+                            >
+</path>
 
                             <path
 
@@ -2044,7 +2050,8 @@ export default class Header extends React.Component {
 
                                 fill="currentColor"
 
-                            ></path>
+                            >
+</path>
 
                         </svg>
 

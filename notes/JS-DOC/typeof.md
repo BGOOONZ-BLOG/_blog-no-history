@@ -18,7 +18,82 @@ An expression representing the object or [primitive](https://developer.mozilla.o
 
 The following table summarizes the possible return values of `typeof`. For more information about types and primitives, see also the [JavaScript data structure](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) page.
 
-<table><thead><tr class="header"><th>Type</th><th>Result</th></tr></thead><tbody><tr class="odd"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/undefined">Undefined</a></td><td><code>"undefined"</code></td></tr><tr class="even"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Null">Null</a></td><td><code>"object"</code> (see <a href="#typeof_null">below</a>)</td></tr><tr class="odd"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Boolean">Boolean</a></td><td><code>"boolean"</code></td></tr><tr class="even"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Number">Number</a></td><td><code>"number"</code></td></tr><tr class="odd"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/BigInt">BigInt</a> (new in ECMAScript 2020)</td><td><code>"bigint"</code></td></tr><tr class="even"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/String">String</a></td><td><code>"string"</code></td></tr><tr class="odd"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Symbol">Symbol</a> (new in ECMAScript 2015)</td><td><code>"symbol"</code></td></tr><tr class="even"><td><a href="https://developer.mozilla.org/en-US/docs/Glossary/Function">Function</a> object (implements [[Call]] in ECMA-262 terms)</td><td><code>"function"</code></td></tr><tr class="odd"><td>Any other object</td><td><code>"object"</code></td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Type</th>
+<th>Result</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/undefined">Undefined</a>
+</td>
+<td>
+<code>"undefined"</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Null">Null</a>
+</td>
+<td>
+<code>"object"</code> (see <a href="#typeof_null">below</a>)</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Boolean">Boolean</a>
+</td>
+<td>
+<code>"boolean"</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Number">Number</a>
+</td>
+<td>
+<code>"number"</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/BigInt">BigInt</a> (new in ECMAScript 2020)</td>
+<td>
+<code>"bigint"</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/String">String</a>
+</td>
+<td>
+<code>"string"</code>
+</td>
+</tr>
+<tr class="odd">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Symbol">Symbol</a> (new in ECMAScript 2015)</td>
+<td>
+<code>"symbol"</code>
+</td>
+</tr>
+<tr class="even">
+<td>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/Function">Function</a> object (implements [[Call]] in ECMA-262 terms)</td>
+<td>
+<code>"function"</code>
+</td>
+</tr>
+<tr class="odd">
+<td>Any other object</td>
+<td>
+<code>"object"</code>
+</td>
+</tr>
+</tbody>
+</table>
 
 **Note:** ECMAScript 2019 and older permitted implementations to have `typeof` return any implementation-defined string value for non-callable non-standard exotic objects.
 
@@ -175,10 +250,24 @@ For checking non-existent variables that would otherwise throw a [`ReferenceErro
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-typeof-operator">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-typeof-operator">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'The typeof Operator' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'The typeof Operator' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

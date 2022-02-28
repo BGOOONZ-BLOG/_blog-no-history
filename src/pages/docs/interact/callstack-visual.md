@@ -10,7 +10,8 @@ seo:
 template: docs
 ---
 
-<script async src="//jsfiddle.net/bgoonz/tu3Lw57r/embed/result/dark/"></script>
+<script async src="//jsfiddle.net/bgoonz/tu3Lw57r/embed/result/dark/">
+</script>
 
 <iframe height="1000px" width="1400px" scrolling="yes" title="Linear vs Binary Search" src="https://codepen.io/bgoonz/embed/MWbZoOa?default-tab=result&editable=true&theme-id=light" frameborder="no" loading="lazy" allowtransparency="true" allowfullscreen="true">
   See the Pen <a href="https://codepen.io/bgoonz/pen/MWbZoOa">
@@ -23,7 +24,8 @@ template: docs
   Data Structures Viz</a> by Bryan C Guner (<a href="https://codepen.io/bgoonz">@bgoonz</a>)
   on <a href="https://codepen.io">CodePen</a>.</span>
 </p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js">
+</script>
 
 ## Callstack Visualizer
 

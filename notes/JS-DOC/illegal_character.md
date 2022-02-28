@@ -37,7 +37,13 @@ This should work:
     42 - 13;
     var foo = 'bar';
 
-<span class="message-body-wrapper"><span class="message-flex-body"><span class="devtools-monospace message-body"><span class="objectBox objectBox-string">Some editors and IDEs will notify you or at least use a slightly different highlighting for it, but not all. When something like this happens to your code and you're not able to find the source of the problem, it's often best to just delete the problematic line and retype it.</span></span></span></span>
+<span class="message-body-wrapper">
+<span class="message-flex-body">
+<span class="devtools-monospace message-body">
+<span class="objectBox objectBox-string">Some editors and IDEs will notify you or at least use a slightly different highlighting for it, but not all. When something like this happens to your code and you're not able to find the source of the problem, it's often best to just delete the problematic line and retype it.</span>
+</span>
+</span>
+</span>
 
 ### Forgotten characters
 

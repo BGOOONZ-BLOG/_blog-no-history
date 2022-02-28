@@ -99,10 +99,24 @@ To create an `Intl.DisplayNames` for a locale and get the display name for curre
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma402/#intl-displaynames-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma402/#intl-displaynames-objects">ECMAScript Internationalization API Specification (ECMAScript Internationalization API)
 <br/>
 
-<span class="small">#intl-displaynames-objects</span></a></td></tr></tbody></table>
+<span class="small">#intl-displaynames-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `DisplayNames`
 

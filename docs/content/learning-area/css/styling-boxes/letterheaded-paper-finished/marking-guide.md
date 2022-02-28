@@ -18,7 +18,8 @@ The overall mark awarded is out of 19. Work out their final mark, and then divid
     <li>One mark for putting the three required backgrounds in the right order — the linear gradient has to go at the top so it is seen over the top of the two images.</li>
     <li>One mark for getting the top background image correct — <code>url(top-image.png) no-repeat left top</code>.</li>
     <li>One mark for getting the bottom background image correct — <code>url(bottom-image.png) no-repeat left bottom</code>.</li>
-    <li>Two marks for getting the linear gradient correct; something like this —  <code>linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.2))</code></li>
+    <li>Two marks for getting the linear gradient correct; something like this —  <code>linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0) 20%, rgba(0,0,0,0) 80%, rgba(0,0,0,0.2))</code>
+</li>
   </ul>
 </dd>
 <dt>"Add another background declaration that just adds the top image to the top of the letter, as a fallback for browsers that don't support the previous declaration." (2 marks)</dt>

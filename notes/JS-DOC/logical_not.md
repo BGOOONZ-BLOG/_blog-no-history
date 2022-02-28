@@ -58,10 +58,24 @@ is always equal to:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-logical-not-operator">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-logical-not-operator">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'Logical NOT expression' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'Logical NOT expression' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `Logical_NOT`
 

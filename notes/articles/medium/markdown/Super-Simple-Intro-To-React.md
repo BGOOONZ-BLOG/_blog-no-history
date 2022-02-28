@@ -8,7 +8,9 @@ This is a basic introduction for those who feel overwhelmed by the vast microcos
 
 #### This is a basic introduction for those who feel overwhelmed by the vast microcosm that is the React ecosystem!
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*3wl1cp6IklxaFuBi.gif" class="graf-image" /></figure>### Here's a sandbox for you to practice with:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*3wl1cp6IklxaFuBi.gif" class="graf-image" />
+</figure>### Here's a sandbox for you to practice with:
 
 <a href="https://codesandbox.io/s/intro-to-react-i72er" class="markup--anchor markup--p-anchor">https://codesandbox.io/s/intro-to-react-i72er</a>
 
@@ -398,10 +400,13 @@ This is a basic introduction for those who feel overwhelmed by the vast microcos
 
 ### My Blog:
 
-<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a><a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a>
+<a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Here are the React Docs In One Markdown File:
 

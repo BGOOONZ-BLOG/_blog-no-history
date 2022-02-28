@@ -18,7 +18,24 @@ The difference, in minutes, between date, as evaluated in the UTC time zone, and
 
 The number of minutes returned by `getTimezoneOffset()` is positive if the local time zone is behind UTC, and negative if the local time zone is ahead of UTC. For example, for UTC+10, `-600` will be returned.
 
-<table><thead><tr class="header"><th>Current time zone</th><th>UTC-8</th><th>UTC</th><th>UTC+3</th></tr></thead><tbody><tr class="odd"><td>Return Value</td><td>480</td><td>0</td><td>-180</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Current time zone</th>
+<th>UTC-8</th>
+<th>UTC</th>
+<th>UTC+3</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>Return Value</td>
+<td>480</td>
+<td>0</td>
+<td>-180</td>
+</tr>
+</tbody>
+</table>
 
 ### Varied results in Daylight Saving Time (DST) time zones
 
@@ -45,10 +62,24 @@ In a time zone that doesn't annually shift in and out of Daylight Saving Time (D
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-date.prototype.gettimezoneoffset">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-date.prototype.gettimezoneoffset">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-date.prototype.gettimezoneoffset</span></a></td></tr></tbody></table>
+<span class="small">#sec-date.prototype.gettimezoneoffset</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `getTimezoneOffset`
 

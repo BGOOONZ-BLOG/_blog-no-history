@@ -65,7 +65,8 @@ export default class Docs extends React.Component {
                         </nav>
                     </div>
                     <Disqus />
-                    <div data-sheet2site="1c4ZMBRKv7mwotLxfd_5-Q_XxC2_Dkc3NLfFQMmEV7Vo&g=1&e=1"></div>
+                    <div data-sheet2site="1c4ZMBRKv7mwotLxfd_5-Q_XxC2_Dkc3NLfFQMmEV7Vo&g=1&e=1">
+</div>
                 </div>
             </Layout>
         );

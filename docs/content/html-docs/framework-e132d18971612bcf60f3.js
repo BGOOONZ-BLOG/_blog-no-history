@@ -4780,7 +4780,8 @@
                                     e === on && (e = De(i)),
                                     e === on
                                         ? 'script' === i
-                                            ? (((e = u.createElement('div')).innerHTML = '<script></script>'), (e = e.removeChild(e.firstChild)))
+                                            ? (((e = u.createElement('div')).innerHTML = '<script>
+</script>'), (e = e.removeChild(e.firstChild)))
                                             : 'string' == typeof r.is
                                             ? (e = u.createElement(i, {
                                                   is: r.is

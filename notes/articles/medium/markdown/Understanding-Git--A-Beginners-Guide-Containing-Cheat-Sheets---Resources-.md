@@ -8,12 +8,17 @@ Basic Git Work Flow.
 
 ### Resources, Cheat Sheets & Links @Bottom of the Page!
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*68fyM5AI85U_I3vo.jpg" class="graf-image" /></figure>For More Advanced Readers, or those with very limited free time… here's an abridged Git Reference.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*68fyM5AI85U_I3vo.jpg" class="graf-image" />
+</figure>For More Advanced Readers, or those with very limited free time… here's an abridged Git Reference.
 
-<a href="https://bryanguner.medium.com/git-tricks-57e8d0292285" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/git-tricks-57e8d0292285"><strong>Git-Tricks</strong>
+<a href="https://bryanguner.medium.com/git-tricks-57e8d0292285" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bryanguner.medium.com/git-tricks-57e8d0292285">
+<strong>Git-Tricks</strong>
 <br/>
 
-<em>Refs</em><a href="https://bryanguner.medium.com/git-tricks-57e8d0292285" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Refs</em>
+<a href="https://bryanguner.medium.com/git-tricks-57e8d0292285" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### What's a distributed version control system?
 
@@ -31,81 +36,163 @@ According to the latest <a href="https://insights.stackoverflow.com/survey/2017#
 
 ### Table Of Contents:
 
-<a href="#editing-understanding-git-a-beginners-guide-containing-cheat-sheets--resources--medium" class="markup--anchor markup--p-anchor"><em>Editing Understanding Git (A Beginners Guide Containing Cheat Sheets &amp; Resources) — Medium</em></a>
+<a href="#editing-understanding-git-a-beginners-guide-containing-cheat-sheets--resources--medium" class="markup--anchor markup--p-anchor">
+<em>Editing Understanding Git (A Beginners Guide Containing Cheat Sheets &amp; Resources) — Medium</em>
+</a>
 
-> <a href="#whats-a-distributed-version-controlsystem" class="markup--anchor markup--blockquote-anchor"><strong><em>What's a distributed version control system?</em></strong></a>
+> <a href="#whats-a-distributed-version-controlsystem" class="markup--anchor markup--blockquote-anchor">
+<strong>
+<em>What's a distributed version control system?</em>
+</strong>
+</a>
 
-> <a href="#why-git" class="markup--anchor markup--blockquote-anchor"><em>Why Git?</em></a>
+> <a href="#why-git" class="markup--anchor markup--blockquote-anchor">
+<em>Why Git?</em>
+</a>
 
-> <a href="#whats-a-repository" class="markup--anchor markup--blockquote-anchor"><em>What's a repository?</em></a>
+> <a href="#whats-a-repository" class="markup--anchor markup--blockquote-anchor">
+<em>What's a repository?</em>
+</a>
 
-> <a href="#git-flow" class="markup--anchor markup--blockquote-anchor"><strong><em>Git Flow</em></strong></a>
+> <a href="#git-flow" class="markup--anchor markup--blockquote-anchor">
+<strong>
+<em>Git Flow</em>
+</strong>
+</a>
 
-> <a href="#cloning-a-repo-and-changing-the-remoteurl" class="markup--anchor markup--blockquote-anchor"><em>Cloning a repo and changing the remote url</em></a>
+> <a href="#cloning-a-repo-and-changing-the-remoteurl" class="markup--anchor markup--blockquote-anchor">
+<em>Cloning a repo and changing the remote url</em>
+</a>
 
-> <a href="#1-the-first-step-is-to-clone-therepo" class="markup--anchor markup--blockquote-anchor"><em>1. The first step is to clone the repo!</em></a>
+> <a href="#1-the-first-step-is-to-clone-therepo" class="markup--anchor markup--blockquote-anchor">
+<em>1. The first step is to clone the repo!</em>
+</a>
 
-> <a href="#2-sweet-you-have-the-cloned-repo-in-your-preferred-directory-now-lets-make-your-own-repo-on-github-create-a-new-repository" class="markup--anchor markup--blockquote-anchor"><em>2. Make your own repo</em></a>_._
+> <a href="#2-sweet-you-have-the-cloned-repo-in-your-preferred-directory-now-lets-make-your-own-repo-on-github-create-a-new-repository" class="markup--anchor markup--blockquote-anchor">
+<em>2. Make your own repo</em>
+</a>_._
 
-> <a href="#3-next-copy-thegit-link-that-is-on-the-next-page-do-not-do-any-other-steps-on-this-pagethat-is-for-when-you-do-not-clone-arepo" class="markup--anchor markup--blockquote-anchor"><em>3. Next, copy the .git link that is on the next page.</em></a>
+> <a href="#3-next-copy-thegit-link-that-is-on-the-next-page-do-not-do-any-other-steps-on-this-pagethat-is-for-when-you-do-not-clone-arepo" class="markup--anchor markup--blockquote-anchor">
+<em>3. Next, copy the .git link that is on the next page.</em>
+</a>
 
-> <a href="#4-whenver-you-clone-a-repo-it-already-has-agit-directory-with-certain-configurations-set-up-to-be-able-to-push-this-repo-to-your-newly-created-github-repo-we-have-to-change-the-remoteorigin" class="markup--anchor markup--blockquote-anchor"><em>4. Whenver you clone a repo</em></a>
+> <a href="#4-whenver-you-clone-a-repo-it-already-has-agit-directory-with-certain-configurations-set-up-to-be-able-to-push-this-repo-to-your-newly-created-github-repo-we-have-to-change-the-remoteorigin" class="markup--anchor markup--blockquote-anchor">
+<em>4. Whenver you clone a repo</em>
+</a>
 
-> <a href="#5-thats-its-you-can-now-run-git-push-and-it-will-push-to-your-newly-createdrepo" class="markup--anchor markup--blockquote-anchor"><em>5. Thats its! You can now run</em></a> `git push` <a href="#5-thats-its-you-can-now-run-git-push-and-it-will-push-to-your-newly-createdrepo" class="markup--anchor markup--blockquote-anchor"><em>and it will push to your newly created repo.</em></a>
+> <a href="#5-thats-its-you-can-now-run-git-push-and-it-will-push-to-your-newly-createdrepo" class="markup--anchor markup--blockquote-anchor">
+<em>5. Thats its! You can now run</em>
+</a> `git push` <a href="#5-thats-its-you-can-now-run-git-push-and-it-will-push-to-your-newly-createdrepo" class="markup--anchor markup--blockquote-anchor">
+<em>and it will push to your newly created repo.</em>
+</a>
 
-> <a href="#basic-git-workflow" class="markup--anchor markup--blockquote-anchor"><em>Basic Git Work Flow.</em></a>
+> <a href="#basic-git-workflow" class="markup--anchor markup--blockquote-anchor">
+<em>Basic Git Work Flow.</em>
+</a>
 
-> <a href="#cheat-sheet" class="markup--anchor markup--blockquote-anchor"><strong><em>Cheat Sheet:</em></strong></a>
+> <a href="#cheat-sheet" class="markup--anchor markup--blockquote-anchor">
+<strong>
+<em>Cheat Sheet:</em>
+</strong>
+</a>
 
-> <a href="#my-git-reference-repo" class="markup--anchor markup--blockquote-anchor"><em>My Git Reference Repo:</em></a>
+> <a href="#my-git-reference-repo" class="markup--anchor markup--blockquote-anchor">
+<em>My Git Reference Repo:</em>
+</a>
 
-> <a href="#git-basics" class="markup--anchor markup--blockquote-anchor"><em>Git basics</em></a>
+> <a href="#git-basics" class="markup--anchor markup--blockquote-anchor">
+<em>Git basics</em>
+</a>
 
-> <a href="#a-glance-intogit" class="markup--anchor markup--blockquote-anchor"><em>A glance into GIT</em></a>
+> <a href="#a-glance-intogit" class="markup--anchor markup--blockquote-anchor">
+<em>A glance into GIT</em>
+</a>
 
-> <a href="#tracking-changes-in-a-repository" class="markup--anchor markup--blockquote-anchor"><em>Tracking changes in a repository</em></a>
+> <a href="#tracking-changes-in-a-repository" class="markup--anchor markup--blockquote-anchor">
+<em>Tracking changes in a repository</em>
+</a>
 
-> <a href="#branches-andworkflow" class="markup--anchor markup--blockquote-anchor"><em>Branches and workflow</em></a>
+> <a href="#branches-andworkflow" class="markup--anchor markup--blockquote-anchor">
+<em>Branches and workflow</em>
+</a>
 
-> <a href="#bringing-it-backtogether" class="markup--anchor markup--blockquote-anchor"><em>Bringing it back together</em></a>
+> <a href="#bringing-it-backtogether" class="markup--anchor markup--blockquote-anchor">
+<em>Bringing it back together</em>
+</a>
 
-> <a href="#connect-w-github" class="markup--anchor markup--blockquote-anchor"><em>Connect-W-Github</em></a>
+> <a href="#connect-w-github" class="markup--anchor markup--blockquote-anchor">
+<em>Connect-W-Github</em>
+</a>
 
-> <a href="#i-%EF%B8%8F-opensource" class="markup--anchor markup--blockquote-anchor"><em>I ❤️ Open Source</em></a>
+> <a href="#i-%EF%B8%8F-opensource" class="markup--anchor markup--blockquote-anchor">
+<em>I ❤️ Open Source</em>
+</a>
 
-> <a href="#merging-your-code-ongithub" class="markup--anchor markup--blockquote-anchor"><em>Merging your code on GitHub</em></a>
+> <a href="#merging-your-code-ongithub" class="markup--anchor markup--blockquote-anchor">
+<em>Merging your code on GitHub</em>
+</a>
 
-> <a href="#browsing-your-git-repository" class="markup--anchor markup--blockquote-anchor"><em>Browsing Your Git Repository</em></a>
+> <a href="#browsing-your-git-repository" class="markup--anchor markup--blockquote-anchor">
+<em>Browsing Your Git Repository</em>
+</a>
 
-> <a href="#seeing-changes-in-realtime" class="markup--anchor markup--blockquote-anchor"><em>Seeing changes in real time</em></a>
+> <a href="#seeing-changes-in-realtime" class="markup--anchor markup--blockquote-anchor">
+<em>Seeing changes in real time</em>
+</a>
 
-> <a href="#diff-options" class="markup--anchor markup--blockquote-anchor"><em>Diff options</em></a>
+> <a href="#diff-options" class="markup--anchor markup--blockquote-anchor">
+<em>Diff options</em>
+</a>
 
-> <a href="#time-travel" class="markup--anchor markup--blockquote-anchor"><em>Time travel</em></a>
+> <a href="#time-travel" class="markup--anchor markup--blockquote-anchor">
+<em>Time travel</em>
+</a>
 
-> <a href="#why-checkout" class="markup--anchor markup--blockquote-anchor"><em>Why checkout?</em></a>
+> <a href="#why-checkout" class="markup--anchor markup--blockquote-anchor">
+<em>Why checkout?</em>
+</a>
 
-> <a href="#git-do-overs-reset-rebase" class="markup--anchor markup--blockquote-anchor"><em>Git 'Do-Overs': Reset &amp; Rebase</em></a>
+> <a href="#git-do-overs-reset-rebase" class="markup--anchor markup--blockquote-anchor">
+<em>Git 'Do-Overs': Reset &amp; Rebase</em>
+</a>
 
-> <a href="#resetting-thepast" class="markup--anchor markup--blockquote-anchor"><em>Resetting the past</em></a>
+> <a href="#resetting-thepast" class="markup--anchor markup--blockquote-anchor">
+<em>Resetting the past</em>
+</a>
 
-> <a href="#soft-resets" class="markup--anchor markup--blockquote-anchor"><em>Soft resets</em></a>
+> <a href="#soft-resets" class="markup--anchor markup--blockquote-anchor">
+<em>Soft resets</em>
+</a>
 
-> <a href="#risky-business-mixedresets" class="markup--anchor markup--blockquote-anchor"><em>Risky Business: Mixed resets</em></a>
+> <a href="#risky-business-mixedresets" class="markup--anchor markup--blockquote-anchor">
+<em>Risky Business: Mixed resets</em>
+</a>
 
-> <a href="#red-alert-hardresets" class="markup--anchor markup--blockquote-anchor"><em>Red alert! Hard resets</em></a>
+> <a href="#red-alert-hardresets" class="markup--anchor markup--blockquote-anchor">
+<em>Red alert! Hard resets</em>
+</a>
 
-> <a href="#rebase-alt-time-travel" class="markup--anchor markup--blockquote-anchor"><em>Rebase: 'Alt-time travel'</em></a>
+> <a href="#rebase-alt-time-travel" class="markup--anchor markup--blockquote-anchor">
+<em>Rebase: 'Alt-time travel'</em>
+</a>
 
-> <a href="#i-see-you-too-like-to-live-life-dangerously-tell-me-aboutrebase" class="markup--anchor markup--blockquote-anchor"><em>I see you too like to live life Dangerously… tell me about Rebase..</em></a>
+> <a href="#i-see-you-too-like-to-live-life-dangerously-tell-me-aboutrebase" class="markup--anchor markup--blockquote-anchor">
+<em>I see you too like to live life Dangerously… tell me about Rebase..</em>
+</a>
 
 > `working-on-the-header`
 
-> <a href="#golden-rule-ofgit" class="markup--anchor markup--blockquote-anchor"><em>"Golden Rule of Git"</em></a>
+> <a href="#golden-rule-ofgit" class="markup--anchor markup--blockquote-anchor">
+<em>"Golden Rule of Git"</em>
+</a>
 
 > **How 2's**
 
-> <a href="#troubleshooting-git" class="markup--anchor markup--blockquote-anchor"><strong><em>Troubleshooting Git</em></strong></a>
+> <a href="#troubleshooting-git" class="markup--anchor markup--blockquote-anchor">
+<strong>
+<em>Troubleshooting Git</em>
+</strong>
+</a>
 
 > **Further Reading & Resources**
 
@@ -125,14 +212,23 @@ Working in repositories keeps development projects organized and protected. Deve
 
 -   <span id="b2f6">Navigate to the repo you want to clone and hit the big green code button. Copy the link given.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*63LoanrbOPBIwDC6oFarFA.png" class="graf-image" /></figure>-   <span id="8563">Navigate in your terminal to the directory where you want this repo to live. I've chosen downloads</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*63LoanrbOPBIwDC6oFarFA.png" class="graf-image" />
+</figure>-   <span id="8563">Navigate in your terminal to the directory where you want this repo to live. I've chosen downloads</span>
 -   <span id="c9b3">`git clone HTTPS://LINKTOURL/THATYOUCOPIED`</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*PRiaHOvU-wvpAYQtIqduGQ.png" class="graf-image" /></figure>### 2. Sweet, you have the cloned repo in your preferred directory. Now lets make your own repo. On github, create a new repository.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*PRiaHOvU-wvpAYQtIqduGQ.png" class="graf-image" />
+</figure>### 2. Sweet, you have the cloned repo in your preferred directory. Now lets make your own repo. On github, create a new repository.
 
 -   <span id="c98b">Default settings are fine. Hit the big green button `Create Repository`</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*U1qwd0OEBYhcToXYt2i6iA.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/1*jk3-RTC0rRV_OF931B4Fsg.png" class="graf-image" /></figure>### 3. Next,
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*U1qwd0OEBYhcToXYt2i6iA.png" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*jk3-RTC0rRV_OF931B4Fsg.png" class="graf-image" />
+</figure>### 3. Next,
 
 **_copy the .git link that is on the next page. Do not do any other steps on this page — That is for when you do not clone a repo._**
 
@@ -184,7 +280,9 @@ You can initialize this repository with code from a Subversion, Mercurial, or TF
 
 OR:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*HTnMuxJ4tCDJ3I49cUrP8w.png" class="graf-image" /></figure>### 5. You can now run `git push` and it will push to your newly created repo.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*HTnMuxJ4tCDJ3I49cUrP8w.png" class="graf-image" />
+</figure>### 5. You can now run `git push` and it will push to your newly created repo.
 
 ### Basic Git Work Flow.
 
@@ -200,10 +298,13 @@ OR:
 
 ### My Git Reference Repo:
 
-<a href="https://github.com/bgoonz/github-reference-repo" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz/github-reference-repo"><strong>bgoonz/github-reference-repo</strong>
+<a href="https://github.com/bgoonz/github-reference-repo" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz/github-reference-repo">
+<strong>bgoonz/github-reference-repo</strong>
 <br/>
 
-<em>Cloning a repo and changing the remote url Basic Git Workflow (These steps are only for when you initially clone a…</em>github.com</a><a href="https://github.com/bgoonz/github-reference-repo" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Cloning a repo and changing the remote url Basic Git Workflow (These steps are only for when you initially clone a…</em>github.com</a>
+<a href="https://github.com/bgoonz/github-reference-repo" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Git basics
 
@@ -219,7 +320,9 @@ Here is your first new word in Git-speak: _repository_, often shortened to _repo
 
 Git manages your project as a series of _commits_. A commit is a collection of changes grouped towards a shared purpose. By tracking these commits, you can see your project on a timeline instead of only as a finished project:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*Sc7e8RGGxhoCnMFG8KR6og.png" class="graf-image" /></figure>Notice the notes and seemingly random numbers by each commit? These are referred to as *commit messages* and *commit hashes*, respectively. Git identifies your commits by their hash, a specially-generated series of letters and numbers. You add commit messages to convey meaning and to help humans track your commits, as those hashes aren't very friendly to read!
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*Sc7e8RGGxhoCnMFG8KR6og.png" class="graf-image" />
+</figure>Notice the notes and seemingly random numbers by each commit? These are referred to as *commit messages* and *commit hashes*, respectively. Git identifies your commits by their hash, a specially-generated series of letters and numbers. You add commit messages to convey meaning and to help humans track your commits, as those hashes aren't very friendly to read!
 
 A Git hash is 40 characters long, but you only need the first few characters to identify which hash you're referring to. By default, Git abbreviates hashes to 7 characters. You'll follow this convention, too.
 
@@ -255,7 +358,9 @@ What good is an empty repo? Not much! To add content to your repository, use `gi
 
 Adding a file (or files) moves them from Git's working directory to the staging area. You can see what's been "staged" and what hasn't by using `git status`:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*iiehU7FvC-JK90x6Fr0q6g.png" class="graf-image" /></figure>In this example, "Changes to be committed" is your staging area and "Changes not staged for commit" is your working directory. Notice that you also have "Untracked files", Git's way of reminding us that you may have forgotten to `git add` a file to your repo. Most Git commands will include a bit of help text in the output, so always read the messages carefully before moving forward. Thanks, Git!
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*iiehU7FvC-JK90x6Fr0q6g.png" class="graf-image" />
+</figure>In this example, "Changes to be committed" is your staging area and "Changes not staged for commit" is your working directory. Notice that you also have "Untracked files", Git's way of reminding us that you may have forgotten to `git add` a file to your repo. Most Git commands will include a bit of help text in the output, so always read the messages carefully before moving forward. Thanks, Git!
 
 Once you're happy with your files and have staged them, you'll use `git commit` to push them into the commit history. It's significantly more work to make changes after a commit, so be sure your files are staged and exactly as you'd like them before running this command. Your default text editor will pop up, and you'll be asked to enter a commit message for this group of changes.
 
@@ -271,7 +376,9 @@ If you experience any issues, you may be missing Visual Studio Code's command li
 
 Once you close your editor, the commit will be added to your repository's commit history. Use `git log` to see this history at any time. This command will show all the commits in your repository's history, beginning with the most recent:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*z4zhzwjkwkfXMxKDDkNE9w.png" class="graf-image" /></figure>Like many Git commands, `git commit` includes some helpful shorthand. If you need a rather short commit message, you can use the `-m` flag to include the message inline. Here's an example:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*z4zhzwjkwkfXMxKDDkNE9w.png" class="graf-image" />
+</figure>Like many Git commands, `git commit` includes some helpful shorthand. If you need a rather short commit message, you can use the `-m` flag to include the message inline. Here's an example:
 
     > git commit -m "Fix typo"
 
@@ -279,13 +386,17 @@ This will commit your changes with the message "Fix typo" and avoid opening your
 
 ### Branches and workflow
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*7RBsBGvfmvj4T4jm.png" class="graf-image" /></figure>You've seen what a project looks like with a linear commit history, but that's just scratching the surface of Git's utility. Let's explore a new realm with *branches*. A branch is a separate timeline in Git, reserved for its own changes. You'll use branches to make your own changes independently of others. These branches can then be *merged* back into the main branch at a later time.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*7RBsBGvfmvj4T4jm.png" class="graf-image" />
+</figure>You've seen what a project looks like with a linear commit history, but that's just scratching the surface of Git's utility. Let's explore a new realm with *branches*. A branch is a separate timeline in Git, reserved for its own changes. You'll use branches to make your own changes independently of others. These branches can then be *merged* back into the main branch at a later time.
 
 Let's consider a common scenario: a school project. It's a lot of extra hassle to schedule time together and argue over exactly what should be done next! Instead, group members will often assign tasks amongst themselves, work independently on their tasks, and reunite to bring it all together as a final report. Git branches let us emulate this workflow for code: you can make a copy of what's been done so far, complete a task on your new branch, and merge that branch back into the shared repository for others to use.
 
 By default, Git repos begin on the `master` branch. To create a new branch, use `git branch <name-of-your-branch>`. This will create a named reference to your current commit and let you add commits without affecting the `master` branch. Here's what a branch looks like:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*B67PLKs3Tr6HYLklyH6XnQ.png" class="graf-image" /></figure>Notice how your refs help to identify branches here: `master` stays to itself and can have changes added to it independently of your new branch (`footer`). `HEAD`, Git's special ref, follows us around, so you know that in the above diagram you're working on the `footer` branch.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*B67PLKs3Tr6HYLklyH6XnQ.png" class="graf-image" />
+</figure>Notice how your refs help to identify branches here: `master` stays to itself and can have changes added to it independently of your new branch (`footer`). `HEAD`, Git's special ref, follows us around, so you know that in the above diagram you're working on the `footer` branch.
 
 You can create a new branch or visit an existing branch in your repository. This is especially helpful for returning the `master` branch or for projects you've received from teammates. To open an existing branch, use `git checkout <name-of-branch>`.
 
@@ -347,9 +458,13 @@ You now know how to push your changes up, but what about getting the changes you
 
 **Behind the scenes,** Git is running two separate commands: `git fetch` and `git merge`.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*Y6QQHsNKuayJ_WxQ" class="graf-image" /></figure>Fetching retrieves the repository code and updates any remote tracking branches in your local repo, and merge does just you've already explored: integrates changes into the local branches. Here's a graphic to explain this a little better:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*Y6QQHsNKuayJ_WxQ" class="graf-image" />
+</figure>Fetching retrieves the repository code and updates any remote tracking branches in your local repo, and merge does just you've already explored: integrates changes into the local branches. Here's a graphic to explain this a little better:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*eJVpPtvfIeuYqmql0XkQ8Q.png" class="graf-image" /></figure>It's important to remember to use `git pull` often. A dynamic team may commit and push code many times during the day, and it's easy to fall behind. The more often you `pull`, the more certain you can be that your own code is based on the "latest and greatest".
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*eJVpPtvfIeuYqmql0XkQ8Q.png" class="graf-image" />
+</figure>It's important to remember to use `git pull` often. A dynamic team may commit and push code many times during the day, and it's easy to fall behind. The more often you `pull`, the more certain you can be that your own code is based on the "latest and greatest".
 
 ### Merging your code on GitHub
 
@@ -391,7 +506,9 @@ Git is all about change tracking, so it makes sense that it would include a util
 
 When run with no extra options, `git diff` will return any tracked changes in our working directory since the last commit. **Tracked** is a key word here; `git diff` won't show us changes to files that haven't been included in our repo via `git add`. This is helpful for seeing what you've changed before committing! Here's an example of a small change:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*zRnx1PxLRHNl9fYtBzxxsg.png" class="graf-image" /></figure>Let's break down some of the new syntax in this output.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*zRnx1PxLRHNl9fYtBzxxsg.png" class="graf-image" />
+</figure>Let's break down some of the new syntax in this output.
 
 The diff opens with some Git-specific data, including the branch/files we're checking, and some unique hashes that Git uses to track each diff. You can skip past this to get to the important bits.
 
@@ -429,7 +546,9 @@ Remember that `HEAD` is a special Git reference that usually follows the latest 
 
 Let's look at a diagram to understand what `checkout` does a little better:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*eqVSR_YD0kYQWHoLLbJs9Q.png" class="graf-image" /></figure>Notice that we haven't lost any commits, commit messages, or code changes. Using `git checkout` is entirely non-destructive.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*eqVSR_YD0kYQWHoLLbJs9Q.png" class="graf-image" />
+</figure>Notice that we haven't lost any commits, commit messages, or code changes. Using `git checkout` is entirely non-destructive.
 
 To browse to a different commit, simply pass in a reference or hash for the commit you'd like to explore. `git checkout` also supports a few special characters & reserved references:
 
@@ -465,7 +584,9 @@ That said, you'll likely use shortcuts like `git checkout -` far more often than
 
 ### Git 'Do-Overs': Reset & Rebase
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*5yBLWI2EMAqgm01n.jpg" class="graf-image" /></figure>Git is designed to protect you — not only from others, but also from yourself! Of course, there are times where you'd like to exercise your own judgement, even if it may not be the best thing to do. For this, Git provides some helpful tools to change commits and "time travel".
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*5yBLWI2EMAqgm01n.jpg" class="graf-image" />
+</figure>Git is designed to protect you — not only from others, but also from yourself! Of course, there are times where you'd like to exercise your own judgement, even if it may not be the best thing to do. For this, Git provides some helpful tools to change commits and "time travel".
 
 Before we talk about these, a warning: **The commands in this lesson are destructive!** If used improperly, you could lose work, damage a teammate's branch, or even rewrite the history of your entire project. You should exercise caution when using these on production code, and don't hesitate to ask for help if you're unsure what a command might do.
 
@@ -499,9 +620,13 @@ A practical example of when a soft reset would be handy is joining some small co
 
 This moves our `HEAD` ref back to our first commit. Looking at our commit log now, we might be worried we've lost our changes:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*slbLxXdNbv3L7UsCHGdCIg.png" class="graf-image" /></figure>Our changes are still present in the staging area, ready to be re-committed when we're ready! We can use `git commit` to re-apply those changes to our commit history with a new, more helpful message instead:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*slbLxXdNbv3L7UsCHGdCIg.png" class="graf-image" />
+</figure>Our changes are still present in the staging area, ready to be re-committed when we're ready! We can use `git commit` to re-apply those changes to our commit history with a new, more helpful message instead:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*UleGR-ijDRZw4UqbEbAk0Q.png" class="graf-image" /></figure>Notice that the new commit has a totally new hash. The old commit messages (and their associated hashes) have been lost, but our code changes are safe and sound!
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*UleGR-ijDRZw4UqbEbAk0Q.png" class="graf-image" />
+</figure>Notice that the new commit has a totally new hash. The old commit messages (and their associated hashes) have been lost, but our code changes are safe and sound!
 
 ### Risky Business: Mixed resets
 
@@ -513,7 +638,9 @@ Mixed resets are a good option when you want to alter a change in a previous com
 
 We'll start with "they're":
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*I71W4NpNdNz8NPr7i2tcAQ.png" class="graf-image" /></figure>Notice again that you don't lose your code with a mixed reset, but you do lose your commit messages & hashes. The difference between `--soft` and `--mixed` comes down to whether you'll be keeping the code exactly the same before re-committing it or making changes.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*I71W4NpNdNz8NPr7i2tcAQ.png" class="graf-image" />
+</figure>Notice again that you don't lose your code with a mixed reset, but you do lose your commit messages & hashes. The difference between `--soft` and `--mixed` comes down to whether you'll be keeping the code exactly the same before re-committing it or making changes.
 
 ### Hard resets
 
@@ -525,19 +652,25 @@ It's our last round with "their", "there", and "they're". We've tried it all thr
 
 We'll start in the same place we began for our soft reset:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*PHWuTBoZeQ1L2hgRdXu6fg.png" class="graf-image" /></figure>It turns out that we'll be using a video on our homepage and don't need text at all! Let's step back in time:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*PHWuTBoZeQ1L2hgRdXu6fg.png" class="graf-image" />
+</figure>It turns out that we'll be using a video on our homepage and don't need text at all! Let's step back in time:
 
     git reset --hard 9c5e2fc
 
 Our Git log output is much simpler now:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*1NovgUyM_ed7h5MozcBY-g.png" class="graf-image" /></figure>It's empty — no changes in your working directory and no changes in your staging area. This is major difference between a hard reset and a soft/mixed reset: you will lose *all your changes* back to the commit you've reset to.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*1NovgUyM_ed7h5MozcBY-g.png" class="graf-image" />
+</figure>It's empty — no changes in your working directory and no changes in your staging area. This is major difference between a hard reset and a soft/mixed reset: you will lose *all your changes* back to the commit you've reset to.
 
 If your teammate came rushing in to tell you that the boss has changed their mind and wants that homepage text after all, you're going to be re-doing all that work! Be very confident that the changes you're losing are unimportant before embarking on a hard reset.
 
 ### Rebase: 'Alt-time travel'
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*C_Y5Tr_o5BAS1l-3.jpeg" class="graf-image" /></figure>Sometimes we want to change more than a few commits on a linear timeline. What if we want to move multiple commits across branches? `git rebase` is the tool for us!
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*C_Y5Tr_o5BAS1l-3.jpeg" class="graf-image" />
+</figure>Sometimes we want to change more than a few commits on a linear timeline. What if we want to move multiple commits across branches? `git rebase` is the tool for us!
 
 _Rebasing_ involves changing your current branch's base branch. We might do this if we accidentally started our branch from the wrong commit or if we'd like to incorporate changes from another branch into our own.
 
@@ -555,13 +688,20 @@ This will fetch our remote `master` branch and merge its changes into our own fe
 
 We can use `git rebase` to move our changes silently onto the latest version of `master`. Here's what the `git log` history of our two example branches looks like:
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*pzCQZEyJD3-NHcNRCTwxiQ.png" class="graf-image" /></figure>Notice that both branches start at `9c5e2fc`. That's our common ancestor commit, and is where `git merge` would start stitching these branches together! We're going to avoid that entirely with a rebase. We'll run this command while we have `working-on-the-header` checked out:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*pzCQZEyJD3-NHcNRCTwxiQ.png" class="graf-image" />
+</figure>Notice that both branches start at `9c5e2fc`. That's our common ancestor commit, and is where `git merge` would start stitching these branches together! We're going to avoid that entirely with a rebase. We'll run this command while we have `working-on-the-header` checked out:
 
     git rebase master
 
 **Here's our new commit history:**
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*1cH8OazC0L0pxZzfCdwXog.png" class="graf-image" /></figure><figure><img src="https://cdn-images-1.medium.com/max/800/1*GswbfYSlQ3q0VeCdv29cww.png" class="graf-image" /></figure>### `working-on-the-header`
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*1cH8OazC0L0pxZzfCdwXog.png" class="graf-image" />
+</figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*GswbfYSlQ3q0VeCdv29cww.png" class="graf-image" />
+</figure>### `working-on-the-header`
 
 See how we changed the color of our commits after the rebase? Take a close look at the commit history changes as well. Even though our commits have the same content, they have a new hash assigned, meaning they're entirely new commits! This is what we mean by "rewriting history": we've actually changed how Git refers to these changes now.
 
@@ -944,7 +1084,9 @@ The preceding code example creates a new alias `unstage`. This now enables the i
 
 ### Troubleshooting Git
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/1*cFb6UcCGmIcNU1-woncSTA.png" class="graf-image" /></figure>### Here are some tips on troubleshooting and resolving issues with Git.
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/1*cFb6UcCGmIcNU1-woncSTA.png" class="graf-image" />
+</figure>### Here are some tips on troubleshooting and resolving issues with Git.
 
 ### Broken pipe errors on `git push`
 
@@ -1059,22 +1201,31 @@ The default value of `http.postBuffer`, 1 MiB, is applied if the setting is not 
 
 ### If you found this guide helpful feel free to checkout my GitHub/gists where I host similar content:
 
-<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz"><strong>bgoonz's gists</strong>
+<a href="https://gist.github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://gist.github.com/bgoonz">
+<strong>bgoonz's gists</strong>
 <br/>
 
-<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a><a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Instantly share code, notes, and snippets. Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python |…</em>gist.github.com</a>
+<a href="https://gist.github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
-<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz"><strong>bgoonz — Overview</strong>
+<a href="https://github.com/bgoonz" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://github.com/bgoonz">
+<strong>bgoonz — Overview</strong>
 <br/>
 
-<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a><a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Web Developer, Electrical Engineer JavaScript | CSS | Bootstrap | Python | React | Node.js | Express | Sequelize…</em>github.com</a>
+<a href="https://github.com/bgoonz" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Or Checkout my personal Resource Site:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a>
+<a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [March 12, 2021](https://medium.com/p/b50c9c01a107).
 

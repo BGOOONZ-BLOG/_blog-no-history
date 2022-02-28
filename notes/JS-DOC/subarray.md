@@ -42,10 +42,24 @@ Also note that this is creating a new view on the existing buffer; changes to th
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="#">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="#">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-%typedarray%.prototype.subarray</span></a></td></tr></tbody></table>
+<span class="small">#sec-%typedarray%.prototype.subarray</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

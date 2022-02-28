@@ -10,7 +10,34 @@ There are 3 values that the `caseFirst` property can have, outlined in the table
 
 ### `caseFirst` values
 
-<table><thead><tr class="header"><th>Value</th><th>Description</th></tr></thead><tbody><tr class="odd"><td><code>upper</code></td><td>Upper case to be sorted before lower case.</td></tr><tr class="even"><td><code>lower</code></td><td>Lower case to be sorted before upper case.</td></tr><tr class="odd"><td><code>false</code></td><td>No special case ordering.</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Value</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>upper</code>
+</td>
+<td>Upper case to be sorted before lower case.</td>
+</tr>
+<tr class="even">
+<td>
+<code>lower</code>
+</td>
+<td>Lower case to be sorted before upper case.</td>
+</tr>
+<tr class="odd">
+<td>
+<code>false</code>
+</td>
+<td>No special case ordering.</td>
+</tr>
+</tbody>
+</table>
 
 ## Examples
 
@@ -30,10 +57,24 @@ The [`Intl.Locale`](locale) constructor has an optional configuration object arg
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.caseFirst">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma402/#sec-Intl.Locale.prototype.caseFirst">ECMAScript Internationalization API Specification (ECMAScript Internationalization API) 
 <br/>
 
-<span class="small">#sec-Intl.Locale.prototype.caseFirst</span></a></td></tr></tbody></table>
+<span class="small">#sec-Intl.Locale.prototype.caseFirst</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `caseFirst`
 

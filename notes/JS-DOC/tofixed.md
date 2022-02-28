@@ -49,10 +49,24 @@ If this method is invoked on an object that is not a [`Number`](../number).
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-number.prototype.tofixed">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-number.prototype.tofixed">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-number.prototype.tofixed</span></a></td></tr></tbody></table>
+<span class="small">#sec-number.prototype.tofixed</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

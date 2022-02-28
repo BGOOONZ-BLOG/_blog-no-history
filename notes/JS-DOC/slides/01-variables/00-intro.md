@@ -24,7 +24,8 @@ Variables that don't explicitly get assigned an initial value have the value
 
 <div class="callout secondary">
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> **ES2015**
+<i class="fa fa-info-circle" aria-hidden="true">
+</i> **ES2015**
 
 Since ES2015, `let` and `const` can be used in addition to `var`. We will learn
 how they differ from `var` later. For now, lets have a look how `const` differs

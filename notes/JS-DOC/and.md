@@ -30,7 +30,43 @@ The old value at the given position (`typedArray[index]`).
 
 The bitwise AND operation only yields 1, if both `a` and `b` are 1. The truth table for the AND operation is:
 
-<table><thead><tr class="header"><th><code>a</code></th><th><code>b</code></th><th><code>a &amp; b</code></th></tr></thead><tbody><tr class="odd"><td>0</td><td>0</td><td>0</td></tr><tr class="even"><td>0</td><td>1</td><td>0</td></tr><tr class="odd"><td>1</td><td>0</td><td>0</td></tr><tr class="even"><td>1</td><td>1</td><td>1</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>
+<code>a</code>
+</th>
+<th>
+<code>b</code>
+</th>
+<th>
+<code>a &amp; b</code>
+</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>0</td>
+<td>1</td>
+<td>0</td>
+</tr>
+<tr class="odd">
+<td>1</td>
+<td>0</td>
+<td>0</td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>1</td>
+<td>1</td>
+</tr>
+</tbody>
+</table>
 
 For example, a bitwise AND of `5 & 1` results in `0001` which is 1 in decimal.
 
@@ -52,10 +88,24 @@ For example, a bitwise AND of `5 & 1` results in `0001` which is 1 in decimal.
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-atomics.and">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-atomics.and">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-atomics.and</span></a></td></tr></tbody></table>
+<span class="small">#sec-atomics.and</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `and`
 

@@ -47,10 +47,24 @@ The following example joins array-like object (`arguments`), by calling [`Functi
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-array.prototype.join">ECMAScript (ECMA-262) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-array.prototype.join">ECMAScript (ECMA-262) 
 <br/>
 
-<span class="small">The definition of 'Array.prototype.join' in that specification.</span></a></td></tr></tbody></table>
+<span class="small">The definition of 'Array.prototype.join' in that specification.</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `join`
 

@@ -36,10 +36,24 @@ The resulting module instance is then instantiated using [`WebAssembly.instantia
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://webassembly.github.io/spec/web-api/#dom-webassembly-compilestreaming">WebAssembly Web API (WebAssembly Web API) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://webassembly.github.io/spec/web-api/#dom-webassembly-compilestreaming">WebAssembly Web API (WebAssembly Web API) 
 <br/>
 
-<span class="small">#dom-webassembly-compilestreaming</span></a></td></tr></tbody></table>
+<span class="small">#dom-webassembly-compilestreaming</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `compileStreaming`
 

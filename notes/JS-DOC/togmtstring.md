@@ -29,10 +29,24 @@ In this example, the `toGMTString()` method converts the date to GMT (UTC) using
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-date.prototype.togmtstring">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-date.prototype.togmtstring">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-date.prototype.togmtstring</span></a></td></tr></tbody></table>
+<span class="small">#sec-date.prototype.togmtstring</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

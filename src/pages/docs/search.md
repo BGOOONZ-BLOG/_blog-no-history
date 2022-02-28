@@ -25,6 +25,7 @@ template: docs
 <h1>  Docs</h1>
 <br>
 
-<div id="search"></div>
+<div id="search">
+</div>
 
 <div id="search" />

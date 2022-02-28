@@ -26,7 +26,8 @@ where the above code tries to access them.
 
 <div class="callout secondary">
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> **ES2015**
+<i class="fa fa-info-circle" aria-hidden="true">
+</i> **ES2015**
 
 The big difference between `let`, `const`, and `var` is that `let` and `const`
 are _[block scoped][block scope]_. If we would use `let` instead of `var` in

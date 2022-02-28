@@ -68,7 +68,102 @@ Some example run-throughs of the function would look like this:
 
 The callback would be invoked four times, with the arguments and return values in each call being as follows:
 
-<table><thead><tr class="header"><th><code>callback</code></th><th><code>accumulator</code></th><th><code>currentValue</code></th><th><code>index</code></th><th><code>array</code></th><th>return value</th></tr></thead><tbody><tr class="odd"><td>first call</td><td><code>4</code></td><td><code>3</code></td><td><code>3</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>7</code></td></tr><tr class="even"><td>second call</td><td><code>7</code></td><td><code>2</code></td><td><code>2</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>9</code></td></tr><tr class="odd"><td>third call</td><td><code>9</code></td><td><code>1</code></td><td><code>1</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>10</code></td></tr><tr class="even"><td>fourth call</td><td><code>10</code></td><td><code>0</code></td><td><code>0</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>10</code></td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>
+<code>callback</code>
+</th>
+<th>
+<code>accumulator</code>
+</th>
+<th>
+<code>currentValue</code>
+</th>
+<th>
+<code>index</code>
+</th>
+<th>
+<code>array</code>
+</th>
+<th>return value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>first call</td>
+<td>
+<code>4</code>
+</td>
+<td>
+<code>3</code>
+</td>
+<td>
+<code>3</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>7</code>
+</td>
+</tr>
+<tr class="even">
+<td>second call</td>
+<td>
+<code>7</code>
+</td>
+<td>
+<code>2</code>
+</td>
+<td>
+<code>2</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>9</code>
+</td>
+</tr>
+<tr class="odd">
+<td>third call</td>
+<td>
+<code>9</code>
+</td>
+<td>
+<code>1</code>
+</td>
+<td>
+<code>1</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>10</code>
+</td>
+</tr>
+<tr class="even">
+<td>fourth call</td>
+<td>
+<code>10</code>
+</td>
+<td>
+<code>0</code>
+</td>
+<td>
+<code>0</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>10</code>
+</td>
+</tr>
+</tbody>
+</table>
 
 The value returned by `reduceRight` would be that of the last callback invocation (`10`).
 
@@ -78,7 +173,120 @@ And if you were to provide an `initialValue`, the result would look like this:
       return accumulator + currentValue;
     }, 10);
 
-<table><thead><tr class="header"><th><code>callback</code></th><th><code>accumulator</code></th><th><code>currentValue</code></th><th><code>index</code></th><th><code>array</code></th><th>return value</th></tr></thead><tbody><tr class="odd"><td>first call</td><td><code>10</code></td><td><code>4</code></td><td><code>4</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>14</code></td></tr><tr class="even"><td>second call</td><td><code>14</code></td><td><code>3</code></td><td><code>3</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>17</code></td></tr><tr class="odd"><td>third call</td><td><code>17</code></td><td><code>2</code></td><td><code>2</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>19</code></td></tr><tr class="even"><td>fourth call</td><td><code>19</code></td><td><code>1</code></td><td><code>1</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>20</code></td></tr><tr class="odd"><td>fifth call</td><td><code>20</code></td><td><code>0</code></td><td><code>0</code></td><td><code>[0, 1, 2, 3, 4]</code></td><td><code>20</code></td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>
+<code>callback</code>
+</th>
+<th>
+<code>accumulator</code>
+</th>
+<th>
+<code>currentValue</code>
+</th>
+<th>
+<code>index</code>
+</th>
+<th>
+<code>array</code>
+</th>
+<th>return value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>first call</td>
+<td>
+<code>10</code>
+</td>
+<td>
+<code>4</code>
+</td>
+<td>
+<code>4</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>14</code>
+</td>
+</tr>
+<tr class="even">
+<td>second call</td>
+<td>
+<code>14</code>
+</td>
+<td>
+<code>3</code>
+</td>
+<td>
+<code>3</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>17</code>
+</td>
+</tr>
+<tr class="odd">
+<td>third call</td>
+<td>
+<code>17</code>
+</td>
+<td>
+<code>2</code>
+</td>
+<td>
+<code>2</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>19</code>
+</td>
+</tr>
+<tr class="even">
+<td>fourth call</td>
+<td>
+<code>19</code>
+</td>
+<td>
+<code>1</code>
+</td>
+<td>
+<code>1</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>20</code>
+</td>
+</tr>
+<tr class="odd">
+<td>fifth call</td>
+<td>
+<code>20</code>
+</td>
+<td>
+<code>0</code>
+</td>
+<td>
+<code>0</code>
+</td>
+<td>
+<code>[0, 1, 2, 3, 4]</code>
+</td>
+<td>
+<code>20</code>
+</td>
+</tr>
+</tbody>
+</table>
 
 The value returned by `reduceRight` this time would be, of course, `20`.
 
@@ -208,10 +416,24 @@ See also [Function composition](<https://en.wikipedia.org/wiki/Function_composit
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-array.prototype.reduceright">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-array.prototype.reduceright">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-array.prototype.reduceright</span></a></td></tr></tbody></table>
+<span class="small">#sec-array.prototype.reduceright</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

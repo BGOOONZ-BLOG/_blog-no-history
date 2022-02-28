@@ -8,7 +8,9 @@ Written in quiz format
 
 #### Written in quiz format
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/0*Z3bZOpQH9SFYpYZh.jpg" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/0*Z3bZOpQH9SFYpYZh.jpg" class="graf-image" />
+</figure>
 
 ### Javascript Errors
 
@@ -71,12 +73,17 @@ Written in quiz format
 
 -   <span id="af0c">A SyntaxError is thrown when there is an error in the syntax of the executed code.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*NV9Oo1MMTGfTlHWs.jpeg" class="graf-image" /></figure>### My Blog:
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*NV9Oo1MMTGfTlHWs.jpeg" class="graf-image" />
+</figure>### My Blog:
 
-<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a><a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a>
+<a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [August 22, 2021](https://medium.com/p/311ea1356a3d).
 

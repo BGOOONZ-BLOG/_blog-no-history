@@ -65,10 +65,24 @@ Due to a [WebIDL spec change](https://github.com/heycam/webidl/pull/357) in mid-
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-symbol.tostringtag">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-symbol.tostringtag">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-symbol.tostringtag</span></a></td></tr></tbody></table>
+<span class="small">#sec-symbol.tostringtag</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

@@ -2663,7 +2663,8 @@ React.Children.toArray(children);
 
 > The React.Fragment component lets you return multiple elements in a render() method without creating an additional DOM element
 
-> You can also use it with the shorthand <></> syntax.
+> You can also use it with the shorthand <>
+</> syntax.
 
 ```js
 

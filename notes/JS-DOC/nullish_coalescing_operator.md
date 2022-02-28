@@ -96,10 +96,24 @@ The nullish coalescing operator treats `undefined` and `null` as specific values
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-CoalesceExpression">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#prod-CoalesceExpression">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#prod-CoalesceExpression</span></a></td></tr></tbody></table>
+<span class="small">#prod-CoalesceExpression</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

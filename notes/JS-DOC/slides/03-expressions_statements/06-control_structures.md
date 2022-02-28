@@ -27,7 +27,8 @@ notation to access the property values.
 
 <div class="callout secondary">
 
-<i class="fa fa-info-circle" aria-hidden="true"></i> **ES2015**
+<i class="fa fa-info-circle" aria-hidden="true">
+</i> **ES2015**
 
 ES2015 introduces [`for/of`][forof] statements for iterating over
 _[iterables][]_:

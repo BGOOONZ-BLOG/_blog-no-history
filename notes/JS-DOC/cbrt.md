@@ -50,10 +50,24 @@ For all *x* ≥ 0, have $\\sqrt\[3\]{x} = x^{1/3}$ so this can be emulated b
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-math.cbrt">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-math.cbrt">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-math.cbrt</span></a></td></tr></tbody></table>
+<span class="small">#sec-math.cbrt</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `cbrt`
 

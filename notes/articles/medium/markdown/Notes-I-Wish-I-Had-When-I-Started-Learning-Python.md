@@ -8,7 +8,9 @@ Plus resources for learning data structures and algorithms in python at the bott
 
 #### Plus resources for learning data structures and algorithms in python at the bottom of this article!
 
-<figure><img src="https://cdn-images-1.medium.com/max/1200/0*8zBTnh_6r7agz9wz.jpg" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/1200/0*8zBTnh_6r7agz9wz.jpg" class="graf-image" />
+</figure>
 
 ### Basics
 
@@ -79,7 +81,9 @@ Plus resources for learning data structures and algorithms in python at the bott
 -   <span id="d944">Integer Division gives the other part of the number from Module; it is a way to do round down numbers replacing `Math.floor()` in JS.</span>
 -   <span id="4180">There are no `++` and `--` in Python, the only shorthand operators are:</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*kq_3dH4n7wsmAy7u.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*kq_3dH4n7wsmAy7u.png" class="graf-image" />
+</figure>
 
 ---
 
@@ -164,9 +168,13 @@ Plus resources for learning data structures and algorithms in python at the bott
 -   <span id="e860">Some useful string methods.</span>
 -   <span id="205c">Note that in JS `join` is used on an Array, in Python it is used on String.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*36mwuAIxCl-f3m4H.png" class="graf-image" /></figure>-   <span id="fb66">There are also many handy testing methods.</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*36mwuAIxCl-f3m4H.png" class="graf-image" />
+</figure>-   <span id="fb66">There are also many handy testing methods.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*BIsBBI09FpFa1ntJ.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*BIsBBI09FpFa1ntJ.png" class="graf-image" />
+</figure>
 
 ---
 
@@ -214,7 +222,9 @@ Plus resources for learning data structures and algorithms in python at the bott
 
 -   <span id="cd4b">One of the biggest benefits of Python is that it reads more like English than JS does.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*eNmuDtlv7vr6a3Wc.png" class="graf-image" /></figure># Logical AND
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*eNmuDtlv7vr6a3Wc.png" class="graf-image" />
+</figure># Logical AND
     print(True and True)    # => True
     print(True and False)   # => False
     print(False and False)  # => False
@@ -250,7 +260,9 @@ Plus resources for learning data structures and algorithms in python at the bott
 -   <span id="7bc8">Just like in JS, you can use `parentheses` to change the inherent order of operations.</span>
 -   <span id="ad5a">**Short Circuit** : Stopping a program when a `true` or `false` has been reached.</span>
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*nlYkqe_JubdBB2mv.png" class="graf-image" /></figure>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*nlYkqe_JubdBB2mv.png" class="graf-image" />
+</figure>
 
 ---
 
@@ -1188,154 +1200,406 @@ Plus resources for learning data structures and algorithms in python at the bott
 
 ### My Blog:
 
-<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://master--bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://master--bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a><a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>master--bgoonz-blog.netlify.app</a>
+<a href="https://master--bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 ### Python Data Structures & Algorithms Resources:
 
--   <span id="b2ea"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md" class="markup--anchor markup--li-anchor">The Framework for Learning Algorithms and intense problem solving exercises</a></span>
--   <span id="4075"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/why_i_recommend_algs4.md" class="markup--anchor markup--li-anchor">Algs4: Recommended book for Learning Algorithms and Data Structures</a></span>
--   <span id="277c"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/AnalysisOfDynamicProgramming.md" class="markup--anchor markup--li-anchor">An analysis of Dynamic Programming</a></span>
--   <span id="5401"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/OptimalSubstructure.md" class="markup--anchor markup--li-anchor">Dynamic Programming Q&amp;A — What is Optimal Substructure</a></span>
--   <span id="9c28"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailsaboutBacktracking.md" class="markup--anchor markup--li-anchor">The Framework for Backtracking Algorithm</a></span>
--   <span id="d786"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailedBinarySearch.md" class="markup--anchor markup--li-anchor">Binary Search in Detail: I wrote a Poem</a></span>
--   <span id="1239"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/SlidingWindowTechnique.md" class="markup--anchor markup--li-anchor">The Sliding Window Technique</a></span>
--   <span id="bfaf"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxProcess.md" class="markup--anchor markup--li-anchor">Difference Between Process and Thread in Linux</a></span>
--   <span id="6d97"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/OnlinePraticePlatform.md" class="markup--anchor markup--li-anchor">Some Good Online Practice Platforms</a></span>
--   <span id="9583"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/AnalysisOfDynamicProgramming.md" class="markup--anchor markup--li-anchor">Dynamic Programming in Details</a></span>
--   <span id="4d54"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/OptimalSubstructure.md" class="markup--anchor markup--li-anchor">Dynamic Programming Q&amp;A — What is Optimal Substructure</a></span>
--   <span id="183e"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/LongestCommonSubsequence.md" class="markup--anchor markup--li-anchor">Classic DP: Longest Common Subsequence</a></span>
--   <span id="3dca"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/EditDistance.md" class="markup--anchor markup--li-anchor">Classic DP: Edit Distance</a></span>
--   <span id="9429"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/ThrowingEggsinHighBuildings.md" class="markup--anchor markup--li-anchor">Classic DP: Super Egg</a></span>
--   <span id="cf8d"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/SuperEggDropAdvanced.md" class="markup--anchor markup--li-anchor">Classic DP: Super Egg (Advanced Solution)</a></span>
--   <span id="9f94"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/StrategiesForSubsequenceProblem.md" class="markup--anchor markup--li-anchor">The Strategies of Subsequence Problem</a></span>
--   <span id="306b"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/GameProblemsInDynamicProgramming.md" class="markup--anchor markup--li-anchor">Classic DP: Game Problems</a></span>
--   <span id="cf55"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/IntervalScheduling.md" class="markup--anchor markup--li-anchor">Greedy: Interval Scheduling</a></span>
--   <span id="0a6a"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/KMPCharacterMatchingAlgorithmInDynamicProgramming.md" class="markup--anchor markup--li-anchor">KMP Algorithm In Detail</a></span>
--   <span id="ccb6"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/BestTimeToBuyAndSellStock.md" class="markup--anchor markup--li-anchor">A solution to all Buy Time to Buy and Sell Stock Problems</a></span>
--   <span id="a130"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/HouseRobber.md" class="markup--anchor markup--li-anchor">A solution to all House Robber Problems</a></span>
--   <span id="1470"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/FourKeysKeyboard.md" class="markup--anchor markup--li-anchor">4 Keys Keyboard</a></span>
--   <span id="d7e6"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/RegularExpression.md" class="markup--anchor markup--li-anchor">Regular Expression</a></span>
--   <span id="b35e"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/LongestIncreasingSubsequence.md" class="markup--anchor markup--li-anchor">Longest Increasing Subsequence</a></span>
--   <span id="99f6"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md" class="markup--anchor markup--li-anchor">The Framework for Learning Algorithms and intense problem solving exercises</a></span>
--   <span id="ed60"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/why_i_recommend_algs4.md" class="markup--anchor markup--li-anchor">Algs4: Recommended book for Learning Algorithms and Data Structures</a></span>
--   <span id="659f"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/binary_heap_implements_priority_queues.md" class="markup--anchor markup--li-anchor">Binary Heap and Priority Queue</a></span>
--   <span id="210a"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/LRU_algorithm.md" class="markup--anchor markup--li-anchor">LRU Cache Strategy in Detail</a></span>
--   <span id="26a4"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/The_Manipulation_Collection_of_Binary_Search_Tree.md" class="markup--anchor markup--li-anchor">Collections of Binary Search Operations</a></span>
--   <span id="d918"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/MonotonicStack.md" class="markup--anchor markup--li-anchor">Special Data Structure: Monotonic Stack</a></span>
--   <span id="a7c1"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/Monotonic_queue.md" class="markup--anchor markup--li-anchor">Special Data Structure: Monotonic Stack</a></span>
--   <span id="b904"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/design_Twitter.md" class="markup--anchor markup--li-anchor">Design Twitter</a></span>
--   <span id="46a9"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/reverse_part_of_a_linked_list_via_recursion.md" class="markup--anchor markup--li-anchor">Reverse Part of Linked List via Recursion</a></span>
--   <span id="b014"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/ImplementQueueUsingStacksImplementStackUsingQueues.md" class="markup--anchor markup--li-anchor">Queue Implement Stack/Stack implement Queue</a></span>
--   <span id="d366"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/ThewaytoAlgorithmlearning.md" class="markup--anchor markup--li-anchor">My Way to Learn Algorithm</a></span>
--   <span id="b0b9"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailsaboutBacktracking.md" class="markup--anchor markup--li-anchor">The Framework of Backtracking Algorithm</a></span>
--   <span id="1716"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailedBinarySearch.md" class="markup--anchor markup--li-anchor">Binary Search in Detail</a></span>
--   <span id="2571"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Subset_Permutation_Combination.md" class="markup--anchor markup--li-anchor">Backtracking Solve Subset/Permutation/Combination</a></span>
--   <span id="0038"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/double_pointer.md" class="markup--anchor markup--li-anchor">Diving into the technical parts of Double Pointers</a></span>
--   <span id="fa85"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/SlidingWindowTechnique.md" class="markup--anchor markup--li-anchor">Sliding Window Technique</a></span>
--   <span id="ce8c"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/The_key_to_resolving_TwoSum_problems.md" class="markup--anchor markup--li-anchor">The Core Concept of TwoSum Problems</a></span>
--   <span id="d2e4"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/CommonBitManipulation.md" class="markup--anchor markup--li-anchor">Common Bit Manipulations</a></span>
--   <span id="f554"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/Implementing_the_functions_of_a_calculator.md" class="markup--anchor markup--li-anchor">Breaking down a Complicated Problem: Implement a Calculator</a></span>
--   <span id="96c2"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/PancakesSorting.md" class="markup--anchor markup--li-anchor">Pancake Sorting Algorithm</a></span>
--   <span id="71b5"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/prefix_sum.md" class="markup--anchor markup--li-anchor">Prefix Sum: Intro and Concept</a></span>
--   <span id="ccf5"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/string_multiplication.md" class="markup--anchor markup--li-anchor">String Multiplication</a></span>
--   <span id="dd56"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/flood_fill.md" class="markup--anchor markup--li-anchor">FloodFill Algorithm in Detail</a></span>
--   <span id="0bc1"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/IntervalMerging.md" class="markup--anchor markup--li-anchor">Interval Scheduling: Interval Merging</a></span>
--   <span id="07eb"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/IntervalIntersection.md" class="markup--anchor markup--li-anchor">Interval Scheduling: Intersections of Intervals</a></span>
--   <span id="c308"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/RussianDollEnvelopes.md" class="markup--anchor markup--li-anchor">Russian Doll Envelopes Problem</a></span>
--   <span id="cc1c"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/several_counter_intuitive_probability_problems.md" class="markup--anchor markup--li-anchor">A collection of counter-intuitive Probability Problems</a></span>
--   <span id="983c"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Shuffle_Algorithm.md" class="markup--anchor markup--li-anchor">Shuffle Algorithm</a></span>
--   <span id="915e"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/RecursionInDetail.md" class="markup--anchor markup--li-anchor">Recursion In Detail</a></span>
--   <span id="e511"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/LRU_algorithm.md" class="markup--anchor markup--li-anchor">How to Implement LRU Cache</a></span>
--   <span id="43f6"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Print_PrimeNumbers.md" class="markup--anchor markup--li-anchor">How to Find Prime Number Efficiently</a></span>
--   <span id="a714"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/EditDistance.md" class="markup--anchor markup--li-anchor">How to Calculate Minimium Edit Distance</a></span>
--   <span id="6efb"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/UsingBinarySearchAlgorithm.md" class="markup--anchor markup--li-anchor">How to use Binary Search</a></span>
--   <span id="2310"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Trapping_Rain_Water.md" class="markup--anchor markup--li-anchor">How to efficiently solve Trapping Rain Water Problem</a></span>
--   <span id="98e2"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/RemoveDuplicatesfromSortedArray.md" class="markup--anchor markup--li-anchor">How to Remove Duplicates From Sorted Array</a></span>
--   <span id="b2e1"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/TheLongestPalindromicSubstring.md" class="markup--anchor markup--li-anchor">How to Find Longest Palindromic Substring</a></span>
--   <span id="52d6"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/reverse-nodes-in-k-group.md" class="markup--anchor markup--li-anchor">How to Reverse Linked List in K Group</a></span>
--   <span id="adbe"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/valid-parentheses.md" class="markup--anchor markup--li-anchor">How to Check the Validation of Parenthesis</a></span>
--   <span id="440d"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/missing_elements.md" class="markup--anchor markup--li-anchor">How to Find Missing Element</a></span>
--   <span id="80cb"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Find-Duplicate-and-Missing-Element.md" class="markup--anchor markup--li-anchor">How to Find Duplicates and Missing Elements</a></span>
--   <span id="6a2a"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/check_palindromic_linkedlist.md" class="markup--anchor markup--li-anchor">How to Check Palindromic LinkedList</a></span>
--   <span id="0e94"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/ReservoirSampling.md" class="markup--anchor markup--li-anchor">How to Pick Elements From an Infinite Arbitrary Sequence</a></span>
--   <span id="f96d"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Seatscheduling.md" class="markup--anchor markup--li-anchor">How to Schedule Seats for Students</a></span>
--   <span id="6d49"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Union-find-Explanation.md" class="markup--anchor markup--li-anchor">Union-Find Algorithm in Detail</a></span>
--   <span id="7221"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Union-Find-Application.md" class="markup--anchor markup--li-anchor">Union-Find Application</a></span>
--   <span id="19f3"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/one-line-code-puzzles.md" class="markup--anchor markup--li-anchor">Problems that can be solved in one line</a></span>
--   <span id="1b55"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/findSebesquenceWithBinarySearch.md" class="markup--anchor markup--li-anchor">Find Subsequence With Binary Search</a></span>
--   <span id="ff15"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxProcess.md" class="markup--anchor markup--li-anchor">Difference Between Process and Thread in Linux</a></span>
--   <span id="a49f"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxshell.md" class="markup--anchor markup--li-anchor">You Must Know About Linux Shell</a></span>
--   <span id="901b"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/SessionAndCookie.md" class="markup--anchor markup--li-anchor">You Must Know About Cookie and Session</a></span>
--   <span id="02f7"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/Cryptology.md" class="markup--anchor markup--li-anchor">Cryptology Algorithm</a></span>
--   <span id="d08e"><a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/OnlinePraticePlatform.md" class="markup--anchor markup--li-anchor">Some Good Online Practice Platforms</a></span>
+-   <span id="b2ea">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md" class="markup--anchor markup--li-anchor">The Framework for Learning Algorithms and intense problem solving exercises</a>
+</span>
+-   <span id="4075">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/why_i_recommend_algs4.md" class="markup--anchor markup--li-anchor">Algs4: Recommended book for Learning Algorithms and Data Structures</a>
+</span>
+-   <span id="277c">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/AnalysisOfDynamicProgramming.md" class="markup--anchor markup--li-anchor">An analysis of Dynamic Programming</a>
+</span>
+-   <span id="5401">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/OptimalSubstructure.md" class="markup--anchor markup--li-anchor">Dynamic Programming Q&amp;A — What is Optimal Substructure</a>
+</span>
+-   <span id="9c28">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailsaboutBacktracking.md" class="markup--anchor markup--li-anchor">The Framework for Backtracking Algorithm</a>
+</span>
+-   <span id="d786">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailedBinarySearch.md" class="markup--anchor markup--li-anchor">Binary Search in Detail: I wrote a Poem</a>
+</span>
+-   <span id="1239">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/SlidingWindowTechnique.md" class="markup--anchor markup--li-anchor">The Sliding Window Technique</a>
+</span>
+-   <span id="bfaf">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxProcess.md" class="markup--anchor markup--li-anchor">Difference Between Process and Thread in Linux</a>
+</span>
+-   <span id="6d97">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/OnlinePraticePlatform.md" class="markup--anchor markup--li-anchor">Some Good Online Practice Platforms</a>
+</span>
+-   <span id="9583">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/AnalysisOfDynamicProgramming.md" class="markup--anchor markup--li-anchor">Dynamic Programming in Details</a>
+</span>
+-   <span id="4d54">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/OptimalSubstructure.md" class="markup--anchor markup--li-anchor">Dynamic Programming Q&amp;A — What is Optimal Substructure</a>
+</span>
+-   <span id="183e">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/LongestCommonSubsequence.md" class="markup--anchor markup--li-anchor">Classic DP: Longest Common Subsequence</a>
+</span>
+-   <span id="3dca">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/EditDistance.md" class="markup--anchor markup--li-anchor">Classic DP: Edit Distance</a>
+</span>
+-   <span id="9429">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/ThrowingEggsinHighBuildings.md" class="markup--anchor markup--li-anchor">Classic DP: Super Egg</a>
+</span>
+-   <span id="cf8d">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/SuperEggDropAdvanced.md" class="markup--anchor markup--li-anchor">Classic DP: Super Egg (Advanced Solution)</a>
+</span>
+-   <span id="9f94">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/StrategiesForSubsequenceProblem.md" class="markup--anchor markup--li-anchor">The Strategies of Subsequence Problem</a>
+</span>
+-   <span id="306b">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/GameProblemsInDynamicProgramming.md" class="markup--anchor markup--li-anchor">Classic DP: Game Problems</a>
+</span>
+-   <span id="cf55">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/IntervalScheduling.md" class="markup--anchor markup--li-anchor">Greedy: Interval Scheduling</a>
+</span>
+-   <span id="0a6a">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/KMPCharacterMatchingAlgorithmInDynamicProgramming.md" class="markup--anchor markup--li-anchor">KMP Algorithm In Detail</a>
+</span>
+-   <span id="ccb6">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/BestTimeToBuyAndSellStock.md" class="markup--anchor markup--li-anchor">A solution to all Buy Time to Buy and Sell Stock Problems</a>
+</span>
+-   <span id="a130">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/HouseRobber.md" class="markup--anchor markup--li-anchor">A solution to all House Robber Problems</a>
+</span>
+-   <span id="1470">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/FourKeysKeyboard.md" class="markup--anchor markup--li-anchor">4 Keys Keyboard</a>
+</span>
+-   <span id="d7e6">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/RegularExpression.md" class="markup--anchor markup--li-anchor">Regular Expression</a>
+</span>
+-   <span id="b35e">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/LongestIncreasingSubsequence.md" class="markup--anchor markup--li-anchor">Longest Increasing Subsequence</a>
+</span>
+-   <span id="99f6">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Framework%20and%20thoughts%20about%20learning%20data%20structure%20and%20algorithm.md" class="markup--anchor markup--li-anchor">The Framework for Learning Algorithms and intense problem solving exercises</a>
+</span>
+-   <span id="ed60">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/why_i_recommend_algs4.md" class="markup--anchor markup--li-anchor">Algs4: Recommended book for Learning Algorithms and Data Structures</a>
+</span>
+-   <span id="659f">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/binary_heap_implements_priority_queues.md" class="markup--anchor markup--li-anchor">Binary Heap and Priority Queue</a>
+</span>
+-   <span id="210a">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/LRU_algorithm.md" class="markup--anchor markup--li-anchor">LRU Cache Strategy in Detail</a>
+</span>
+-   <span id="26a4">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/The_Manipulation_Collection_of_Binary_Search_Tree.md" class="markup--anchor markup--li-anchor">Collections of Binary Search Operations</a>
+</span>
+-   <span id="d918">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/MonotonicStack.md" class="markup--anchor markup--li-anchor">Special Data Structure: Monotonic Stack</a>
+</span>
+-   <span id="a7c1">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/Monotonic_queue.md" class="markup--anchor markup--li-anchor">Special Data Structure: Monotonic Stack</a>
+</span>
+-   <span id="b904">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/design_Twitter.md" class="markup--anchor markup--li-anchor">Design Twitter</a>
+</span>
+-   <span id="46a9">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/reverse_part_of_a_linked_list_via_recursion.md" class="markup--anchor markup--li-anchor">Reverse Part of Linked List via Recursion</a>
+</span>
+-   <span id="b014">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/ImplementQueueUsingStacksImplementStackUsingQueues.md" class="markup--anchor markup--li-anchor">Queue Implement Stack/Stack implement Queue</a>
+</span>
+-   <span id="d366">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/ThewaytoAlgorithmlearning.md" class="markup--anchor markup--li-anchor">My Way to Learn Algorithm</a>
+</span>
+-   <span id="b0b9">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailsaboutBacktracking.md" class="markup--anchor markup--li-anchor">The Framework of Backtracking Algorithm</a>
+</span>
+-   <span id="1716">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/DetailedBinarySearch.md" class="markup--anchor markup--li-anchor">Binary Search in Detail</a>
+</span>
+-   <span id="2571">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Subset_Permutation_Combination.md" class="markup--anchor markup--li-anchor">Backtracking Solve Subset/Permutation/Combination</a>
+</span>
+-   <span id="0038">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/double_pointer.md" class="markup--anchor markup--li-anchor">Diving into the technical parts of Double Pointers</a>
+</span>
+-   <span id="fa85">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/SlidingWindowTechnique.md" class="markup--anchor markup--li-anchor">Sliding Window Technique</a>
+</span>
+-   <span id="ce8c">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/The_key_to_resolving_TwoSum_problems.md" class="markup--anchor markup--li-anchor">The Core Concept of TwoSum Problems</a>
+</span>
+-   <span id="d2e4">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/CommonBitManipulation.md" class="markup--anchor markup--li-anchor">Common Bit Manipulations</a>
+</span>
+-   <span id="f554">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/Implementing_the_functions_of_a_calculator.md" class="markup--anchor markup--li-anchor">Breaking down a Complicated Problem: Implement a Calculator</a>
+</span>
+-   <span id="96c2">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/PancakesSorting.md" class="markup--anchor markup--li-anchor">Pancake Sorting Algorithm</a>
+</span>
+-   <span id="71b5">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/prefix_sum.md" class="markup--anchor markup--li-anchor">Prefix Sum: Intro and Concept</a>
+</span>
+-   <span id="ccf5">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/string_multiplication.md" class="markup--anchor markup--li-anchor">String Multiplication</a>
+</span>
+-   <span id="dd56">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/flood_fill.md" class="markup--anchor markup--li-anchor">FloodFill Algorithm in Detail</a>
+</span>
+-   <span id="0bc1">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/IntervalMerging.md" class="markup--anchor markup--li-anchor">Interval Scheduling: Interval Merging</a>
+</span>
+-   <span id="07eb">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/IntervalIntersection.md" class="markup--anchor markup--li-anchor">Interval Scheduling: Intersections of Intervals</a>
+</span>
+-   <span id="c308">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/RussianDollEnvelopes.md" class="markup--anchor markup--li-anchor">Russian Doll Envelopes Problem</a>
+</span>
+-   <span id="cc1c">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/several_counter_intuitive_probability_problems.md" class="markup--anchor markup--li-anchor">A collection of counter-intuitive Probability Problems</a>
+</span>
+-   <span id="983c">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Shuffle_Algorithm.md" class="markup--anchor markup--li-anchor">Shuffle Algorithm</a>
+</span>
+-   <span id="915e">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/data_structure/RecursionInDetail.md" class="markup--anchor markup--li-anchor">Recursion In Detail</a>
+</span>
+-   <span id="e511">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/LRU_algorithm.md" class="markup--anchor markup--li-anchor">How to Implement LRU Cache</a>
+</span>
+-   <span id="43f6">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Print_PrimeNumbers.md" class="markup--anchor markup--li-anchor">How to Find Prime Number Efficiently</a>
+</span>
+-   <span id="a714">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/dynamic_programming/EditDistance.md" class="markup--anchor markup--li-anchor">How to Calculate Minimium Edit Distance</a>
+</span>
+-   <span id="6efb">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/UsingBinarySearchAlgorithm.md" class="markup--anchor markup--li-anchor">How to use Binary Search</a>
+</span>
+-   <span id="2310">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Trapping_Rain_Water.md" class="markup--anchor markup--li-anchor">How to efficiently solve Trapping Rain Water Problem</a>
+</span>
+-   <span id="98e2">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/RemoveDuplicatesfromSortedArray.md" class="markup--anchor markup--li-anchor">How to Remove Duplicates From Sorted Array</a>
+</span>
+-   <span id="b2e1">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/TheLongestPalindromicSubstring.md" class="markup--anchor markup--li-anchor">How to Find Longest Palindromic Substring</a>
+</span>
+-   <span id="52d6">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/reverse-nodes-in-k-group.md" class="markup--anchor markup--li-anchor">How to Reverse Linked List in K Group</a>
+</span>
+-   <span id="adbe">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/valid-parentheses.md" class="markup--anchor markup--li-anchor">How to Check the Validation of Parenthesis</a>
+</span>
+-   <span id="440d">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/missing_elements.md" class="markup--anchor markup--li-anchor">How to Find Missing Element</a>
+</span>
+-   <span id="80cb">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Find-Duplicate-and-Missing-Element.md" class="markup--anchor markup--li-anchor">How to Find Duplicates and Missing Elements</a>
+</span>
+-   <span id="6a2a">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/check_palindromic_linkedlist.md" class="markup--anchor markup--li-anchor">How to Check Palindromic LinkedList</a>
+</span>
+-   <span id="0e94">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/ReservoirSampling.md" class="markup--anchor markup--li-anchor">How to Pick Elements From an Infinite Arbitrary Sequence</a>
+</span>
+-   <span id="f96d">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/Seatscheduling.md" class="markup--anchor markup--li-anchor">How to Schedule Seats for Students</a>
+</span>
+-   <span id="6d49">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Union-find-Explanation.md" class="markup--anchor markup--li-anchor">Union-Find Algorithm in Detail</a>
+</span>
+-   <span id="7221">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/think_like_computer/Union-Find-Application.md" class="markup--anchor markup--li-anchor">Union-Find Application</a>
+</span>
+-   <span id="19f3">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/one-line-code-puzzles.md" class="markup--anchor markup--li-anchor">Problems that can be solved in one line</a>
+</span>
+-   <span id="1b55">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/interview/findSebesquenceWithBinarySearch.md" class="markup--anchor markup--li-anchor">Find Subsequence With Binary Search</a>
+</span>
+-   <span id="ff15">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxProcess.md" class="markup--anchor markup--li-anchor">Difference Between Process and Thread in Linux</a>
+</span>
+-   <span id="a49f">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/linuxshell.md" class="markup--anchor markup--li-anchor">You Must Know About Linux Shell</a>
+</span>
+-   <span id="901b">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/SessionAndCookie.md" class="markup--anchor markup--li-anchor">You Must Know About Cookie and Session</a>
+</span>
+-   <span id="02f7">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/Cryptology.md" class="markup--anchor markup--li-anchor">Cryptology Algorithm</a>
+</span>
+-   <span id="d08e">
+<a href="https://72a70b9d-739e-477a-bd84-85357c883a09.vscode-webview-test.com/vscode-resource/file///c:/MY-WEB-DEV/_JOB-SEARCH/03-Interview-Prep/01-reference-guides/common_knowledge/OnlinePraticePlatform.md" class="markup--anchor markup--li-anchor">Some Good Online Practice Platforms</a>
+</span>
 
 ### Algorithms:
 
--   <span id="fa97"><a href="https://github.com/coells/100days" class="markup--anchor markup--li-anchor">100 days of algorithms</a></span>
--   <span id="7dcc"><a href="https://github.com/marcosfede/algorithms" class="markup--anchor markup--li-anchor">Algorithms</a> — Solved algorithms and data structures problems in many languages.</span>
--   <span id="15d0"><a href="http://jeffe.cs.illinois.edu/teaching/algorithms/" class="markup--anchor markup--li-anchor">Algorithms by Jeff Erickson</a> (<a href="https://github.com/jeffgerickson/algorithms" class="markup--anchor markup--li-anchor">Code</a>) (<a href="https://news.ycombinator.com/item?id=26074289" class="markup--anchor markup--li-anchor">HN</a>)</span>
--   <span id="d4cd"><a href="https://www.reddit.com/r/compsci/comments/5uz9lb/top_algorithmsdata_structuresconcepts_every/ddy8azz/" class="markup--anchor markup--li-anchor">Top algos/DS to learn</a></span>
--   <span id="1a0a"><a href="https://www.nayuki.io/category/programming" class="markup--anchor markup--li-anchor">Some neat algorithms</a></span>
--   <span id="14b4"><a href="https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/" class="markup--anchor markup--li-anchor">Mathematical Proof of Algorithm Correctness and Efficiency (2019)</a></span>
--   <span id="06f9"><a href="https://github.com/algorithm-visualizer/algorithm-visualizer" class="markup--anchor markup--li-anchor">Algorithm Visualizer</a> — Interactive online platform that visualizes algorithms from code.</span>
--   <span id="90af"><a href="https://mitpress.mit.edu/books/algorithms-optimization" class="markup--anchor markup--li-anchor">Algorithms for Optimization book</a></span>
--   <span id="2a4b"><a href="https://www.algorithm-archive.org/" class="markup--anchor markup--li-anchor">Collaborative book on algorithms</a> (<a href="https://github.com/algorithm-archivists/algorithm-archive" class="markup--anchor markup--li-anchor">Code</a>)</span>
--   <span id="be29"><a href="http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf" class="markup--anchor markup--li-anchor">Algorithms in C by Robert Sedgewick</a></span>
--   <span id="93f7"><a href="http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf" class="markup--anchor markup--li-anchor">Algorithm Design Manual</a></span>
--   <span id="f494"><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/" class="markup--anchor markup--li-anchor">MIT Introduction to Algorithms course (2011)</a></span>
--   <span id="1c5b"><a href="http://codecapsule.com/2012/01/18/how-to-implement-a-paper/" class="markup--anchor markup--li-anchor">How to implement an algorithm from a scientific paper (2012)</a></span>
--   <span id="cc64"><a href="https://github.com/scandum/quadsort" class="markup--anchor markup--li-anchor">Quadsort</a> — Stable non-recursive merge sort named quadsort.</span>
--   <span id="e3de"><a href="https://github.com/resumejob/system-design-algorithms" class="markup--anchor markup--li-anchor">System design algorithms</a> — Algorithms you should know before system design.</span>
--   <span id="d219"><a href="http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf" class="markup--anchor markup--li-anchor">Algorithms Design book</a></span>
--   <span id="1c8d"><a href="http://greenteapress.com/complexity/html/index.html" class="markup--anchor markup--li-anchor">Think Complexity</a></span>
--   <span id="f062"><a href="https://github.com/TheAlgorithms/Rust" class="markup--anchor markup--li-anchor">All Algorithms implemented in Rust</a></span>
--   <span id="ad4b"><a href="https://walkccc.github.io/CLRS/" class="markup--anchor markup--li-anchor">Solutions to Introduction to Algorithms book</a> (<a href="https://github.com/walkccc/CLRS" class="markup--anchor markup--li-anchor">Code</a>)</span>
--   <span id="c24d"><a href="https://www.jamisbuck.org/mazes/" class="markup--anchor markup--li-anchor">Maze Algorithms (2011)</a> (<a href="https://news.ycombinator.com/item?id=23429368" class="markup--anchor markup--li-anchor">HN</a>)</span>
--   <span id="b88e"><a href="https://page.skerritt.blog/algorithms/" class="markup--anchor markup--li-anchor">Algorithmic Design Paradigms book</a> (<a href="https://github.com/brandonskerritt/AlgorithmsBook" class="markup--anchor markup--li-anchor">Code</a>)</span>
--   <span id="e4f3"><a href="https://wordsandbuttons.online/" class="markup--anchor markup--li-anchor">Words and buttons Online Blog</a> (<a href="https://github.com/akalenuk/wordsandbuttons" class="markup--anchor markup--li-anchor">Code</a>)</span>
--   <span id="66f7"><a href="https://www.chrislaux.com/" class="markup--anchor markup--li-anchor">Algorithms animated</a></span>
--   <span id="247d"><a href="https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/" class="markup--anchor markup--li-anchor">Cache Oblivious Algorithms (2020)</a> (<a href="https://news.ycombinator.com/item?id=23662434" class="markup--anchor markup--li-anchor">HN</a>)</span>
--   <span id="f306"><a href="http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/" class="markup--anchor markup--li-anchor">You could have invented fractional cascading (2012)</a></span>
--   <span id="73c4"><a href="https://labuladong.gitbook.io/algo-en/" class="markup--anchor markup--li-anchor">Guide to learning algorithms through LeetCode</a> (<a href="https://github.com/labuladong/fucking-algorithm/tree/english" class="markup--anchor markup--li-anchor">Code</a>) (<a href="https://news.ycombinator.com/item?id=24167297" class="markup--anchor markup--li-anchor">HN</a>)</span>
--   <span id="f612"><a href="https://cstheory.stackexchange.com/questions/34/how-hard-is-unshuffling-a-string" class="markup--anchor markup--li-anchor">How hard is unshuffling a string?</a></span>
--   <span id="f646"><a href="https://sites.uclouvain.be/absil/amsbook/" class="markup--anchor markup--li-anchor">Optimization Algorithms on Matrix Manifolds</a></span>
--   <span id="0db2"><a href="https://runestone.academy/runestone/books/published/pythonds/index.html" class="markup--anchor markup--li-anchor">Problem Solving with Algorithms and Data Structures</a> (<a href="https://news.ycombinator.com/item?id=24287622" class="markup--anchor markup--li-anchor">HN</a>) (<a href="https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf" class="markup--anchor markup--li-anchor">PDF</a>)</span>
--   <span id="b105"><a href="https://github.com/TheAlgorithms/Python" class="markup--anchor markup--li-anchor">Algorithms implemented in Python</a></span>
--   <span id="b477"><a href="https://github.com/TheAlgorithms/Javascript" class="markup--anchor markup--li-anchor">Algorithms implemented in JavaScript</a></span>
--   <span id="b80e"><a href="https://github.com/williamfiset/Algorithms" class="markup--anchor markup--li-anchor">Algorithms &amp; Data Structures in Java</a></span>
--   <span id="9c9e"><a href="https://github.com/scandum/wolfsort" class="markup--anchor markup--li-anchor">Wolfsort</a> — Stable adaptive hybrid radix / merge sort.</span>
--   <span id="5270"><a href="https://github.com/fcampelo/EC-Bestiary" class="markup--anchor markup--li-anchor">Evolutionary Computation Bestiary</a> — Bestiary of evolutionary, swarm and other metaphor-based algorithms.</span>
--   <span id="355a"><a href="http://elementsofprogramming.com/" class="markup--anchor markup--li-anchor">Elements of Programming book</a> — Decomposing programs into a system of algorithmic components. (<a href="http://www.pathsensitive.com/2020/09/book-review-elements-of-programmnig.html" class="markup--anchor markup--li-anchor">Review</a>) (<a href="https://news.ycombinator.com/item?id=24635947" class="markup--anchor markup--li-anchor">HN</a>) (<a href="https://lobste.rs/s/bqnhbo/book_review_elements_programmnig" class="markup--anchor markup--li-anchor">Lobsters</a>)</span>
--   <span id="5ca1"><a href="https://cp-algorithms.com/" class="markup--anchor markup--li-anchor">Competitive Programming Algorithms</a></span>
--   <span id="d363"><a href="https://github.com/akshitagit/CPP" class="markup--anchor markup--li-anchor">CPP/C</a> — C/C++ algorithms/DS problems.</span>
--   <span id="cfb3"><a href="https://www.adamconrad.dev/blog/how-to-design-an-algorithm/" class="markup--anchor markup--li-anchor">How to design an algorithm (2018)</a></span>
--   <span id="3b26"><a href="https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx" class="markup--anchor markup--li-anchor">CSE 373 — Introduction to Algorithms, by Steven Skiena (2020)</a></span>
--   <span id="8f11"><a href="http://homepages.math.uic.edu/~lreyzin/f20_mcs501/" class="markup--anchor markup--li-anchor">Computer Algorithms II course (2020)</a></span>
--   <span id="13f4"><a href="https://notebook.drmaciver.com/posts/2019-04-30-13:03.html" class="markup--anchor markup--li-anchor">Improving Binary Search by Guessing (2019)</a></span>
--   <span id="fdf8"><a href="https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/" class="markup--anchor markup--li-anchor">The case for a learned sorting algorithm (2020)</a> (<a href="https://news.ycombinator.com/item?id=24823611" class="markup--anchor markup--li-anchor">HN</a>)</span>
--   <span id="cfaf"><a href="https://github.com/liuxinyu95/AlgoXY" class="markup--anchor markup--li-anchor">Elementary Algorithms</a> — Introduces elementary algorithms and data structures. Includes side-by-side comparisons of purely functional realization and their imperative counterpart.</span>
--   <span id="e36d"><a href="https://sahandsaba.com/combinatorial-generation-for-coding-interviews-in-python.html" class="markup--anchor markup--li-anchor">Combinatorics Algorithms for Coding Interviews (2018)</a></span>
--   <span id="ac6d"><a href="https://github.com/ZoranPandovski/al-go-rithms" class="markup--anchor markup--li-anchor">Algorithms written in different programming languages</a> (<a href="https://zoranpandovski.github.io/al-go-rithms/" class="markup--anchor markup--li-anchor">Web</a>)</span>
--   <span id="ca55"><a href="https://johnlekberg.com/blog/2020-10-25-seq-align.html" class="markup--anchor markup--li-anchor">Solving the Sequence Alignment problem in Python (2020)</a></span>
--   <span id="e21b"><a href="https://github.com/bingmann/sound-of-sorting" class="markup--anchor markup--li-anchor">The Sound of Sorting</a> — Visualization and "Audibilization" of Sorting Algorithms. (<a href="https://panthema.net/2013/sound-of-sorting/" class="markup--anchor markup--li-anchor">Web</a>)</span>
--   <span id="d619"><a href="https://danlark.org/2020/11/11/miniselect-practical-and-generic-selection-algorithms/" class="markup--anchor markup--li-anchor">Miniselect: Practical and Generic Selection Algorithms (2020)</a></span>
--   <span id="0e30"><a href="https://chasewilson.dev/blog/slowest-quicksort/" class="markup--anchor markup--li-anchor">The Slowest Quicksort (2019)</a></span>
--   <span id="9e0b"><a href="https://blog.sigplan.org/2020/11/17/functional-algorithm-design-part-0/" class="markup--anchor markup--li-anchor">Functional Algorithm Design (2020)</a></span>
--   <span id="3868"><a href="https://milofultz.com/2020/12/27/atlb-notes" class="markup--anchor markup--li-anchor">Algorithms To Live By — Book Notes</a></span>
--   <span id="8db5"><a href="http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf" class="markup--anchor markup--li-anchor">Numerical Algorithms (2015)</a></span>
--   <span id="347f"><a href="https://blog.vespa.ai/using-approximate-nearest-neighbor-search-in-real-world-applications/" class="markup--anchor markup--li-anchor">Using approximate nearest neighbor search in real world applications (2020)</a></span>
--   <span id="8dfb"><a href="https://arxiv.org/pdf/1911.06347.pdf" class="markup--anchor markup--li-anchor">In search of the fastest concurrent Union-Find algorithm (2019)</a></span>
--   <span id="c05f"><a href="https://www.cs.princeton.edu/courses/archive/fall13/cos521/" class="markup--anchor markup--li-anchor">Computer Science 521 Advanced Algorithm Design</a></span>
+-   <span id="fa97">
+<a href="https://github.com/coells/100days" class="markup--anchor markup--li-anchor">100 days of algorithms</a>
+</span>
+-   <span id="7dcc">
+<a href="https://github.com/marcosfede/algorithms" class="markup--anchor markup--li-anchor">Algorithms</a> — Solved algorithms and data structures problems in many languages.</span>
+-   <span id="15d0">
+<a href="http://jeffe.cs.illinois.edu/teaching/algorithms/" class="markup--anchor markup--li-anchor">Algorithms by Jeff Erickson</a> (<a href="https://github.com/jeffgerickson/algorithms" class="markup--anchor markup--li-anchor">Code</a>) (<a href="https://news.ycombinator.com/item?id=26074289" class="markup--anchor markup--li-anchor">HN</a>)</span>
+-   <span id="d4cd">
+<a href="https://www.reddit.com/r/compsci/comments/5uz9lb/top_algorithmsdata_structuresconcepts_every/ddy8azz/" class="markup--anchor markup--li-anchor">Top algos/DS to learn</a>
+</span>
+-   <span id="1a0a">
+<a href="https://www.nayuki.io/category/programming" class="markup--anchor markup--li-anchor">Some neat algorithms</a>
+</span>
+-   <span id="14b4">
+<a href="https://stackabuse.com/mathematical-proof-of-algorithm-correctness-and-efficiency/" class="markup--anchor markup--li-anchor">Mathematical Proof of Algorithm Correctness and Efficiency (2019)</a>
+</span>
+-   <span id="06f9">
+<a href="https://github.com/algorithm-visualizer/algorithm-visualizer" class="markup--anchor markup--li-anchor">Algorithm Visualizer</a> — Interactive online platform that visualizes algorithms from code.</span>
+-   <span id="90af">
+<a href="https://mitpress.mit.edu/books/algorithms-optimization" class="markup--anchor markup--li-anchor">Algorithms for Optimization book</a>
+</span>
+-   <span id="2a4b">
+<a href="https://www.algorithm-archive.org/" class="markup--anchor markup--li-anchor">Collaborative book on algorithms</a> (<a href="https://github.com/algorithm-archivists/algorithm-archive" class="markup--anchor markup--li-anchor">Code</a>)</span>
+-   <span id="be29">
+<a href="http://index-of.co.uk/Algorithms/Algorithms%20in%20C.pdf" class="markup--anchor markup--li-anchor">Algorithms in C by Robert Sedgewick</a>
+</span>
+-   <span id="93f7">
+<a href="http://mimoza.marmara.edu.tr/~msakalli/cse706_12/SkienaTheAlgorithmDesignManual.pdf" class="markup--anchor markup--li-anchor">Algorithm Design Manual</a>
+</span>
+-   <span id="f494">
+<a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/" class="markup--anchor markup--li-anchor">MIT Introduction to Algorithms course (2011)</a>
+</span>
+-   <span id="1c5b">
+<a href="http://codecapsule.com/2012/01/18/how-to-implement-a-paper/" class="markup--anchor markup--li-anchor">How to implement an algorithm from a scientific paper (2012)</a>
+</span>
+-   <span id="cc64">
+<a href="https://github.com/scandum/quadsort" class="markup--anchor markup--li-anchor">Quadsort</a> — Stable non-recursive merge sort named quadsort.</span>
+-   <span id="e3de">
+<a href="https://github.com/resumejob/system-design-algorithms" class="markup--anchor markup--li-anchor">System design algorithms</a> — Algorithms you should know before system design.</span>
+-   <span id="d219">
+<a href="http://www.cs.sjtu.edu.cn/~jiangli/teaching/CS222/files/materials/Algorithm%20Design.pdf" class="markup--anchor markup--li-anchor">Algorithms Design book</a>
+</span>
+-   <span id="1c8d">
+<a href="http://greenteapress.com/complexity/html/index.html" class="markup--anchor markup--li-anchor">Think Complexity</a>
+</span>
+-   <span id="f062">
+<a href="https://github.com/TheAlgorithms/Rust" class="markup--anchor markup--li-anchor">All Algorithms implemented in Rust</a>
+</span>
+-   <span id="ad4b">
+<a href="https://walkccc.github.io/CLRS/" class="markup--anchor markup--li-anchor">Solutions to Introduction to Algorithms book</a> (<a href="https://github.com/walkccc/CLRS" class="markup--anchor markup--li-anchor">Code</a>)</span>
+-   <span id="c24d">
+<a href="https://www.jamisbuck.org/mazes/" class="markup--anchor markup--li-anchor">Maze Algorithms (2011)</a> (<a href="https://news.ycombinator.com/item?id=23429368" class="markup--anchor markup--li-anchor">HN</a>)</span>
+-   <span id="b88e">
+<a href="https://page.skerritt.blog/algorithms/" class="markup--anchor markup--li-anchor">Algorithmic Design Paradigms book</a> (<a href="https://github.com/brandonskerritt/AlgorithmsBook" class="markup--anchor markup--li-anchor">Code</a>)</span>
+-   <span id="e4f3">
+<a href="https://wordsandbuttons.online/" class="markup--anchor markup--li-anchor">Words and buttons Online Blog</a> (<a href="https://github.com/akalenuk/wordsandbuttons" class="markup--anchor markup--li-anchor">Code</a>)</span>
+-   <span id="66f7">
+<a href="https://www.chrislaux.com/" class="markup--anchor markup--li-anchor">Algorithms animated</a>
+</span>
+-   <span id="247d">
+<a href="https://jiahai-feng.github.io/posts/cache-oblivious-algorithms/" class="markup--anchor markup--li-anchor">Cache Oblivious Algorithms (2020)</a> (<a href="https://news.ycombinator.com/item?id=23662434" class="markup--anchor markup--li-anchor">HN</a>)</span>
+-   <span id="f306">
+<a href="http://blog.ezyang.com/2012/03/you-could-have-invented-fractional-cascading/" class="markup--anchor markup--li-anchor">You could have invented fractional cascading (2012)</a>
+</span>
+-   <span id="73c4">
+<a href="https://labuladong.gitbook.io/algo-en/" class="markup--anchor markup--li-anchor">Guide to learning algorithms through LeetCode</a> (<a href="https://github.com/labuladong/fucking-algorithm/tree/english" class="markup--anchor markup--li-anchor">Code</a>) (<a href="https://news.ycombinator.com/item?id=24167297" class="markup--anchor markup--li-anchor">HN</a>)</span>
+-   <span id="f612">
+<a href="https://cstheory.stackexchange.com/questions/34/how-hard-is-unshuffling-a-string" class="markup--anchor markup--li-anchor">How hard is unshuffling a string?</a>
+</span>
+-   <span id="f646">
+<a href="https://sites.uclouvain.be/absil/amsbook/" class="markup--anchor markup--li-anchor">Optimization Algorithms on Matrix Manifolds</a>
+</span>
+-   <span id="0db2">
+<a href="https://runestone.academy/runestone/books/published/pythonds/index.html" class="markup--anchor markup--li-anchor">Problem Solving with Algorithms and Data Structures</a> (<a href="https://news.ycombinator.com/item?id=24287622" class="markup--anchor markup--li-anchor">HN</a>) (<a href="https://www.cs.auckland.ac.nz/compsci105s1c/resources/ProblemSolvingwithAlgorithmsandDataStructures.pdf" class="markup--anchor markup--li-anchor">PDF</a>)</span>
+-   <span id="b105">
+<a href="https://github.com/TheAlgorithms/Python" class="markup--anchor markup--li-anchor">Algorithms implemented in Python</a>
+</span>
+-   <span id="b477">
+<a href="https://github.com/TheAlgorithms/Javascript" class="markup--anchor markup--li-anchor">Algorithms implemented in JavaScript</a>
+</span>
+-   <span id="b80e">
+<a href="https://github.com/williamfiset/Algorithms" class="markup--anchor markup--li-anchor">Algorithms &amp; Data Structures in Java</a>
+</span>
+-   <span id="9c9e">
+<a href="https://github.com/scandum/wolfsort" class="markup--anchor markup--li-anchor">Wolfsort</a> — Stable adaptive hybrid radix / merge sort.</span>
+-   <span id="5270">
+<a href="https://github.com/fcampelo/EC-Bestiary" class="markup--anchor markup--li-anchor">Evolutionary Computation Bestiary</a> — Bestiary of evolutionary, swarm and other metaphor-based algorithms.</span>
+-   <span id="355a">
+<a href="http://elementsofprogramming.com/" class="markup--anchor markup--li-anchor">Elements of Programming book</a> — Decomposing programs into a system of algorithmic components. (<a href="http://www.pathsensitive.com/2020/09/book-review-elements-of-programmnig.html" class="markup--anchor markup--li-anchor">Review</a>) (<a href="https://news.ycombinator.com/item?id=24635947" class="markup--anchor markup--li-anchor">HN</a>) (<a href="https://lobste.rs/s/bqnhbo/book_review_elements_programmnig" class="markup--anchor markup--li-anchor">Lobsters</a>)</span>
+-   <span id="5ca1">
+<a href="https://cp-algorithms.com/" class="markup--anchor markup--li-anchor">Competitive Programming Algorithms</a>
+</span>
+-   <span id="d363">
+<a href="https://github.com/akshitagit/CPP" class="markup--anchor markup--li-anchor">CPP/C</a> — C/C++ algorithms/DS problems.</span>
+-   <span id="cfb3">
+<a href="https://www.adamconrad.dev/blog/how-to-design-an-algorithm/" class="markup--anchor markup--li-anchor">How to design an algorithm (2018)</a>
+</span>
+-   <span id="3b26">
+<a href="https://www.youtube.com/playlist?list=PLOtl7M3yp-DX6ic0HGT0PUX_wiNmkWkXx" class="markup--anchor markup--li-anchor">CSE 373 — Introduction to Algorithms, by Steven Skiena (2020)</a>
+</span>
+-   <span id="8f11">
+<a href="http://homepages.math.uic.edu/~lreyzin/f20_mcs501/" class="markup--anchor markup--li-anchor">Computer Algorithms II course (2020)</a>
+</span>
+-   <span id="13f4">
+<a href="https://notebook.drmaciver.com/posts/2019-04-30-13:03.html" class="markup--anchor markup--li-anchor">Improving Binary Search by Guessing (2019)</a>
+</span>
+-   <span id="fdf8">
+<a href="https://blog.acolyer.org/2020/10/19/the-case-for-a-learned-sorting-algorithm/" class="markup--anchor markup--li-anchor">The case for a learned sorting algorithm (2020)</a> (<a href="https://news.ycombinator.com/item?id=24823611" class="markup--anchor markup--li-anchor">HN</a>)</span>
+-   <span id="cfaf">
+<a href="https://github.com/liuxinyu95/AlgoXY" class="markup--anchor markup--li-anchor">Elementary Algorithms</a> — Introduces elementary algorithms and data structures. Includes side-by-side comparisons of purely functional realization and their imperative counterpart.</span>
+-   <span id="e36d">
+<a href="https://sahandsaba.com/combinatorial-generation-for-coding-interviews-in-python.html" class="markup--anchor markup--li-anchor">Combinatorics Algorithms for Coding Interviews (2018)</a>
+</span>
+-   <span id="ac6d">
+<a href="https://github.com/ZoranPandovski/al-go-rithms" class="markup--anchor markup--li-anchor">Algorithms written in different programming languages</a> (<a href="https://zoranpandovski.github.io/al-go-rithms/" class="markup--anchor markup--li-anchor">Web</a>)</span>
+-   <span id="ca55">
+<a href="https://johnlekberg.com/blog/2020-10-25-seq-align.html" class="markup--anchor markup--li-anchor">Solving the Sequence Alignment problem in Python (2020)</a>
+</span>
+-   <span id="e21b">
+<a href="https://github.com/bingmann/sound-of-sorting" class="markup--anchor markup--li-anchor">The Sound of Sorting</a> — Visualization and "Audibilization" of Sorting Algorithms. (<a href="https://panthema.net/2013/sound-of-sorting/" class="markup--anchor markup--li-anchor">Web</a>)</span>
+-   <span id="d619">
+<a href="https://danlark.org/2020/11/11/miniselect-practical-and-generic-selection-algorithms/" class="markup--anchor markup--li-anchor">Miniselect: Practical and Generic Selection Algorithms (2020)</a>
+</span>
+-   <span id="0e30">
+<a href="https://chasewilson.dev/blog/slowest-quicksort/" class="markup--anchor markup--li-anchor">The Slowest Quicksort (2019)</a>
+</span>
+-   <span id="9e0b">
+<a href="https://blog.sigplan.org/2020/11/17/functional-algorithm-design-part-0/" class="markup--anchor markup--li-anchor">Functional Algorithm Design (2020)</a>
+</span>
+-   <span id="3868">
+<a href="https://milofultz.com/2020/12/27/atlb-notes" class="markup--anchor markup--li-anchor">Algorithms To Live By — Book Notes</a>
+</span>
+-   <span id="8db5">
+<a href="http://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf" class="markup--anchor markup--li-anchor">Numerical Algorithms (2015)</a>
+</span>
+-   <span id="347f">
+<a href="https://blog.vespa.ai/using-approximate-nearest-neighbor-search-in-real-world-applications/" class="markup--anchor markup--li-anchor">Using approximate nearest neighbor search in real world applications (2020)</a>
+</span>
+-   <span id="8dfb">
+<a href="https://arxiv.org/pdf/1911.06347.pdf" class="markup--anchor markup--li-anchor">In search of the fastest concurrent Union-Find algorithm (2019)</a>
+</span>
+-   <span id="c05f">
+<a href="https://www.cs.princeton.edu/courses/archive/fall13/cos521/" class="markup--anchor markup--li-anchor">Computer Science 521 Advanced Algorithm Design</a>
+</span>
 
 ### Data Structures:
 
--   <span id="b39d"><a href="https://github.com/floyernick/Data-Structures-and-Algorithms" class="markup--anchor markup--li-anchor">Data Structures and Algorithms implementation in Go</a></span>
--   <span id="1c2b"><a href="https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name" class="markup--anchor markup--li-anchor">Which algorithms/data structures should I "recognize" and know by name?</a></span>
--   <span id="8e46"><a href="https://xlinux.nist.gov/dads/" class="markup--anchor markup--li-anchor">Dictionary of Algorithms and Data Structures</a></span>
--   <span id="987b"><a href="https://g1thubhub.github.io/data-structure-zoo.html" class="markup--anchor markup--li-anchor">Phil's Data Structure Zoo</a></span>
+-   <span id="b39d">
+<a href="https://github.com/floyernick/Data-Structures-and-Algorithms" class="markup--anchor markup--li-anchor">Data Structures and Algorithms implementation in Go</a>
+</span>
+-   <span id="1c2b">
+<a href="https://softwareengineering.stackexchange.com/questions/155639/which-algorithms-data-structures-should-i-recognize-and-know-by-name" class="markup--anchor markup--li-anchor">Which algorithms/data structures should I "recognize" and know by name?</a>
+</span>
+-   <span id="8e46">
+<a href="https://xlinux.nist.gov/dads/" class="markup--anchor markup--li-anchor">Dictionary of Algorithms and Data Structures</a>
+</span>
+-   <span id="987b">
+<a href="https://g1thubhub.github.io/data-structure-zoo.html" class="markup--anchor markup--li-anchor">Phil's Data Structure Zoo</a>
+</span>
 -   <span id="617d"><a href="https://stratos.seas.harvard.edu/files/stratos/files/periodictabledatastructures.pdf" class="markup--anchor markup--li-anchor">The Periodic Table of Data Structures</a> (<a href="https://news.ycombinator.com/item?id=18314555" class="markup--anchor markup--li-anchor">HN</a>)</span>
 -   <span id="9160"><a href="https://www.cs.usfca.edu/~galles/visualization/Algorithms.html" class="markup--anchor markup--li-anchor">Data Structure Visualizations</a> (<a href="https://news.ycombinator.com/item?id=19082943" class="markup--anchor markup--li-anchor">HN</a>)</span>
 -   <span id="233a"><a href="http://blog.amynguyen.net/?p=853" class="markup--anchor markup--li-anchor">Data structures to name-drop when you want to sound smart in an interview</a></span>

@@ -8,7 +8,9 @@ The object is a data structure that stores other data, similar to how an array s
 
 #### The `object` is a data structure that stores other data, similar to how an array stores elements.
 
-<figure><img src="https://cdn-images-1.medium.com/max/800/0*p8Mho_ONNupan--Z.png" class="graf-image" /></figure>-   <span id="5c25">The object differs in that each `value` stores in an obj is associated with a `key`.</span>
+<figure>
+<img src="https://cdn-images-1.medium.com/max/800/0*p8Mho_ONNupan--Z.png" class="graf-image" />
+</figure>-   <span id="5c25">The object differs in that each `value` stores in an obj is associated with a `key`.</span>
 
 ### **The Object**
 
@@ -221,10 +223,13 @@ So far we have learned about 6 different data types:
 
 ### Learn More On My Blog:
 
-<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/"><strong>Web-Dev-Hub</strong>
+<a href="https://bgoonz-blog.netlify.app/" class="markup--anchor markup--mixtapeEmbed-anchor" title="https://bgoonz-blog.netlify.app/">
+<strong>Web-Dev-Hub</strong>
 <br/>
 
-<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a><a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock"></a>
+<em>Memoization, Tabulation, and Sorting Algorithms by Example Why is looking at runtime not a reliable method of…</em>bgoonz-blog.netlify.app</a>
+<a href="https://bgoonz-blog.netlify.app/" class="js-mixtapeImage mixtapeImage u-ignoreBlock">
+</a>
 
 By <a href="https://medium.com/@bryanguner" class="p-author h-card">Bryan Guner</a> on [May 27, 2021](https://medium.com/p/b212486dade6).
 

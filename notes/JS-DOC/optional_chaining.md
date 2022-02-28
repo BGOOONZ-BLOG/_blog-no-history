@@ -139,10 +139,24 @@ The [nullish coalescing operator](nullish_coalescing_operator) may be used after
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#prod-OptionalExpression">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#prod-OptionalExpression">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#prod-OptionalExpression</span></a></td></tr></tbody></table>
+<span class="small">#prod-OptionalExpression</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 

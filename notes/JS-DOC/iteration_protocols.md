@@ -10,7 +10,22 @@ There are two protocols: The [iterable protocol](#the_iterable_protocol) and the
 
 In order to be **iterable**, an object must implement the `@@iterator` method, meaning that the object (or one of the objects up its [prototype chain](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Inheritance_and_the_prototype_chain)) must have a property with a `@@iterator` key which is available via constant [`Symbol.iterator`](global_objects/symbol/iterator):
 
-<table><thead><tr class="header"><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td><code>[Symbol.iterator]</code></td><td>A zero-argument function that returns an object, conforming to the <a href="#the_iterator_protocol">iterator protocol</a>.</td></tr></tbody></table>
+<table>
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>[Symbol.iterator]</code>
+</td>
+<td>A zero-argument function that returns an object, conforming to the <a href="#the_iterator_protocol">iterator protocol</a>.</td>
+</tr>
+</tbody>
+</table>
 
 Whenever an object needs to be iterated (such as at the beginning of a [`for...of`](statements/for...of) loop), its `@@iterator` method is called with no arguments, and the returned **iterator** is used to obtain the values to be iterated.
 
@@ -24,7 +39,42 @@ This function can be an ordinary function, or it can be a generator function, so
 
 An object is an iterator when it implements a `next()` method with the following semantics:
 
-<table><colgroup><col style="width: 50%" /><col style="width: 50%" /></colgroup><thead><tr class="header"><th>Property</th><th>Value</th></tr></thead><tbody><tr class="odd"><td><code>next()</code></td><td><p>A zero-argument function that returns an object with at least the following two properties:</p><dl><dt> <code>done</code> (boolean)</dt><dd><p>Has the value <code>false</code> if the iterator was able to produce the next value in the sequence. (This is equivalent to not specifying the <code>done</code> property altogether.)</p><p>Has the value <code>true</code> if the iterator has completed its sequence. In this case, <code>value</code> optionally specifies the return value of the iterator.</p></dd><dt><code>value</code></dt><dd>Any JavaScript value returned by the iterator. Can be omitted when <code>done</code> is <code>true</code>.</dd></dl><p>The <code>next()</code> method must always return an object with appropriate properties including <code>done</code> and <code>value</code>. If a non-object value gets returned (such as <code>false</code> or <code>undefined</code>), a <a href="global_objects/typeerror"><code>TypeError</code></a> (<code>"iterator.next() returned a non-object value"</code>) will be thrown.</p></td></tr></tbody></table>
+<table>
+<colgroup>
+<col style="width: 50%" />
+<col style="width: 50%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Property</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<code>next()</code>
+</td>
+<td>
+<p>A zero-argument function that returns an object with at least the following two properties:</p>
+<dl>
+<dt> <code>done</code> (boolean)</dt>
+<dd>
+<p>Has the value <code>false</code> if the iterator was able to produce the next value in the sequence. (This is equivalent to not specifying the <code>done</code> property altogether.)</p>
+<p>Has the value <code>true</code> if the iterator has completed its sequence. In this case, <code>value</code> optionally specifies the return value of the iterator.</p>
+</dd>
+<dt>
+<code>value</code>
+</dt>
+<dd>Any JavaScript value returned by the iterator. Can be omitted when <code>done</code> is <code>true</code>.</dd>
+</dl>
+<p>The <code>next()</code> method must always return an object with appropriate properties including <code>done</code> and <code>value</code>. If a non-object value gets returned (such as <code>false</code> or <code>undefined</code>), a <a href="global_objects/typeerror">
+<code>TypeError</code>
+</a> (<code>"iterator.next() returned a non-object value"</code>) will be thrown.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 **Note:** It is not possible to know reflectively whether a particular object implements the iterator protocol. However, it is easy to create an object that satisfies _both_ the iterator and iterable protocols (as shown in the example below).
 

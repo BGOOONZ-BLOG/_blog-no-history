@@ -51,10 +51,24 @@ We then do a check using `WebAssembly.Module.customSections`, looking to see whe
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://webassembly.github.io/spec/js-api/#dom-module-customsections">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://webassembly.github.io/spec/js-api/#dom-module-customsections">WebAssembly JavaScript Interface (WebAssembly JavaScript Interface) 
 <br/>
 
-<span class="small">#dom-module-customsections</span></a></td></tr></tbody></table>
+<span class="small">#dom-module-customsections</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `customSections`
 

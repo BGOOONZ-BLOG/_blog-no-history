@@ -96,10 +96,13 @@ You can pass as many arguments as you like to this function. It returns a string
 This example defines a function that creates a string containing HTML for a list. The only formal argument for the function is a string that is "`u`" if the list is to be [unordered (bulleted)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul), or "`o`" if the list is to be [ordered (numbered)](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol). The function is defined as follows:
 
     function list(type) {
-      var html = '<' + type + 'l><li>';
+      var html = '<' + type + 'l>
+<li>';
       var args = Array.prototype.slice.call(arguments, 1);
-      html += args.join('</li><li>');
-      html += '</li></' + type + 'l>'; // end list
+      html += args.join('</li>
+<li>');
+      html += '</li>
+</' + type + 'l>'; // end list
       return html;
     }
 
@@ -108,7 +111,11 @@ You can pass any number of arguments to this function, and it adds each argument
     let listHTML = list('u', 'One', 'Two', 'Three');
 
     /* listHTML is:
-    "<ul><li>One</li><li>Two</li><li>Three</li></ul>"
+    "<ul>
+<li>One</li>
+<li>Two</li>
+<li>Three</li>
+</ul>"
     */
 
 ### Rest, default, and destructured parameters
@@ -168,10 +175,24 @@ And also:
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-arguments-exotic-objects">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-arguments-exotic-objects">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-arguments-exotic-objects</span></a></td></tr></tbody></table>
+<span class="small">#sec-arguments-exotic-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 `arguments`
 

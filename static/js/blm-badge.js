@@ -103,11 +103,13 @@ MakerBadge.prototype = {
             2 === b.layout && (a.innerHTML += '<div style="font-weight:600;font-size:1.125rem;">' + x + '</div>'),
             (a.innerHTML += '<div style="color:#4a5568;max-width:200px;padding:0.5rem 0px 0;line-height:1.2rem">' + b.message + '</div>'),
             (n.innerHTML +=
-                '<div style="margin-top:0.5rem;"><a style="color:#2B6CB0;text-decoration:underline;font-weight: 600;" target="_blank" href="' +
+                '<div style="margin-top:0.5rem;">
+<a style="color:#2B6CB0;text-decoration:underline;font-weight: 600;" target="_blank" href="' +
                 b.promoLink +
                 '">' +
                 b.promoText +
-                '</a></div>'),
+                '</a>
+</div>'),
             a.appendChild(n),
             b.twitter && a.appendChild(d),
             b.customHTML && a.appendChild(m),

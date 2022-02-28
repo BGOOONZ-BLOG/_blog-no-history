@@ -98,10 +98,24 @@ Sets the `value` for the `key` in the `WeakMap` object. Returns the `WeakMap` ob
 
 ## Specifications
 
-<table><thead><tr class="header"><th>Specification</th></tr></thead><tbody><tr class="odd"><td><a href="https://tc39.es/ecma262/#sec-weakmap-objects">ECMAScript Language Specification (ECMAScript) 
+<table>
+<thead>
+<tr class="header">
+<th>Specification</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>
+<a href="https://tc39.es/ecma262/#sec-weakmap-objects">ECMAScript Language Specification (ECMAScript) 
 <br/>
 
-<span class="small">#sec-weakmap-objects</span></a></td></tr></tbody></table>
+<span class="small">#sec-weakmap-objects</span>
+</a>
+</td>
+</tr>
+</tbody>
+</table>
 
 ## Browser compatibility
 
