@@ -21,7 +21,7 @@
         "gatsby": "^2.0.0 || ^3.0.0 || ^4.0.0"
     },
     "devDependencies": {
-        "standard-version": "^4.4.0"
+        "standard-version": "^8.0.1"
     },
     "engines": {
         "node": ">=12.13.0"
