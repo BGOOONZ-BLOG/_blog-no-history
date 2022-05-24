@@ -1,6 +1,6 @@
 <div align="center">
 
-# [⇨WEBSITE🗺️⇦](https://bgoonz-blog.netlify.app/)
+# [⇨WEBSITE🗺️https://blog-no-history.netlify.app/⇦]([https://bgoonz-blog.netlify.app/](https://blog-no-history.netlify.app/))
 
 https://testmysite.io/61e5ff836a840eeeef7e78e9/bgoonz-blog.netlify.app
 
